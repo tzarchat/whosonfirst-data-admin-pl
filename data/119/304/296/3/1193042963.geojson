@@ -2,93 +2,97 @@
   "id": 1193042963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.51556,52.61024,23.51556,52.61024",
-    "geom:latitude":52.61024,
-    "geom:longitude":23.51556,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2005.0",
-    "gn:admin3_code":"200505.0",
-    "gn:asciiname":"Wiluki",
-    "gn:country_code":"PL",
-    "gn:dem":166,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755642,
-    "gn:latitude":52.61024,
-    "gn:longitude":23.51556,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Wiluki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.49556,52.59024,23.53556,52.63024",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0648\u06cc\u0644\u0648\u06a9\u06cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00015215244728265876,
+    "geom:area_square_m": 1146880.8572774585,
+    "geom:bbox": "23.50972555311512,52.60678473202064,23.53130842712358,52.6168526950175",
+    "geom:latitude": 23.51937431070436,
+    "geom:longitude": 52.61228468616932,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2005.0",
+    "gn:admin3_code": "200505.0",
+    "gn:asciiname": "Wiluki",
+    "gn:country_code": "PL",
+    "gn:dem": 166,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755642,
+    "gn:latitude": 52.61024,
+    "gn:longitude": 23.51556,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Wiluki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.49556,52.59024,23.53556,52.63024",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "ویلوکی"
     ],
-    "name:fas_x_preferred":[
-        "\u0648\u06cc\u0644\u0648\u06a9\u06cc"
+    "name:fas_x_preferred": [
+      "ویلوکی"
     ],
-    "name:fra_x_preferred":[
-        "Wiluki"
+    "name:fra_x_preferred": [
+      "Wiluki"
     ],
-    "name:lit_x_preferred":[
-        "Vilukai"
+    "name:lit_x_preferred": [
+      "Vilukai"
     ],
-    "name:pol_x_preferred":[
-        "Wiluki"
+    "name:pol_x_preferred": [
+      "Wiluki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0456\u043b\u044e\u043a\u0438"
+    "name:ukr_x_preferred": [
+      "Вілюки"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752143,
-        85633723,
-        102080091
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755642,
-        "wk:page":"Wiluki"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752143,
+      85633723,
+      102080091
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755642,
+      "pl-gugik:jpt_kod_je": "200505_2.0023",
+      "wk:page": "Wiluki"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"69104f5d8f25d10854e62975660aa1f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080091,
-            "localadmin_id":1477752143,
-            "locality_id":1193042963,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f97ee25e5e3185a5a01d1ca6ea4b7eb5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080091,
+        "localadmin_id": 1477752143,
+        "locality_id": 1193042963,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1193042963,
-    "wof:lastmodified":1570024123,
-    "wof:name":"Wiluki",
-    "wof:parent_id":1477752143,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193042963,
+    "wof:lastmodified": 1669215931,
+    "wof:name": "Wiluki",
+    "wof:parent_id": 1477752143,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.51556,
-    52.61024000000001,
-    23.51556,
-    52.61024000000001
-],
-  "geometry": {"coordinates":[23.51556,52.61024000000001],"type":"Point"}
+    23.50972555311512,
+    52.60678473202064,
+    23.53130842712358,
+    52.6168526950175
+  ],
+  "geometry": {"coordinates":[[[23.509726,52.61576],[23.509913,52.615797],[23.510419,52.6159],[23.510814,52.615981],[23.511264,52.616072],[23.511617,52.616144],[23.51194,52.616211],[23.512264,52.616277],[23.512588,52.616343],[23.512912,52.616409],[23.51324,52.616476],[23.513671,52.616562],[23.514061,52.616581],[23.514197,52.616588],[23.516349,52.616692],[23.517284,52.61673],[23.519673,52.616828],[23.519762,52.616832],[23.520271,52.616853],[23.522251,52.616549],[23.522675,52.616484],[23.523092,52.61642],[23.523932,52.616291],[23.524127,52.616261],[23.524245,52.616243],[23.527182,52.615812],[23.531308,52.61518],[23.530536,52.61434],[23.529716,52.613449],[23.52962,52.613342],[23.528965,52.612623],[23.528164,52.611741],[23.528078,52.611646],[23.528021,52.611584],[23.527725,52.611259],[23.526662,52.610059],[23.525291,52.608522],[23.525214,52.608436],[23.525179,52.608397],[23.523506,52.608733],[23.523502,52.608697],[23.5234,52.607733],[23.521307,52.607547],[23.518623,52.607309],[23.518533,52.607301],[23.516871,52.607153],[23.514463,52.606943],[23.512809,52.606798],[23.512662,52.606785],[23.51245,52.607423],[23.512414,52.607538],[23.512364,52.607683],[23.511439,52.610483],[23.511403,52.610594],[23.511394,52.610622],[23.510138,52.614631],[23.509726,52.61576]]],"type":"Polygon"}
 }

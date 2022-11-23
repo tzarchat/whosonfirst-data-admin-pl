@@ -2,109 +2,113 @@
   "id": 1126006555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.32549,51.68969,21.32549,51.68969",
-    "geom:latitude":51.68969,
-    "geom:longitude":21.32549,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":190,
-    "iso:country":"PL",
-    "lbl:bbox":"21.30549,51.66969,21.34549,51.70969",
-    "lbl:latitude":51.68969,
-    "lbl:longitude":21.32549,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Studzianki Pancerne"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001706260960854409,
+    "geom:area_square_m": 1312773.885507741,
+    "geom:bbox": "21.32479555601108,51.684465550015034,21.35040858900765,51.69628697401378",
+    "geom:latitude": 21.338768770473855,
+    "geom:longitude": 51.690125971210016,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 190,
+    "iso:country": "PL",
+    "lbl:bbox": "21.30549,51.66969,21.34549,51.70969",
+    "lbl:latitude": 51.68969,
+    "lbl:longitude": 21.32549,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Studzianki Pancerne"
     ],
-    "name:fra_x_preferred":[
-        "Studzianki Pancerne"
+    "name:fra_x_preferred": [
+      "Studzianki Pancerne"
     ],
-    "name:pol_x_preferred":[
-        "Studzianki Pancerne"
+    "name:pol_x_preferred": [
+      "Studzianki Pancerne"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0443\u0434\u0437\u044f\u043d\u043a\u0456-\u041f\u0430\u043d\u0446\u0435\u0440\u043d\u0435"
+    "name:ukr_x_preferred": [
+      "Студзянкі-Панцерне"
     ],
-    "name:und_x_variant":[
-        "Studzianki"
+    "name:und_x_variant": [
+      "Studzianki"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":757933,
-    "qs_pg:gn_pop":190,
-    "qs_pg:name":"Studzianki Pancerne",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":2,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1011552,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":520694,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752113,
-        85633723,
-        102079859
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 757933,
+    "qs_pg:gn_pop": 190,
+    "qs_pg:name": "Studzianki Pancerne",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 2,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1011552,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 520694,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757933,
-        "gp:id":520694,
-        "qs_pg:id":1011552
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752113,
+      85633723,
+      102079859
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757933,
+      "gp:id": 520694,
+      "pl-gugik:jpt_kod_je": "140702_2.0036",
+      "qs_pg:id": 1011552
     },
-    "wof:country":"PL",
-    "wof:created":1497299997,
-    "wof:geomhash":"311e89cf4831bfa73c61e1fe3e9dfc2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079859,
-            "localadmin_id":1477752113,
-            "locality_id":1126006555,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299997,
+    "wof:geomhash": "d644b2a0e5dd3b5a28a17fe0d5fccb7a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079859,
+        "localadmin_id": 1477752113,
+        "locality_id": 1126006555,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126006555,
-    "wof:lastmodified":1570039335,
-    "wof:name":"Studzianki Pancerne",
-    "wof:parent_id":1477752113,
-    "wof:placetype":"locality",
-    "wof:population":190,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126006555,
+    "wof:lastmodified": 1669215937,
+    "wof:name": "Studzianki Pancerne",
+    "wof:parent_id": 1477752113,
+    "wof:placetype": "locality",
+    "wof:population": 190,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.32549,
-    51.68969,
-    21.32549,
-    51.68969
-],
-  "geometry": {"coordinates":[21.32549,51.68969],"type":"Point"}
+    21.32479555601108,
+    51.684465550015034,
+    21.35040858900765,
+    51.69628697401378
+  ],
+  "geometry": {"coordinates":[[[21.324796,51.686924],[21.324853,51.686962],[21.324907,51.687114],[21.324976,51.687315],[21.324986,51.687342],[21.324988,51.687357],[21.325039,51.68769],[21.324998,51.687715],[21.325,51.687734],[21.325169,51.688259],[21.325359,51.688184],[21.325473,51.688345],[21.325731,51.688537],[21.328599,51.690665],[21.329536,51.690176],[21.329576,51.69021],[21.329601,51.690196],[21.330044,51.690523],[21.331455,51.691566],[21.331495,51.691595],[21.3325,51.692363],[21.333279,51.692942],[21.333588,51.693173],[21.335931,51.694863],[21.335976,51.694897],[21.337742,51.696272],[21.337761,51.696287],[21.338855,51.69611],[21.339318,51.696054],[21.339563,51.696005],[21.340199,51.695818],[21.341589,51.695463],[21.341776,51.695383],[21.342226,51.695245],[21.34252,51.695189],[21.343329,51.695061],[21.343672,51.694988],[21.3443,51.694779],[21.345343,51.694364],[21.345566,51.694306],[21.345958,51.694253],[21.346364,51.694139],[21.346878,51.693921],[21.34764,51.693705],[21.348127,51.693571],[21.348905,51.693299],[21.350289,51.6928],[21.350278,51.692783],[21.349074,51.690775],[21.34906,51.690752],[21.349058,51.69075],[21.347747,51.688643],[21.348286,51.688512],[21.348809,51.688385],[21.349364,51.688251],[21.349905,51.68812],[21.350142,51.688063],[21.350147,51.688061],[21.350409,51.687998],[21.348292,51.687512],[21.346322,51.687062],[21.345348,51.686837],[21.344284,51.686591],[21.34229,51.686136],[21.339338,51.685462],[21.339248,51.684828],[21.339238,51.684755],[21.33923,51.6847],[21.339148,51.684724],[21.339121,51.684579],[21.337397,51.685012],[21.335164,51.684466],[21.333573,51.685052],[21.333941,51.685991],[21.33181,51.686533],[21.33145,51.686624],[21.331198,51.686689],[21.330941,51.686754],[21.330939,51.686754],[21.330825,51.686783],[21.328213,51.687442],[21.327918,51.687026],[21.327378,51.687156],[21.327117,51.6868],[21.325868,51.687155],[21.325463,51.686663],[21.324987,51.686849],[21.324796,51.686924]]],"type":"Polygon"}
 }

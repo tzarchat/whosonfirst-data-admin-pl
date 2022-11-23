@@ -2,92 +2,96 @@
   "id": 1293028973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.74513,53.88158,22.74513,53.88158",
-    "geom:latitude":53.88158,
-    "geom:longitude":22.74513,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280503.0",
-    "gn:asciiname":"Stare Cimochy",
-    "gn:country_code":"PL",
-    "gn:dem":169,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":758338,
-    "gn:latitude":53.88158,
-    "gn:longitude":22.74513,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Stare Cimochy",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.72513,53.86158,22.76513,53.90158",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Stare Cimochy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002961517166349822,
+    "geom:area_square_m": 2167913.6445905995,
+    "geom:bbox": "22.72344191803124,53.86722814402089,22.753573068045235,53.885451274015466",
+    "geom:latitude": 22.737504442005278,
+    "geom:longitude": 53.87691029728892,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280503.0",
+    "gn:asciiname": "Stare Cimochy",
+    "gn:country_code": "PL",
+    "gn:dem": 169,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 758338,
+    "gn:latitude": 53.88158,
+    "gn:longitude": 22.74513,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Stare Cimochy",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.72513,53.86158,22.76513,53.90158",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Stare Cimochy"
     ],
-    "name:fra_x_preferred":[
-        "Stare Cimochy"
+    "name:fra_x_preferred": [
+      "Stare Cimochy"
     ],
-    "name:pol_x_preferred":[
-        "Stare Cimochy"
+    "name:pol_x_preferred": [
+      "Stare Cimochy"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u0435 \u0426\u0438\u043c\u043e\u0445\u0438"
+    "name:ukr_x_preferred": [
+      "Старе Цимохи"
     ],
-    "name:und_x_variant":[
-        "Alt Czymochen",
-        "Stare Czymochy",
-        "Finsterwalde"
+    "name:und_x_variant": [
+      "Alt Czymochen",
+      "Stare Czymochy",
+      "Finsterwalde"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752289,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":758338,
-        "wk:page":"Stare_Cimochy"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752289,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 758338,
+      "pl-gugik:jpt_kod_je": "280503_2.0036",
+      "wk:page": "Stare_Cimochy"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"7a17fd22fd31df45b74bb548c9304b50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477752289,
-            "locality_id":1293028973,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fe3b4126c8a579fbed775c19b3c929ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477752289,
+        "locality_id": 1293028973,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1293028973,
-    "wof:lastmodified":1570015754,
-    "wof:name":"Stare Cimochy",
-    "wof:parent_id":1477752289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293028973,
+    "wof:lastmodified": 1669215922,
+    "wof:name": "Stare Cimochy",
+    "wof:parent_id": 1477752289,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.74513,
-    53.88158000000001,
-    22.74513,
-    53.88158000000001
-],
-  "geometry": {"coordinates":[22.74513,53.88158000000001],"type":"Point"}
+    22.72344191803124,
+    53.86722814402089,
+    22.753573068045235,
+    53.885451274015466
+  ],
+  "geometry": {"coordinates":[[[22.745724,53.88442],[22.750182,53.883686],[22.753573,53.883554],[22.752884,53.882855],[22.751596,53.881554],[22.751119,53.881058],[22.74925,53.88003],[22.748913,53.87968],[22.74981,53.879458],[22.750929,53.879164],[22.751437,53.879257],[22.751299,53.879105],[22.751276,53.87908],[22.749873,53.877547],[22.749166,53.876559],[22.748638,53.875824],[22.747832,53.875175],[22.747437,53.874856],[22.74685,53.87468],[22.746694,53.874581],[22.745933,53.8743],[22.745071,53.873983],[22.74525,53.873857],[22.744715,53.872182],[22.743087,53.871777],[22.741381,53.871236],[22.740186,53.870863],[22.738602,53.870836],[22.738415,53.870851],[22.737871,53.870848],[22.737053,53.870591],[22.736012,53.870288],[22.735157,53.870039],[22.732822,53.869452],[22.731804,53.869163],[22.729288,53.867935],[22.727766,53.867228],[22.727575,53.868174],[22.727379,53.869151],[22.727358,53.869251],[22.726169,53.868768],[22.725493,53.868504],[22.724026,53.868352],[22.723442,53.869646],[22.723871,53.869922],[22.725113,53.870733],[22.725357,53.870893],[22.726876,53.871483],[22.726738,53.872367],[22.726526,53.872624],[22.726494,53.872661],[22.726461,53.872701],[22.726099,53.874747],[22.725881,53.875868],[22.726675,53.876209],[22.725148,53.878436],[22.724025,53.878208],[22.723998,53.878269],[22.723485,53.879414],[22.724751,53.879565],[22.727656,53.879898],[22.729539,53.880746],[22.730121,53.880434],[22.730272,53.880546],[22.730642,53.880821],[22.730677,53.880846],[22.731077,53.881143],[22.733689,53.882882],[22.734171,53.8832],[22.734196,53.883217],[22.73432,53.883302],[22.736355,53.882369],[22.738458,53.881486],[22.738508,53.881465],[22.738309,53.881819],[22.736876,53.883275],[22.736865,53.883293],[22.736991,53.88335],[22.737011,53.88336],[22.741596,53.885451],[22.741977,53.885137],[22.743025,53.884272],[22.744555,53.88301],[22.745094,53.884044],[22.745421,53.884345],[22.745539,53.884451],[22.745724,53.88442]]],"type":"Polygon"}
 }

@@ -2,87 +2,91 @@
   "id": 1259615703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-09-24",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.00005,52.98265,23.00005,52.98265",
-    "geom:latitude":52.98265,
-    "geom:longitude":23.00005,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2002.0",
-    "gn:admin3_code":"200210.0",
-    "gn:asciiname":"Borowskie Skorki",
-    "gn:country_code":"PL",
-    "gn:dem":128,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":775461,
-    "gn:latitude":52.98265,
-    "gn:longitude":23.00005,
-    "gn:modification_date":"2010-09-05",
-    "gn:name":"Borowskie Sk\u00f3rki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.98005,52.96265,23.02005,53.00265",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Borovskie Skurkai"
+    "edtf:cessation": "uuuu",
+    "edtf:deprecated": "2019-09-24",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00016151797593360687,
+    "geom:area_square_m": 1206731.4897789196,
+    "geom:bbox": "22.993006474053796,52.99375083801782,23.01374798506137,53.00760253502029",
+    "geom:latitude": 23.00311582643168,
+    "geom:longitude": 53.00152248921093,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2002.0",
+    "gn:admin3_code": "200210.0",
+    "gn:asciiname": "Borowskie Skorki",
+    "gn:country_code": "PL",
+    "gn:dem": 128,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 775461,
+    "gn:latitude": 52.98265,
+    "gn:longitude": 23.00005,
+    "gn:modification_date": "2010-09-05",
+    "gn:name": "Borowskie Skórki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.98005,52.96265,23.02005,53.00265",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Borovskie Skurkai"
     ],
-    "name:pol_x_preferred":[
-        "Borowskie Sk\u00f3rki"
+    "name:pol_x_preferred": [
+      "Borowskie Skórki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u0440\u043e\u0432\u0441\u044c\u043a\u0435-\u0421\u043a\u0443\u0440\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Боровське-Скуркі"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125339033,
-        85633723,
-        102080145
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775461,
-        "wk:page":"Borowskie_Sk%C3%B3rki"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125339033,
+      85633723,
+      102080145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775461,
+      "pl-gugik:jpt_kod_je": "200211_2.0008",
+      "wk:page": "Borowskie_Sk%C3%B3rki"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"375b437d878d43b9c6d44f27bb7af4a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080145,
-            "localadmin_id":1125339033,
-            "locality_id":1259615703,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "54c3b27c27f4c5b674c37abca88082fc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080145,
+        "localadmin_id": 1125339033,
+        "locality_id": 1259615703,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1259615703,
-    "wof:lastmodified":1569365145,
-    "wof:name":"Borowskie Skorki",
-    "wof:parent_id":1125339033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[
-        1477912015
+    "wof:id": 1259615703,
+    "wof:lastmodified": 1669215930,
+    "wof:name": "Borowskie Skorki",
+    "wof:parent_id": 1125339033,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [
+      1477912015
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.00005,
-    52.98265,
-    23.00005,
-    52.98265
-],
-  "geometry": {"coordinates":[23.00005,52.98265],"type":"Point"}
+    22.993006474053796,
+    52.99375083801782,
+    23.01374798506137,
+    53.00760253502029
+  ],
+  "geometry": {"coordinates":[[[22.993006,52.997851],[22.994277,52.999522],[22.994737,53.000126],[22.994799,53.000203],[22.994984,53.000431],[22.995411,53.000957],[22.995563,53.001144],[22.995995,53.001735],[22.996344,53.002217],[22.997183,53.003379],[22.997739,53.004149],[22.999128,53.006067],[22.99956,53.006659],[23.000248,53.007603],[23.001947,53.007331],[23.002155,53.007326],[23.003277,53.007297],[23.0035,53.007313],[23.004175,53.007362],[23.004547,53.007389],[23.005122,53.007431],[23.005395,53.007475],[23.005731,53.007529],[23.005878,53.007553],[23.006604,53.007535],[23.006847,53.007472],[23.006988,53.007443],[23.007579,53.007301],[23.007806,53.007281],[23.008342,53.007233],[23.008491,53.007216],[23.008667,53.007205],[23.010232,53.00678],[23.010289,53.006765],[23.011135,53.006535],[23.013748,53.005831],[23.013315,53.005246],[23.013102,53.004958],[23.012866,53.004639],[23.012361,53.003957],[23.011868,53.003294],[23.011438,53.002716],[23.0109,53.001992],[23.010662,53.001672],[23.010456,53.001394],[23.010446,53.00138],[23.010146,53.000977],[23.009699,53.000378],[23.009044,52.999494],[23.007954,52.998026],[23.007895,52.997946],[23.007621,52.997579],[23.006818,52.996499],[23.00599,52.995381],[23.003178,52.996724],[23.001396,52.99758],[23.001137,52.99769],[23.00114,52.997562],[23.001076,52.997149],[23.00102,52.996766],[23.000984,52.996518],[23.000971,52.996432],[23.000865,52.995971],[23.000785,52.995851],[23.000138,52.995103],[22.999516,52.994527],[22.998478,52.99393],[22.998166,52.993751],[22.998158,52.99382],[22.997151,52.994182],[22.997279,52.994287],[22.998025,52.994897],[22.997658,52.995122],[22.997495,52.995206],[22.997228,52.995369],[22.996247,52.995951],[22.995109,52.996633],[22.994637,52.9969],[22.994581,52.996933],[22.993006,52.997851]]],"type":"Polygon"}
 }

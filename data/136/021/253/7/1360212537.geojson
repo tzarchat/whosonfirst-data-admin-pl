@@ -2,98 +2,102 @@
   "id": 1360212537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.09796,52.63087,15.09796,52.63087",
-    "geom:latitude":52.63087,
-    "geom:longitude":15.09796,
-    "gn:admin1_code":"76",
-    "gn:admin2_code":"0801",
-    "gn:admin3_code":"80102.0",
-    "gn:asciiname":"Krzyszczynka",
-    "gn:country_code":"PL",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10630396,
-    "gn:latitude":52.63087,
-    "gn:longitude":15.09796,
-    "gn:modification_date":"2015-09-04",
-    "gn:name":"Krzyszczynka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"15.07796,52.61087,15.11796,52.65087",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u06a9\u0698\u0634\u0686\u0646\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017701541815922828,
+    "geom:area_square_m": 1333755.994120093,
+    "geom:bbox": "15.080133742938896,52.62079138901451,15.101723344945922,52.63843156001994",
+    "geom:latitude": 15.090198145115911,
+    "geom:longitude": 52.63011163827483,
+    "gn:admin1_code": "76",
+    "gn:admin2_code": "0801",
+    "gn:admin3_code": "80102.0",
+    "gn:asciiname": "Krzyszczynka",
+    "gn:country_code": "PL",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10630396,
+    "gn:latitude": 52.63087,
+    "gn:longitude": 15.09796,
+    "gn:modification_date": "2015-09-04",
+    "gn:name": "Krzyszczynka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "15.07796,52.61087,15.11796,52.65087",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "کژشچنکا"
     ],
-    "name:deu_x_historical":[
-        "Cocceji-Neuwalde"
+    "name:deu_x_historical": [
+      "Cocceji-Neuwalde"
     ],
-    "name:deu_x_preferred":[
-        "Cocceji-Neuwalde"
+    "name:deu_x_preferred": [
+      "Cocceji-Neuwalde"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0698\u0634\u0686\u0646\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "کژشچنکا"
     ],
-    "name:fra_x_preferred":[
-        "Krzyszczynka"
+    "name:fra_x_preferred": [
+      "Krzyszczynka"
     ],
-    "name:nld_x_preferred":[
-        "Krzyszczynka"
+    "name:nld_x_preferred": [
+      "Krzyszczynka"
     ],
-    "name:pol_x_preferred":[
-        "Krzyszczynka"
+    "name:pol_x_preferred": [
+      "Krzyszczynka"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0448\u0438\u0449\u0438\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Кшищинка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1477753021,
-        85633723,
-        102079975
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10630396
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1477753021,
+      85633723,
+      102079975
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10630396,
+      "pl-gugik:jpt_kod_je": "080102_2.0017"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"f29799970a8d66770fd797829ee3edf2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079975,
-            "localadmin_id":1477753021,
-            "locality_id":1360212537,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "cd0c0a9400f5a543b70ab30e4194c2b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079975,
+        "localadmin_id": 1477753021,
+        "locality_id": 1360212537,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1360212537,
-    "wof:lastmodified":1570030429,
-    "wof:name":"Krzyszczynka",
-    "wof:parent_id":1477753021,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360212537,
+    "wof:lastmodified": 1669215911,
+    "wof:name": "Krzyszczynka",
+    "wof:parent_id": 1477753021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.09796,
-    52.63087,
-    15.09796,
-    52.63087
-],
-  "geometry": {"coordinates":[15.09796,52.63087],"type":"Point"}
+    15.080133742938896,
+    52.62079138901451,
+    15.101723344945922,
+    52.63843156001994
+  ],
+  "geometry": {"coordinates":[[[15.080134,52.628949],[15.080658,52.628975],[15.080963,52.629234],[15.081122,52.629369],[15.081947,52.630071],[15.082106,52.630206],[15.08309,52.631043],[15.083659,52.631538],[15.084601,52.632309],[15.085385,52.632994],[15.085914,52.633443],[15.086399,52.633855],[15.087298,52.634628],[15.08793,52.635172],[15.088701,52.635861],[15.089337,52.636429],[15.089971,52.636964],[15.090072,52.637046],[15.09142,52.638169],[15.09169,52.638376],[15.091755,52.638432],[15.091828,52.638404],[15.091727,52.638316],[15.092542,52.638058],[15.095872,52.636582],[15.095943,52.63655],[15.096224,52.636425],[15.101723,52.634099],[15.101711,52.634055],[15.101039,52.633417],[15.100138,52.632649],[15.099812,52.632371],[15.099228,52.631874],[15.098681,52.631407],[15.098383,52.631153],[15.098006,52.630832],[15.097982,52.63081],[15.097948,52.63078],[15.097287,52.63019],[15.097134,52.630062],[15.096776,52.62976],[15.096081,52.629156],[15.095546,52.628691],[15.095166,52.62836],[15.095141,52.628338],[15.094358,52.627658],[15.093558,52.626962],[15.093512,52.626922],[15.093082,52.626548],[15.092473,52.626018],[15.092261,52.625834],[15.09221,52.625789],[15.091842,52.625469],[15.090977,52.624708],[15.090607,52.624383],[15.090221,52.624043],[15.089994,52.623843],[15.089823,52.623688],[15.089541,52.623445],[15.088801,52.622794],[15.087776,52.621891],[15.086781,52.621004],[15.086757,52.620977],[15.08662,52.620828],[15.085927,52.620791],[15.082908,52.621715],[15.081898,52.622023],[15.082023,52.622175],[15.082052,52.622208],[15.084513,52.624974],[15.084586,52.624992],[15.083716,52.625781],[15.083196,52.626308],[15.082723,52.626757],[15.08265,52.626844],[15.082602,52.626911],[15.082528,52.627021],[15.082555,52.627116],[15.082503,52.627206],[15.082345,52.627348],[15.082176,52.627494],[15.081879,52.627685],[15.081856,52.627799],[15.081603,52.628046],[15.081588,52.628148],[15.081499,52.628265],[15.08062,52.628732],[15.080134,52.628949]]],"type":"Polygon"}
 }

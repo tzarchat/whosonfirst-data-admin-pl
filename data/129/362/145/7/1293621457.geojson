@@ -2,84 +2,88 @@
   "id": 1293621457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.2851,52.04453,19.2851,52.04453",
-    "geom:latitude":52.04453,
-    "geom:longitude":19.2851,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1004.0",
-    "gn:admin3_code":"100403.0",
-    "gn:asciiname":"Kosiorow",
-    "gn:country_code":"PL",
-    "gn:dem":106,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095100,
-    "gn:latitude":52.04453,
-    "gn:longitude":19.2851,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kosior\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.2651,52.02453,19.3051,52.06453",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Kosior\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00011883649169659374,
+    "geom:area_square_m": 907173.6055083198,
+    "geom:bbox": "19.279159018996925,52.040963792015965,19.29494353999651,52.050426300016966",
+    "geom:latitude": 19.28668077605127,
+    "geom:longitude": 52.04629747494139,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1004.0",
+    "gn:admin3_code": "100403.0",
+    "gn:asciiname": "Kosiorow",
+    "gn:country_code": "PL",
+    "gn:dem": 106,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095100,
+    "gn:latitude": 52.04453,
+    "gn:longitude": 19.2851,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kosiorów",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.2651,52.02453,19.3051,52.06453",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Kosiorów"
     ],
-    "name:pol_x_preferred":[
-        "Kosior\u00f3w"
+    "name:pol_x_preferred": [
+      "Kosiorów"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u0441\u044c\u043e\u0440\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Косьорув"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125304707,
-        85633723,
-        102079891
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095100,
-        "wk:page":"Kosior%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125304707,
+      85633723,
+      102079891
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095100,
+      "pl-gugik:jpt_kod_je": "100403_2.0013",
+      "wk:page": "Kosior%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"b42dd3d8ce219408aee0f55b6ebf18ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079891,
-            "localadmin_id":1125304707,
-            "locality_id":1293621457,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1b29413482cf774ad494251e4099404c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079891,
+        "localadmin_id": 1125304707,
+        "locality_id": 1293621457,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1293621457,
-    "wof:lastmodified":1570012781,
-    "wof:name":"Kosiorow",
-    "wof:parent_id":1125304707,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293621457,
+    "wof:lastmodified": 1669215846,
+    "wof:name": "Kosiorow",
+    "wof:parent_id": 1125304707,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.2851,
-    52.04453,
-    19.2851,
-    52.04453
-],
-  "geometry": {"coordinates":[19.2851,52.04453],"type":"Point"}
+    19.279159018996925,
+    52.040963792015965,
+    19.29494353999651,
+    52.050426300016966
+  ],
+  "geometry": {"coordinates":[[[19.294069,52.050371],[19.294275,52.049095],[19.294493,52.047888],[19.294761,52.045461],[19.294812,52.04541],[19.294836,52.044806],[19.294944,52.044261],[19.29452,52.044133],[19.293317,52.043785],[19.292833,52.043634],[19.292558,52.043559],[19.290679,52.043007],[19.290177,52.042854],[19.289297,52.04259],[19.287597,52.042055],[19.287215,52.041951],[19.287193,52.042103],[19.287064,52.042863],[19.28706,52.042886],[19.285373,52.042632],[19.285223,52.042608],[19.285167,52.042487],[19.285214,52.042488],[19.285154,52.042311],[19.285083,52.042128],[19.28497,52.041855],[19.284906,52.041706],[19.284692,52.041149],[19.284677,52.041099],[19.284641,52.041023],[19.282257,52.040991],[19.281466,52.040973],[19.281029,52.040964],[19.281024,52.041024],[19.281032,52.041061],[19.280828,52.041392],[19.280743,52.041605],[19.280682,52.041757],[19.280552,52.042082],[19.280456,52.042302],[19.280356,52.042603],[19.280019,52.043735],[19.280013,52.043776],[19.279159,52.044767],[19.279454,52.046505],[19.279863,52.050284],[19.280015,52.050257],[19.280843,52.05027],[19.281614,52.050285],[19.282723,52.050306],[19.283409,52.050321],[19.284414,52.050342],[19.285394,52.050358],[19.287221,52.050393],[19.288192,52.050415],[19.290292,52.05042],[19.290632,52.050419],[19.290932,52.050419],[19.291245,52.05042],[19.291557,52.050424],[19.291821,52.050426],[19.292217,52.050422],[19.292561,52.050411],[19.29276,52.050406],[19.292971,52.050402],[19.293367,52.05039],[19.293721,52.050381],[19.294069,52.050371]]],"type":"Polygon"}
 }

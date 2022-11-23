@@ -2,84 +2,88 @@
   "id": 1327458553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.20168,51.80881,20.20168,51.80881",
-    "geom:latitude":51.80881,
-    "geom:longitude":20.20168,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1013.0",
-    "gn:admin3_code":"101304.0",
-    "gn:asciiname":"Janolin",
-    "gn:country_code":"PL",
-    "gn:dem":185,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":770496,
-    "gn:latitude":51.80881,
-    "gn:longitude":20.20168,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Janolin",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.18168,51.78881,20.22168,51.82881",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Janolin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014344091579339562,
+    "geom:area_square_m": 1100707.5476123388,
+    "geom:bbox": "20.189429086995624,51.80398541301652,20.213060650001125,51.81547434501105",
+    "geom:latitude": 20.20276352208722,
+    "geom:longitude": 51.8104005732137,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1013.0",
+    "gn:admin3_code": "101304.0",
+    "gn:asciiname": "Janolin",
+    "gn:country_code": "PL",
+    "gn:dem": 185,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 770496,
+    "gn:latitude": 51.80881,
+    "gn:longitude": 20.20168,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Janolin",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.18168,51.78881,20.22168,51.82881",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Janolin"
     ],
-    "name:ukr_x_preferred":[
-        "\u042f\u043d\u043e\u043b\u0456\u043d"
+    "name:ukr_x_preferred": [
+      "Янолін"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0646\u0648\u0644\u06cc\u0646"
+    "name:urd_x_preferred": [
+      "جنولین"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1477751835,
-        85633723,
-        102079849
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":770496,
-        "wk:page":"Janolin"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1477751835,
+      85633723,
+      102079849
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 770496,
+      "pl-gugik:jpt_kod_je": "101304_2.0011",
+      "wk:page": "Janolin"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"cb6d59122e43191c2389b89a33daf565",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079849,
-            "localadmin_id":1477751835,
-            "locality_id":1327458553,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "b0fdffe2f003ae69616298e162156da0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079849,
+        "localadmin_id": 1477751835,
+        "locality_id": 1327458553,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1327458553,
-    "wof:lastmodified":1570008375,
-    "wof:name":"Janolin",
-    "wof:parent_id":1477751835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327458553,
+    "wof:lastmodified": 1669215849,
+    "wof:name": "Janolin",
+    "wof:parent_id": 1477751835,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.20168,
-    51.80881,
-    20.20168,
-    51.80881
-],
-  "geometry": {"coordinates":[20.20168,51.80881],"type":"Point"}
+    20.189429086995624,
+    51.80398541301652,
+    20.213060650001125,
+    51.81547434501105
+  ],
+  "geometry": {"coordinates":[[[20.189429,51.810946],[20.190504,51.811463],[20.19387,51.813083],[20.19892,51.815474],[20.199002,51.815455],[20.19905,51.815444],[20.199088,51.815435],[20.19916,51.815418],[20.199232,51.815401],[20.199308,51.815383],[20.19934,51.815376],[20.199376,51.815367],[20.199409,51.81536],[20.199454,51.815349],[20.199487,51.815341],[20.199528,51.815332],[20.199963,51.815229],[20.200621,51.815075],[20.201124,51.814957],[20.203401,51.814422],[20.203698,51.814352],[20.20412,51.814253],[20.204253,51.814222],[20.204447,51.814176],[20.20552,51.813924],[20.207431,51.813475],[20.207587,51.813423],[20.208224,51.8133],[20.208665,51.81336],[20.208846,51.813384],[20.20915,51.813425],[20.209461,51.813468],[20.210082,51.813552],[20.210704,51.813637],[20.211012,51.813678],[20.211905,51.8138],[20.212212,51.813841],[20.212492,51.813879],[20.213061,51.813956],[20.210643,51.807764],[20.210547,51.807519],[20.210534,51.807487],[20.210528,51.80747],[20.210517,51.807442],[20.209153,51.803985],[20.208649,51.80416],[20.208406,51.804244],[20.208164,51.804328],[20.207419,51.804585],[20.207156,51.804676],[20.206649,51.804852],[20.206112,51.805037],[20.205861,51.805124],[20.205599,51.805215],[20.205352,51.8053],[20.205336,51.805306],[20.20503,51.805412],[20.199588,51.807307],[20.199443,51.807359],[20.197954,51.807903],[20.196736,51.808341],[20.195011,51.808954],[20.193239,51.809583],[20.19232,51.809909],[20.191936,51.810046],[20.191743,51.810115],[20.191569,51.810177],[20.19139,51.810241],[20.191189,51.810313],[20.19082,51.810434],[20.190521,51.810541],[20.19047,51.81056],[20.190092,51.810707],[20.189927,51.810766],[20.189754,51.810829],[20.189429,51.810946]]],"type":"Polygon"}
 }

@@ -2,117 +2,121 @@
   "id": 1125835231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.48567,54.18459,16.48567,54.18459",
-    "geom:latitude":54.18459,
-    "geom:longitude":16.48567,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":114,
-    "iso:country":"PL",
-    "lbl:bbox":"16.46567,54.16459,16.50567,54.20459",
-    "lbl:latitude":54.18459,
-    "lbl:longitude":16.48567,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Powidz"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006716962162064203,
+    "geom:area_square_m": 4881066.871414953,
+    "geom:bbox": "16.461445282987597,54.17179273301786,16.504413048999307,54.19765378201472",
+    "geom:latitude": 16.483608287189078,
+    "geom:longitude": 54.18468981948465,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 114,
+    "iso:country": "PL",
+    "lbl:bbox": "16.46567,54.16459,16.50567,54.20459",
+    "lbl:latitude": 54.18459,
+    "lbl:longitude": 16.48567,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Powidz"
     ],
-    "name:ceb_x_preferred":[
-        "Powidz"
+    "name:ceb_x_preferred": [
+      "Powidz"
     ],
-    "name:deu_x_preferred":[
-        "Powidz"
+    "name:deu_x_preferred": [
+      "Powidz"
     ],
-    "name:eng_x_preferred":[
-        "Powidz"
+    "name:eng_x_preferred": [
+      "Powidz"
     ],
-    "name:fra_x_preferred":[
-        "Powidz"
+    "name:fra_x_preferred": [
+      "Powidz"
     ],
-    "name:pol_x_preferred":[
-        "Powidz"
+    "name:pol_x_preferred": [
+      "Powidz"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u043e\u0432\u0456\u0434\u0437"
+    "name:ukr_x_preferred": [
+      "Повідз"
     ],
-    "name:vie_x_preferred":[
-        "Powidz"
+    "name:vie_x_preferred": [
+      "Powidz"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3088191,
-    "qs_pg:gn_pop":114,
-    "qs_pg:name":"Powidz",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1216555,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":514021,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125372129,
-        85633723,
-        102080199
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3088191,
+    "qs_pg:gn_pop": 114,
+    "qs_pg:name": "Powidz",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1216555,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 514021,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3088191,
-        "gp:id":514021,
-        "qs_pg:id":1216555,
-        "wd:id":"Q2107133"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125372129,
+      85633723,
+      102080199
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3088191,
+      "gp:id": 514021,
+      "pl-gugik:jpt_kod_je": "320906_5.0054",
+      "qs_pg:id": 1216555,
+      "wd:id": "Q2107133"
     },
-    "wof:country":"PL",
-    "wof:created":1497292685,
-    "wof:geomhash":"2a761d98d163fff878d882bfe2cf298a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080199,
-            "localadmin_id":1125372129,
-            "locality_id":1125835231,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497292685,
+    "wof:geomhash": "b8bd00aead19d46a59b971930d02d77c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080199,
+        "localadmin_id": 1125372129,
+        "locality_id": 1125835231,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125835231,
-    "wof:lastmodified":1570040150,
-    "wof:name":"Powidz",
-    "wof:parent_id":1125372129,
-    "wof:placetype":"locality",
-    "wof:population":114,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125835231,
+    "wof:lastmodified": 1669215916,
+    "wof:name": "Powidz",
+    "wof:parent_id": 1125372129,
+    "wof:placetype": "locality",
+    "wof:population": 114,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.48567,
-    54.18459,
-    16.48567,
-    54.18459
-],
-  "geometry": {"coordinates":[16.48567,54.18459],"type":"Point"}
+    16.461445282987597,
+    54.17179273301786,
+    16.504413048999307,
+    54.19765378201472
+  ],
+  "geometry": {"coordinates":[[[16.461445,54.191838],[16.462668,54.192042],[16.46341,54.192234],[16.463703,54.192255],[16.464964,54.192639],[16.465611,54.192912],[16.466369,54.193453],[16.46823,54.192586],[16.468577,54.192311],[16.469189,54.191827],[16.469454,54.191729],[16.469859,54.191785],[16.471151,54.192051],[16.472617,54.192274],[16.474904,54.192541],[16.475375,54.192589],[16.475787,54.192631],[16.47576,54.192817],[16.475828,54.194157],[16.476826,54.194417],[16.477692,54.19455],[16.479284,54.194709],[16.480599,54.194808],[16.480931,54.194833],[16.483508,54.19521],[16.484938,54.195599],[16.485861,54.196044],[16.486497,54.196458],[16.487041,54.196726],[16.48888,54.197654],[16.490166,54.196967],[16.491873,54.196217],[16.491946,54.196184],[16.491976,54.196171],[16.492865,54.195662],[16.493181,54.195482],[16.49378,54.195197],[16.49409,54.19505],[16.49515,54.19407],[16.496679,54.192981],[16.497575,54.192457],[16.497839,54.192184],[16.498168,54.190899],[16.498404,54.190256],[16.498588,54.189755],[16.498902,54.188644],[16.499522,54.188162],[16.50026,54.187736],[16.500759,54.187397],[16.500425,54.186975],[16.500104,54.186668],[16.499939,54.186513],[16.499669,54.186166],[16.499498,54.185977],[16.499516,54.185572],[16.499534,54.185179],[16.499559,54.184486],[16.499721,54.18438],[16.499793,54.184338],[16.501976,54.183047],[16.502442,54.182584],[16.502493,54.182529],[16.503431,54.181591],[16.503735,54.181287],[16.504413,54.180608],[16.503124,54.180421],[16.502469,54.180327],[16.501444,54.180175],[16.500937,54.180069],[16.500026,54.179873],[16.499944,54.179855],[16.49952,54.179674],[16.499531,54.179598],[16.499585,54.179192],[16.499765,54.178915],[16.499253,54.178378],[16.498337,54.177417],[16.498867,54.176625],[16.499874,54.17571],[16.500005,54.175591],[16.500567,54.175519],[16.500242,54.1749],[16.50056,54.174644],[16.500795,54.174347],[16.500279,54.174281],[16.499279,54.174152],[16.498874,54.174336],[16.498707,54.174509],[16.498898,54.174813],[16.498366,54.174958],[16.496849,54.175222],[16.496759,54.175237],[16.496608,54.174932],[16.490715,54.173995],[16.484106,54.172894],[16.47732,54.171793],[16.476438,54.174634],[16.47559,54.177297],[16.47534,54.177255],[16.475075,54.177654],[16.474331,54.177529],[16.473914,54.178005],[16.472862,54.177826],[16.47107,54.177521],[16.470736,54.17746],[16.470254,54.177373],[16.468817,54.177131],[16.468676,54.177414],[16.46857,54.177626],[16.468405,54.177957],[16.469968,54.178224],[16.471385,54.178469],[16.47103,54.179125],[16.471688,54.179237],[16.471449,54.179844],[16.471174,54.179802],[16.470834,54.180333],[16.470087,54.18021],[16.469909,54.180534],[16.469408,54.180455],[16.469085,54.180405],[16.468898,54.180769],[16.468643,54.180745],[16.468448,54.181083],[16.466956,54.180854],[16.46661,54.181545],[16.466028,54.182712],[16.466001,54.182774],[16.462844,54.189138],[16.461445,54.191838]]],"type":"Polygon"}
 }

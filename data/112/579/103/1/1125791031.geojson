@@ -2,107 +2,111 @@
   "id": 1125791031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.59636,52.27488,20.59636,52.27488",
-    "geom:latitude":52.27488,
-    "geom:longitude":20.59636,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"20.57636,52.25488,20.61636,52.29488",
-    "lbl:latitude":52.27488,
-    "lbl:longitude":20.59636,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Julinek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00035547153424235023,
+    "geom:area_square_m": 2699951.845697132,
+    "geom:bbox": "20.57449289699573,52.266889279013085,20.620058981997094,52.27986668901507",
+    "geom:latitude": 20.597344574836562,
+    "geom:longitude": 52.27293049069635,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "20.57636,52.25488,20.61636,52.29488",
+    "lbl:latitude": 52.27488,
+    "lbl:longitude": 20.59636,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Julinek"
     ],
-    "name:eng_x_preferred":[
-        "Julinek"
+    "name:eng_x_preferred": [
+      "Julinek"
     ],
-    "name:fra_x_preferred":[
-        "Julinek"
+    "name:fra_x_preferred": [
+      "Julinek"
     ],
-    "name:nan_x_preferred":[
-        "Julinek"
+    "name:nan_x_preferred": [
+      "Julinek"
     ],
-    "name:pol_x_preferred":[
-        "Julinek"
+    "name:pol_x_preferred": [
+      "Julinek"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":6941569,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Julinek",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":270201,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24934932,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752351,
-        85633723,
-        102079949
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 6941569,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Julinek",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 270201,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24934932,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6941569,
-        "gp:id":24934932,
-        "qs_pg:id":270201,
-        "wd:id":"Q6309050"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752351,
+      85633723,
+      102079949
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6941569,
+      "gp:id": 24934932,
+      "pl-gugik:jpt_kod_je": "143204_2.0008",
+      "qs_pg:id": 270201,
+      "wd:id": "Q6309050"
     },
-    "wof:country":"PL",
-    "wof:created":1497290865,
-    "wof:geomhash":"7c9ddc7a598b2f25b84020bd13ebd75e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079949,
-            "localadmin_id":1477752351,
-            "locality_id":1125791031,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497290865,
+    "wof:geomhash": "02694d4d052966bf7fd281a5d550d590",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079949,
+        "localadmin_id": 1477752351,
+        "locality_id": 1125791031,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125791031,
-    "wof:lastmodified":1570039784,
-    "wof:name":"Julinek",
-    "wof:parent_id":1477752351,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125791031,
+    "wof:lastmodified": 1669215948,
+    "wof:name": "Julinek",
+    "wof:parent_id": 1477752351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.59636,
-    52.27488,
-    20.59636,
-    52.27488
-],
-  "geometry": {"coordinates":[20.59636,52.27488],"type":"Point"}
+    20.57449289699573,
+    52.266889279013085,
+    20.620058981997094,
+    52.27986668901507
+  ],
+  "geometry": {"coordinates":[[[20.574493,52.269681],[20.574813,52.2705],[20.574875,52.270657],[20.57488,52.27067],[20.575052,52.27066],[20.575249,52.271223],[20.575475,52.271642],[20.575842,52.272148],[20.57702,52.273519],[20.577416,52.274096],[20.577445,52.274318],[20.577328,52.274919],[20.576977,52.275245],[20.580536,52.275292],[20.583989,52.275338],[20.584066,52.275723],[20.584424,52.277539],[20.588036,52.277457],[20.58776,52.275916],[20.58802,52.275878],[20.588323,52.275825],[20.588466,52.276588],[20.591141,52.277161],[20.592984,52.277545],[20.595711,52.278135],[20.598669,52.278172],[20.59932,52.279366],[20.599619,52.279867],[20.599852,52.279849],[20.599881,52.279834],[20.601644,52.278963],[20.602074,52.27877],[20.603229,52.278358],[20.604958,52.277991],[20.606285,52.277725],[20.60889,52.277437],[20.609641,52.277244],[20.611464,52.277165],[20.612936,52.276987],[20.613743,52.2769],[20.614834,52.276736],[20.615662,52.276592],[20.616394,52.276308],[20.617356,52.276124],[20.617464,52.276077],[20.620059,52.275645],[20.61922,52.275011],[20.61804,52.27384],[20.617547,52.272878],[20.61744,52.272395],[20.6175,52.272331],[20.617517,52.272378],[20.619288,52.271318],[20.619345,52.271284],[20.619296,52.271276],[20.615635,52.270719],[20.615526,52.270702],[20.615102,52.270615],[20.614181,52.270362],[20.612868,52.270062],[20.612595,52.270105],[20.611738,52.270087],[20.609815,52.270131],[20.607939,52.26877],[20.607334,52.268442],[20.606425,52.268053],[20.605669,52.267874],[20.605614,52.267861],[20.602698,52.267459],[20.60204,52.267435],[20.599244,52.267739],[20.595573,52.267673],[20.595237,52.267619],[20.594833,52.267433],[20.594554,52.267238],[20.59417,52.266889],[20.594185,52.266951],[20.594472,52.268089],[20.594177,52.268096],[20.586682,52.268289],[20.584696,52.268351],[20.582538,52.268419],[20.582562,52.268529],[20.582852,52.269874],[20.582764,52.269881],[20.581397,52.26998],[20.58113,52.268926],[20.581077,52.268727],[20.578276,52.268985],[20.578068,52.269055],[20.577687,52.269234],[20.577512,52.269279],[20.577242,52.269292],[20.57667,52.269426],[20.576303,52.269591],[20.574493,52.269681]]],"type":"Polygon"}
 }

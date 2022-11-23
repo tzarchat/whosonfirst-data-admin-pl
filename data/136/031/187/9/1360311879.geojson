@@ -2,107 +2,111 @@
   "id": 1360311879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-09-30",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.29166,51.30366,18.29166,51.30366",
-    "geom:latitude":51.30366,
-    "geom:longitude":18.29166,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1018.0",
-    "gn:admin3_code":"101806.0",
-    "gn:asciiname":"Kopaniny",
-    "gn:country_code":"PL",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095242,
-    "gn:latitude":51.30366,
-    "gn:longitude":18.29166,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kopaniny",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.27166,51.28366,18.31166,51.32366",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Kopaniny"
+    "edtf:cessation": "uuuu",
+    "edtf:deprecated": "2019-09-30",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003050751585042408,
+    "geom:area_square_m": 2367043.825328253,
+    "geom:bbox": "18.277043157000772,51.28628457201232,18.29830735199546,51.313536484011976",
+    "geom:latitude": 18.286151866150433,
+    "geom:longitude": 51.302426511915776,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1018.0",
+    "gn:admin3_code": "101806.0",
+    "gn:asciiname": "Kopaniny",
+    "gn:country_code": "PL",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095242,
+    "gn:latitude": 51.30366,
+    "gn:longitude": 18.29166,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kopaniny",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.27166,51.28366,18.31166,51.32366",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Kopaniny"
     ],
-    "name:ces_x_preferred":[
-        "Kopaniny"
+    "name:ces_x_preferred": [
+      "Kopaniny"
     ],
-    "name:deu_x_preferred":[
-        "Kopaniny"
+    "name:deu_x_preferred": [
+      "Kopaniny"
     ],
-    "name:fra_x_preferred":[
-        "Kopaniny"
+    "name:fra_x_preferred": [
+      "Kopaniny"
     ],
-    "name:hun_x_preferred":[
-        "Kopaniny"
+    "name:hun_x_preferred": [
+      "Kopaniny"
     ],
-    "name:pol_x_preferred":[
-        "Kopaniny"
+    "name:pol_x_preferred": [
+      "Kopaniny"
     ],
-    "name:slk_x_preferred":[
-        "Kopaniny"
+    "name:slk_x_preferred": [
+      "Kopaniny"
     ],
-    "name:swe_x_preferred":[
-        "Kopaniny"
+    "name:swe_x_preferred": [
+      "Kopaniny"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043f\u0430\u043d\u0456\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Копаніни"
     ],
-    "name:und_x_variant":[
-        "Kolonia Kopaniny"
+    "name:und_x_variant": [
+      "Kolonia Kopaniny"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125294861,
-        85633723,
-        102079731
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095242
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125294861,
+      85633723,
+      102079731
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095242,
+      "pl-gugik:jpt_kod_je": "101806_2.0002"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"ec915db576fa4455c88aae696d2d5f00",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079731,
-            "localadmin_id":1125294861,
-            "locality_id":1360311879,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "383bda1453561e8774bc14c522f5ffbc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079731,
+        "localadmin_id": 1125294861,
+        "locality_id": 1360311879,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1360311879,
-    "wof:lastmodified":1569885128,
-    "wof:name":"Kopaniny",
-    "wof:parent_id":1125294861,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[
-        1495006089
+    "wof:id": 1360311879,
+    "wof:lastmodified": 1669215835,
+    "wof:name": "Kopaniny",
+    "wof:parent_id": 1125294861,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [
+      1495006089
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.29166,
-    51.30366,
-    18.29166,
-    51.30366
-],
-  "geometry": {"coordinates":[18.29166,51.30366],"type":"Point"}
+    18.277043157000772,
+    51.28628457201232,
+    18.29830735199546,
+    51.313536484011976
+  ],
+  "geometry": {"coordinates":[[[18.277043,51.286828],[18.277381,51.29186],[18.277392,51.291887],[18.277508,51.293527],[18.277518,51.29364],[18.277658,51.295824],[18.277654,51.295872],[18.277829,51.298372],[18.277873,51.299198],[18.277877,51.299234],[18.277885,51.299619],[18.277942,51.300764],[18.278156,51.303285],[18.27817,51.30346],[18.278472,51.308013],[18.278486,51.308107],[18.278738,51.312099],[18.278736,51.312129],[18.278841,51.313488],[18.278822,51.313536],[18.28088,51.312959],[18.282772,51.312428],[18.282893,51.312408],[18.284108,51.312046],[18.284462,51.31194],[18.284989,51.311783],[18.285437,51.311648],[18.286963,51.311189],[18.287599,51.310997],[18.287615,51.310992],[18.288231,51.310805],[18.288859,51.310613],[18.289256,51.310492],[18.289492,51.310421],[18.289653,51.310372],[18.290464,51.310124],[18.290676,51.310059],[18.291053,51.309944],[18.291903,51.309685],[18.292227,51.309586],[18.292499,51.309503],[18.29311,51.309317],[18.293511,51.309191],[18.293715,51.309129],[18.293824,51.309096],[18.294331,51.308941],[18.294604,51.308858],[18.294911,51.308764],[18.295214,51.30868],[18.295942,51.308461],[18.296074,51.308421],[18.296259,51.308362],[18.296478,51.308294],[18.296773,51.308209],[18.297784,51.307906],[18.297832,51.307892],[18.298307,51.307749],[18.298288,51.307377],[18.298276,51.307151],[18.298263,51.306914],[18.298239,51.306461],[18.298214,51.305985],[18.298209,51.305717],[18.298205,51.305515],[18.298198,51.305061],[18.298185,51.304199],[18.298184,51.304164],[18.298147,51.304006],[18.298052,51.300464],[18.298049,51.300433],[18.297993,51.299907],[18.297849,51.297837],[18.297844,51.297777],[18.297766,51.297849],[18.297504,51.298088],[18.297172,51.298393],[18.29679,51.298742],[18.295867,51.299587],[18.295239,51.299305],[18.294665,51.299047],[18.292576,51.298205],[18.291148,51.297843],[18.28914,51.297133],[18.288468,51.296918],[18.286841,51.296222],[18.284731,51.29581],[18.284333,51.29585],[18.282554,51.296065],[18.282262,51.296127],[18.280212,51.296548],[18.278411,51.293479],[18.280375,51.293017],[18.280867,51.292892],[18.281601,51.292654],[18.283174,51.292153],[18.283271,51.292087],[18.283257,51.292035],[18.283229,51.29198],[18.280303,51.286285],[18.279971,51.28634],[18.279755,51.286376],[18.279553,51.286409],[18.279096,51.286486],[18.278669,51.286557],[18.277796,51.286702],[18.277241,51.286795],[18.277043,51.286828]]],"type":"Polygon"}
 }

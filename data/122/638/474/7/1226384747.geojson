@@ -2,81 +2,85 @@
   "id": 1226384747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.46479,51.05728,20.46479,51.05728",
-    "geom:latitude":51.05728,
-    "geom:longitude":20.46479,
-    "gn:admin1_code":"84.0",
-    "gn:admin2_code":"2605.0",
-    "gn:admin3_code":"260507.0",
-    "gn:asciiname":"Trawniki",
-    "gn:country_code":"PL",
-    "gn:dem":257,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":756820,
-    "gn:latitude":51.05728,
-    "gn:longitude":20.46479,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Trawniki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.44479,51.03728,20.48479,51.07728",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Trawniki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010854324056351261,
+    "geom:area_square_m": 846599.4292759364,
+    "geom:bbox": "20.456191195994702,51.053748451014236,20.473254733993798,51.06304199001399",
+    "geom:latitude": 20.464763484907035,
+    "geom:longitude": 51.05837291602874,
+    "gn:admin1_code": "84.0",
+    "gn:admin2_code": "2605.0",
+    "gn:admin3_code": "260507.0",
+    "gn:asciiname": "Trawniki",
+    "gn:country_code": "PL",
+    "gn:dem": 257,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 756820,
+    "gn:latitude": 51.05728,
+    "gn:longitude": 20.46479,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Trawniki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.44479,51.03728,20.48479,51.07728",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Trawniki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0440\u0430\u0432\u043d\u0438\u043a\u0438"
+    "name:ukr_x_preferred": [
+      "Травники"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687287,
-        102191581,
-        1477752757,
-        85633723,
-        102079739
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756820,
-        "wk:page":"Trawniki%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
+    "wof:belongsto": [
+      85687287,
+      102191581,
+      1477752757,
+      85633723,
+      102079739
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756820,
+      "pl-gugik:jpt_kod_je": "260507_2.0009",
+      "wk:page": "Trawniki%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3cec0c9360e2c975f5ea64a9f5df7be1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079739,
-            "localadmin_id":1477752757,
-            "locality_id":1226384747,
-            "region_id":85687287
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "dbe5d623c4b05ad2ba6c3955ef32c758",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079739,
+        "localadmin_id": 1477752757,
+        "locality_id": 1226384747,
+        "region_id": 85687287
+      }
     ],
-    "wof:id":1226384747,
-    "wof:lastmodified":1570053067,
-    "wof:name":"Trawniki",
-    "wof:parent_id":1477752757,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226384747,
+    "wof:lastmodified": 1669215848,
+    "wof:name": "Trawniki",
+    "wof:parent_id": 1477752757,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.46479,
-    51.05728,
-    20.46479,
-    51.05728
-],
-  "geometry": {"coordinates":[20.46479,51.05728],"type":"Point"}
+    20.456191195994702,
+    51.053748451014236,
+    20.473254733993798,
+    51.06304199001399
+  ],
+  "geometry": {"coordinates":[[[20.456191,51.060845],[20.458544,51.061196],[20.45976,51.06136],[20.45979,51.061364],[20.459829,51.061371],[20.460029,51.061407],[20.461993,51.061699],[20.462408,51.061766],[20.464347,51.062067],[20.468516,51.062717],[20.469108,51.062808],[20.469921,51.062933],[20.470017,51.062947],[20.470634,51.063042],[20.470806,51.062528],[20.471411,51.061041],[20.471432,51.060989],[20.47186,51.059685],[20.471938,51.059476],[20.472356,51.058348],[20.47236,51.058336],[20.47282,51.05706],[20.472829,51.057035],[20.47286,51.05695],[20.473255,51.055854],[20.471788,51.055632],[20.471196,51.055542],[20.470724,51.05547],[20.470579,51.05545],[20.470297,51.05541],[20.469654,51.055319],[20.469209,51.055255],[20.468986,51.055224],[20.468743,51.055189],[20.468577,51.055166],[20.468363,51.055135],[20.468097,51.055096],[20.467867,51.055062],[20.467768,51.055048],[20.467753,51.055046],[20.467082,51.054949],[20.466968,51.054932],[20.46691,51.054924],[20.466226,51.054823],[20.466005,51.054791],[20.465631,51.054736],[20.465186,51.05467],[20.464296,51.05454],[20.464283,51.054538],[20.463847,51.054474],[20.463391,51.054407],[20.462523,51.05428],[20.462454,51.05427],[20.462233,51.054238],[20.461563,51.05414],[20.460711,51.054015],[20.460334,51.05396],[20.460199,51.05394],[20.459633,51.053857],[20.459336,51.053814],[20.458891,51.053748],[20.458768,51.0541],[20.458405,51.055033],[20.457882,51.056396],[20.457766,51.056666],[20.457732,51.056743],[20.457053,51.058574],[20.457033,51.058628],[20.456635,51.059686],[20.456191,51.060845]]],"type":"Polygon"}
 }

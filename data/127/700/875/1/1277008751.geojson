@@ -2,78 +2,82 @@
   "id": 1277008751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.62592,53.21508,16.62592,53.21508",
-    "geom:latitude":53.21508,
-    "geom:longitude":16.62592,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3019.0",
-    "gn:admin3_code":"301906.0",
-    "gn:asciiname":"Wildek",
-    "gn:country_code":"PL",
-    "gn:dem":129,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535398,
-    "gn:latitude":53.21508,
-    "gn:longitude":16.62592,
-    "gn:modification_date":"2010-09-14",
-    "gn:name":"Wildek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.60592,53.19508,16.64592,53.23508",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Wildek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00013793296651856446,
+    "geom:area_square_m": 1025529.4970422939,
+    "geom:bbox": "16.620221191995586,53.20681275102091,16.640112329993215,53.21837218802123",
+    "geom:latitude": 16.630611682031752,
+    "geom:longitude": 53.21252067415985,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3019.0",
+    "gn:admin3_code": "301906.0",
+    "gn:asciiname": "Wildek",
+    "gn:country_code": "PL",
+    "gn:dem": 129,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535398,
+    "gn:latitude": 53.21508,
+    "gn:longitude": 16.62592,
+    "gn:modification_date": "2010-09-14",
+    "gn:name": "Wildek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.60592,53.19508,16.64592,53.23508",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Wildek"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125399547,
-        85633723,
-        102080065
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535398,
-        "wk:page":"Wildek"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125399547,
+      85633723,
+      102080065
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535398,
+      "pl-gugik:jpt_kod_je": "301906_2.0070",
+      "wk:page": "Wildek"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"170b39773c7704a2d70bc691014b84cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080065,
-            "localadmin_id":1125399547,
-            "locality_id":1277008751,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "7922385269af04c90a4a48735ef18d94",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080065,
+        "localadmin_id": 1125399547,
+        "locality_id": 1277008751,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1277008751,
-    "wof:lastmodified":1570016567,
-    "wof:name":"Wildek",
-    "wof:parent_id":1125399547,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277008751,
+    "wof:lastmodified": 1669215919,
+    "wof:name": "Wildek",
+    "wof:parent_id": 1125399547,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.62592,
-    53.21508000000001,
-    16.62592,
-    53.21508000000001
-],
-  "geometry": {"coordinates":[16.62592,53.21508000000001],"type":"Point"}
+    16.620221191995586,
+    53.20681275102091,
+    16.640112329993215,
+    53.21837218802123
+  ],
+  "geometry": {"coordinates":[[[16.620221,53.213534],[16.62257,53.214772],[16.622725,53.214854],[16.624993,53.216016],[16.625037,53.216034],[16.625135,53.216073],[16.626232,53.2166],[16.627028,53.216982],[16.629922,53.218372],[16.630552,53.218113],[16.632429,53.217341],[16.635512,53.216073],[16.638211,53.214979],[16.638324,53.214977],[16.638518,53.214653],[16.639082,53.21415],[16.639882,53.212679],[16.639558,53.211955],[16.639869,53.210991],[16.640112,53.210634],[16.640039,53.210624],[16.639737,53.210582],[16.639207,53.210508],[16.638045,53.21021],[16.636912,53.209936],[16.636655,53.209874],[16.636554,53.20985],[16.636123,53.209521],[16.636124,53.209438],[16.636087,53.209337],[16.635964,53.20916],[16.636048,53.209004],[16.636084,53.208897],[16.636105,53.208802],[16.636551,53.208586],[16.636543,53.208532],[16.636224,53.207984],[16.635036,53.20843],[16.634977,53.208386],[16.634386,53.207935],[16.634279,53.207853],[16.633833,53.207528],[16.633263,53.20724],[16.632389,53.207662],[16.631169,53.206902],[16.631028,53.206813],[16.629705,53.207232],[16.629044,53.207456],[16.627292,53.208052],[16.626691,53.208256],[16.625786,53.208496],[16.625658,53.20858],[16.62497,53.209213],[16.62328,53.210769],[16.623229,53.210816],[16.622246,53.211693],[16.620221,53.213534]]],"type":"Polygon"}
 }

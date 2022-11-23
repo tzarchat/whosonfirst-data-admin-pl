@@ -2,81 +2,85 @@
   "id": 1242610175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.44132,53.25782,17.44132,53.25782",
-    "geom:latitude":53.25782,
-    "geom:longitude":17.44132,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"410.0",
-    "gn:admin3_code":"41002.0",
-    "gn:asciiname":"Jeziorki Zabartowskie",
-    "gn:country_code":"PL",
-    "gn:dem":116,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3097165,
-    "gn:latitude":53.25782,
-    "gn:longitude":17.44132,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Jeziorki Zabartowskie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.42132,53.23782,17.46132,53.27782",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Jeziorki Zabartowskie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002820522493243219,
+    "geom:area_square_m": 2094973.749667582,
+    "geom:bbox": "17.425066216998747,53.24867924602137,17.4571795519961,53.26278784802075",
+    "geom:latitude": 17.442236715603855,
+    "geom:longitude": 53.255428293223,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "410.0",
+    "gn:admin3_code": "41002.0",
+    "gn:asciiname": "Jeziorki Zabartowskie",
+    "gn:country_code": "PL",
+    "gn:dem": 116,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3097165,
+    "gn:latitude": 53.25782,
+    "gn:longitude": 17.44132,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Jeziorki Zabartowskie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.42132,53.23782,17.46132,53.27782",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Jeziorki Zabartowskie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0404\u0437\u044c\u043e\u0440\u043a\u0456-\u0417\u0430\u0431\u0430\u0440\u0442\u043e\u0432\u0441\u044c\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Єзьоркі-Забартовські"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125375847,
-        85633723,
-        102080053
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097165,
-        "wk:page":"Jeziorki_Zabartowskie"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125375847,
+      85633723,
+      102080053
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097165,
+      "pl-gugik:jpt_kod_je": "041002_5.0005",
+      "wk:page": "Jeziorki_Zabartowskie"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9dca55319f3bbb8ecfbfef032e0b9e9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080053,
-            "localadmin_id":1125375847,
-            "locality_id":1242610175,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "63becb19d25642852dfe957db5358715",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080053,
+        "localadmin_id": 1125375847,
+        "locality_id": 1242610175,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1242610175,
-    "wof:lastmodified":1570041828,
-    "wof:name":"Jeziorki Zabartowskie",
-    "wof:parent_id":1125375847,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242610175,
+    "wof:lastmodified": 1669215903,
+    "wof:name": "Jeziorki Zabartowskie",
+    "wof:parent_id": 1125375847,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.44132,
-    53.25782,
-    17.44132,
-    53.25782
-],
-  "geometry": {"coordinates":[17.44132,53.25782],"type":"Point"}
+    17.425066216998747,
+    53.24867924602137,
+    17.4571795519961,
+    53.26278784802075
+  ],
+  "geometry": {"coordinates":[[[17.425066,53.256462],[17.425791,53.257053],[17.425839,53.257104],[17.426175,53.257754],[17.426404,53.257869],[17.426526,53.257895],[17.426624,53.257936],[17.427265,53.258239],[17.427392,53.258317],[17.429058,53.259346],[17.429415,53.259567],[17.429817,53.259794],[17.430569,53.260434],[17.430667,53.260575],[17.431695,53.260069],[17.432768,53.25952],[17.434482,53.258659],[17.438552,53.262788],[17.443077,53.262401],[17.44322,53.262336],[17.444259,53.261855],[17.444487,53.261788],[17.444798,53.261647],[17.44515,53.260862],[17.445065,53.260783],[17.445111,53.260553],[17.44499,53.260417],[17.444196,53.260304],[17.444229,53.260031],[17.444457,53.259937],[17.444828,53.259856],[17.445415,53.259732],[17.445914,53.259637],[17.44643,53.259621],[17.446815,53.259663],[17.44727,53.259625],[17.447931,53.259594],[17.448183,53.259665],[17.448246,53.25988],[17.448223,53.260003],[17.450894,53.260539],[17.450941,53.260467],[17.452274,53.259233],[17.452757,53.258799],[17.452938,53.258631],[17.453285,53.258321],[17.455024,53.256728],[17.456353,53.255519],[17.45718,53.254783],[17.456517,53.252796],[17.456488,53.25272],[17.456432,53.252416],[17.45628,53.252201],[17.456299,53.251935],[17.456291,53.251875],[17.456244,53.251731],[17.455931,53.250825],[17.455825,53.250515],[17.455848,53.250424],[17.455665,53.250135],[17.455571,53.249994],[17.455132,53.248679],[17.454527,53.248709],[17.450363,53.248861],[17.450243,53.248866],[17.450192,53.248868],[17.449511,53.248899],[17.449362,53.248905],[17.448958,53.248923],[17.447646,53.248982],[17.447378,53.248994],[17.44715,53.249048],[17.445246,53.249134],[17.44433,53.249182],[17.443732,53.249628],[17.441903,53.250988],[17.440559,53.251957],[17.439617,53.252649],[17.437542,53.252449],[17.437349,53.252439],[17.43342,53.25203],[17.430699,53.251802],[17.429752,53.251754],[17.429582,53.251838],[17.429269,53.251963],[17.428671,53.252194],[17.427861,53.252865],[17.427843,53.25288],[17.426834,53.252753],[17.425066,53.256462]]],"type":"Polygon"}
 }

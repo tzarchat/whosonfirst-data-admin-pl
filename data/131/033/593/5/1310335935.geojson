@@ -2,93 +2,97 @@
   "id": 1310335935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.51106,54.13696,20.51106,54.13696",
-    "geom:latitude":54.13696,
-    "geom:longitude":20.51106,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2809.0",
-    "gn:admin3_code":"280903.0",
-    "gn:asciiname":"Lauda",
-    "gn:country_code":"PL",
-    "gn:dem":74,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766672,
-    "gn:latitude":54.13696,
-    "gn:longitude":20.51106,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Lauda",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.49106,54.11696,20.53106,54.15696",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Lauda"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004732947664628246,
+    "geom:area_square_m": 3443114.853181511,
+    "geom:bbox": "20.491605389993747,54.12776688502025,20.53299815099464,54.15071766201508",
+    "geom:latitude": 20.511858820504408,
+    "geom:longitude": 54.13879359368197,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2809.0",
+    "gn:admin3_code": "280903.0",
+    "gn:asciiname": "Lauda",
+    "gn:country_code": "PL",
+    "gn:dem": 74,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766672,
+    "gn:latitude": 54.13696,
+    "gn:longitude": 20.51106,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Lauda",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.49106,54.11696,20.53106,54.15696",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Lauda"
     ],
-    "name:fra_x_preferred":[
-        "Lauda"
+    "name:fra_x_preferred": [
+      "Lauda"
     ],
-    "name:nld_x_preferred":[
-        "Lauda"
+    "name:nld_x_preferred": [
+      "Lauda"
     ],
-    "name:pol_x_preferred":[
-        "Lauda"
+    "name:pol_x_preferred": [
+      "Lauda"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044f\u0443\u0434\u0430"
+    "name:ukr_x_preferred": [
+      "Ляуда"
     ],
-    "name:und_x_variant":[
-        "Lawden"
+    "name:und_x_variant": [
+      "Lawden"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751723,
-        85633723,
-        102080215
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766672,
-        "wk:page":"Lauda%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751723,
+      85633723,
+      102080215
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766672,
+      "pl-gugik:jpt_kod_je": "280903_2.0024",
+      "wk:page": "Lauda%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a1964bd251d4e4f8d25261fd6d0d3209",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080215,
-            "localadmin_id":1477751723,
-            "locality_id":1310335935,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "370314aa37cd27eae7b3ee3afde8b6c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080215,
+        "localadmin_id": 1477751723,
+        "locality_id": 1310335935,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1310335935,
-    "wof:lastmodified":1570028518,
-    "wof:name":"Lauda",
-    "wof:parent_id":1477751723,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310335935,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Lauda",
+    "wof:parent_id": 1477751723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.51106,
-    54.13696,
-    20.51106,
-    54.13696
-],
-  "geometry": {"coordinates":[20.51106,54.13696],"type":"Point"}
+    20.491605389993747,
+    54.12776688502025,
+    20.53299815099464,
+    54.15071766201508
+  ],
+  "geometry": {"coordinates":[[[20.527858,54.140529],[20.529046,54.139742],[20.532998,54.137247],[20.532153,54.136877],[20.531061,54.136418],[20.52768,54.135004],[20.527797,54.134974],[20.523065,54.131991],[20.5226,54.131824],[20.520004,54.130365],[20.519758,54.13023],[20.517558,54.129017],[20.518552,54.128602],[20.517714,54.12825],[20.516923,54.127923],[20.516887,54.127895],[20.516714,54.128003],[20.516117,54.127956],[20.515395,54.127866],[20.515105,54.127885],[20.515064,54.127866],[20.514974,54.127767],[20.512373,54.128973],[20.510599,54.129805],[20.510564,54.129821],[20.510117,54.130028],[20.507673,54.131156],[20.507019,54.131458],[20.505789,54.132026],[20.505634,54.132098],[20.504365,54.132707],[20.502669,54.133521],[20.500624,54.134466],[20.499434,54.135054],[20.499329,54.135103],[20.498473,54.1355],[20.496916,54.136235],[20.49607,54.136636],[20.493645,54.137787],[20.491605,54.138755],[20.492622,54.139629],[20.493169,54.140099],[20.494743,54.141214],[20.495753,54.141946],[20.496203,54.142274],[20.496476,54.142473],[20.496603,54.142545],[20.496727,54.142636],[20.497184,54.142974],[20.497548,54.14324],[20.498484,54.143943],[20.498567,54.144006],[20.498673,54.144107],[20.498726,54.144145],[20.498792,54.144194],[20.498808,54.144209],[20.500077,54.145135],[20.500228,54.145245],[20.500879,54.145724],[20.501749,54.146365],[20.502155,54.14667],[20.50262,54.14702],[20.502776,54.147128],[20.503053,54.14736],[20.503377,54.147627],[20.503429,54.147671],[20.503793,54.147974],[20.504024,54.14817],[20.504256,54.148366],[20.505329,54.149125],[20.505365,54.149151],[20.506451,54.149918],[20.506791,54.150159],[20.507581,54.150718],[20.507786,54.150604],[20.508853,54.150014],[20.509378,54.149723],[20.510277,54.14922],[20.510719,54.148973],[20.511305,54.148638],[20.511818,54.148345],[20.512005,54.14831],[20.513488,54.147427],[20.514324,54.146968],[20.515052,54.146567],[20.515349,54.146423],[20.515864,54.146139],[20.516777,54.145636],[20.518879,54.144447],[20.520313,54.143617],[20.520357,54.143592],[20.521945,54.142767],[20.523348,54.143334],[20.527858,54.140529]]],"type":"Polygon"}
 }

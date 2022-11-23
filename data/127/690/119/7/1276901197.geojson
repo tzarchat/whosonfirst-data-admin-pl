@@ -2,84 +2,88 @@
   "id": 1276901197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.85867,50.54539,23.85867,50.54539",
-    "geom:latitude":50.54539,
-    "geom:longitude":23.85867,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"618.0",
-    "gn:admin3_code":"61810.0",
-    "gn:asciiname":"Franusin",
-    "gn:country_code":"PL",
-    "gn:dem":224,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":772471,
-    "gn:latitude":50.54539,
-    "gn:longitude":23.85867,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Franusin",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.83867,50.52539,23.87867,50.56539",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Franusin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00012989158437871486,
+    "geom:area_square_m": 1024151.3868048764,
+    "geom:bbox": "23.848999435246867,50.54113124501485,23.867776704249266,50.55097097501892",
+    "geom:latitude": 23.859250397749452,
+    "geom:longitude": 50.54611341041428,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "618.0",
+    "gn:admin3_code": "61810.0",
+    "gn:asciiname": "Franusin",
+    "gn:country_code": "PL",
+    "gn:dem": 224,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 772471,
+    "gn:latitude": 50.54539,
+    "gn:longitude": 23.85867,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Franusin",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.83867,50.52539,23.87867,50.56539",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Franusin"
     ],
-    "name:pol_x_preferred":[
-        "Franusin"
+    "name:pol_x_preferred": [
+      "Franusin"
     ],
-    "name:ukr_x_preferred":[
-        "\u0424\u0440\u0430\u043d\u0443\u0441\u0456\u043d"
+    "name:ukr_x_preferred": [
+      "Франусін"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125289361,
-        85633723,
-        102079689
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":772471,
-        "wk:page":"Franusin"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125289361,
+      85633723,
+      102079689
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 772471,
+      "pl-gugik:jpt_kod_je": "061810_2.0002",
+      "wk:page": "Franusin"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"88ad7daaf39bf718db49c04f441f8235",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079689,
-            "localadmin_id":1125289361,
-            "locality_id":1276901197,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "eb8823cdb95454c4e18aba82f7b302bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079689,
+        "localadmin_id": 1125289361,
+        "locality_id": 1276901197,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1276901197,
-    "wof:lastmodified":1570018955,
-    "wof:name":"Franusin",
-    "wof:parent_id":1125289361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276901197,
+    "wof:lastmodified": 1669215948,
+    "wof:name": "Franusin",
+    "wof:parent_id": 1125289361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.85867,
-    50.54539000000001,
-    23.85867,
-    50.54539000000001
-],
-  "geometry": {"coordinates":[23.85867,50.54539000000001],"type":"Point"}
+    23.848999435246867,
+    50.54113124501485,
+    23.867776704249266,
+    50.55097097501892
+  ],
+  "geometry": {"coordinates":[[[23.848999,50.543442],[23.849135,50.543754],[23.849289,50.544112],[23.850218,50.54474],[23.850686,50.54588],[23.851194,50.546679],[23.852144,50.549123],[23.851802,50.549122],[23.852024,50.549755],[23.852202,50.550263],[23.852243,50.550379],[23.852298,50.550593],[23.85247,50.550565],[23.854153,50.550289],[23.858143,50.549634],[23.860361,50.54927],[23.860395,50.549348],[23.861082,50.550945],[23.861092,50.550971],[23.861347,50.550923],[23.861458,50.550902],[23.862625,50.550744],[23.86307,50.550674],[23.863772,50.550557],[23.864245,50.550488],[23.864905,50.550392],[23.865799,50.550261],[23.867044,50.550079],[23.867136,50.549813],[23.867207,50.549604],[23.867284,50.54938],[23.867315,50.549288],[23.867346,50.549197],[23.867405,50.549024],[23.86748,50.548806],[23.867548,50.548605],[23.867626,50.548376],[23.867706,50.548143],[23.867724,50.54809],[23.867741,50.548041],[23.867743,50.547977],[23.867769,50.547285],[23.867758,50.547018],[23.867767,50.546905],[23.867777,50.546768],[23.867659,50.546371],[23.867653,50.546352],[23.867628,50.546267],[23.867545,50.546],[23.867404,50.545546],[23.867403,50.545543],[23.867385,50.545486],[23.866947,50.544075],[23.866854,50.543776],[23.866812,50.543781],[23.866784,50.543785],[23.864952,50.544016],[23.865038,50.54393],[23.865049,50.543918],[23.865059,50.543909],[23.865124,50.543808],[23.865219,50.54366],[23.865378,50.543413],[23.865368,50.543138],[23.86536,50.542936],[23.865353,50.542753],[23.86535,50.542662],[23.865345,50.542543],[23.865343,50.542487],[23.865307,50.542419],[23.865244,50.542304],[23.865219,50.542257],[23.865148,50.542125],[23.864934,50.541729],[23.864543,50.541555],[23.864137,50.541376],[23.863584,50.541131],[23.857785,50.54205],[23.857621,50.542076],[23.848999,50.543442]]],"type":"Polygon"}
 }

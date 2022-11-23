@@ -2,90 +2,94 @@
   "id": 1193169649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.38056,52.36944,20.38056,52.36944",
-    "geom:latitude":52.36944,
-    "geom:longitude":20.38056,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1428.0",
-    "gn:admin3_code":"142802.0",
-    "gn:asciiname":"Gorzewnica",
-    "gn:country_code":"PL",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":771740,
-    "gn:latitude":52.36944,
-    "gn:longitude":20.38056,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Gorzewnica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.36056,52.34944,20.40056,52.38944",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0642\u0648\u0698\u0648\u0646\u0642\u062a\u0633\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00023481942234434056,
+    "geom:area_square_m": 1779478.2533058098,
+    "geom:bbox": "20.374689699997703,52.36284597901317,20.388118561998358,52.387326429015985",
+    "geom:latitude": 20.381425050933988,
+    "geom:longitude": 52.37519438091434,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1428.0",
+    "gn:admin3_code": "142802.0",
+    "gn:asciiname": "Gorzewnica",
+    "gn:country_code": "PL",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 771740,
+    "gn:latitude": 52.36944,
+    "gn:longitude": 20.38056,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Gorzewnica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.36056,52.34944,20.40056,52.38944",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "قوژونقتسا"
     ],
-    "name:fas_x_preferred":[
-        "\u06af\u0648\u0698\u0648\u0646\u06af\u062a\u0633\u0627"
+    "name:fas_x_preferred": [
+      "گوژونگتسا"
     ],
-    "name:fra_x_preferred":[
-        "Gorzewnica"
+    "name:fra_x_preferred": [
+      "Gorzewnica"
     ],
-    "name:pol_x_preferred":[
-        "Gorzewnica"
+    "name:pol_x_preferred": [
+      "Gorzewnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043e\u0436\u0435\u0432\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Ґожевниця"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125302089,
-        85633723,
-        102079945
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":771740,
-        "wk:page":"Gorzewnica"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125302089,
+      85633723,
+      102079945
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 771740,
+      "pl-gugik:jpt_kod_je": "142802_2.0009",
+      "wk:page": "Gorzewnica"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3fe9289f93de808856108c964886e8da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079945,
-            "localadmin_id":1125302089,
-            "locality_id":1193169649,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "46e7690645d85c0e9a70327ab928f891",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079945,
+        "localadmin_id": 1125302089,
+        "locality_id": 1193169649,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1193169649,
-    "wof:lastmodified":1570024264,
-    "wof:name":"Gorzewnica",
-    "wof:parent_id":1125302089,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193169649,
+    "wof:lastmodified": 1669215944,
+    "wof:name": "Gorzewnica",
+    "wof:parent_id": 1125302089,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.38056,
-    52.36944,
-    20.38056,
-    52.36944
-],
-  "geometry": {"coordinates":[20.38056,52.36944],"type":"Point"}
+    20.374689699997703,
+    52.36284597901317,
+    20.388118561998358,
+    52.387326429015985
+  ],
+  "geometry": {"coordinates":[[[20.382459,52.362846],[20.381914,52.362849],[20.37955,52.362863],[20.379222,52.362901],[20.379221,52.362937],[20.379237,52.364087],[20.379247,52.367138],[20.379227,52.368046],[20.379225,52.369034],[20.379224,52.36958],[20.379223,52.369623],[20.379223,52.369625],[20.37922,52.369679],[20.379153,52.369674],[20.378076,52.369585],[20.377004,52.369498],[20.375912,52.369408],[20.375313,52.369359],[20.37469,52.369321],[20.37472,52.370528],[20.374719,52.370529],[20.374757,52.371584],[20.374759,52.371642],[20.374765,52.371787],[20.374792,52.372562],[20.374806,52.373477],[20.374872,52.374779],[20.374878,52.374931],[20.374887,52.375806],[20.374893,52.376437],[20.3749,52.37696],[20.374903,52.377213],[20.374911,52.377863],[20.374911,52.377882],[20.375069,52.378527],[20.37592,52.382008],[20.376193,52.383125],[20.377249,52.387326],[20.382912,52.38467],[20.388119,52.383044],[20.387524,52.379234],[20.387451,52.378768],[20.387437,52.378678],[20.387433,52.378504],[20.387396,52.376725],[20.387394,52.376596],[20.387395,52.376468],[20.387345,52.375215],[20.387332,52.375025],[20.387316,52.374826],[20.387287,52.373691],[20.387288,52.37352],[20.387258,52.37082],[20.387208,52.369912],[20.387207,52.369876],[20.387196,52.369337],[20.387194,52.369223],[20.38719,52.369148],[20.387123,52.367806],[20.387095,52.367034],[20.386634,52.367174],[20.385369,52.368061],[20.385366,52.36792],[20.385353,52.367383],[20.385352,52.367332],[20.385351,52.367297],[20.385328,52.366317],[20.385304,52.364424],[20.385288,52.363095],[20.385283,52.363022],[20.385277,52.362927],[20.383274,52.362921],[20.382459,52.362846]]],"type":"Polygon"}
 }

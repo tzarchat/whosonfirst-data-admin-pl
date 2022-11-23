@@ -2,90 +2,94 @@
   "id": 1260216455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.60351,54.04407,22.60351,54.04407",
-    "geom:latitude":54.04407,
-    "geom:longitude":22.60351,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2813.0",
-    "gn:admin3_code":"281306.0",
-    "gn:asciiname":"Godziejewo",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":172,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":771989,
-    "gn:latitude":54.04407,
-    "gn:longitude":22.60351,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Godziejewo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.58351,54.02407,22.62351,54.06407",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Godziejewo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00018103972320658346,
+    "geom:area_square_m": 1319914.8138887407,
+    "geom:bbox": "22.58932782403169,54.0412067210178,22.61856471203555,54.052791622022106",
+    "geom:latitude": 22.604065975650215,
+    "geom:longitude": 54.04698963950112,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2813.0",
+    "gn:admin3_code": "281306.0",
+    "gn:asciiname": "Godziejewo",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 172,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 771989,
+    "gn:latitude": 54.04407,
+    "gn:longitude": 22.60351,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Godziejewo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.58351,54.02407,22.62351,54.06407",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Godziejewo"
     ],
-    "name:pol_x_preferred":[
-        "Godziejewo"
+    "name:pol_x_preferred": [
+      "Godziejewo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043e\u0434\u0437\u0454\u0454\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Ґодзєєво"
     ],
-    "name:und_x_variant":[
-        "Godziejowo",
-        "Refusowiszna",
-        "Rehfeld"
+    "name:und_x_variant": [
+      "Godziejowo",
+      "Refusowiszna",
+      "Rehfeld"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752773,
-        85633723,
-        102080243
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":771989,
-        "wk:page":"Godziejewo"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752773,
+      85633723,
+      102080243
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 771989,
+      "pl-gugik:jpt_kod_je": "281306_2.0004",
+      "wk:page": "Godziejewo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9746161f64a0cdce67cf243fd3a72d17",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080243,
-            "localadmin_id":1477752773,
-            "locality_id":1260216455,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fc5c8e79ea098a259e959cf930edd2c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080243,
+        "localadmin_id": 1477752773,
+        "locality_id": 1260216455,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1260216455,
-    "wof:lastmodified":1570025696,
-    "wof:name":"Godziejewo",
-    "wof:parent_id":1477752773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260216455,
+    "wof:lastmodified": 1669215924,
+    "wof:name": "Godziejewo",
+    "wof:parent_id": 1477752773,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.60351,
-    54.04407,
-    22.60351,
-    54.04407
-],
-  "geometry": {"coordinates":[22.60351,54.04407],"type":"Point"}
+    22.58932782403169,
+    54.0412067210178,
+    22.61856471203555,
+    54.052791622022106
+  ],
+  "geometry": {"coordinates":[[[22.600825,54.051936],[22.601863,54.051819],[22.603126,54.051601],[22.604981,54.051281],[22.60541,54.051207],[22.606543,54.05089],[22.608135,54.050443],[22.609889,54.05017],[22.612048,54.050508],[22.612124,54.05052],[22.612157,54.050525],[22.612785,54.050623],[22.613168,54.050624],[22.616422,54.050599],[22.617107,54.050593],[22.618565,54.050053],[22.617309,54.048701],[22.617253,54.048602],[22.6171,54.048474],[22.615793,54.04698],[22.615404,54.046526],[22.614743,54.045789],[22.613919,54.04487],[22.612735,54.044851],[22.611394,54.044915],[22.611283,54.044792],[22.609697,54.043034],[22.609657,54.04299],[22.608264,54.041446],[22.608043,54.041207],[22.607521,54.041394],[22.605857,54.041991],[22.605795,54.042001],[22.60576,54.042006],[22.603536,54.042352],[22.602571,54.042497],[22.601229,54.0427],[22.600785,54.042766],[22.59968,54.042924],[22.597833,54.043188],[22.597518,54.043233],[22.595145,54.0436],[22.593557,54.043845],[22.5935,54.043854],[22.593069,54.043921],[22.592431,54.044018],[22.589328,54.044489],[22.590952,54.045814],[22.591716,54.046438],[22.59345,54.047814],[22.5935,54.047854],[22.593539,54.047885],[22.593579,54.047917],[22.594298,54.048488],[22.594326,54.04851],[22.59437,54.048545],[22.594383,54.048555],[22.595799,54.049695],[22.598048,54.051425],[22.598328,54.051629],[22.598983,54.05217],[22.599858,54.052792],[22.600825,54.051936]]],"type":"Polygon"}
 }

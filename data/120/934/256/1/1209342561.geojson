@@ -2,96 +2,100 @@
   "id": 1209342561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.36546,52.81734,23.36546,52.81734",
-    "geom:latitude":52.81734,
-    "geom:longitude":23.36546,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2005.0",
-    "gn:admin3_code":"200504.0",
-    "gn:asciiname":"Sapowo",
-    "gn:country_code":"PL",
-    "gn:dem":146,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":759587,
-    "gn:latitude":52.81734,
-    "gn:longitude":23.36546,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Sapowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.34546,52.79734,23.38546,52.83734",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0633\u0627\u067e\u0648\u0648\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00028970107812784204,
+    "geom:area_square_m": 2173763.5117705055,
+    "geom:bbox": "23.350312734096384,52.804622594022405,23.377288615100706,52.82132648602138",
+    "geom:latitude": 23.365157314757404,
+    "geom:longitude": 52.81289428794961,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2005.0",
+    "gn:admin3_code": "200504.0",
+    "gn:asciiname": "Sapowo",
+    "gn:country_code": "PL",
+    "gn:dem": 146,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 759587,
+    "gn:latitude": 52.81734,
+    "gn:longitude": 23.36546,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Sapowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.34546,52.79734,23.38546,52.83734",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "ساپووو"
     ],
-    "name:bel_x_preferred":[
-        "\u0421\u0430\u043f\u0430\u0432\u0430"
+    "name:bel_x_preferred": [
+      "Сапава"
     ],
-    "name:fas_x_preferred":[
-        "\u0633\u0627\u067e\u0648\u0648\u0648"
+    "name:fas_x_preferred": [
+      "ساپووو"
     ],
-    "name:fra_x_preferred":[
-        "Sapowo"
+    "name:fra_x_preferred": [
+      "Sapowo"
     ],
-    "name:lit_x_preferred":[
-        "Sapovas"
+    "name:lit_x_preferred": [
+      "Sapovas"
     ],
-    "name:pol_x_preferred":[
-        "Sapowo"
+    "name:pol_x_preferred": [
+      "Sapowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0430\u043f\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Сапово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752257,
-        85633723,
-        102080091
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":759587,
-        "wk:page":"Sapowo"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752257,
+      85633723,
+      102080091
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 759587,
+      "pl-gugik:jpt_kod_je": "200504_2.0015",
+      "wk:page": "Sapowo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"936ea69237afe78a445aa5223d77a7ad",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080091,
-            "localadmin_id":1477752257,
-            "locality_id":1209342561,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "c795d3e8a125f2c6aa3a4a211dc3965b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080091,
+        "localadmin_id": 1477752257,
+        "locality_id": 1209342561,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209342561,
-    "wof:lastmodified":1570022498,
-    "wof:name":"Sapowo",
-    "wof:parent_id":1477752257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209342561,
+    "wof:lastmodified": 1669215922,
+    "wof:name": "Sapowo",
+    "wof:parent_id": 1477752257,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.36546,
-    52.81734,
-    23.36546,
-    52.81734
-],
-  "geometry": {"coordinates":[23.36546,52.81734],"type":"Point"}
+    23.350312734096384,
+    52.804622594022405,
+    23.377288615100706,
+    52.82132648602138
+  ],
+  "geometry": {"coordinates":[[[23.350313,52.81556],[23.351685,52.815852],[23.354653,52.816481],[23.357784,52.817149],[23.358282,52.816293],[23.359079,52.816501],[23.359206,52.816729],[23.359384,52.81705],[23.359662,52.817549],[23.361804,52.81801],[23.363847,52.818449],[23.363876,52.818455],[23.36389,52.818458],[23.363959,52.818473],[23.364003,52.818482],[23.365979,52.818906],[23.366849,52.819089],[23.366998,52.819121],[23.369695,52.819699],[23.371681,52.820125],[23.377289,52.821326],[23.377282,52.821055],[23.377276,52.82078],[23.377257,52.820016],[23.377242,52.819397],[23.377232,52.819007],[23.377231,52.818934],[23.377227,52.818805],[23.377227,52.818779],[23.377213,52.818228],[23.377213,52.818199],[23.377206,52.817902],[23.377206,52.817889],[23.377158,52.815719],[23.377153,52.815475],[23.377139,52.814828],[23.377111,52.813581],[23.377111,52.813567],[23.37711,52.813536],[23.37711,52.81351],[23.377065,52.811463],[23.377023,52.809451],[23.377021,52.809384],[23.377014,52.809122],[23.377014,52.809094],[23.370509,52.807704],[23.368363,52.80724],[23.365613,52.806656],[23.362551,52.805999],[23.361058,52.805686],[23.36071,52.805613],[23.358415,52.805078],[23.356446,52.804623],[23.356432,52.804648],[23.356277,52.804936],[23.356242,52.804996],[23.356131,52.805189],[23.355122,52.806938],[23.355019,52.807106],[23.354562,52.807869],[23.353793,52.809155],[23.353761,52.809209],[23.353511,52.80962],[23.353458,52.809708],[23.352754,52.810836],[23.351918,52.812189],[23.351733,52.812489],[23.351455,52.813088],[23.351189,52.813665],[23.351011,52.81405],[23.350747,52.814621],[23.350313,52.81556]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1310231589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.87331,50.92517,16.87331,50.92517",
-    "geom:latitude":50.92517,
-    "geom:longitude":16.87331,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"223.0",
-    "gn:admin3_code":"22305.0",
-    "gn:asciiname":"Dobkowice",
-    "gn:country_code":"PL",
-    "gn:dem":150,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3100376,
-    "gn:latitude":50.92517,
-    "gn:longitude":16.87331,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Dobkowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.85331,50.90517,16.89331,50.94517",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dobkowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00030038630663455307,
+    "geom:area_square_m": 2349714.678374186,
+    "geom:bbox": "16.859683271990132,50.911548032013755,16.883029276989525,50.931919598016854",
+    "geom:latitude": 16.872601763213265,
+    "geom:longitude": 50.92229045080525,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "223.0",
+    "gn:admin3_code": "22305.0",
+    "gn:asciiname": "Dobkowice",
+    "gn:country_code": "PL",
+    "gn:dem": 150,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3100376,
+    "gn:latitude": 50.92517,
+    "gn:longitude": 16.87331,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Dobkowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.85331,50.90517,16.89331,50.94517",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Dobkowice"
     ],
-    "name:pol_x_preferred":[
-        "Dobkowice"
+    "name:pol_x_preferred": [
+      "Dobkowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u043e\u0431\u043a\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Добковіце"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125370893,
-        85633723,
-        102079685
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3100376,
-        "wk:page":"Dobkowice%2C_Lower_Silesian_Voivodeship"
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125370893,
+      85633723,
+      102079685
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3100376,
+      "pl-gugik:jpt_kod_je": "022305_2.0006",
+      "wk:page": "Dobkowice%2C_Lower_Silesian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"14ad7d1f00e3e871e5eec96633638ee5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079685,
-            "localadmin_id":1125370893,
-            "locality_id":1310231589,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "8d8a4c743207f4b96568b3fe73a4bdfe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079685,
+        "localadmin_id": 1125370893,
+        "locality_id": 1310231589,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1310231589,
-    "wof:lastmodified":1570026161,
-    "wof:name":"Dobkowice",
-    "wof:parent_id":1125370893,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310231589,
+    "wof:lastmodified": 1669215858,
+    "wof:name": "Dobkowice",
+    "wof:parent_id": 1125370893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.87331,
-    50.92517,
-    16.87331,
-    50.92517
-],
-  "geometry": {"coordinates":[16.87331,50.92517],"type":"Point"}
+    16.859683271990132,
+    50.911548032013755,
+    16.883029276989525,
+    50.931919598016854
+  ],
+  "geometry": {"coordinates":[[[16.859683,50.927014],[16.859689,50.92705],[16.865811,50.92666],[16.866295,50.926685],[16.866448,50.926851],[16.868034,50.928402],[16.868375,50.928627],[16.868543,50.928801],[16.868826,50.928804],[16.868829,50.92884],[16.869084,50.928833],[16.869254,50.928826],[16.870197,50.928788],[16.871132,50.928751],[16.871329,50.928825],[16.871363,50.928901],[16.871397,50.928974],[16.87147,50.929134],[16.871789,50.930099],[16.872215,50.93192],[16.873689,50.931858],[16.875348,50.931788],[16.875425,50.931785],[16.882462,50.931433],[16.882532,50.931403],[16.882599,50.9314],[16.883029,50.931383],[16.882795,50.929681],[16.882762,50.92957],[16.882583,50.929009],[16.88257,50.928957],[16.882086,50.927335],[16.882073,50.927223],[16.881986,50.927219],[16.881983,50.92691],[16.881935,50.926757],[16.881224,50.924485],[16.8812,50.924387],[16.881196,50.924371],[16.881283,50.924371],[16.88127,50.924246],[16.880975,50.922865],[16.880957,50.922783],[16.880942,50.922714],[16.880298,50.919767],[16.880285,50.919708],[16.880111,50.918911],[16.880015,50.918468],[16.879969,50.918261],[16.879924,50.918054],[16.879914,50.918007],[16.879902,50.917953],[16.878794,50.912812],[16.878124,50.912719],[16.875589,50.912383],[16.872777,50.912011],[16.870852,50.911564],[16.870785,50.911548],[16.870238,50.912162],[16.869502,50.913043],[16.869027,50.913525],[16.868172,50.914388],[16.867958,50.914583],[16.867512,50.914989],[16.866709,50.915671],[16.866252,50.916074],[16.865475,50.916829],[16.865401,50.916901],[16.86402,50.918466],[16.863178,50.919297],[16.863131,50.919344],[16.862713,50.919623],[16.862639,50.919677],[16.862373,50.920367],[16.862027,50.921262],[16.861486,50.922663],[16.861498,50.922804],[16.861466,50.922937],[16.861422,50.92306],[16.861378,50.923183],[16.861317,50.923304],[16.861256,50.923425],[16.861212,50.923496],[16.861169,50.923566],[16.861011,50.923736],[16.860853,50.923906],[16.860476,50.924315],[16.8601,50.924725],[16.859846,50.925765],[16.859683,50.927014]]],"type":"Polygon"}
 }

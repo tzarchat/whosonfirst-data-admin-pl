@@ -2,81 +2,85 @@
   "id": 1343990545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.27493,53.28987,18.27493,53.28987",
-    "geom:latitude":53.28987,
-    "geom:longitude":18.27493,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"414.0",
-    "gn:admin3_code":"41408.0",
-    "gn:asciiname":"Konstantowo",
-    "gn:country_code":"PL",
-    "gn:dem":91,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095287,
-    "gn:latitude":53.28987,
-    "gn:longitude":18.27493,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Konstantowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.25493,53.26987,18.29493,53.30987",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Konstantowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010458682306631674,
+    "geom:area_square_m": 776243.4301439761,
+    "geom:bbox": "18.26208447999656,53.28257068401441,18.279789893993716,53.294855135016576",
+    "geom:latitude": 18.26967515530661,
+    "geom:longitude": 53.28799340448436,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "414.0",
+    "gn:admin3_code": "41408.0",
+    "gn:asciiname": "Konstantowo",
+    "gn:country_code": "PL",
+    "gn:dem": 91,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095287,
+    "gn:latitude": 53.28987,
+    "gn:longitude": 18.27493,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Konstantowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.25493,53.26987,18.29493,53.30987",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Konstantowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Константово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1477752611,
-        85633723,
-        102080137
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095287,
-        "wk:page":"Konstantowo%2C_%C5%9Awiecie_County"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1477752611,
+      85633723,
+      102080137
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095287,
+      "pl-gugik:jpt_kod_je": "041408_5.0007",
+      "wk:page": "Konstantowo%2C_%C5%9Awiecie_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"30b2f47b74801e212c5b83d66db2617f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080137,
-            "localadmin_id":1477752611,
-            "locality_id":1343990545,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "08a0a6d3d08bd837b8bad48c1359585c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080137,
+        "localadmin_id": 1477752611,
+        "locality_id": 1343990545,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1343990545,
-    "wof:lastmodified":1570009353,
-    "wof:name":"Konstantowo",
-    "wof:parent_id":1477752611,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343990545,
+    "wof:lastmodified": 1669215899,
+    "wof:name": "Konstantowo",
+    "wof:parent_id": 1477752611,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.27493,
-    53.28986999999999,
-    18.27493,
-    53.28986999999999
-],
-  "geometry": {"coordinates":[18.27493,53.28986999999999],"type":"Point"}
+    18.26208447999656,
+    53.28257068401441,
+    18.279789893993716,
+    53.294855135016576
+  ],
+  "geometry": {"coordinates":[[[18.262084,53.289306],[18.262112,53.289349],[18.262351,53.289722],[18.263058,53.289914],[18.263462,53.290017],[18.263862,53.29012],[18.265369,53.290534],[18.265863,53.290669],[18.266752,53.290913],[18.267217,53.29104],[18.267151,53.291463],[18.267145,53.291506],[18.267273,53.291505],[18.268571,53.291441],[18.26961,53.291395],[18.271225,53.291329],[18.271143,53.292032],[18.271137,53.292081],[18.271066,53.292808],[18.271016,53.293295],[18.272049,53.293554],[18.272394,53.293637],[18.272843,53.293748],[18.273267,53.294012],[18.273369,53.294218],[18.273408,53.294362],[18.273547,53.29449],[18.274055,53.29457],[18.27474,53.294803],[18.274977,53.294855],[18.275045,53.293641],[18.27507,53.293228],[18.275082,53.293021],[18.275136,53.292029],[18.275194,53.292001],[18.275189,53.291907],[18.275204,53.291702],[18.275359,53.289582],[18.275403,53.28854],[18.275448,53.28854],[18.275848,53.288533],[18.276632,53.288517],[18.27737,53.288505],[18.278507,53.288483],[18.279667,53.288461],[18.27975,53.288232],[18.27979,53.288196],[18.278315,53.287847],[18.277494,53.287602],[18.276717,53.287239],[18.276308,53.287023],[18.275721,53.286669],[18.274934,53.286195],[18.273214,53.285013],[18.273012,53.284887],[18.272468,53.284584],[18.271796,53.284264],[18.270469,53.283744],[18.270254,53.283671],[18.269796,53.283554],[18.268886,53.283346],[18.267487,53.283011],[18.264873,53.282717],[18.263667,53.282571],[18.263667,53.282622],[18.263584,53.283109],[18.26352,53.283573],[18.263449,53.284134],[18.263378,53.284715],[18.263334,53.284992],[18.263317,53.285294],[18.263255,53.285855],[18.263191,53.286455],[18.263149,53.286926],[18.263061,53.287605],[18.262996,53.288],[18.262766,53.288118],[18.262514,53.288475],[18.26247,53.288595],[18.262289,53.28911],[18.262084,53.289306]]],"type":"Polygon"}
 }

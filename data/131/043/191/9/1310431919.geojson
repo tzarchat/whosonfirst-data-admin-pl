@@ -2,88 +2,92 @@
   "id": 1310431919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.6351,54.04054,22.6351,54.04054",
-    "geom:latitude":54.04054,
-    "geom:longitude":22.6351,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2813.0",
-    "gn:admin3_code":"281306.0",
-    "gn:asciiname":"Urbanki",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":167,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":756322,
-    "gn:latitude":54.04054,
-    "gn:longitude":22.6351,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Urbanki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.6151,54.02054,22.6551,54.06054",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Urbanki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00023787010191026945,
+    "geom:area_square_m": 1734634.2061155885,
+    "geom:bbox": "22.621587595037262,54.029395372019636,22.65022430104114,54.046294713022576",
+    "geom:latitude": 22.635709661728757,
+    "geom:longitude": 54.03772629372599,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2813.0",
+    "gn:admin3_code": "281306.0",
+    "gn:asciiname": "Urbanki",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 167,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 756322,
+    "gn:latitude": 54.04054,
+    "gn:longitude": 22.6351,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Urbanki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.6151,54.02054,22.6551,54.06054",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Urbanki"
     ],
-    "name:pol_x_preferred":[
-        "Urbanki"
+    "name:pol_x_preferred": [
+      "Urbanki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0423\u0440\u0431\u0430\u043d\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Урбанкі"
     ],
-    "name:und_x_variant":[
-        "Urbanken"
+    "name:und_x_variant": [
+      "Urbanken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752773,
-        85633723,
-        102080243
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756322,
-        "wk:page":"Urbanki"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752773,
+      85633723,
+      102080243
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756322,
+      "pl-gugik:jpt_kod_je": "281306_2.0019",
+      "wk:page": "Urbanki"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"f6599d6b06e1ab9422c8df7dc94c1bcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080243,
-            "localadmin_id":1477752773,
-            "locality_id":1310431919,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "402e8ede1a55f543fdbc6d8068e3a174",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080243,
+        "localadmin_id": 1477752773,
+        "locality_id": 1310431919,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1310431919,
-    "wof:lastmodified":1570027882,
-    "wof:name":"Urbanki",
-    "wof:parent_id":1477752773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310431919,
+    "wof:lastmodified": 1669215926,
+    "wof:name": "Urbanki",
+    "wof:parent_id": 1477752773,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.6351,
-    54.04054,
-    22.6351,
-    54.04054
-],
-  "geometry": {"coordinates":[22.6351,54.04054],"type":"Point"}
+    22.621587595037262,
+    54.029395372019636,
+    22.65022430104114,
+    54.046294713022576
+  ],
+  "geometry": {"coordinates":[[[22.63214,54.046295],[22.632721,54.046104],[22.63294,54.046004],[22.633666,54.045669],[22.633726,54.045649],[22.635177,54.045173],[22.637297,54.044224],[22.639221,54.042852],[22.639276,54.042808],[22.639785,54.042391],[22.640018,54.0422],[22.640053,54.042171],[22.640342,54.04197],[22.641335,54.041281],[22.641413,54.041248],[22.642251,54.040891],[22.642768,54.040715],[22.643774,54.040372],[22.643871,54.040321],[22.644911,54.039771],[22.645278,54.039577],[22.648181,54.038765],[22.648398,54.038705],[22.650224,54.037329],[22.648757,54.036374],[22.648726,54.036354],[22.647284,54.035417],[22.647253,54.035397],[22.644752,54.03377],[22.643528,54.032884],[22.64322,54.032661],[22.643067,54.032555],[22.641413,54.03141],[22.639509,54.030073],[22.638653,54.029395],[22.635963,54.0309],[22.635884,54.030946],[22.635192,54.031333],[22.633587,54.032286],[22.633511,54.032335],[22.632091,54.03283],[22.631619,54.033001],[22.630804,54.03328],[22.630602,54.033352],[22.628775,54.033982],[22.628516,54.034078],[22.62717,54.03453],[22.626978,54.034592],[22.626303,54.034825],[22.626033,54.034918],[22.625301,54.035172],[22.625256,54.035188],[22.625206,54.035205],[22.62514,54.035228],[22.62399,54.035628],[22.623834,54.035683],[22.622374,54.036195],[22.622222,54.036248],[22.621588,54.036459],[22.622065,54.036878],[22.622665,54.037473],[22.622692,54.037497],[22.622798,54.037594],[22.622843,54.037635],[22.623724,54.038409],[22.624701,54.039346],[22.625034,54.039658],[22.625097,54.039717],[22.625733,54.040295],[22.626083,54.040634],[22.626287,54.040815],[22.626361,54.040895],[22.627934,54.042374],[22.628103,54.042522],[22.628416,54.042824],[22.628565,54.042947],[22.62866,54.043052],[22.629053,54.043419],[22.63214,54.046295]]],"type":"Polygon"}
 }

@@ -2,87 +2,91 @@
   "id": 1209133911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.06667,52.3,18.06667,52.3",
-    "geom:latitude":52.3,
-    "geom:longitude":18.06667,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3010.0",
-    "gn:admin3_code":"301003.0",
-    "gn:asciiname":"Benignowo",
-    "gn:country_code":"PL",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103680,
-    "gn:latitude":52.3,
-    "gn:longitude":18.06667,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Benignowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.04667,52.28,18.08667,52.32",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Benignowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00009593331565844649,
+    "geom:area_square_m": 728271.8748206394,
+    "geom:bbox": "18.049485311997632,52.292079575013126,18.067645153006477,52.30181278401253",
+    "geom:latitude": 18.05763137398665,
+    "geom:longitude": 52.29638445842467,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3010.0",
+    "gn:admin3_code": "301003.0",
+    "gn:asciiname": "Benignowo",
+    "gn:country_code": "PL",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103680,
+    "gn:latitude": 52.3,
+    "gn:longitude": 18.06667,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Benignowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.04667,52.28,18.08667,52.32",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Benignowo"
     ],
-    "name:ita_x_preferred":[
-        "Benignowo"
+    "name:ita_x_preferred": [
+      "Benignowo"
     ],
-    "name:pol_x_preferred":[
-        "Benignowo"
+    "name:pol_x_preferred": [
+      "Benignowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0435\u043d\u0456\u0491\u043d\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Беніґново"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477751253,
-        85633723,
-        102079943
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103680,
-        "wk:page":"Benignowo"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477751253,
+      85633723,
+      102079943
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103680,
+      "pl-gugik:jpt_kod_je": "302306_2.0001",
+      "wk:page": "Benignowo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"0be9e2dcee14c1625d2abc056a8cca7e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079943,
-            "localadmin_id":1477751253,
-            "locality_id":1209133911,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a44faa17f3f65e26519b035a5a9ba648",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079943,
+        "localadmin_id": 1477751253,
+        "locality_id": 1209133911,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1209133911,
-    "wof:lastmodified":1570021279,
-    "wof:name":"Benignowo",
-    "wof:parent_id":1477751253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209133911,
+    "wof:lastmodified": 1669215899,
+    "wof:name": "Benignowo",
+    "wof:parent_id": 1477751253,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.06667,
-    52.3,
-    18.06667,
-    52.3
-],
-  "geometry": {"coordinates":[18.06667,52.3],"type":"Point"}
+    18.049485311997632,
+    52.292079575013126,
+    18.067645153006477,
+    52.30181278401253
+  ],
+  "geometry": {"coordinates":[[[18.049485,52.293132],[18.049999,52.294695],[18.050115,52.295048],[18.050371,52.295827],[18.050516,52.296267],[18.050573,52.296441],[18.050659,52.296703],[18.050798,52.297124],[18.050906,52.297452],[18.051018,52.297795],[18.051115,52.298087],[18.051232,52.298444],[18.05129,52.29862],[18.051317,52.298649],[18.05153,52.298869],[18.051703,52.299048],[18.051926,52.299279],[18.052242,52.299605],[18.052345,52.299711],[18.052723,52.300098],[18.052877,52.300255],[18.05431,52.301719],[18.054314,52.301813],[18.055704,52.301154],[18.057959,52.300001],[18.057993,52.299984],[18.05803,52.299965],[18.058053,52.299953],[18.058487,52.29973],[18.059186,52.299371],[18.059517,52.299201],[18.059696,52.299109],[18.059999,52.298954],[18.06097,52.298455],[18.061556,52.298154],[18.061579,52.298142],[18.06403,52.298675],[18.064105,52.298693],[18.064266,52.29846],[18.064476,52.298081],[18.064728,52.297734],[18.065033,52.297266],[18.065182,52.297019],[18.066026,52.295758],[18.066595,52.294919],[18.066682,52.294746],[18.066847,52.294582],[18.067029,52.294378],[18.06722,52.294158],[18.067368,52.29398],[18.067451,52.293876],[18.067562,52.293816],[18.067645,52.293745],[18.066731,52.293768],[18.066061,52.293791],[18.064956,52.293829],[18.063777,52.293727],[18.061103,52.293394],[18.060762,52.293326],[18.059817,52.293039],[18.059436,52.292923],[18.059228,52.29286],[18.059078,52.292812],[18.058113,52.292503],[18.057604,52.292351],[18.057183,52.292261],[18.056483,52.292148],[18.05604,52.29208],[18.056001,52.292212],[18.055387,52.293066],[18.054926,52.293839],[18.054164,52.293784],[18.053411,52.293746],[18.052724,52.293712],[18.051991,52.293675],[18.051067,52.293629],[18.049485,52.293132]]],"type":"Polygon"}
 }

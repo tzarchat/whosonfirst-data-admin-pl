@@ -2,93 +2,97 @@
   "id": 1243391309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.37189,50.16238,18.37189,50.16238",
-    "geom:latitude":50.16238,
-    "geom:longitude":18.37189,
-    "gn:admin1_code":"83.0",
-    "gn:admin2_code":"2411.0",
-    "gn:admin3_code":"241106.0",
-    "gn:asciiname":"Szymocice",
-    "gn:country_code":"PL",
-    "gn:dem":239,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7576455,
-    "gn:latitude":50.16238,
-    "gn:longitude":18.37189,
-    "gn:modification_date":"2010-10-22",
-    "gn:name":"Szymocice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.35189,50.14238,18.39189,50.18238",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0634\u0645\u0648\u0686\u06cc\u062a\u0633\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0005852264846475381,
+    "geom:area_square_m": 4651109.918049278,
+    "geom:bbox": "18.348226336001336,50.152995962010685,18.393980107994718,50.17757076901516",
+    "geom:latitude": 18.366375262960446,
+    "geom:longitude": 50.16510095937201,
+    "gn:admin1_code": "83.0",
+    "gn:admin2_code": "2411.0",
+    "gn:admin3_code": "241106.0",
+    "gn:asciiname": "Szymocice",
+    "gn:country_code": "PL",
+    "gn:dem": 239,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7576455,
+    "gn:latitude": 50.16238,
+    "gn:longitude": 18.37189,
+    "gn:modification_date": "2010-10-22",
+    "gn:name": "Szymocice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.35189,50.14238,18.39189,50.18238",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "شموچیتسه"
     ],
-    "name:ceb_x_preferred":[
-        "Szymocice"
+    "name:ceb_x_preferred": [
+      "Szymocice"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0645\u0648\u0686\u06cc\u062a\u0633\u0647"
+    "name:fas_x_preferred": [
+      "شموچیتسه"
     ],
-    "name:nld_x_preferred":[
-        "Szymocice"
+    "name:nld_x_preferred": [
+      "Szymocice"
     ],
-    "name:pol_x_preferred":[
-        "Szymocice"
+    "name:pol_x_preferred": [
+      "Szymocice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u0438\u043c\u043e\u0446\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Шимоцице"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687277,
-        102191581,
-        1125304239,
-        85633723,
-        102079477
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7576455,
-        "wk:page":"Szymocice"
+    "wof:belongsto": [
+      85687277,
+      102191581,
+      1125304239,
+      85633723,
+      102079477
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7576455,
+      "pl-gugik:jpt_kod_je": "241106_2.0006",
+      "wk:page": "Szymocice"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"69f8e8d38fbdca68bb38d591d31e93ea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079477,
-            "localadmin_id":1125304239,
-            "locality_id":1243391309,
-            "region_id":85687277
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d440078b12a3f63202675f3b7cad31a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079477,
+        "localadmin_id": 1125304239,
+        "locality_id": 1243391309,
+        "region_id": 85687277
+      }
     ],
-    "wof:id":1243391309,
-    "wof:lastmodified":1570041123,
-    "wof:name":"Szymocice",
-    "wof:parent_id":1125304239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243391309,
+    "wof:lastmodified": 1669215862,
+    "wof:name": "Szymocice",
+    "wof:parent_id": 1125304239,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.37189,
-    50.16238,
-    18.37189,
-    50.16238
-],
-  "geometry": {"coordinates":[18.37189,50.16238],"type":"Point"}
+    18.348226336001336,
+    50.152995962010685,
+    18.393980107994718,
+    50.17757076901516
+  ],
+  "geometry": {"coordinates":[[[18.348226,50.173024],[18.353291,50.173922],[18.355998,50.174406],[18.36367,50.175753],[18.368883,50.176671],[18.374191,50.177571],[18.374987,50.17564],[18.378209,50.174299],[18.37945,50.171443],[18.37971,50.170871],[18.378513,50.170489],[18.378475,50.170477],[18.377353,50.170129],[18.377274,50.170055],[18.376186,50.169155],[18.375559,50.168598],[18.374937,50.168072],[18.374829,50.167981],[18.374624,50.16779],[18.374165,50.167417],[18.374136,50.167392],[18.374705,50.166651],[18.374857,50.166453],[18.376746,50.165598],[18.377436,50.165286],[18.377479,50.165244],[18.3778,50.164979],[18.378666,50.164237],[18.37867,50.164093],[18.378941,50.163831],[18.383076,50.161871],[18.387012,50.161007],[18.389661,50.160971],[18.390152,50.160841],[18.393735,50.159892],[18.39398,50.159827],[18.392045,50.159647],[18.389076,50.159364],[18.388621,50.159321],[18.387298,50.159125],[18.385983,50.158882],[18.382571,50.158164],[18.382368,50.158122],[18.380708,50.157772],[18.380655,50.157703],[18.37936,50.157422],[18.379192,50.157429],[18.377545,50.157052],[18.376997,50.156173],[18.376346,50.155227],[18.375746,50.154287],[18.375408,50.154205],[18.375368,50.154195],[18.37533,50.154186],[18.375267,50.15417],[18.37507,50.154122],[18.374957,50.154095],[18.374878,50.154075],[18.373948,50.153961],[18.373748,50.153936],[18.373112,50.153893],[18.372944,50.153862],[18.372424,50.153767],[18.372098,50.153854],[18.371505,50.154031],[18.371384,50.15402],[18.371073,50.153992],[18.37075,50.153962],[18.370725,50.154078],[18.370785,50.15544],[18.369529,50.155185],[18.369182,50.155115],[18.366405,50.154471],[18.365804,50.154415],[18.364309,50.154542],[18.363658,50.154613],[18.361533,50.154853],[18.361216,50.154835],[18.358747,50.15382],[18.356762,50.152996],[18.35671,50.15313],[18.356597,50.153402],[18.356527,50.153567],[18.354485,50.15834],[18.352326,50.16325],[18.350303,50.168052],[18.348226,50.173024]]],"type":"Polygon"}
 }

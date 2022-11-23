@@ -2,89 +2,93 @@
   "id": 1226780093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.40779,53.26737,20.40779,53.26737",
-    "geom:latitude":53.26737,
-    "geom:longitude":20.40779,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2811.0",
-    "gn:admin3_code":"281103.0",
-    "gn:asciiname":"Szkudaj",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":167,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":757291,
-    "gn:latitude":53.26737,
-    "gn:longitude":20.40779,
-    "gn:modification_date":"2010-09-19",
-    "gn:name":"Szkudaj",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.38779,53.24737,20.42779,53.28737",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Szkudaj"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00035851262569817265,
+    "geom:area_square_m": 2662265.2618928864,
+    "geom:bbox": "20.395327513005235,53.25281973301761,20.423837759005178,53.278290568021866",
+    "geom:latitude": 20.40941109987716,
+    "geom:longitude": 53.26555072641356,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2811.0",
+    "gn:admin3_code": "281103.0",
+    "gn:asciiname": "Szkudaj",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 167,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 757291,
+    "gn:latitude": 53.26737,
+    "gn:longitude": 20.40779,
+    "gn:modification_date": "2010-09-19",
+    "gn:name": "Szkudaj",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.38779,53.24737,20.42779,53.28737",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Szkudaj"
     ],
-    "name:pol_x_preferred":[
-        "Szkudaj"
+    "name:pol_x_preferred": [
+      "Szkudaj"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u043a\u0443\u0434\u0430\u0439"
+    "name:ukr_x_preferred": [
+      "Шкудай"
     ],
-    "name:und_x_variant":[
-        "Skudajny",
-        "Skudayen"
+    "name:und_x_variant": [
+      "Skudajny",
+      "Skudayen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752301,
-        85633723,
-        102080129
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757291,
-        "wk:page":"Szkudaj"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752301,
+      85633723,
+      102080129
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757291,
+      "pl-gugik:jpt_kod_je": "281103_2.0021",
+      "wk:page": "Szkudaj"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9470f70d22a29e9dd36bf6a5e7a236eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080129,
-            "localadmin_id":1477752301,
-            "locality_id":1226780093,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "27de1cdb6eb0074c486d827b270986ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080129,
+        "localadmin_id": 1477752301,
+        "locality_id": 1226780093,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1226780093,
-    "wof:lastmodified":1570051636,
-    "wof:name":"Szkudaj",
-    "wof:parent_id":1477752301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226780093,
+    "wof:lastmodified": 1669215930,
+    "wof:name": "Szkudaj",
+    "wof:parent_id": 1477752301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.40779,
-    53.26736999999999,
-    20.40779,
-    53.26736999999999
-],
-  "geometry": {"coordinates":[20.40779,53.26736999999999],"type":"Point"}
+    20.395327513005235,
+    53.25281973301761,
+    20.423837759005178,
+    53.278290568021866
+  ],
+  "geometry": {"coordinates":[[[20.408793,53.254167],[20.407903,53.255473],[20.407658,53.255817],[20.406955,53.256885],[20.406477,53.257562],[20.405402,53.2591],[20.404592,53.260244],[20.403676,53.261621],[20.403042,53.262376],[20.402337,53.263291],[20.401999,53.26378],[20.400604,53.266025],[20.400547,53.266163],[20.399424,53.26769],[20.399171,53.26803],[20.398188,53.269357],[20.398181,53.269366],[20.398139,53.269423],[20.397685,53.270035],[20.397661,53.270076],[20.396783,53.27136],[20.396586,53.271764],[20.396581,53.271787],[20.396583,53.271807],[20.395744,53.273536],[20.395728,53.273596],[20.395718,53.273648],[20.395328,53.274418],[20.397074,53.274897],[20.397462,53.275014],[20.398398,53.275298],[20.398503,53.27533],[20.4009,53.276057],[20.403246,53.276914],[20.40587,53.27774],[20.407537,53.278291],[20.408229,53.277411],[20.408848,53.276621],[20.409147,53.276241],[20.409159,53.276226],[20.40919,53.276188],[20.411045,53.273904],[20.411083,53.273855],[20.411761,53.272956],[20.41204,53.272639],[20.412191,53.272462],[20.412409,53.272229],[20.412687,53.271947],[20.413068,53.271521],[20.413702,53.270925],[20.414307,53.270369],[20.414416,53.270258],[20.415531,53.269101],[20.416064,53.26858],[20.416599,53.268038],[20.417911,53.266596],[20.41817,53.266295],[20.418176,53.266273],[20.418251,53.266126],[20.418559,53.26581],[20.41866,53.265689],[20.418807,53.265468],[20.419293,53.264799],[20.420393,53.26329],[20.42087,53.262568],[20.421095,53.262211],[20.421626,53.261254],[20.421705,53.261124],[20.422653,53.259326],[20.42353,53.25785],[20.423831,53.257448],[20.423838,53.257431],[20.422337,53.256959],[20.422229,53.256925],[20.422177,53.256909],[20.42033,53.256341],[20.419019,53.25594],[20.418788,53.255877],[20.417616,53.255559],[20.414584,53.254965],[20.414554,53.254925],[20.414489,53.254835],[20.413994,53.254633],[20.412826,53.254155],[20.409747,53.25282],[20.408793,53.254167]]],"type":"Polygon"}
 }

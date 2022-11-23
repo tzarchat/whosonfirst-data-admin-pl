@@ -2,87 +2,91 @@
   "id": 1209447609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.13259,53.3958,20.13259,53.3958",
-    "geom:latitude":53.3958,
-    "geom:longitude":20.13259,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2803.0",
-    "gn:admin3_code":"280302.0",
-    "gn:asciiname":"Mosznica",
-    "gn:country_code":"PL",
-    "gn:dem":182,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":764332,
-    "gn:latitude":53.3958,
-    "gn:longitude":20.13259,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Mosznica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.11259,53.3758,20.15259,53.4158",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ita_x_preferred":[
-        "Mosznica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004077783411842614,
+    "geom:area_square_m": 3018929.8301606076,
+    "geom:bbox": "20.11658213300323,53.386006884014726,20.15933526399441,53.40625196402056",
+    "geom:latitude": 20.137121224004776,
+    "geom:longitude": 53.39630955945799,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2803.0",
+    "gn:admin3_code": "280302.0",
+    "gn:asciiname": "Mosznica",
+    "gn:country_code": "PL",
+    "gn:dem": 182,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 764332,
+    "gn:latitude": 53.3958,
+    "gn:longitude": 20.13259,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Mosznica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.11259,53.3758,20.15259,53.4158",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ita_x_preferred": [
+      "Mosznica"
     ],
-    "name:pol_x_preferred":[
-        "Mosznica"
+    "name:pol_x_preferred": [
+      "Mosznica"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u043e\u0448\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Мошниця"
     ],
-    "name:und_x_variant":[
-        "Moschnitz"
+    "name:und_x_variant": [
+      "Moschnitz"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752931,
-        85633723,
-        102080111
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":764332,
-        "wk:page":"Mosznica"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752931,
+      85633723,
+      102080111
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 764332,
+      "pl-gugik:jpt_kod_je": "280302_2.0017",
+      "wk:page": "Mosznica"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"6dd68433aa8c930545044c475c3b85b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080111,
-            "localadmin_id":1477752931,
-            "locality_id":1209447609,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "261d4a9b8f4ba0d7f5eba828ed45d618",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080111,
+        "localadmin_id": 1477752931,
+        "locality_id": 1209447609,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209447609,
-    "wof:lastmodified":1570023292,
-    "wof:name":"Mosznica",
-    "wof:parent_id":1477752931,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209447609,
+    "wof:lastmodified": 1669215926,
+    "wof:name": "Mosznica",
+    "wof:parent_id": 1477752931,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.13259,
-    53.3958,
-    20.13259,
-    53.3958
-],
-  "geometry": {"coordinates":[20.13259,53.3958],"type":"Point"}
+    20.11658213300323,
+    53.386006884014726,
+    20.15933526399441,
+    53.40625196402056
+  ],
+  "geometry": {"coordinates":[[[20.118954,53.395617],[20.118333,53.395894],[20.116582,53.396676],[20.116657,53.396743],[20.118148,53.398087],[20.119439,53.39924],[20.119983,53.399726],[20.121211,53.4008],[20.121288,53.400867],[20.122035,53.400552],[20.123195,53.401048],[20.124471,53.401593],[20.127121,53.402736],[20.128542,53.403343],[20.128736,53.403427],[20.130155,53.404037],[20.132938,53.405234],[20.135265,53.406235],[20.135304,53.406252],[20.137806,53.405025],[20.140279,53.403855],[20.144278,53.40205],[20.14228,53.400092],[20.141123,53.398958],[20.141028,53.398865],[20.141177,53.398879],[20.146242,53.399358],[20.14642,53.399375],[20.146743,53.398188],[20.153616,53.39871],[20.153877,53.398552],[20.155543,53.397538],[20.15575,53.397411],[20.157514,53.396121],[20.157628,53.396063],[20.157631,53.396061],[20.157814,53.396045],[20.159335,53.395441],[20.158385,53.394026],[20.157151,53.392248],[20.157118,53.392204],[20.156999,53.392041],[20.155707,53.390481],[20.154165,53.390992],[20.152808,53.392],[20.151996,53.392352],[20.150501,53.393005],[20.149658,53.393371],[20.147698,53.393232],[20.145299,53.393068],[20.145177,53.39306],[20.143916,53.392],[20.143658,53.391297],[20.143529,53.390946],[20.143364,53.390497],[20.143195,53.39006],[20.144628,53.389746],[20.145234,53.389614],[20.145952,53.38941],[20.145861,53.389295],[20.144589,53.388099],[20.144808,53.388018],[20.14269,53.386007],[20.141264,53.386525],[20.139933,53.387026],[20.137707,53.387867],[20.137152,53.388075],[20.136242,53.388426],[20.135119,53.388853],[20.133456,53.389491],[20.131467,53.390252],[20.131286,53.390342],[20.129668,53.390902],[20.129558,53.390945],[20.128826,53.391234],[20.128301,53.39144],[20.127089,53.391935],[20.125538,53.392574],[20.124994,53.392815],[20.123016,53.393691],[20.122582,53.393884],[20.121367,53.394484],[20.120954,53.394688],[20.120217,53.39505],[20.119435,53.395401],[20.118954,53.395617]]],"type":"Polygon"}
 }

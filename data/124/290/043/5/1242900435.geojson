@@ -2,84 +2,88 @@
   "id": 1242900435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.39688,52.29389,19.39688,52.29389",
-    "geom:latitude":52.29389,
-    "geom:longitude":19.39688,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1002.0",
-    "gn:admin3_code":"100210.0",
-    "gn:asciiname":"Bociany",
-    "gn:country_code":"PL",
-    "gn:dem":137,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103126,
-    "gn:latitude":52.29389,
-    "gn:longitude":19.39688,
-    "gn:modification_date":"2010-09-09",
-    "gn:name":"Bociany",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.37688,52.27389,19.41688,52.31389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Bociany"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014496693234894917,
+    "geom:area_square_m": 1100593.9518039674,
+    "geom:bbox": "19.381783730000883,52.28894890301797,19.409985443994913,52.298004216013005",
+    "geom:latitude": 19.39452283248303,
+    "geom:longitude": 52.29295046633056,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1002.0",
+    "gn:admin3_code": "100210.0",
+    "gn:asciiname": "Bociany",
+    "gn:country_code": "PL",
+    "gn:dem": 137,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103126,
+    "gn:latitude": 52.29389,
+    "gn:longitude": 19.39688,
+    "gn:modification_date": "2010-09-09",
+    "gn:name": "Bociany",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.37688,52.27389,19.41688,52.31389",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Bociany"
     ],
-    "name:pol_x_preferred":[
-        "Bociany"
+    "name:pol_x_preferred": [
+      "Bociany"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u0446\u044f\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Боцяни"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125320527,
-        85633723,
-        102079929
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103126,
-        "wk:page":"Bociany"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125320527,
+      85633723,
+      102079929
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103126,
+      "pl-gugik:jpt_kod_je": "100210_2.0003",
+      "wk:page": "Bociany"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"047450b48b06f201b8bbaa7d593a5fb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079929,
-            "localadmin_id":1125320527,
-            "locality_id":1242900435,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "ca81ded5752d375af2391f8e02f973f4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079929,
+        "localadmin_id": 1125320527,
+        "locality_id": 1242900435,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1242900435,
-    "wof:lastmodified":1570044063,
-    "wof:name":"Bociany",
-    "wof:parent_id":1125320527,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242900435,
+    "wof:lastmodified": 1669215846,
+    "wof:name": "Bociany",
+    "wof:parent_id": 1125320527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.39688,
-    52.29389000000001,
-    19.39688,
-    52.29389000000001
-],
-  "geometry": {"coordinates":[19.39688,52.29389000000001],"type":"Point"}
+    19.381783730000883,
+    52.28894890301797,
+    19.409985443994913,
+    52.298004216013005
+  ],
+  "geometry": {"coordinates":[[[19.400622,52.288949],[19.39833,52.289211],[19.397135,52.289349],[19.397032,52.28938],[19.396938,52.289377],[19.396769,52.289396],[19.396244,52.289459],[19.396154,52.28947],[19.395892,52.289522],[19.395672,52.289552],[19.391831,52.290088],[19.391628,52.290116],[19.391305,52.290161],[19.389932,52.290368],[19.387822,52.290686],[19.387664,52.29071],[19.387193,52.290781],[19.386771,52.290844],[19.386572,52.290874],[19.385573,52.291025],[19.385319,52.290625],[19.384393,52.291116],[19.383856,52.291381],[19.383451,52.291617],[19.382909,52.292056],[19.381784,52.292957],[19.382284,52.293675],[19.382968,52.294675],[19.383054,52.294806],[19.385177,52.298004],[19.387375,52.297529],[19.391275,52.296692],[19.397357,52.295427],[19.397455,52.295405],[19.397966,52.295304],[19.398187,52.295227],[19.399361,52.295004],[19.400597,52.294763],[19.402794,52.294343],[19.404382,52.294062],[19.404837,52.293982],[19.405849,52.293738],[19.407163,52.293416],[19.409985,52.292652],[19.409565,52.292394],[19.409471,52.292336],[19.408942,52.292011],[19.408642,52.291826],[19.407923,52.29138],[19.407045,52.290839],[19.406676,52.290611],[19.406578,52.290551],[19.40605,52.290226],[19.405542,52.289914],[19.404665,52.289295],[19.403812,52.289485],[19.403634,52.2891],[19.403128,52.289208],[19.402495,52.289269],[19.401385,52.289222],[19.400781,52.288981],[19.400622,52.288949]]],"type":"Polygon"}
 }

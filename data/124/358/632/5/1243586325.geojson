@@ -2,90 +2,94 @@
   "id": 1243586325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.29572,53.63772,22.29572,53.63772",
-    "geom:latitude":53.63772,
-    "geom:longitude":22.29572,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280504.0",
-    "gn:asciiname":"Wojtele",
-    "gn:country_code":"PL",
-    "gn:dem":146,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755360,
-    "gn:latitude":53.63772,
-    "gn:longitude":22.29572,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Wojtele",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.27572,53.61772,22.31572,53.65772",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wojtele"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00028699172942820464,
+    "geom:area_square_m": 2112875.178432824,
+    "geom:bbox": "22.28347649301741,53.62675945601557,22.324846635024873,53.642287618019964",
+    "geom:latitude": 22.307529497541765,
+    "geom:longitude": 53.635064821816606,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280504.0",
+    "gn:asciiname": "Wojtele",
+    "gn:country_code": "PL",
+    "gn:dem": 146,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755360,
+    "gn:latitude": 53.63772,
+    "gn:longitude": 22.29572,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Wojtele",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.27572,53.61772,22.31572,53.65772",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Wojtele"
     ],
-    "name:fra_x_preferred":[
-        "Wojtele"
+    "name:fra_x_preferred": [
+      "Wojtele"
     ],
-    "name:pol_x_preferred":[
-        "Wojtele"
+    "name:pol_x_preferred": [
+      "Wojtele"
     ],
-    "name:und_x_variant":[
-        "Woytellen",
-        "Woytellen Kreis Johannisburg Ostpreussen",
-        "Woiten",
-        "Woitellen"
+    "name:und_x_variant": [
+      "Woytellen",
+      "Woytellen Kreis Johannisburg Ostpreussen",
+      "Woiten",
+      "Woitellen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751887,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755360,
-        "wk:page":"Wojtele"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751887,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755360,
+      "pl-gugik:jpt_kod_je": "280504_2.0037",
+      "wk:page": "Wojtele"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d2429cbda2590ad9e5a155c233f07914",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477751887,
-            "locality_id":1243586325,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f539f7d747f50f9cceb71dd305e8ffa6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477751887,
+        "locality_id": 1243586325,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1243586325,
-    "wof:lastmodified":1570042828,
-    "wof:name":"Wojtele",
-    "wof:parent_id":1477751887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243586325,
+    "wof:lastmodified": 1669215926,
+    "wof:name": "Wojtele",
+    "wof:parent_id": 1477751887,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.29572000000001,
-    53.63772,
-    22.29572000000001,
-    53.63772
-],
-  "geometry": {"coordinates":[22.29572000000001,53.63772],"type":"Point"}
+    22.28347649301741,
+    53.62675945601557,
+    22.324846635024873,
+    53.642287618019964
+  ],
+  "geometry": {"coordinates":[[[22.316087,53.641055],[22.316584,53.640685],[22.317774,53.639799],[22.318323,53.639387],[22.31872,53.639074],[22.31958,53.638397],[22.320025,53.638047],[22.3213,53.636996],[22.32161,53.636744],[22.322579,53.635965],[22.322597,53.635951],[22.322652,53.635906],[22.323893,53.634907],[22.324153,53.634681],[22.324232,53.634612],[22.324847,53.634076],[22.322495,53.633212],[22.320398,53.63241],[22.320143,53.632312],[22.320016,53.632264],[22.319,53.631874],[22.318873,53.631825],[22.318491,53.631678],[22.318364,53.63163],[22.318237,53.631581],[22.31811,53.631532],[22.317983,53.631483],[22.314834,53.630287],[22.314681,53.630233],[22.312852,53.629539],[22.312398,53.629367],[22.310736,53.628736],[22.3089,53.628039],[22.308244,53.62779],[22.307415,53.627466],[22.306537,53.627109],[22.306127,53.626941],[22.305872,53.626846],[22.305639,53.626759],[22.305557,53.626861],[22.305512,53.626917],[22.304396,53.628296],[22.304355,53.628345],[22.303758,53.629045],[22.302514,53.62982],[22.301397,53.630517],[22.299658,53.631655],[22.298367,53.63221],[22.296475,53.632952],[22.294673,53.63348],[22.293816,53.633731],[22.290404,53.634639],[22.290161,53.634706],[22.288624,53.63513],[22.286519,53.63551],[22.285126,53.635541],[22.283476,53.635514],[22.285476,53.635852],[22.287146,53.6361],[22.288148,53.636248],[22.289445,53.636551],[22.29147,53.637066],[22.291618,53.637165],[22.292752,53.637932],[22.293912,53.638425],[22.294034,53.638474],[22.294092,53.638504],[22.2953,53.639156],[22.295542,53.639282],[22.296703,53.639567],[22.297006,53.639558],[22.299779,53.639353],[22.302083,53.639106],[22.302164,53.639097],[22.304509,53.638846],[22.305227,53.639185],[22.305831,53.639471],[22.305931,53.639519],[22.30638,53.639758],[22.306991,53.640005],[22.307168,53.640059],[22.307373,53.640121],[22.308593,53.640503],[22.308726,53.64055],[22.309271,53.640745],[22.310384,53.641272],[22.311051,53.641586],[22.311616,53.641774],[22.312096,53.641933],[22.313168,53.642259],[22.313337,53.642288],[22.314471,53.642241],[22.314629,53.64212],[22.315516,53.641472],[22.316087,53.641055]]],"type":"Polygon"}
 }

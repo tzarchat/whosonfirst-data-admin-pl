@@ -2,130 +2,134 @@
   "id": 1125798127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.79585,52.83414,23.79585,52.83414",
-    "geom:latitude":52.83414,
-    "geom:longitude":23.79585,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"23.77585,52.81414,23.81585,52.85414",
-    "lbl:latitude":52.83414,
-    "lbl:longitude":23.79585,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Guszczewina"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00018915872934436039,
+    "geom:area_square_m": 1418693.2685729852,
+    "geom:bbox": "23.782371400151852,52.82532668802298,23.808092541148962,52.84075873502614",
+    "geom:latitude": 23.794720772351003,
+    "geom:longitude": 52.83312693038224,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "23.77585,52.81414,23.81585,52.85414",
+    "lbl:latitude": 52.83414,
+    "lbl:longitude": 23.79585,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Guszczewina"
     ],
-    "name:azb_x_preferred":[
-        "\u0642\u0648\u0634\u0686\u0648\u06cc\u0646\u0627"
+    "name:azb_x_preferred": [
+      "قوشچوینا"
     ],
-    "name:bul_x_preferred":[
-        "\u0413\u0443\u0448\u0447\u0435\u0432\u0438\u043d\u0430"
+    "name:bul_x_preferred": [
+      "Гушчевина"
     ],
-    "name:eng_x_preferred":[
-        "Guszczewina"
+    "name:eng_x_preferred": [
+      "Guszczewina"
     ],
-    "name:fas_x_preferred":[
-        "\u06af\u0648\u0634\u0686\u0648\u06cc\u0646\u0627"
+    "name:fas_x_preferred": [
+      "گوشچوینا"
     ],
-    "name:fra_x_preferred":[
-        "Guszczewina"
+    "name:fra_x_preferred": [
+      "Guszczewina"
     ],
-    "name:lit_x_preferred":[
-        "Gu\u0161\u010devina"
+    "name:lit_x_preferred": [
+      "Guščevina"
     ],
-    "name:nan_x_preferred":[
-        "Guszczewina"
+    "name:nan_x_preferred": [
+      "Guszczewina"
     ],
-    "name:nld_x_preferred":[
-        "Guszczewina"
+    "name:nld_x_preferred": [
+      "Guszczewina"
     ],
-    "name:pol_x_preferred":[
-        "Guszczewina"
+    "name:pol_x_preferred": [
+      "Guszczewina"
     ],
-    "name:szl_x_preferred":[
-        "Guszczewina"
+    "name:szl_x_preferred": [
+      "Guszczewina"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u0443\u0449\u0435\u0432\u0456\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Ґущевіна"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":770906,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Guszczewina",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos":70,
-    "qs_pg:photos_1k":14,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":2,
-    "qs_pg:photos_all":70,
-    "qs_pg:photos_sr":2,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1164057,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24934252,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125398689,
-        85633723,
-        102080091
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 770906,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Guszczewina",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos": 70,
+    "qs_pg:photos_1k": 14,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 2,
+    "qs_pg:photos_all": 70,
+    "qs_pg:photos_sr": 2,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1164057,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24934252,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":770906,
-        "gp:id":24934252,
-        "qs_pg:id":1164057,
-        "wd:id":"Q2744057"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125398689,
+      85633723,
+      102080091
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 770906,
+      "gp:id": 24934252,
+      "pl-gugik:jpt_kod_je": "200509_2.0007",
+      "qs_pg:id": 1164057,
+      "wd:id": "Q2744057"
     },
-    "wof:country":"PL",
-    "wof:created":1497291142,
-    "wof:geomhash":"828e787ec9ac8cef0663c1a0ae782454",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080091,
-            "localadmin_id":1125398689,
-            "locality_id":1125798127,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497291142,
+    "wof:geomhash": "ebede13d47a677c6ecf0f82ab176ec1e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080091,
+        "localadmin_id": 1125398689,
+        "locality_id": 1125798127,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125798127,
-    "wof:lastmodified":1570039873,
-    "wof:name":"Guszczewina",
-    "wof:parent_id":1125398689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125798127,
+    "wof:lastmodified": 1669215932,
+    "wof:name": "Guszczewina",
+    "wof:parent_id": 1125398689,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.79585,
-    52.83414,
-    23.79585,
-    52.83414
-],
-  "geometry": {"coordinates":[23.79585,52.83414],"type":"Point"}
+    23.782371400151852,
+    52.82532668802298,
+    23.808092541148962,
+    52.84075873502614
+  ],
+  "geometry": {"coordinates":[[[23.782371,52.831027],[23.782663,52.831267],[23.782771,52.831356],[23.783641,52.832073],[23.78481,52.833037],[23.786161,52.834149],[23.786517,52.834444],[23.786559,52.834478],[23.786763,52.834642],[23.787724,52.835405],[23.787773,52.835445],[23.787934,52.835512],[23.788127,52.835592],[23.788305,52.835666],[23.788563,52.835774],[23.788829,52.835885],[23.789171,52.836027],[23.789682,52.836241],[23.790252,52.836478],[23.790647,52.83663],[23.79199,52.837148],[23.79304,52.837125],[23.793881,52.837824],[23.793993,52.837887],[23.795252,52.838592],[23.795518,52.838741],[23.795752,52.838872],[23.79696,52.839447],[23.797379,52.839722],[23.797459,52.839775],[23.79765,52.8399],[23.798066,52.840174],[23.799421,52.840759],[23.799469,52.840724],[23.80027,52.840141],[23.800498,52.839975],[23.800992,52.839616],[23.801077,52.839554],[23.80142,52.839306],[23.801869,52.83898],[23.802019,52.838871],[23.802401,52.838593],[23.802489,52.838532],[23.802751,52.83834],[23.803201,52.838015],[23.804125,52.837346],[23.804296,52.837222],[23.805226,52.83655],[23.805271,52.836517],[23.80542,52.836425],[23.805448,52.836407],[23.806957,52.835305],[23.807422,52.834965],[23.807647,52.834799],[23.808093,52.834484],[23.807281,52.834092],[23.806218,52.833578],[23.806161,52.833551],[23.80567,52.833319],[23.805368,52.833177],[23.804949,52.83298],[23.804476,52.832756],[23.804443,52.832737],[23.80397,52.832506],[23.80286,52.831962],[23.801358,52.831236],[23.799914,52.830539],[23.798328,52.829802],[23.797785,52.829549],[23.797573,52.82945],[23.797055,52.829209],[23.796514,52.828956],[23.796191,52.828806],[23.795976,52.828702],[23.795366,52.828409],[23.794952,52.828209],[23.794805,52.828138],[23.793946,52.827725],[23.793003,52.827283],[23.792939,52.82725],[23.792678,52.827117],[23.79243,52.826991],[23.792197,52.826872],[23.792076,52.82681],[23.791834,52.826687],[23.791478,52.826505],[23.791288,52.826407],[23.79111,52.826318],[23.791054,52.826289],[23.790899,52.82621],[23.790433,52.825972],[23.790256,52.825891],[23.790157,52.825841],[23.78979,52.82566],[23.789196,52.825327],[23.789153,52.825361],[23.78913,52.82538],[23.788572,52.825843],[23.788534,52.825875],[23.788362,52.826018],[23.788352,52.826028],[23.787644,52.826615],[23.787206,52.826981],[23.787162,52.827017],[23.787135,52.82704],[23.78623,52.827789],[23.786105,52.827893],[23.785266,52.82859],[23.784505,52.829222],[23.784454,52.829265],[23.784377,52.829329],[23.783382,52.830182],[23.782426,52.830981],[23.782371,52.831027]]],"type":"Polygon"}
 }

@@ -2,87 +2,91 @@
   "id": 1209743393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.46667,52.3,19.46667,52.3",
-    "geom:latitude":52.3,
-    "geom:longitude":19.46667,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1002.0",
-    "gn:admin3_code":"100210.0",
-    "gn:asciiname":"Muchnice",
-    "gn:country_code":"PL",
-    "gn:dem":116,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3091310,
-    "gn:latitude":52.3,
-    "gn:longitude":19.46667,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Muchnice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.44667,52.28,19.48667,52.32",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Muchnice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00018233988815733132,
+    "geom:area_square_m": 1384237.0574063063,
+    "geom:bbox": "19.44620266899297,52.28978355001683,19.468419305003767,52.302669636015935",
+    "geom:latitude": 19.457317021417477,
+    "geom:longitude": 52.29596088072659,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1002.0",
+    "gn:admin3_code": "100210.0",
+    "gn:asciiname": "Muchnice",
+    "gn:country_code": "PL",
+    "gn:dem": 116,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3091310,
+    "gn:latitude": 52.3,
+    "gn:longitude": 19.46667,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Muchnice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.44667,52.28,19.48667,52.32",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Muchnice"
     ],
-    "name:fra_x_preferred":[
-        "Muchnice"
+    "name:fra_x_preferred": [
+      "Muchnice"
     ],
-    "name:pol_x_preferred":[
-        "Muchnice"
+    "name:pol_x_preferred": [
+      "Muchnice"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0443\u0445\u043d\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Мухніце"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125320527,
-        85633723,
-        102079929
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3091310,
-        "wk:page":"Muchnice"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125320527,
+      85633723,
+      102079929
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3091310,
+      "pl-gugik:jpt_kod_je": "100210_2.0014",
+      "wk:page": "Muchnice"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"361f1eca8f78c87f574f5e78fb237091",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079929,
-            "localadmin_id":1125320527,
-            "locality_id":1209743393,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "97e6ef653d1c111e15f3204a1a4f2e0f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079929,
+        "localadmin_id": 1125320527,
+        "locality_id": 1209743393,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1209743393,
-    "wof:lastmodified":1570022786,
-    "wof:name":"Muchnice",
-    "wof:parent_id":1125320527,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209743393,
+    "wof:lastmodified": 1669215841,
+    "wof:name": "Muchnice",
+    "wof:parent_id": 1125320527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.46667,
-    52.3,
-    19.46667,
-    52.3
-],
-  "geometry": {"coordinates":[19.46667,52.3],"type":"Point"}
+    19.44620266899297,
+    52.28978355001683,
+    19.468419305003767,
+    52.302669636015935
+  ],
+  "geometry": {"coordinates":[[[19.461135,52.289784],[19.460972,52.289796],[19.460547,52.28983],[19.460064,52.289869],[19.459482,52.289913],[19.45945,52.28992],[19.459169,52.289975],[19.458979,52.289994],[19.458193,52.290073],[19.456684,52.290026],[19.456529,52.29002],[19.45597,52.289916],[19.455906,52.289909],[19.455842,52.289902],[19.455195,52.289981],[19.454694,52.290043],[19.454028,52.290463],[19.453817,52.290596],[19.453414,52.290798],[19.453147,52.290872],[19.452908,52.290956],[19.451592,52.291209],[19.451193,52.291329],[19.450928,52.291409],[19.450841,52.291435],[19.450788,52.291451],[19.450645,52.291495],[19.450552,52.291542],[19.450405,52.29169],[19.45034,52.291754],[19.450229,52.291864],[19.449844,52.292244],[19.449623,52.292397],[19.449388,52.292506],[19.449226,52.292531],[19.448938,52.292602],[19.448533,52.292701],[19.447885,52.292642],[19.447739,52.292628],[19.446943,52.292555],[19.446413,52.292506],[19.446203,52.292531],[19.44622,52.29256],[19.447476,52.294691],[19.450306,52.299494],[19.450318,52.299576],[19.45142,52.30131],[19.451649,52.301248],[19.451852,52.301195],[19.451877,52.301238],[19.451905,52.30128],[19.452708,52.30267],[19.453039,52.302595],[19.453418,52.30251],[19.453732,52.302439],[19.453798,52.302424],[19.455051,52.302142],[19.455184,52.302111],[19.45714,52.301665],[19.459129,52.301237],[19.461616,52.300678],[19.464201,52.300105],[19.465601,52.299753],[19.46688,52.299463],[19.467983,52.299245],[19.468406,52.29916],[19.468356,52.299066],[19.468419,52.299054],[19.468121,52.298553],[19.467809,52.29796],[19.467467,52.297384],[19.467164,52.296801],[19.467013,52.296512],[19.466858,52.296225],[19.466838,52.29619],[19.466798,52.296112],[19.466742,52.296001],[19.466574,52.295666],[19.465945,52.294564],[19.465536,52.293771],[19.46552,52.293739],[19.465465,52.293748],[19.464736,52.292325],[19.464547,52.291949],[19.463318,52.292119],[19.463281,52.29208],[19.462451,52.291192],[19.461203,52.289856],[19.461157,52.289807],[19.461135,52.289784]]],"type":"Polygon"}
 }

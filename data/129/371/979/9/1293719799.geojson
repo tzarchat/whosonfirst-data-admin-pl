@@ -2,96 +2,100 @@
   "id": 1293719799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.29889,54.30411,21.29889,54.30411",
-    "geom:latitude":54.30411,
-    "geom:longitude":21.29889,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2808.0",
-    "gn:admin3_code":"280802.0",
-    "gn:asciiname":"Aptynty",
-    "gn:country_code":"PL",
-    "gn:dem":48,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535925,
-    "gn:latitude":54.30411,
-    "gn:longitude":21.29889,
-    "gn:modification_date":"2010-09-25",
-    "gn:name":"Aptynty",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.27889,54.28411,21.31889,54.32411",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0627\u067e\u062a\u0646\u062a\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0005003895822194003,
+    "geom:area_square_m": 3625480.054248389,
+    "geom:bbox": "21.28518857999851,54.2983705750157,21.32311727700449,54.31838815501885",
+    "geom:latitude": 21.305410617857543,
+    "geom:longitude": 54.30784590431427,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2808.0",
+    "gn:admin3_code": "280802.0",
+    "gn:asciiname": "Aptynty",
+    "gn:country_code": "PL",
+    "gn:dem": 48,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535925,
+    "gn:latitude": 54.30411,
+    "gn:longitude": 21.29889,
+    "gn:modification_date": "2010-09-25",
+    "gn:name": "Aptynty",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.27889,54.28411,21.31889,54.32411",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "اپتنته"
     ],
-    "name:ceb_x_preferred":[
-        "Aptynty"
+    "name:ceb_x_preferred": [
+      "Aptynty"
     ],
-    "name:deu_x_preferred":[
-        "Aptynty"
+    "name:deu_x_preferred": [
+      "Aptynty"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u067e\u062a\u0646\u062a\u0647"
+    "name:fas_x_preferred": [
+      "اپتنته"
     ],
-    "name:nld_x_preferred":[
-        "Aptynty"
+    "name:nld_x_preferred": [
+      "Aptynty"
     ],
-    "name:pol_x_preferred":[
-        "Aptynty"
+    "name:pol_x_preferred": [
+      "Aptynty"
     ],
-    "name:vie_x_preferred":[
-        "Aptynty"
+    "name:vie_x_preferred": [
+      "Aptynty"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751361,
-        85633723,
-        102080249
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535925,
-        "wk:page":"Aptynty"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751361,
+      85633723,
+      102080249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535925,
+      "pl-gugik:jpt_kod_je": "280802_2.0001",
+      "wk:page": "Aptynty"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3056f41217b1650ef0973295b29ad188",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080249,
-            "localadmin_id":1477751361,
-            "locality_id":1293719799,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e65e68aa96dcd1fbd5410de7b7de8387",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080249,
+        "localadmin_id": 1477751361,
+        "locality_id": 1293719799,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1293719799,
-    "wof:lastmodified":1570014049,
-    "wof:name":"Aptynty",
-    "wof:parent_id":1477751361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293719799,
+    "wof:lastmodified": 1669215924,
+    "wof:name": "Aptynty",
+    "wof:parent_id": 1477751361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.29889,
-    54.30411,
-    21.29889,
-    54.30411
-],
-  "geometry": {"coordinates":[21.29889,54.30411],"type":"Point"}
+    21.28518857999851,
+    54.2983705750157,
+    21.32311727700449,
+    54.31838815501885
+  ],
+  "geometry": {"coordinates":[[[21.309955,54.318275],[21.310221,54.318388],[21.311581,54.316191],[21.312635,54.314583],[21.313206,54.313756],[21.314539,54.314451],[21.315931,54.315193],[21.317119,54.315814],[21.31829,54.315031],[21.31836,54.31499],[21.319841,54.313836],[21.321246,54.312391],[21.321281,54.312356],[21.32134,54.312288],[21.321689,54.311885],[21.323104,54.310256],[21.323117,54.310242],[21.322472,54.309972],[21.322292,54.309744],[21.321802,54.309418],[21.321333,54.309109],[21.320858,54.308348],[21.320806,54.306935],[21.321995,54.305167],[21.321928,54.304989],[21.321124,54.303205],[21.320924,54.302427],[21.320871,54.302218],[21.320976,54.30211],[21.321938,54.30131],[21.322602,54.299828],[21.319917,54.299873],[21.317667,54.299802],[21.317468,54.299796],[21.317205,54.299817],[21.314889,54.300004],[21.314243,54.29946],[21.312378,54.299381],[21.307134,54.299157],[21.301988,54.29841],[21.301719,54.298371],[21.301644,54.298534],[21.300757,54.30046],[21.299385,54.302949],[21.296975,54.301666],[21.296933,54.301791],[21.296371,54.30337],[21.295447,54.303321],[21.285674,54.302697],[21.285434,54.303481],[21.285294,54.303936],[21.285206,54.304223],[21.285191,54.304423],[21.285189,54.304459],[21.285239,54.305091],[21.285315,54.305514],[21.286227,54.306388],[21.286287,54.306574],[21.285834,54.306718],[21.286867,54.307559],[21.287482,54.308111],[21.287849,54.308533],[21.288071,54.308955],[21.288441,54.310073],[21.288813,54.311208],[21.289164,54.312233],[21.289477,54.313372],[21.289473,54.313435],[21.289446,54.313829],[21.28938,54.314058],[21.289293,54.314364],[21.288845,54.315049],[21.289248,54.31497],[21.28981,54.314998],[21.291288,54.315047],[21.29225,54.315065],[21.29443,54.315118],[21.294576,54.313772],[21.295621,54.314088],[21.296076,54.314213],[21.296383,54.314282],[21.296639,54.314342],[21.296998,54.314427],[21.298111,54.314696],[21.298927,54.314895],[21.299354,54.314999],[21.300771,54.315342],[21.302144,54.315767],[21.302411,54.315841],[21.302485,54.315863],[21.304682,54.316487],[21.305503,54.316662],[21.30605,54.316777],[21.307353,54.317126],[21.308672,54.317685],[21.309955,54.318275]]],"type":"Polygon"}
 }

@@ -2,479 +2,483 @@
   "id": 1326856699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-09-30",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.93333,54.35,18.93333,54.35",
-    "geom:latitude":54.35,
-    "geom:longitude":18.93333,
-    "gn:admin1_code":"82.0",
-    "gn:admin2_code":"2261.0",
-    "gn:admin3_code":"226101.0",
-    "gn:asciiname":"Komary",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095409,
-    "gn:latitude":54.35,
-    "gn:longitude":18.93333,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Komary",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.91333,54.33,18.95333,54.37",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:min_zoom":12.0,
-    "name:afr_x_preferred":[
-        "Steekmuggies"
+    "edtf:cessation": "uuuu",
+    "edtf:deprecated": "2019-09-30",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006163621603328028,
+    "geom:area_square_m": 4463631.642448192,
+    "geom:bbox": "18.883374980994738,54.312513924017324,18.91411710900574,54.34203405802327",
+    "geom:latitude": 18.898105968501252,
+    "geom:longitude": 54.327501812460866,
+    "gn:admin1_code": "82.0",
+    "gn:admin2_code": "2261.0",
+    "gn:admin3_code": "226101.0",
+    "gn:asciiname": "Komary",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095409,
+    "gn:latitude": 54.35,
+    "gn:longitude": 18.93333,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Komary",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.91333,54.33,18.95333,54.37",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:afr_x_preferred": [
+      "Steekmuggies"
     ],
-    "name:als_x_preferred":[
-        "Stechm\u00fccken"
+    "name:als_x_preferred": [
+      "Stechmücken"
     ],
-    "name:amh_x_preferred":[
-        "\u12e8\u12c8\u1263 \u1275\u1295\u129d"
+    "name:amh_x_preferred": [
+      "የወባ ትንኝ"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0639\u0648\u0636\u064a\u0627\u062a"
+    "name:ara_x_preferred": [
+      "بعوضيات"
     ],
-    "name:arg_x_preferred":[
-        "Culicidae"
+    "name:arg_x_preferred": [
+      "Culicidae"
     ],
-    "name:ast_x_preferred":[
-        "Culicidae"
+    "name:ast_x_preferred": [
+      "Culicidae"
     ],
-    "name:atj_x_preferred":[
-        "Sikimew"
+    "name:atj_x_preferred": [
+      "Sikimew"
     ],
-    "name:aym_x_preferred":[
-        "Ch'uspi"
+    "name:aym_x_preferred": [
+      "Ch'uspi"
     ],
-    "name:azb_x_preferred":[
-        "\u0622\u063a\u062c\u0627\u0642\u0627\u0646\u0627\u062f\u0644\u0627\u0631"
+    "name:azb_x_preferred": [
+      "آغجاقانادلار"
     ],
-    "name:aze_x_preferred":[
-        "A\u011fcaqanadlar"
+    "name:aze_x_preferred": [
+      "Ağcaqanadlar"
     ],
-    "name:bak_x_preferred":[
-        "\u0421\u0435\u0440\u04d9\u043a\u04d9\u0439\u0499\u04d9\u0440"
+    "name:bak_x_preferred": [
+      "Серәкәйҙәр"
     ],
-    "name:bar_x_preferred":[
-        "G\u00f6sn"
+    "name:bar_x_preferred": [
+      "Gösn"
     ],
-    "name:bel_x_preferred":[
-        "\u041a\u0430\u043c\u0430\u0440\u044b"
+    "name:bel_x_preferred": [
+      "Камары"
     ],
-    "name:ben_x_preferred":[
-        "\u09ae\u09b6\u09be"
+    "name:ben_x_preferred": [
+      "মশা"
     ],
-    "name:bih_x_preferred":[
-        "\u092e\u091a\u094d\u091b\u0930"
+    "name:bih_x_preferred": [
+      "मच्छर"
     ],
-    "name:bjn_x_preferred":[
-        "Rangit"
+    "name:bjn_x_preferred": [
+      "Rangit"
     ],
-    "name:bos_x_preferred":[
-        "Komarac"
+    "name:bos_x_preferred": [
+      "Komarac"
     ],
-    "name:bre_x_preferred":[
-        "Moustik"
+    "name:bre_x_preferred": [
+      "Moustik"
     ],
-    "name:bul_x_preferred":[
-        "\u041a\u043e\u043c\u0430\u0440\u0438"
+    "name:bul_x_preferred": [
+      "Комари"
     ],
-    "name:cat_x_preferred":[
-        "Cul\u00edcids"
+    "name:cat_x_preferred": [
+      "Culícids"
     ],
-    "name:cdo_x_preferred":[
-        "H\u016dng-mu\u00f2ng"
+    "name:cdo_x_preferred": [
+      "Hŭng-muòng"
     ],
-    "name:ceb_x_preferred":[
-        "Culicidae"
+    "name:ceb_x_preferred": [
+      "Culicidae"
     ],
-    "name:ces_x_preferred":[
-        "Kom\u00e1rovit\u00ed"
+    "name:ces_x_preferred": [
+      "Komárovití"
     ],
-    "name:che_x_preferred":[
-        "\u0427\u0443\u044c\u0440\u043a"
+    "name:che_x_preferred": [
+      "Чуьрк"
     ],
-    "name:chv_x_preferred":[
-        "\u0412\u0103\u0440\u0103\u043c\u0442\u0443\u043d\u0430\u0441\u0435\u043c"
+    "name:chv_x_preferred": [
+      "Вăрăмтунасем"
     ],
-    "name:ckb_x_preferred":[
-        "\u0645\u06ce\u0634\u0648\u0648\u0644\u06d5"
+    "name:ckb_x_preferred": [
+      "مێشوولە"
     ],
-    "name:csb_x_preferred":[
-        "M\u00ebga"
+    "name:csb_x_preferred": [
+      "Mëga"
     ],
-    "name:cym_x_preferred":[
-        "Mosgito"
+    "name:cym_x_preferred": [
+      "Mosgito"
     ],
-    "name:dan_x_preferred":[
-        "Stikmyg"
+    "name:dan_x_preferred": [
+      "Stikmyg"
     ],
-    "name:deu_x_preferred":[
-        "Stechm\u00fccken"
+    "name:deu_x_preferred": [
+      "Stechmücken"
     ],
-    "name:ell_x_preferred":[
-        "\u039a\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9"
+    "name:ell_x_preferred": [
+      "Κουνούπι"
     ],
-    "name:eml_x_preferred":[
-        "Sins\u00e0la"
+    "name:eml_x_preferred": [
+      "Sinsàla"
     ],
-    "name:epo_x_preferred":[
-        "Moskito"
+    "name:epo_x_preferred": [
+      "Moskito"
     ],
-    "name:est_x_preferred":[
-        "Pistes\u00e4\u00e4sklased"
+    "name:est_x_preferred": [
+      "Pistesääsklased"
     ],
-    "name:eus_x_preferred":[
-        "Eltxo"
+    "name:eus_x_preferred": [
+      "Eltxo"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0634\u0647"
+    "name:fas_x_preferred": [
+      "پشه"
     ],
-    "name:fin_x_preferred":[
-        "Hyttyset"
+    "name:fin_x_preferred": [
+      "Hyttyset"
     ],
-    "name:fra_x_preferred":[
-        "Moustique"
+    "name:fra_x_preferred": [
+      "Moustique"
     ],
-    "name:frr_x_preferred":[
-        "Steegmagen"
+    "name:frr_x_preferred": [
+      "Steegmagen"
     ],
-    "name:gle_x_preferred":[
-        "Culicidae"
+    "name:gle_x_preferred": [
+      "Culicidae"
     ],
-    "name:glg_x_preferred":[
-        "Mosquito"
+    "name:glg_x_preferred": [
+      "Mosquito"
     ],
-    "name:gor_x_preferred":[
-        "Lamu'o"
+    "name:gor_x_preferred": [
+      "Lamu'o"
     ],
-    "name:grn_x_preferred":[
-        "\u00d1ati'\u0169"
+    "name:grn_x_preferred": [
+      "Ñati'ũ"
     ],
-    "name:hak_x_preferred":[
-        "M\u00fbn-\u00e9"
+    "name:hak_x_preferred": [
+      "Mûn-é"
     ],
-    "name:hau_x_preferred":[
-        "Sauro"
+    "name:hau_x_preferred": [
+      "Sauro"
     ],
-    "name:heb_x_preferred":[
-        "\u05db\u05d5\u05dc\u05db\u05d9\u05ea\u05d9\u05d9\u05dd"
+    "name:heb_x_preferred": [
+      "כולכיתיים"
     ],
-    "name:hin_x_preferred":[
-        "\u092e\u091a\u094d\u091b\u0930"
+    "name:hin_x_preferred": [
+      "मच्छर"
     ],
-    "name:hrv_x_preferred":[
-        "Komarci"
+    "name:hrv_x_preferred": [
+      "Komarci"
     ],
-    "name:hun_x_preferred":[
-        "Sz\u00fanyogf\u00e9l\u00e9k"
+    "name:hun_x_preferred": [
+      "Szúnyogfélék"
     ],
-    "name:hye_x_preferred":[
-        "\u0544\u0578\u056e\u0561\u056f\u0576\u0565\u0580"
+    "name:hye_x_preferred": [
+      "Մոծակներ"
     ],
-    "name:ido_x_preferred":[
-        "Moskito"
+    "name:ido_x_preferred": [
+      "Moskito"
     ],
-    "name:iku_x_preferred":[
-        "\u146d\u1483\u1450\u1546\u140a\u1585"
+    "name:iku_x_preferred": [
+      "ᑭᒃᑐᕆᐊᖅ"
     ],
-    "name:ilo_x_preferred":[
-        "Lamok"
+    "name:ilo_x_preferred": [
+      "Lamok"
     ],
-    "name:ina_x_preferred":[
-        "Culicidae"
+    "name:ina_x_preferred": [
+      "Culicidae"
     ],
-    "name:ind_x_preferred":[
-        "Nyamuk"
+    "name:ind_x_preferred": [
+      "Nyamuk"
     ],
-    "name:inh_x_preferred":[
-        "\u0417I\u043e\u043a\u043c\u043e\u0437\u0438\u0439"
+    "name:inh_x_preferred": [
+      "ЗIокмозий"
     ],
-    "name:ipk_x_preferred":[
-        "Kiktu\u0121iaq"
+    "name:ipk_x_preferred": [
+      "Kiktuġiaq"
     ],
-    "name:isl_x_preferred":[
-        "Mosk\u00edt\u00f3flugur"
+    "name:isl_x_preferred": [
+      "Moskítóflugur"
     ],
-    "name:ita_x_preferred":[
-        "Culicidae"
+    "name:ita_x_preferred": [
+      "Culicidae"
     ],
-    "name:jav_x_preferred":[
-        "Lemud"
+    "name:jav_x_preferred": [
+      "Lemud"
     ],
-    "name:kan_x_preferred":[
-        "\u0cb8\u0cca\u0cb3\u0ccd\u0cb3\u0cc6"
+    "name:kan_x_preferred": [
+      "ಸೊಳ್ಳೆ"
     ],
-    "name:kat_x_preferred":[
-        "\u10d9\u10dd\u10e6\u10dd\u10d4\u10d1\u10d8"
+    "name:kat_x_preferred": [
+      "კოღოები"
     ],
-    "name:kaz_x_preferred":[
-        "\u041c\u0430\u0441\u0430"
+    "name:kaz_x_preferred": [
+      "Маса"
     ],
-    "name:khm_x_preferred":[
-        "\u1798\u17bc\u179f"
+    "name:khm_x_preferred": [
+      "មូស"
     ],
-    "name:kin_x_preferred":[
-        "Umubu"
+    "name:kin_x_preferred": [
+      "Umubu"
     ],
-    "name:kir_x_preferred":[
-        "\u0427\u0438\u0440\u043a\u0435\u0439"
+    "name:kir_x_preferred": [
+      "Чиркей"
     ],
-    "name:kom_x_preferred":[
-        "\u041d\u043e\u043c"
+    "name:kom_x_preferred": [
+      "Ном"
     ],
-    "name:kon_x_preferred":[
-        "Ngungu"
+    "name:kon_x_preferred": [
+      "Ngungu"
     ],
-    "name:kur_x_preferred":[
-        "Mixmixk"
+    "name:kur_x_preferred": [
+      "Mixmixk"
     ],
-    "name:lat_x_preferred":[
-        "Culicidae"
+    "name:lat_x_preferred": [
+      "Culicidae"
     ],
-    "name:lav_x_preferred":[
-        "Dz\u0113l\u0113jodi"
+    "name:lav_x_preferred": [
+      "Dzēlējodi"
     ],
-    "name:lin_x_preferred":[
-        "Ngungi"
+    "name:lin_x_preferred": [
+      "Ngungi"
     ],
-    "name:lit_x_preferred":[
-        "Tikrieji uodai"
+    "name:lit_x_preferred": [
+      "Tikrieji uodai"
     ],
-    "name:mal_x_preferred":[
-        "\u0d15\u0d4a\u0d24\u0d41\u0d15\u0d4d\u200c"
+    "name:mal_x_preferred": [
+      "കൊതുക്‌"
     ],
-    "name:mar_x_preferred":[
-        "\u0921\u093e\u0938"
+    "name:mar_x_preferred": [
+      "डास"
     ],
-    "name:mhr_x_preferred":[
-        "\u0428\u044b\u04a5\u0430"
+    "name:mhr_x_preferred": [
+      "Шыҥа"
     ],
-    "name:msa_x_preferred":[
-        "Nyamuk"
+    "name:msa_x_preferred": [
+      "Nyamuk"
     ],
-    "name:mya_x_preferred":[
-        "\u1001\u103c\u1004\u103a"
+    "name:mya_x_preferred": [
+      "ခြင်"
     ],
-    "name:nah_x_preferred":[
-        "M\u014dy\u014dtl"
+    "name:nah_x_preferred": [
+      "Mōyōtl"
     ],
-    "name:nav_x_preferred":[
-        "Ts\u02bc\u00ed\u02bcii da\u02bcaneez\u00ed"
+    "name:nav_x_preferred": [
+      "Tsʼíʼii daʼaneezí"
     ],
-    "name:nds_x_preferred":[
-        "Steekmuggen"
+    "name:nds_x_preferred": [
+      "Steekmuggen"
     ],
-    "name:nep_x_preferred":[
-        "\u0932\u093e\u092e\u0916\u0941\u091f\u094d\u091f\u0947"
+    "name:nep_x_preferred": [
+      "लामखुट्टे"
     ],
-    "name:nld_x_preferred":[
-        "Steekmuggen"
+    "name:nld_x_preferred": [
+      "Steekmuggen"
     ],
-    "name:nno_x_preferred":[
-        "Stikkemygg"
+    "name:nno_x_preferred": [
+      "Stikkemygg"
     ],
-    "name:nor_x_preferred":[
-        "Stikkemygg"
+    "name:nor_x_preferred": [
+      "Stikkemygg"
     ],
-    "name:oci_x_preferred":[
-        "Moissal"
+    "name:oci_x_preferred": [
+      "Moissal"
     ],
-    "name:olo_x_preferred":[
-        "Pin'oit"
+    "name:olo_x_preferred": [
+      "Pin'oit"
     ],
-    "name:oss_x_preferred":[
-        "\u041a\u044a\u043e\u0433\u044a\u043e"
+    "name:oss_x_preferred": [
+      "Къогъо"
     ],
-    "name:pam_x_preferred":[
-        "Amuk"
+    "name:pam_x_preferred": [
+      "Amuk"
     ],
-    "name:pan_x_preferred":[
-        "\u0a2e\u0a71\u0a1b\u0a30"
+    "name:pan_x_preferred": [
+      "ਮੱਛਰ"
     ],
-    "name:pdc_x_preferred":[
-        "Moschgieder"
+    "name:pdc_x_preferred": [
+      "Moschgieder"
     ],
-    "name:pfl_x_preferred":[
-        "Stechm\u00fccken"
+    "name:pfl_x_preferred": [
+      "Stechmücken"
     ],
-    "name:pnb_x_preferred":[
-        "\u0645\u0686\u06be\u0631"
+    "name:pnb_x_preferred": [
+      "مچھر"
     ],
-    "name:pol_x_preferred":[
-        "Komarowate"
+    "name:pol_x_preferred": [
+      "Komarowate"
     ],
-    "name:por_x_preferred":[
-        "Culicidae"
+    "name:por_x_preferred": [
+      "Culicidae"
     ],
-    "name:que_x_preferred":[
-        "Qhiti"
+    "name:que_x_preferred": [
+      "Qhiti"
     ],
-    "name:ron_x_preferred":[
-        "\u021a\u00e2n\u021bar"
+    "name:ron_x_preferred": [
+      "Țânțar"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u0440\u043e\u0432\u043e\u0441\u043e\u0441\u0443\u0449\u0438\u0435 \u043a\u043e\u043c\u0430\u0440\u044b"
+    "name:rus_x_preferred": [
+      "Кровососущие комары"
     ],
-    "name:sat_x_preferred":[
-        "\u1c65\u1c64\u1c60\u1c6c\u1c64\u1c61"
+    "name:sat_x_preferred": [
+      "ᱥᱤᱠᱬᱤᱡ"
     ],
-    "name:sco_x_preferred":[
-        "Midge"
+    "name:sco_x_preferred": [
+      "Midge"
     ],
-    "name:sin_x_preferred":[
-        "\u0db8\u0daf\u0dd4\u0dbb\u0dd4 \u0d9c\u0dab\u0dba"
+    "name:sin_x_preferred": [
+      "මදුරු ගණය"
     ],
-    "name:slk_x_preferred":[
-        "Kom\u00e1rovit\u00e9"
+    "name:slk_x_preferred": [
+      "Komárovité"
     ],
-    "name:slv_x_preferred":[
-        "Komarji"
+    "name:slv_x_preferred": [
+      "Komarji"
     ],
-    "name:sna_x_preferred":[
-        "Humhutu"
+    "name:sna_x_preferred": [
+      "Humhutu"
     ],
-    "name:snd_x_preferred":[
-        "\u0645\u0687\u0631"
+    "name:snd_x_preferred": [
+      "مڇر"
     ],
-    "name:som_x_preferred":[
-        "Kaneeco"
+    "name:som_x_preferred": [
+      "Kaneeco"
     ],
-    "name:spa_x_preferred":[
-        "Culicidae"
+    "name:spa_x_preferred": [
+      "Culicidae"
     ],
-    "name:sqi_x_preferred":[
-        "Mushkonja"
+    "name:sqi_x_preferred": [
+      "Mushkonja"
     ],
-    "name:srd_x_preferred":[
-        "Tzintzula"
+    "name:srd_x_preferred": [
+      "Tzintzula"
     ],
-    "name:srp_x_preferred":[
-        "\u041a\u043e\u043c\u0430\u0440\u0446\u0438"
+    "name:srp_x_preferred": [
+      "Комарци"
     ],
-    "name:sun_x_preferred":[
-        "Reungit"
+    "name:sun_x_preferred": [
+      "Reungit"
     ],
-    "name:swe_x_preferred":[
-        "Stickmyggor"
+    "name:swe_x_preferred": [
+      "Stickmyggor"
     ],
-    "name:szl_x_preferred":[
-        "Kopruchowate"
+    "name:szl_x_preferred": [
+      "Kopruchowate"
     ],
-    "name:tam_x_preferred":[
-        "\u0b95\u0bca\u0b9a\u0bc1"
+    "name:tam_x_preferred": [
+      "கொசு"
     ],
-    "name:tat_x_preferred":[
-        "\u0427\u0435\u0440\u043a\u0438\u043b\u04d9\u0440"
+    "name:tat_x_preferred": [
+      "Черкиләр"
     ],
-    "name:tcy_x_preferred":[
-        "\u0c89\u0cae\u0cbf\u0cb2\u0cbf"
+    "name:tcy_x_preferred": [
+      "ಉಮಿಲಿ"
     ],
-    "name:tel_x_preferred":[
-        "\u0c26\u0c4b\u0c2e"
+    "name:tel_x_preferred": [
+      "దోమ"
     ],
-    "name:tgl_x_preferred":[
-        "Lamok"
+    "name:tgl_x_preferred": [
+      "Lamok"
     ],
-    "name:tha_x_preferred":[
-        "\u0e22\u0e38\u0e07"
+    "name:tha_x_preferred": [
+      "ยุง"
     ],
-    "name:tum_x_preferred":[
-        "Nyimbo"
+    "name:tum_x_preferred": [
+      "Nyimbo"
     ],
-    "name:tur_x_preferred":[
-        "Sivrisinek"
+    "name:tur_x_preferred": [
+      "Sivrisinek"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043c\u0430\u0440\u0456"
+    "name:ukr_x_preferred": [
+      "Комарі"
     ],
-    "name:und_x_variant":[
-        "Schnakenburg",
-        "Komary"
+    "name:und_x_variant": [
+      "Schnakenburg",
+      "Komary"
     ],
-    "name:urd_x_preferred":[
-        "\u0645\u0686\u06be\u0631"
+    "name:urd_x_preferred": [
+      "مچھر"
     ],
-    "name:uzb_x_preferred":[
-        "Chivinlar"
+    "name:uzb_x_preferred": [
+      "Chivinlar"
     ],
-    "name:vec_x_preferred":[
-        "Sginsa\u0142a"
+    "name:vec_x_preferred": [
+      "Sginsała"
     ],
-    "name:vep_x_preferred":[
-        "S\u00e4s'ked"
+    "name:vep_x_preferred": [
+      "Säs'ked"
     ],
-    "name:vie_x_preferred":[
-        "Mu\u1ed7i"
+    "name:vie_x_preferred": [
+      "Muỗi"
     ],
-    "name:war_x_preferred":[
-        "Namok"
+    "name:war_x_preferred": [
+      "Namok"
     ],
-    "name:wln_x_preferred":[
-        "Picron"
+    "name:wln_x_preferred": [
+      "Picron"
     ],
-    "name:yid_x_preferred":[
-        "\u05e7\u05d0\u05de\u05d0\u05e8"
+    "name:yid_x_preferred": [
+      "קאמאר"
     ],
-    "name:yor_x_preferred":[
-        "\u1eb8\u0300f\u1ecdn"
+    "name:yor_x_preferred": [
+      "Ẹ̀fọn"
     ],
-    "name:zha_x_preferred":[
-        "Nyungz"
+    "name:zha_x_preferred": [
+      "Nyungz"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125359815,
-        85633723,
-        102080225
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095409,
-        "wk:page":"Mosquito"
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125359815,
+      85633723,
+      102080225
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095409,
+      "pl-gugik:jpt_kod_je": "226101_1.0141",
+      "wk:page": "Mosquito"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"27683782ab0659421ca2f77a88178076",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080225,
-            "localadmin_id":1125359815,
-            "locality_id":1326856699,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "12ad50c231fe0484a32978010273be07",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080225,
+        "localadmin_id": 1125359815,
+        "locality_id": 1326856699,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1326856699,
-    "wof:lastmodified":1569885071,
-    "wof:name":"Komary",
-    "wof:parent_id":1125359815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[
-        1495004317
+    "wof:id": 1326856699,
+    "wof:lastmodified": 1669215902,
+    "wof:name": "Komary",
+    "wof:parent_id": 1125359815,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [
+      1495004317
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.93333,
-    54.35,
-    18.93333,
-    54.35
-],
-  "geometry": {"coordinates":[18.93333,54.35],"type":"Point"}
+    18.883374980994738,
+    54.312513924017324,
+    18.91411710900574,
+    54.34203405802327
+  ],
+  "geometry": {"coordinates":[[[18.883375,54.314553],[18.883444,54.314824],[18.883436,54.31487],[18.883494,54.315503],[18.883555,54.316295],[18.883605,54.316901],[18.88364,54.317205],[18.88368,54.317361],[18.883736,54.3175],[18.884087,54.318189],[18.884287,54.318608],[18.884311,54.318656],[18.88535,54.320784],[18.885382,54.320849],[18.885839,54.321919],[18.885499,54.322001],[18.885546,54.322149],[18.885558,54.3222],[18.885955,54.324434],[18.88632,54.326357],[18.886526,54.327504],[18.886545,54.327726],[18.88672,54.328651],[18.886894,54.329553],[18.887054,54.330475],[18.887066,54.330545],[18.887612,54.333593],[18.887623,54.333687],[18.888077,54.33612],[18.888097,54.336225],[18.888217,54.336874],[18.888302,54.337333],[18.888335,54.337509],[18.888339,54.337529],[18.888377,54.337726],[18.888415,54.337922],[18.888518,54.338444],[18.888535,54.33854],[18.888607,54.338896],[18.888664,54.339179],[18.888728,54.339498],[18.888796,54.339833],[18.8888,54.339854],[18.88883,54.340019],[18.887746,54.34015],[18.887385,54.340193],[18.887023,54.340237],[18.886661,54.340281],[18.886381,54.340314],[18.886274,54.340327],[18.886317,54.340436],[18.887006,54.340996],[18.887204,54.341158],[18.887225,54.341174],[18.887834,54.341673],[18.888276,54.342034],[18.888941,54.341862],[18.889644,54.34168],[18.889987,54.341597],[18.890449,54.341485],[18.890761,54.34141],[18.890877,54.341381],[18.891073,54.341333],[18.891385,54.341256],[18.891696,54.341178],[18.892008,54.341101],[18.892391,54.341006],[18.892577,54.34096],[18.892989,54.340858],[18.893442,54.340746],[18.893938,54.340624],[18.894525,54.340479],[18.894649,54.340456],[18.894878,54.340416],[18.895106,54.340376],[18.895334,54.340337],[18.895562,54.340297],[18.895791,54.340257],[18.896019,54.340217],[18.896247,54.340177],[18.896507,54.340132],[18.89685,54.340072],[18.897474,54.339963],[18.897711,54.339922],[18.897956,54.33988],[18.898171,54.339842],[18.898901,54.339703],[18.899534,54.339582],[18.900655,54.339371],[18.900687,54.339365],[18.901238,54.339256],[18.902564,54.338995],[18.902643,54.33898],[18.902572,54.338643],[18.902508,54.338336],[18.902934,54.338278],[18.903317,54.338226],[18.903617,54.338186],[18.903959,54.338139],[18.904513,54.338064],[18.904556,54.33827],[18.904579,54.33838],[18.90465,54.33871],[18.904682,54.338865],[18.905604,54.33895],[18.905935,54.33898],[18.906277,54.339011],[18.906882,54.339059],[18.907515,54.339109],[18.907869,54.339137],[18.908154,54.33916],[18.908809,54.339212],[18.909283,54.339205],[18.909779,54.339198],[18.910487,54.339185],[18.910809,54.339081],[18.911062,54.338999],[18.911218,54.338948],[18.911731,54.338782],[18.911864,54.33874],[18.911898,54.338727],[18.911446,54.338596],[18.911336,54.338531],[18.911092,54.338384],[18.91099,54.338162],[18.910899,54.33809],[18.910727,54.337978],[18.910652,54.337849],[18.910536,54.337501],[18.910468,54.337207],[18.910401,54.337006],[18.910622,54.336989],[18.910896,54.336968],[18.911239,54.336942],[18.911518,54.336921],[18.911805,54.336898],[18.912081,54.336877],[18.912356,54.336856],[18.912345,54.336526],[18.912344,54.336493],[18.912341,54.336408],[18.912338,54.336329],[18.912334,54.336242],[18.912331,54.336165],[18.912326,54.336053],[18.912322,54.335951],[18.912318,54.335861],[18.912318,54.335841],[18.912317,54.335837],[18.912315,54.3358],[18.912621,54.335518],[18.912792,54.33536],[18.913261,54.334898],[18.913549,54.334459],[18.913715,54.334176],[18.913736,54.33413],[18.913748,54.334097],[18.914068,54.333175],[18.914099,54.333025],[18.914117,54.332672],[18.914115,54.332472],[18.914085,54.332234],[18.913956,54.331661],[18.913881,54.331393],[18.913657,54.330765],[18.913589,54.330548],[18.913354,54.32985],[18.913217,54.329426],[18.913038,54.328842],[18.913017,54.328782],[18.913011,54.328761],[18.912999,54.328724],[18.912982,54.328695],[18.912967,54.328663],[18.912775,54.328065],[18.912668,54.327683],[18.912647,54.327576],[18.91265,54.327465],[18.912664,54.327402],[18.912817,54.326741],[18.91309,54.325586],[18.91311,54.3255],[18.91312,54.325464],[18.913137,54.325389],[18.913308,54.324645],[18.913451,54.324017],[18.91341,54.324012],[18.911933,54.323236],[18.910245,54.322329],[18.909606,54.321986],[18.908898,54.321594],[18.908611,54.321435],[18.908065,54.321145],[18.906177,54.320083],[18.906004,54.319987],[18.905451,54.319678],[18.904795,54.319325],[18.903798,54.318776],[18.903422,54.31857],[18.903387,54.318552],[18.902967,54.318328],[18.90293,54.318299],[18.902876,54.318275],[18.902465,54.318092],[18.902361,54.318045],[18.902346,54.318039],[18.902003,54.317765],[18.901985,54.317716],[18.90197,54.317628],[18.902057,54.317106],[18.902056,54.317038],[18.902051,54.316769],[18.902047,54.316485],[18.902037,54.31646],[18.901972,54.316195],[18.901904,54.315817],[18.901837,54.31562],[18.901441,54.31438],[18.900059,54.314479],[18.896789,54.314493],[18.896216,54.314473],[18.894377,54.314341],[18.893973,54.31431],[18.891822,54.314046],[18.890219,54.31381],[18.889132,54.313611],[18.88872,54.313528],[18.886096,54.313007],[18.884867,54.312703],[18.884386,54.312514],[18.883515,54.313986],[18.883444,54.314166],[18.883438,54.314197],[18.883375,54.314553]]],"type":"Polygon"}
 }

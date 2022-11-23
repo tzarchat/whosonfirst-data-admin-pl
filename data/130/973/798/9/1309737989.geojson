@@ -2,93 +2,97 @@
   "id": 1309737989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.18333,53.48333,23.18333,53.48333",
-    "geom:latitude":53.48333,
-    "geom:longitude":23.18333,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201102.0",
-    "gn:asciiname":"Franckowa Buda",
-    "gn:country_code":"PL",
-    "gn:dem":151,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":772476,
-    "gn:latitude":53.48333,
-    "gn:longitude":23.18333,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Franckowa Buda",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.16333,53.46333,23.20333,53.50333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0641\u0631\u0627\u0646\u062a\u0633\u06a9\u0648\u0648\u0627 \u0628\u0648\u062f\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003019516435608286,
+    "geom:area_square_m": 2230662.174920936,
+    "geom:bbox": "23.162528345066136,53.481094686016085,23.192112750071644,53.4949703010187",
+    "geom:latitude": 23.17727867060065,
+    "geom:longitude": 53.48837495676608,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201102.0",
+    "gn:asciiname": "Franckowa Buda",
+    "gn:country_code": "PL",
+    "gn:dem": 151,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 772476,
+    "gn:latitude": 53.48333,
+    "gn:longitude": 23.18333,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Franckowa Buda",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.16333,53.46333,23.20333,53.50333",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "فرانتسکووا بودا"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0631\u0627\u0646\u062a\u0633\u06a9\u0648\u0648\u0627 \u0628\u0648\u062f\u0627"
+    "name:fas_x_preferred": [
+      "فرانتسکووا بودا"
     ],
-    "name:fra_x_preferred":[
-        "Franckowa Buda"
+    "name:fra_x_preferred": [
+      "Franckowa Buda"
     ],
-    "name:lit_x_preferred":[
-        "Franckova Buda"
+    "name:lit_x_preferred": [
+      "Franckova Buda"
     ],
-    "name:pol_x_preferred":[
-        "Franckowa Buda"
+    "name:pol_x_preferred": [
+      "Franckowa Buda"
     ],
-    "name:ukr_x_preferred":[
-        "\u0424\u0440\u0430\u043d\u0446\u043a\u043e\u0432\u0430-\u0411\u0443\u0434\u0430"
+    "name:ukr_x_preferred": [
+      "Францкова-Буда"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477751503,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":772476,
-        "wk:page":"Franckowa_Buda"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477751503,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 772476,
+      "pl-gugik:jpt_kod_je": "201102_2.0004",
+      "wk:page": "Franckowa_Buda"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"770900af73a95091a6b06956dfea1a2a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477751503,
-            "locality_id":1309737989,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d55c962297d66cfc9f92787b76845138",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477751503,
+        "locality_id": 1309737989,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1309737989,
-    "wof:lastmodified":1570036118,
-    "wof:name":"Franckowa Buda",
-    "wof:parent_id":1477751503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309737989,
+    "wof:lastmodified": 1669215923,
+    "wof:name": "Franckowa Buda",
+    "wof:parent_id": 1477751503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.18333,
-    53.48333,
-    23.18333,
-    53.48333
-],
-  "geometry": {"coordinates":[23.18333,53.48333],"type":"Point"}
+    23.162528345066136,
+    53.481094686016085,
+    23.192112750071644,
+    53.4949703010187
+  ],
+  "geometry": {"coordinates":[[[23.162537,53.487171],[23.163406,53.491069],[23.164282,53.49497],[23.166418,53.494791],[23.166784,53.49476],[23.167082,53.494735],[23.168563,53.494618],[23.169606,53.494531],[23.170005,53.494506],[23.170054,53.494644],[23.170053,53.494696],[23.174478,53.49433],[23.176202,53.494183],[23.177765,53.49405],[23.178351,53.494],[23.179099,53.493937],[23.179203,53.493928],[23.179639,53.49389],[23.180908,53.49378],[23.181739,53.493708],[23.182664,53.493628],[23.183902,53.493522],[23.184264,53.493491],[23.184441,53.493476],[23.185497,53.49338],[23.186001,53.493342],[23.186137,53.49333],[23.186259,53.49332],[23.187858,53.49318],[23.190026,53.492992],[23.190224,53.492975],[23.19027,53.492971],[23.190748,53.492929],[23.191012,53.492906],[23.191121,53.492897],[23.191245,53.492886],[23.191492,53.492864],[23.191756,53.492842],[23.192068,53.492815],[23.192113,53.492811],[23.191979,53.49247],[23.190855,53.489606],[23.190806,53.489519],[23.190752,53.489423],[23.190168,53.487942],[23.189846,53.487089],[23.189806,53.486982],[23.188774,53.484401],[23.188423,53.483523],[23.187443,53.481095],[23.185213,53.481285],[23.183748,53.481409],[23.183279,53.481451],[23.182329,53.481532],[23.181018,53.481643],[23.179635,53.481759],[23.17947,53.481773],[23.179019,53.481812],[23.177294,53.481962],[23.175317,53.482128],[23.172341,53.482387],[23.171226,53.48248],[23.170189,53.482574],[23.16959,53.482626],[23.16777,53.482776],[23.167166,53.482827],[23.167329,53.4835],[23.167351,53.483588],[23.167481,53.484108],[23.167588,53.484565],[23.167837,53.485579],[23.16809,53.486632],[23.16623,53.486796],[23.165312,53.486876],[23.165207,53.486885],[23.164699,53.48693],[23.164648,53.486935],[23.162528,53.487132],[23.162537,53.487171]]],"type":"Polygon"}
 }

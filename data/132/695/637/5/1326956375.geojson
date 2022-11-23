@@ -2,84 +2,88 @@
   "id": 1326956375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.87546,51.44384,18.87546,51.44384",
-    "geom:latitude":51.44384,
-    "geom:longitude":18.87546,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1003.0",
-    "gn:admin3_code":"100304.0",
-    "gn:asciiname":"Izydorow",
-    "gn:country_code":"PL",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3097828,
-    "gn:latitude":51.44384,
-    "gn:longitude":18.87546,
-    "gn:modification_date":"2010-09-10",
-    "gn:name":"Izydor\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.85546,51.42384,18.89546,51.46384",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Izydor\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00012838390913410408,
+    "geom:area_square_m": 993009.8762629302,
+    "geom:bbox": "18.86597951400702,51.44067306901088,18.88280383799551,51.45300335301224",
+    "geom:latitude": 18.873495592223666,
+    "geom:longitude": 51.44718950309171,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1003.0",
+    "gn:admin3_code": "100304.0",
+    "gn:asciiname": "Izydorow",
+    "gn:country_code": "PL",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3097828,
+    "gn:latitude": 51.44384,
+    "gn:longitude": 18.87546,
+    "gn:modification_date": "2010-09-10",
+    "gn:name": "Izydorów",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.85546,51.42384,18.89546,51.46384",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Izydorów"
     ],
-    "name:pol_x_preferred":[
-        "Izydor\u00f3w"
+    "name:pol_x_preferred": [
+      "Izydorów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0406\u0437\u0438\u0434\u043e\u0440\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Ізидорув"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125364429,
-        85633723,
-        102079807
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097828,
-        "wk:page":"Izydor%C3%B3w"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125364429,
+      85633723,
+      102079807
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097828,
+      "pl-gugik:jpt_kod_je": "100304_2.0010",
+      "wk:page": "Izydor%C3%B3w"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4614d1e8b064bb08dd0ffc5022050137",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079807,
-            "localadmin_id":1125364429,
-            "locality_id":1326956375,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f7f593733061342bbc2887293958df54",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079807,
+        "localadmin_id": 1125364429,
+        "locality_id": 1326956375,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1326956375,
-    "wof:lastmodified":1570006355,
-    "wof:name":"Izydorow",
-    "wof:parent_id":1125364429,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326956375,
+    "wof:lastmodified": 1669215841,
+    "wof:name": "Izydorow",
+    "wof:parent_id": 1125364429,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.87546,
-    51.44384,
-    18.87546,
-    51.44384
-],
-  "geometry": {"coordinates":[18.87546,51.44384],"type":"Point"}
+    18.86597951400702,
+    51.44067306901088,
+    18.88280383799551,
+    51.45300335301224
+  ],
+  "geometry": {"coordinates":[[[18.86598,51.444416],[18.869727,51.449687],[18.869744,51.449712],[18.869215,51.44984],[18.868978,51.449897],[18.868571,51.449995],[18.868139,51.450099],[18.867564,51.450238],[18.866913,51.450395],[18.867563,51.451317],[18.866663,51.451559],[18.866685,51.451802],[18.866863,51.452698],[18.86707,51.452995],[18.867679,51.452913],[18.867853,51.453003],[18.874198,51.452197],[18.875041,51.452087],[18.87778,51.45173],[18.880677,51.451361],[18.881024,51.451294],[18.882804,51.450914],[18.882709,51.450778],[18.88115,51.448805],[18.879582,51.446768],[18.8794,51.446533],[18.877731,51.444365],[18.876639,51.442947],[18.876601,51.442898],[18.874913,51.440673],[18.874679,51.440685],[18.874184,51.440709],[18.873693,51.440734],[18.87308,51.440765],[18.872737,51.440781],[18.872071,51.440814],[18.871957,51.44082],[18.871691,51.440833],[18.871681,51.440833],[18.8714,51.440836],[18.871174,51.440839],[18.871117,51.44084],[18.870689,51.440844],[18.870257,51.440849],[18.869929,51.440853],[18.86959,51.440857],[18.869313,51.44086],[18.868867,51.440865],[18.868608,51.440868],[18.868441,51.44087],[18.868136,51.440873],[18.867947,51.440876],[18.867591,51.44088],[18.867465,51.440881],[18.867346,51.440882],[18.867861,51.441612],[18.869519,51.443895],[18.869561,51.443954],[18.869017,51.444024],[18.868863,51.444044],[18.868519,51.444089],[18.86798,51.444158],[18.867783,51.444184],[18.86767,51.444198],[18.867464,51.444225],[18.867342,51.444241],[18.867125,51.444269],[18.867008,51.444284],[18.866895,51.444298],[18.866494,51.44435],[18.866289,51.444376],[18.86598,51.444416]]],"type":"Polygon"}
 }

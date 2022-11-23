@@ -2,84 +2,88 @@
   "id": 1310627107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.68566,51.13999,16.68566,51.13999",
-    "geom:latitude":51.13999,
-    "geom:longitude":16.68566,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"218.0",
-    "gn:admin3_code":"21804.0",
-    "gn:asciiname":"Wojczyce",
-    "gn:country_code":"PL",
-    "gn:dem":143,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535707,
-    "gn:latitude":51.13999,
-    "gn:longitude":16.68566,
-    "gn:modification_date":"2010-09-23",
-    "gn:name":"Wojczyce",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.66566,51.11999,16.70566,51.15999",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wojczyce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002892967627660815,
+    "geom:area_square_m": 2252466.647906412,
+    "geom:bbox": "16.672104519999998,51.13207992501564,16.706477627992058,51.147486839010966",
+    "geom:latitude": 16.690002876446457,
+    "geom:longitude": 51.14006986479796,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "218.0",
+    "gn:admin3_code": "21804.0",
+    "gn:asciiname": "Wojczyce",
+    "gn:country_code": "PL",
+    "gn:dem": 143,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535707,
+    "gn:latitude": 51.13999,
+    "gn:longitude": 16.68566,
+    "gn:modification_date": "2010-09-23",
+    "gn:name": "Wojczyce",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.66566,51.11999,16.70566,51.15999",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Wojczyce"
     ],
-    "name:pol_x_preferred":[
-        "Wojczyce"
+    "name:pol_x_preferred": [
+      "Wojczyce"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u043e\u0439\u0447\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Войчице"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125396931,
-        85633723,
-        102079675
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535707,
-        "wk:page":"Wojczyce"
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125396931,
+      85633723,
+      102079675
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535707,
+      "pl-gugik:jpt_kod_je": "021804_5.0025",
+      "wk:page": "Wojczyce"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"49aad020c731586f5335e04861f6f416",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079675,
-            "localadmin_id":1125396931,
-            "locality_id":1310627107,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "df2deaafed59d2942ace8df124363517",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079675,
+        "localadmin_id": 1125396931,
+        "locality_id": 1310627107,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1310627107,
-    "wof:lastmodified":1570027051,
-    "wof:name":"Wojczyce",
-    "wof:parent_id":1125396931,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310627107,
+    "wof:lastmodified": 1669215862,
+    "wof:name": "Wojczyce",
+    "wof:parent_id": 1125396931,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.68566,
-    51.13999,
-    16.68566,
-    51.13999
-],
-  "geometry": {"coordinates":[16.68566,51.13999],"type":"Point"}
+    16.672104519999998,
+    51.13207992501564,
+    16.706477627992058,
+    51.147486839010966
+  ],
+  "geometry": {"coordinates":[[[16.672105,51.141031],[16.675649,51.141587],[16.675519,51.142529],[16.675506,51.142604],[16.675468,51.142787],[16.675707,51.142874],[16.675827,51.142931],[16.677703,51.143384],[16.678502,51.14359],[16.679964,51.144051],[16.680026,51.144067],[16.680376,51.144151],[16.681209,51.144343],[16.682145,51.144513],[16.683303,51.144688],[16.683612,51.144736],[16.684863,51.144805],[16.685514,51.144869],[16.686594,51.145008],[16.687175,51.145114],[16.68735,51.14515],[16.687521,51.145189],[16.690302,51.145822],[16.690782,51.145907],[16.692546,51.146195],[16.694376,51.146453],[16.695461,51.14653],[16.696122,51.146605],[16.697715,51.147027],[16.70079,51.147487],[16.700795,51.147449],[16.701234,51.144628],[16.70183,51.141745],[16.701849,51.141665],[16.702567,51.141733],[16.704631,51.142017],[16.70624,51.142372],[16.706324,51.14239],[16.706478,51.142385],[16.704651,51.140218],[16.702555,51.137955],[16.699569,51.136381],[16.699503,51.136405],[16.698716,51.136023],[16.697139,51.135159],[16.696985,51.135078],[16.691326,51.13208],[16.685693,51.133124],[16.686037,51.133355],[16.685952,51.133374],[16.683158,51.133989],[16.684182,51.135997],[16.684219,51.136559],[16.684024,51.13657],[16.67993,51.137078],[16.677132,51.13767],[16.676647,51.137798],[16.674872,51.137749],[16.674822,51.137752],[16.67483,51.137799],[16.674977,51.138723],[16.674373,51.138829],[16.672866,51.139135],[16.672825,51.139238],[16.672122,51.140987],[16.672105,51.141031]]],"type":"Polygon"}
 }

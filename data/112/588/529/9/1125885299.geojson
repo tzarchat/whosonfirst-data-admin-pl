@@ -2,145 +2,146 @@
   "id": 1125885299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.67072,53.09459,22.67072,53.09459",
-    "geom:latitude":53.09459,
-    "geom:longitude":22.67072,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":210,
-    "iso:country":"PL",
-    "lbl:bbox":"22.65072,53.07459,22.69072,53.11459",
-    "lbl:latitude":53.09459,
-    "lbl:longitude":22.67072,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Kobylin-Borzymy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00038924473097960043,
+    "geom:area_square_m": 2902129.31689192,
+    "geom:bbox": "22.664364101040995,53.084519425020126,22.709898640047655,53.09690790301692",
+    "geom:latitude": 22.687095931146196,
+    "geom:longitude": 53.09129596584192,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 210,
+    "iso:country": "PL",
+    "lbl:bbox": "22.65072,53.07459,22.69072,53.11459",
+    "lbl:latitude": 53.09459,
+    "lbl:longitude": 22.67072,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u0628\u0644\u06cc\u0646-\u0628\u0648\u0698\u0645\u0647"
+    "name:azb_x_preferred": [
+      "کوبلین-بوژمه"
     ],
-    "name:ceb_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:ceb_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:deu_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:deu_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:eng_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:eng_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0648\u0628\u0644\u06cc\u0646-\u0628\u0648\u0698\u0645\u0647"
+    "name:fas_x_preferred": [
+      "کوبلین-بوژمه"
     ],
-    "name:fra_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:fra_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:lit_x_preferred":[
-        "Kobilin Bo\u017eimai"
+    "name:lit_x_preferred": [
+      "Kobilin Božimai"
     ],
-    "name:nan_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:nan_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:nld_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:nld_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:pol_x_preferred":[
-        "Kobylin-Borzymy"
+    "name:pol_x_preferred": [
+      "Kobylin-Borzymy"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u043e\u0431\u044b\u043b\u0438\u043d-\u0411\u043e\u0436\u0438\u043c\u044b"
+    "name:rus_x_preferred": [
+      "Кобылин-Божимы"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u0431\u0438\u043b\u0456\u043d-\u0411\u043e\u0436\u0438\u043c\u0438"
+    "name:ukr_x_preferred": [
+      "Кобилін-Божими"
     ],
-    "name:und_x_variant":[
-        "Kobylino-Borzymy"
+    "name:und_x_variant": [
+      "Kobylino-Borzymy"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":768912,
-    "qs_pg:gn_pop":210,
-    "qs_pg:name":"Kobylin-Borzymy",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1215211,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":499817,
-    "src:geom":"qs_pg",
-    "src:geom_alt":[
-        "pl"
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 768912,
+    "qs_pg:gn_pop": 210,
+    "qs_pg:name": "Kobylin-Borzymy",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1215211,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 499817,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "pl",
+      "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477751579,
-        85633723,
-        102080095
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477751579,
+      85633723,
+      102080095
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":768912,
-        "gp:id":499817,
-        "pl-gugik:jpt_kod_je":"201305_2",
-        "qs_pg:id":1215211,
-        "wd:id":"Q5731639"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 768912,
+      "gp:id": 499817,
+      "pl-gugik:jpt_kod_je": "201305_2.0006",
+      "qs_pg:id": 1215211,
+      "wd:id": "Q5731639"
     },
-    "wof:coterminous":[
-        1477751579
+    "wof:coterminous": [
+      1477751579
     ],
-    "wof:country":"PL",
-    "wof:created":1497295049,
-    "wof:geom_alt":[
-        "pl-gugik"
+    "wof:country": "PL",
+    "wof:created": 1497295049,
+    "wof:geom_alt": [
+      "pl-gugik"
     ],
-    "wof:geomhash":"8253148b5d018119e8bf5027d38f46da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080095,
-            "localadmin_id":1477751579,
-            "locality_id":1125885299,
-            "region_id":85687283
-        }
+    "wof:geomhash": "319a844d11b71206c55ac298b357ba63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080095,
+        "localadmin_id": 1477751579,
+        "locality_id": 1125885299,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125885299,
-    "wof:lastmodified":1582357790,
-    "wof:name":"Kobylin-Borzymy",
-    "wof:parent_id":1477751579,
-    "wof:placetype":"locality",
-    "wof:population":210,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125885299,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Kobylin-Borzymy",
+    "wof:parent_id": 1477751579,
+    "wof:placetype": "locality",
+    "wof:population": 210,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.67072,
-    53.09459,
-    22.67072,
-    53.09459
-],
-  "geometry": {"coordinates":[22.67072,53.09459],"type":"Point"}
+    22.664364101040995,
+    53.084519425020126,
+    22.709898640047655,
+    53.09690790301692
+  ],
+  "geometry": {"coordinates":[[[22.664364,53.088863],[22.664492,53.08897],[22.664467,53.089112],[22.664561,53.089151],[22.664609,53.089326],[22.664542,53.089414],[22.66451,53.089455],[22.664543,53.089643],[22.664566,53.089776],[22.664979,53.089985],[22.665064,53.090053],[22.665134,53.090342],[22.665063,53.090491],[22.665002,53.09056],[22.664961,53.092254],[22.664959,53.092326],[22.665019,53.092312],[22.665037,53.092558],[22.664993,53.092566],[22.665001,53.092659],[22.665969,53.093687],[22.66602,53.093742],[22.66616,53.09389],[22.666242,53.093964],[22.666263,53.093973],[22.666325,53.093999],[22.667366,53.0946],[22.667558,53.094626],[22.667735,53.094651],[22.667823,53.094732],[22.66789,53.094792],[22.668025,53.094826],[22.668203,53.094935],[22.668325,53.095074],[22.668545,53.095224],[22.668595,53.095225],[22.668626,53.095225],[22.668703,53.095226],[22.668773,53.095227],[22.669509,53.095237],[22.669991,53.095244],[22.67033,53.09526],[22.67046,53.095265],[22.671228,53.095291],[22.672751,53.095345],[22.673026,53.095346],[22.673125,53.095347],[22.673647,53.095354],[22.674543,53.095342],[22.675977,53.095344],[22.676632,53.095345],[22.677612,53.095376],[22.679672,53.095587],[22.681468,53.095783],[22.68367,53.096038],[22.686519,53.096284],[22.688163,53.096409],[22.689754,53.096554],[22.691135,53.096679],[22.692532,53.096764],[22.695246,53.096908],[22.695229,53.096747],[22.695826,53.096743],[22.697976,53.096726],[22.698505,53.096723],[22.69858,53.096723],[22.69985,53.096711],[22.700357,53.096707],[22.700397,53.096706],[22.701844,53.096704],[22.70297,53.096686],[22.703358,53.096683],[22.703551,53.096681],[22.704344,53.096675],[22.705129,53.096677],[22.706184,53.096667],[22.706214,53.096667],[22.706935,53.09666],[22.707082,53.096657],[22.707653,53.096653],[22.709077,53.09664],[22.709899,53.096632],[22.709312,53.095843],[22.709245,53.095777],[22.709054,53.095589],[22.709011,53.095548],[22.708053,53.094582],[22.707883,53.094412],[22.707613,53.094162],[22.707204,53.093784],[22.706699,53.093348],[22.706594,53.093221],[22.706527,53.093159],[22.7059,53.092726],[22.705536,53.092385],[22.70547,53.0923],[22.705261,53.092027],[22.705241,53.092005],[22.705161,53.09192],[22.705235,53.091884],[22.705162,53.091782],[22.704964,53.091516],[22.704839,53.091349],[22.704733,53.091204],[22.703873,53.090045],[22.703784,53.089951],[22.703665,53.089824],[22.703008,53.089131],[22.702194,53.088282],[22.70215,53.088236],[22.702116,53.0882],[22.701637,53.087627],[22.701069,53.086948],[22.700557,53.086295],[22.699574,53.085016],[22.699511,53.084934],[22.699377,53.084915],[22.698734,53.084828],[22.698066,53.084737],[22.696559,53.084531],[22.696358,53.084519],[22.694777,53.084707],[22.693353,53.084875],[22.693028,53.084913],[22.69243,53.084984],[22.689836,53.085286],[22.689491,53.085328],[22.688072,53.0855],[22.686768,53.085656],[22.686568,53.08568],[22.685704,53.085851],[22.685565,53.085878],[22.68555,53.08588],[22.683622,53.086093],[22.68323,53.086136],[22.68174,53.0863],[22.68143,53.086334],[22.680982,53.086383],[22.67954,53.086553],[22.678205,53.086676],[22.678191,53.086677],[22.675422,53.08698],[22.675339,53.086989],[22.673427,53.087206],[22.673214,53.08723],[22.673027,53.087251],[22.673011,53.087253],[22.673004,53.087254],[22.672079,53.087408],[22.672044,53.087413],[22.671642,53.08748],[22.66959,53.087821],[22.669371,53.087857],[22.668331,53.088029],[22.66831,53.088033],[22.668205,53.08805],[22.668026,53.08808],[22.667974,53.088091],[22.664417,53.088852],[22.664364,53.088863]]],"type":"Polygon"}
 }

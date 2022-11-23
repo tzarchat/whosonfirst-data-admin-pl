@@ -2,90 +2,94 @@
   "id": 1209342435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.5497,52.88342,23.5497,52.88342",
-    "geom:latitude":52.88342,
-    "geom:longitude":23.5497,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2005.0",
-    "gn:admin3_code":"200508.0",
-    "gn:asciiname":"Chrabostowka",
-    "gn:country_code":"PL",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":774350,
-    "gn:latitude":52.88342,
-    "gn:longitude":23.5497,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Chrabost\u00f3wka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.5297,52.86342,23.5697,52.90342",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0631\u0627\u0628\u0648\u0633\u062a\u0648\u0648\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00035027187743041644,
+    "geom:area_square_m": 2624046.923847045,
+    "geom:bbox": "23.534198502110296,52.87288995901953,23.567498070114365,52.892712865017415",
+    "geom:latitude": 23.55040712696738,
+    "geom:longitude": 52.883077091720466,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2005.0",
+    "gn:admin3_code": "200508.0",
+    "gn:asciiname": "Chrabostowka",
+    "gn:country_code": "PL",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 774350,
+    "gn:latitude": 52.88342,
+    "gn:longitude": 23.5497,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Chrabostówka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.5297,52.86342,23.5697,52.90342",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خرابوستووکا"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0631\u0627\u0628\u0648\u0633\u062a\u0648\u0648\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "خرابوستووکا"
     ],
-    "name:lit_x_preferred":[
-        "Chrabostuvka"
+    "name:lit_x_preferred": [
+      "Chrabostuvka"
     ],
-    "name:pol_x_preferred":[
-        "Chrabost\u00f3wka"
+    "name:pol_x_preferred": [
+      "Chrabostówka"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u0440\u0430\u0431\u043e\u0441\u0442\u0443\u0432\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Храбостувка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125358511,
-        85633723,
-        102080091
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":774350,
-        "wk:page":"Chrabost%C3%B3wka"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125358511,
+      85633723,
+      102080091
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 774350,
+      "pl-gugik:jpt_kod_je": "200508_2.0003",
+      "wk:page": "Chrabost%C3%B3wka"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"bb5553fe4dd4053272bb6736b446ba7d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080091,
-            "localadmin_id":1125358511,
-            "locality_id":1209342435,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "161a203550ffc4cdcec2d1f2a5daf99d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080091,
+        "localadmin_id": 1125358511,
+        "locality_id": 1209342435,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209342435,
-    "wof:lastmodified":1570022450,
-    "wof:name":"Chrabostowka",
-    "wof:parent_id":1125358511,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209342435,
+    "wof:lastmodified": 1669215929,
+    "wof:name": "Chrabostowka",
+    "wof:parent_id": 1125358511,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.5497,
-    52.88342,
-    23.5497,
-    52.88342
-],
-  "geometry": {"coordinates":[23.5497,52.88342],"type":"Point"}
+    23.534198502110296,
+    52.87288995901953,
+    23.567498070114365,
+    52.892712865017415
+  ],
+  "geometry": {"coordinates":[[[23.534199,52.881506],[23.534482,52.882219],[23.53457,52.882442],[23.534934,52.883358],[23.535079,52.883582],[23.535201,52.883769],[23.535233,52.883818],[23.535668,52.884487],[23.535991,52.884984],[23.536455,52.885211],[23.537371,52.885657],[23.537392,52.885661],[23.539611,52.886062],[23.54024,52.886349],[23.541399,52.887188],[23.541434,52.887217],[23.542333,52.887957],[23.543795,52.88925],[23.543824,52.889276],[23.545022,52.890068],[23.547921,52.891805],[23.548314,52.891927],[23.548732,52.892048],[23.548763,52.892058],[23.548766,52.892059],[23.550401,52.892566],[23.550707,52.892661],[23.550873,52.892713],[23.550948,52.892676],[23.552628,52.891842],[23.554217,52.891055],[23.554588,52.890871],[23.556308,52.890013],[23.55638,52.889977],[23.557623,52.889357],[23.559281,52.888543],[23.561115,52.887643],[23.561346,52.887529],[23.563089,52.88667],[23.565292,52.885585],[23.567441,52.884528],[23.567498,52.884499],[23.562134,52.880619],[23.558663,52.878126],[23.558659,52.878122],[23.558548,52.878043],[23.557886,52.877564],[23.557621,52.877372],[23.557571,52.877336],[23.557554,52.877323],[23.5572,52.877067],[23.557166,52.877042],[23.556667,52.876681],[23.556307,52.87642],[23.555869,52.876103],[23.555403,52.875766],[23.555054,52.875513],[23.554766,52.875304],[23.554577,52.875168],[23.554563,52.875158],[23.554373,52.87502],[23.554159,52.874866],[23.553948,52.874713],[23.55374,52.874562],[23.553307,52.874248],[23.552596,52.873733],[23.552204,52.87345],[23.551871,52.873209],[23.551431,52.87289],[23.550203,52.873501],[23.550144,52.873528],[23.549461,52.873871],[23.549334,52.87393],[23.548614,52.874287],[23.548037,52.874576],[23.547742,52.874719],[23.546821,52.875176],[23.546538,52.875319],[23.546503,52.875336],[23.546469,52.875353],[23.546077,52.875544],[23.545379,52.87589],[23.542739,52.877202],[23.542705,52.877216],[23.542547,52.877296],[23.541974,52.877585],[23.536845,52.880171],[23.534257,52.881476],[23.534199,52.881506]]],"type":"Polygon"}
 }

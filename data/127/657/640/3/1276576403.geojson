@@ -2,96 +2,100 @@
   "id": 1276576403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.00563,52.74343,23.00563,52.74343",
-    "geom:latitude":52.74343,
-    "geom:longitude":23.00563,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2003.0",
-    "gn:admin3_code":"200303.0",
-    "gn:asciiname":"Sierakowizna",
-    "gn:country_code":"PL",
-    "gn:dem":156,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":759256,
-    "gn:latitude":52.74343,
-    "gn:longitude":23.00563,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Sierakowizna",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.98563,52.72343,23.02563,52.76343",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0634\u0631\u0627\u06a9\u0648\u0648\u06cc\u0632\u0646\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021798998627787095,
+    "geom:area_square_m": 1638404.0419034846,
+    "geom:bbox": "22.998264958057984,52.72834803201707,23.01774201706293,52.74771903602275",
+    "geom:latitude": 23.007202305554088,
+    "geom:longitude": 52.73981583693684,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2003.0",
+    "gn:admin3_code": "200303.0",
+    "gn:asciiname": "Sierakowizna",
+    "gn:country_code": "PL",
+    "gn:dem": 156,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 759256,
+    "gn:latitude": 52.74343,
+    "gn:longitude": 23.00563,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Sierakowizna",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.98563,52.72343,23.02563,52.76343",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "شراکوویزنا"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0631\u0627\u06a9\u0648\u0648\u06cc\u0632\u0646\u0627"
+    "name:fas_x_preferred": [
+      "شراکوویزنا"
     ],
-    "name:fra_x_preferred":[
-        "Sierakowizna"
+    "name:fra_x_preferred": [
+      "Sierakowizna"
     ],
-    "name:lit_x_preferred":[
-        "Serakovizna"
+    "name:lit_x_preferred": [
+      "Serakovizna"
     ],
-    "name:pol_x_preferred":[
-        "Sierakowizna"
+    "name:pol_x_preferred": [
+      "Sierakowizna"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0435\u0440\u0430\u043a\u043e\u0432\u0456\u0437\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Сераковізна"
     ],
-    "name:und_x_variant":[
-        "Sierakowizny"
+    "name:und_x_variant": [
+      "Sierakowizny"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125370799,
-        85633723,
-        102080071
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":759256,
-        "wk:page":"Sierakowizna"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125370799,
+      85633723,
+      102080071
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 759256,
+      "pl-gugik:jpt_kod_je": "200303_2.0045",
+      "wk:page": "Sierakowizna"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d706ad79615f54589dbcbf7599d31446",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080071,
-            "localadmin_id":1125370799,
-            "locality_id":1276576403,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "56cc656ca294bcc1425f2dc9c2b36ee6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080071,
+        "localadmin_id": 1125370799,
+        "locality_id": 1276576403,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1276576403,
-    "wof:lastmodified":1570017490,
-    "wof:name":"Sierakowizna",
-    "wof:parent_id":1125370799,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276576403,
+    "wof:lastmodified": 1669215932,
+    "wof:name": "Sierakowizna",
+    "wof:parent_id": 1125370799,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.00563,
-    52.74343,
-    23.00563,
-    52.74343
-],
-  "geometry": {"coordinates":[23.00563,52.74343],"type":"Point"}
+    22.998264958057984,
+    52.72834803201707,
+    23.01774201706293,
+    52.74771903602275
+  ],
+  "geometry": {"coordinates":[[[22.998265,52.74718],[22.99834,52.74717],[23.003109,52.746523],[23.003979,52.746405],[23.005713,52.74617],[23.005733,52.746223],[23.005988,52.746908],[23.006154,52.747373],[23.006162,52.747395],[23.006335,52.747372],[23.010246,52.746858],[23.012621,52.746547],[23.015354,52.747238],[23.017069,52.747672],[23.017095,52.747679],[23.017175,52.747699],[23.017253,52.747719],[23.017695,52.747234],[23.017742,52.747182],[23.01698,52.745952],[23.01622,52.744728],[23.015236,52.743138],[23.014908,52.742609],[23.014877,52.742557],[23.014528,52.741994],[23.014212,52.741484],[23.013459,52.740267],[23.012377,52.738518],[23.012351,52.738475],[23.014455,52.738213],[23.014408,52.738173],[23.012389,52.736466],[23.011999,52.736142],[23.011964,52.736113],[23.011955,52.736106],[23.010916,52.735242],[23.01045,52.734816],[23.011092,52.734034],[23.011181,52.733926],[23.011347,52.733779],[23.01159,52.732727],[23.011616,52.732205],[23.011628,52.731945],[23.011882,52.731464],[23.011943,52.731348],[23.012188,52.731126],[23.012268,52.731052],[23.012347,52.730893],[23.012289,52.730768],[23.011615,52.730523],[23.012582,52.728651],[23.011715,52.728586],[23.010244,52.728475],[23.009408,52.728412],[23.00884,52.728369],[23.008635,52.728354],[23.00856,52.728348],[23.008276,52.728852],[23.007604,52.730041],[23.006648,52.729792],[23.006625,52.729835],[23.005544,52.731899],[23.005119,52.732662],[23.005013,52.732853],[23.004786,52.73326],[23.004762,52.733288],[23.004551,52.73354],[23.004275,52.733797],[23.003473,52.7343],[23.00305,52.734632],[23.002847,52.734767],[23.002401,52.735066],[23.001684,52.735148],[23.001089,52.735289],[23.000736,52.735372],[23.000435,52.735431],[22.999992,52.735518],[22.999664,52.735543],[22.999642,52.735545],[22.999569,52.73555],[22.999816,52.736522],[22.999837,52.736604],[22.999896,52.736839],[22.999793,52.737793],[22.999772,52.738063],[22.999722,52.738721],[22.999701,52.738991],[22.999724,52.739397],[22.999752,52.7399],[22.99969,52.740441],[22.999498,52.741028],[22.999248,52.741436],[22.998875,52.742045],[22.998775,52.742272],[22.998568,52.742941],[22.998536,52.743158],[22.998528,52.743212],[22.998421,52.743935],[22.998352,52.746068],[22.998289,52.746879],[22.998265,52.74718]]],"type":"Polygon"}
 }

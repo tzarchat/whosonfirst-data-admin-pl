@@ -2,84 +2,88 @@
   "id": 1327259915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01474,54.21281,23.01474,54.21281",
-    "geom:latitude":54.21281,
-    "geom:longitude":23.01474,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201208.0",
-    "gn:asciiname":"Szury",
-    "gn:country_code":"PL",
-    "gn:dem":205,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":757207,
-    "gn:latitude":54.21281,
-    "gn:longitude":23.01474,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Szury",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.99474,54.19281,23.03474,54.23281",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "\u0160uriai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004128003723144453,
+    "geom:area_square_m": 2997634.0911046527,
+    "geom:bbox": "22.995117576054348,54.20021277402231,23.0291647900556,54.22490166902082",
+    "geom:latitude": 23.01323280436719,
+    "geom:longitude": 54.2138650016303,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201208.0",
+    "gn:asciiname": "Szury",
+    "gn:country_code": "PL",
+    "gn:dem": 205,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 757207,
+    "gn:latitude": 54.21281,
+    "gn:longitude": 23.01474,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Szury",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.99474,54.19281,23.03474,54.23281",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Šuriai"
     ],
-    "name:pol_x_preferred":[
-        "Szury"
+    "name:pol_x_preferred": [
+      "Szury"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u0443\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Шури"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752207,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757207,
-        "wk:page":"Szury"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752207,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757207,
+      "pl-gugik:jpt_kod_je": "201208_2.0044",
+      "wk:page": "Szury"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9ce776952dc57ed07e6ae456c3914421",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752207,
-            "locality_id":1327259915,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fe781c9183d0e66634c303436bd46ae5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752207,
+        "locality_id": 1327259915,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1327259915,
-    "wof:lastmodified":1570006405,
-    "wof:name":"Szury",
-    "wof:parent_id":1477752207,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327259915,
+    "wof:lastmodified": 1669215920,
+    "wof:name": "Szury",
+    "wof:parent_id": 1477752207,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.01474,
-    54.21281,
-    23.01474,
-    54.21281
-],
-  "geometry": {"coordinates":[23.01474,54.21281],"type":"Point"}
+    22.995117576054348,
+    54.20021277402231,
+    23.0291647900556,
+    54.22490166902082
+  ],
+  "geometry": {"coordinates":[[[23.018115,54.224252],[23.018632,54.223889],[23.019166,54.223511],[23.019213,54.223477],[23.019692,54.223137],[23.019806,54.223056],[23.021336,54.221981],[23.022366,54.221241],[23.024692,54.219562],[23.024868,54.219432],[23.025923,54.218653],[23.026683,54.218453],[23.027599,54.218192],[23.027661,54.218174],[23.027689,54.218166],[23.029165,54.21776],[23.027838,54.216106],[23.026185,54.214045],[23.024732,54.212175],[23.023808,54.210949],[23.022679,54.209496],[23.022639,54.209445],[23.022559,54.209342],[23.022162,54.208906],[23.021428,54.207997],[23.020565,54.206877],[23.019963,54.20612],[23.019808,54.205923],[23.019254,54.205225],[23.018669,54.204514],[23.018305,54.204072],[23.018126,54.20384],[23.01811,54.203819],[23.018072,54.20377],[23.018053,54.203745],[23.017257,54.202712],[23.016557,54.201867],[23.016497,54.201794],[23.016438,54.201722],[23.015465,54.200473],[23.015247,54.200213],[23.014271,54.200977],[23.013607,54.201535],[23.012085,54.202708],[23.010989,54.203579],[23.009778,54.204552],[23.008982,54.20519],[23.008945,54.205219],[23.007708,54.206185],[23.006381,54.207243],[23.00477,54.208536],[23.001558,54.211099],[23.001023,54.211526],[23.000991,54.211551],[23.000943,54.21159],[22.998193,54.213784],[22.995118,54.216237],[22.995169,54.216257],[22.995355,54.216328],[22.996828,54.216889],[22.998057,54.217357],[22.998152,54.217394],[22.999684,54.217997],[23.00158,54.218719],[23.001816,54.218813],[23.002538,54.219102],[23.003405,54.219461],[23.005757,54.220353],[23.006104,54.220484],[23.006564,54.220678],[23.006639,54.22071],[23.007365,54.221015],[23.008579,54.221514],[23.01131,54.222593],[23.011678,54.222739],[23.012832,54.223199],[23.012908,54.223229],[23.014027,54.223674],[23.017191,54.224902],[23.018115,54.224252]]],"type":"Polygon"}
 }

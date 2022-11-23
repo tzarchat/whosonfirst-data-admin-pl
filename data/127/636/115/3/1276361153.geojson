@@ -2,80 +2,84 @@
   "id": 1276361153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.7054,51.04679,16.7054,51.04679",
-    "geom:latitude":51.04679,
-    "geom:longitude":16.7054,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"218.0",
-    "gn:admin3_code":"21801.0",
-    "gn:asciiname":"Samsonowice",
-    "gn:country_code":"PL",
-    "gn:dem":150,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535715,
-    "gn:latitude":51.04679,
-    "gn:longitude":16.7054,
-    "gn:modification_date":"2010-09-23",
-    "gn:name":"Samsonowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.6854,51.02679,16.7254,51.06679",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Samsonowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017775110965759117,
+    "geom:area_square_m": 1386795.6129501383,
+    "geom:bbox": "16.696944049995984,51.03902060301297,16.720232261991413,51.04988964101789",
+    "geom:latitude": 16.707346503505374,
+    "geom:longitude": 51.044828550624516,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "218.0",
+    "gn:admin3_code": "21801.0",
+    "gn:asciiname": "Samsonowice",
+    "gn:country_code": "PL",
+    "gn:dem": 150,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535715,
+    "gn:latitude": 51.04679,
+    "gn:longitude": 16.7054,
+    "gn:modification_date": "2010-09-23",
+    "gn:name": "Samsonowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.6854,51.02679,16.7254,51.06679",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Samsonowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0430\u043c\u0441\u043e\u043d\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Самсоновіце"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1477751275,
-        85633723,
-        102079675
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535715
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1477751275,
+      85633723,
+      102079675
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535715,
+      "pl-gugik:jpt_kod_je": "021801_2.0018"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"919935589b7a49acb85ee617382f4ae1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079675,
-            "localadmin_id":1477751275,
-            "locality_id":1276361153,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1f2bcda42e6c2763a6d622187ce64483",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079675,
+        "localadmin_id": 1477751275,
+        "locality_id": 1276361153,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1276361153,
-    "wof:lastmodified":1570019450,
-    "wof:name":"Samsonowice",
-    "wof:parent_id":1477751275,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276361153,
+    "wof:lastmodified": 1669215884,
+    "wof:name": "Samsonowice",
+    "wof:parent_id": 1477751275,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.7054,
-    51.04679,
-    16.7054,
-    51.04679
-],
-  "geometry": {"coordinates":[16.7054,51.04679],"type":"Point"}
+    16.696944049995984,
+    51.03902060301297,
+    16.720232261991413,
+    51.04988964101789
+  ],
+  "geometry": {"coordinates":[[[16.696978,51.045496],[16.69702,51.045983],[16.697193,51.047613],[16.697335,51.048956],[16.697378,51.04935],[16.696944,51.049555],[16.697309,51.049569],[16.697333,51.049591],[16.697637,51.049592],[16.700887,51.049729],[16.700959,51.049732],[16.70288,51.049796],[16.704688,51.049889],[16.704862,51.04989],[16.707654,51.049676],[16.707754,51.049668],[16.709625,51.049525],[16.711332,51.049394],[16.712099,51.049338],[16.712927,51.049271],[16.713829,51.049202],[16.713949,51.049193],[16.713978,51.048629],[16.713863,51.048081],[16.713754,51.047756],[16.713901,51.047576],[16.714154,51.047388],[16.714464,51.04723],[16.715069,51.046956],[16.71609,51.046529],[16.716759,51.046243],[16.717541,51.045881],[16.718062,51.045621],[16.718339,51.045389],[16.718672,51.045059],[16.718954,51.04462],[16.71989,51.042772],[16.720047,51.042596],[16.720232,51.042531],[16.720149,51.042509],[16.719817,51.042419],[16.714478,51.041025],[16.713874,51.040864],[16.713832,51.040855],[16.71379,51.040846],[16.713114,51.040641],[16.711205,51.040274],[16.708328,51.039825],[16.706741,51.039576],[16.706671,51.039567],[16.705732,51.039428],[16.703698,51.039133],[16.703507,51.039082],[16.703427,51.039052],[16.703198,51.039021],[16.703191,51.039058],[16.703296,51.040166],[16.702915,51.040233],[16.700535,51.040476],[16.700455,51.040484],[16.698661,51.04299],[16.697574,51.044622],[16.696978,51.045496]]],"type":"Polygon"}
 }

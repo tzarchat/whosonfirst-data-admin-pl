@@ -2,84 +2,88 @@
   "id": 1242710503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.30288,52.96338,20.30288,52.96338",
-    "geom:latitude":52.96338,
-    "geom:longitude":20.30288,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1413.0",
-    "gn:admin3_code":"141305.0",
-    "gn:asciiname":"Dalnia",
-    "gn:country_code":"PL",
-    "gn:dem":123,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":773449,
-    "gn:latitude":52.96338,
-    "gn:longitude":20.30288,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Dalnia",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.28288,52.94338,20.32288,52.98338",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Dalnia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010487219047190513,
+    "geom:area_square_m": 784304.9470881075,
+    "geom:bbox": "20.277749711003054,52.95294679801331,20.309475474997917,52.96126903702029",
+    "geom:latitude": 20.29236109372209,
+    "geom:longitude": 52.9578326265549,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1413.0",
+    "gn:admin3_code": "141305.0",
+    "gn:asciiname": "Dalnia",
+    "gn:country_code": "PL",
+    "gn:dem": 123,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 773449,
+    "gn:latitude": 52.96338,
+    "gn:longitude": 20.30288,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Dalnia",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.28288,52.94338,20.32288,52.98338",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Dalnia"
     ],
-    "name:pol_x_preferred":[
-        "Dalnia"
+    "name:pol_x_preferred": [
+      "Dalnia"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0430\u043b\u044c\u043d\u044f"
+    "name:ukr_x_preferred": [
+      "Дальня"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125381181,
-        85633723,
-        102080089
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":773449,
-        "wk:page":"Dalnia"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125381181,
+      85633723,
+      102080089
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 773449,
+      "pl-gugik:jpt_kod_je": "141305_2.0021",
+      "wk:page": "Dalnia"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3e968cf2332ec3188441f18409cb1e3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080089,
-            "localadmin_id":1125381181,
-            "locality_id":1242710503,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "ddab150c107f814254f83ef4bcaa0ffd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080089,
+        "localadmin_id": 1125381181,
+        "locality_id": 1242710503,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1242710503,
-    "wof:lastmodified":1570043648,
-    "wof:name":"Dalnia",
-    "wof:parent_id":1125381181,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242710503,
+    "wof:lastmodified": 1669215937,
+    "wof:name": "Dalnia",
+    "wof:parent_id": 1125381181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.30288,
-    52.96338000000001,
-    20.30288,
-    52.96338000000001
-],
-  "geometry": {"coordinates":[20.30288,52.96338000000001],"type":"Point"}
+    20.277749711003054,
+    52.95294679801331,
+    20.309475474997917,
+    52.96126903702029
+  ],
+  "geometry": {"coordinates":[[[20.27775,52.954726],[20.27781,52.954778],[20.280442,52.958398],[20.281378,52.958332],[20.281582,52.958317],[20.282278,52.958268],[20.282719,52.958319],[20.283686,52.958431],[20.284273,52.958514],[20.285601,52.958704],[20.286903,52.958941],[20.287778,52.959099],[20.288534,52.959336],[20.289291,52.959572],[20.28975,52.959715],[20.290337,52.959945],[20.292647,52.960775],[20.293074,52.960868],[20.294477,52.961103],[20.296453,52.961269],[20.29878,52.960962],[20.29961,52.960858],[20.300482,52.96068],[20.300779,52.960597],[20.30202,52.960299],[20.302845,52.960065],[20.303764,52.959743],[20.30478,52.959351],[20.305398,52.959144],[20.306034,52.958893],[20.30624,52.958811],[20.307219,52.958383],[20.308145,52.958313],[20.309475,52.958212],[20.309211,52.957848],[20.309242,52.957817],[20.308838,52.957668],[20.306815,52.957124],[20.30395,52.95695],[20.303458,52.956942],[20.297925,52.956925],[20.297526,52.956885],[20.296597,52.956845],[20.294102,52.956682],[20.294066,52.95668],[20.293545,52.956646],[20.292979,52.956577],[20.290352,52.956273],[20.288216,52.956024],[20.284971,52.955492],[20.283454,52.955228],[20.283658,52.952947],[20.283474,52.953001],[20.283022,52.953139],[20.28267,52.953247],[20.282339,52.953348],[20.282076,52.953428],[20.281752,52.953528],[20.281501,52.953604],[20.281069,52.953736],[20.28031,52.953947],[20.279668,52.954143],[20.277838,52.954699],[20.27775,52.954726]]],"type":"Polygon"}
 }

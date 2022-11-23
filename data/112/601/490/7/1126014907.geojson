@@ -2,130 +2,134 @@
   "id": 1126014907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.71736,54.68212,18.71736,54.68212",
-    "geom:latitude":54.68212,
-    "geom:longitude":18.71736,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"18.69736,54.66212,18.73736,54.70212",
-    "lbl:latitude":54.68212,
-    "lbl:longitude":18.71736,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bel_x_preferred":[
-        "\u042e\u0440\u0430\u0442\u0430"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003032841185078325,
+    "geom:area_square_m": 2177775.18520541,
+    "geom:bbox": "18.693787703998396,54.674692137019335,18.735105212000704,54.69576257401777",
+    "geom:latitude": 18.7143919913751,
+    "geom:longitude": 54.68502023609405,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "18.69736,54.66212,18.73736,54.70212",
+    "lbl:latitude": 54.68212,
+    "lbl:longitude": 18.71736,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred": [
+      "Юрата"
     ],
-    "name:ces_x_preferred":[
-        "Jurata"
+    "name:ces_x_preferred": [
+      "Jurata"
     ],
-    "name:deu_x_preferred":[
-        "Jurata"
+    "name:deu_x_preferred": [
+      "Jurata"
     ],
-    "name:eng_x_preferred":[
-        "Jurata"
+    "name:eng_x_preferred": [
+      "Jurata"
     ],
-    "name:fra_x_preferred":[
-        "Jurata"
+    "name:fra_x_preferred": [
+      "Jurata"
     ],
-    "name:jpn_x_preferred":[
-        "\u30e6\u30e9\u30bf"
+    "name:jpn_x_preferred": [
+      "ユラタ"
     ],
-    "name:lit_x_preferred":[
-        "Jurata"
+    "name:lit_x_preferred": [
+      "Jurata"
     ],
-    "name:nld_x_preferred":[
-        "Jurata"
+    "name:nld_x_preferred": [
+      "Jurata"
     ],
-    "name:nob_x_preferred":[
-        "Jurata"
+    "name:nob_x_preferred": [
+      "Jurata"
     ],
-    "name:pol_x_preferred":[
-        "Jurata"
+    "name:pol_x_preferred": [
+      "Jurata"
     ],
-    "name:swe_x_preferred":[
-        "Jurata"
+    "name:swe_x_preferred": [
+      "Jurata"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0443\u0434\u0437\u0435\u043d\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Студзеніце"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3097023,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Jurata",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Pomorskie",
-    "qs_pg:photos":416,
-    "qs_pg:photos_1k":84,
-    "qs_pg:photos_9k":2,
-    "qs_pg:photos_9r":5,
-    "qs_pg:photos_all":416,
-    "qs_pg:photos_sr":6,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":247420,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":497868,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125415497,
-        85633723,
-        102080269
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3097023,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Jurata",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Pomorskie",
+    "qs_pg:photos": 416,
+    "qs_pg:photos_1k": 84,
+    "qs_pg:photos_9k": 2,
+    "qs_pg:photos_9r": 5,
+    "qs_pg:photos_all": 416,
+    "qs_pg:photos_sr": 6,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 247420,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 497868,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097023,
-        "gp:id":497868,
-        "qs_pg:id":247420,
-        "wd:id":"Q784483"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125415497,
+      85633723,
+      102080269
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097023,
+      "gp:id": 497868,
+      "pl-gugik:jpt_kod_je": "221102_5.0001",
+      "qs_pg:id": 247420,
+      "wd:id": "Q784483"
     },
-    "wof:country":"PL",
-    "wof:created":1497300491,
-    "wof:geomhash":"31120ab3cf3bf42077653a26161e9faf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080269,
-            "localadmin_id":1125415497,
-            "locality_id":1126014907,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300491,
+    "wof:geomhash": "9893cf0ec003a3bb5ee06d4a82abc906",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080269,
+        "localadmin_id": 1125415497,
+        "locality_id": 1126014907,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1126014907,
-    "wof:lastmodified":1570038403,
-    "wof:name":"Jurata",
-    "wof:parent_id":1125415497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126014907,
+    "wof:lastmodified": 1669215908,
+    "wof:name": "Jurata",
+    "wof:parent_id": 1125415497,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.71736,
-    54.68212,
-    18.71736,
-    54.68212
-],
-  "geometry": {"coordinates":[18.71736,54.68212],"type":"Point"}
+    18.693787703998396,
+    54.674692137019335,
+    18.735105212000704,
+    54.69576257401777
+  ],
+  "geometry": {"coordinates":[[[18.695756,54.693007],[18.696227,54.693377],[18.696438,54.693571],[18.697499,54.694429],[18.698567,54.695293],[18.699147,54.695763],[18.733194,54.681861],[18.735105,54.680806],[18.731911,54.679666],[18.730846,54.679218],[18.730675,54.679146],[18.730398,54.67903],[18.730149,54.678975],[18.727035,54.677558],[18.726861,54.677502],[18.725859,54.677055],[18.725423,54.67686],[18.725264,54.676789],[18.725229,54.676835],[18.725037,54.676754],[18.725038,54.676782],[18.724106,54.676388],[18.723503,54.676133],[18.722645,54.675771],[18.721556,54.67531],[18.720797,54.674989],[18.720334,54.674791],[18.720207,54.674734],[18.720163,54.674692],[18.720146,54.674706],[18.715813,54.678212],[18.715534,54.678468],[18.710989,54.681661],[18.710429,54.682058],[18.710059,54.68232],[18.7077,54.684018],[18.707558,54.68426],[18.707213,54.684362],[18.706842,54.684705],[18.706732,54.684747],[18.706069,54.68518],[18.705176,54.685685],[18.704081,54.685919],[18.703966,54.686342],[18.703905,54.686644],[18.703273,54.686829],[18.702881,54.686981],[18.702645,54.687086],[18.702474,54.687258],[18.702404,54.687307],[18.702116,54.687653],[18.701784,54.687657],[18.701508,54.687697],[18.700145,54.688433],[18.699194,54.688713],[18.698018,54.689477],[18.696882,54.689981],[18.695381,54.690619],[18.694426,54.690827],[18.693878,54.691134],[18.693788,54.691393],[18.693886,54.691475],[18.69441,54.691911],[18.695196,54.692559],[18.695756,54.693007]]],"type":"Polygon"}
 }

@@ -2,90 +2,94 @@
   "id": 1293816315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.72271,53.97265,14.72271,53.97265",
-    "geom:latitude":53.97265,
-    "geom:longitude":14.72271,
-    "gn:admin1_code":"87.0",
-    "gn:admin2_code":"3207.0",
-    "gn:admin3_code":"320703.0",
-    "gn:asciiname":"Buniewice",
-    "gn:country_code":"PL",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3102057,
-    "gn:latitude":53.97265,
-    "gn:longitude":14.72271,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Buniewice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"14.70271,53.95265,14.74271,53.99265",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Buniewice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0013091116532561863,
+    "geom:area_square_m": 9562444.763262246,
+    "geom:bbox": "14.695452070922808,53.94143717901842,14.742322537928045,53.99411630502051",
+    "geom:latitude": 14.718182508929882,
+    "geom:longitude": 53.96781230241467,
+    "gn:admin1_code": "87.0",
+    "gn:admin2_code": "3207.0",
+    "gn:admin3_code": "320703.0",
+    "gn:asciiname": "Buniewice",
+    "gn:country_code": "PL",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3102057,
+    "gn:latitude": 53.97265,
+    "gn:longitude": 14.72271,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Buniewice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "14.70271,53.95265,14.74271,53.99265",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Buniewice"
     ],
-    "name:deu_x_preferred":[
-        "Buniewice"
+    "name:deu_x_preferred": [
+      "Buniewice"
     ],
-    "name:pol_x_preferred":[
-        "Buniewice"
+    "name:pol_x_preferred": [
+      "Buniewice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0443\u043d\u0435\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Буневіце"
     ],
-    "name:vie_x_preferred":[
-        "Buniewice"
+    "name:vie_x_preferred": [
+      "Buniewice"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1477751547,
-        85633723,
-        102080153
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102057,
-        "wk:page":"Buniewice"
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1477751547,
+      85633723,
+      102080153
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102057,
+      "pl-gugik:jpt_kod_je": "320703_5.0007",
+      "wk:page": "Buniewice"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"bac4aee4ad42cb3f485a90e1215004c3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080153,
-            "localadmin_id":1477751547,
-            "locality_id":1293816315,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "b61b82506635eff6585272f6b9364e45",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080153,
+        "localadmin_id": 1477751547,
+        "locality_id": 1293816315,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1293816315,
-    "wof:lastmodified":1570016220,
-    "wof:name":"Buniewice",
-    "wof:parent_id":1477751547,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293816315,
+    "wof:lastmodified": 1669215905,
+    "wof:name": "Buniewice",
+    "wof:parent_id": 1477751547,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.72271,
-    53.97265,
-    14.72271,
-    53.97265
-],
-  "geometry": {"coordinates":[14.72271,53.97265],"type":"Point"}
+    14.695452070922808,
+    53.94143717901842,
+    14.742322537928045,
+    53.99411630502051
+  ],
+  "geometry": {"coordinates":[[[14.742289,53.972272],[14.742301,53.972239],[14.74216,53.972139],[14.741273,53.972288],[14.740892,53.972307],[14.740527,53.972269],[14.740468,53.972261],[14.740659,53.970011],[14.740674,53.969831],[14.737936,53.96721],[14.737365,53.966663],[14.737319,53.966619],[14.737261,53.966277],[14.734659,53.965919],[14.734437,53.965886],[14.734899,53.96481],[14.732255,53.964969],[14.730634,53.965044],[14.730626,53.963892],[14.728946,53.961871],[14.728577,53.961407],[14.728254,53.960936],[14.727697,53.9603],[14.727497,53.960049],[14.727472,53.960017],[14.727365,53.959943],[14.725915,53.95849],[14.725911,53.958428],[14.72503,53.958552],[14.724174,53.958673],[14.723126,53.956493],[14.721318,53.952889],[14.720076,53.952595],[14.717635,53.952162],[14.717642,53.95204],[14.717136,53.948244],[14.71707,53.947761],[14.716531,53.943841],[14.701597,53.941437],[14.700904,53.942961],[14.700403,53.943742],[14.700247,53.944033],[14.699987,53.944391],[14.69884,53.945852],[14.697726,53.94726],[14.696535,53.948684],[14.696204,53.949433],[14.695603,53.950923],[14.695452,53.951729],[14.695529,53.95254],[14.695745,53.954162],[14.696021,53.954958],[14.696483,53.955686],[14.697203,53.956725],[14.698183,53.958038],[14.700232,53.960676],[14.702017,53.963155],[14.704299,53.96683],[14.70492,53.96802],[14.704845,53.972154],[14.704798,53.973555],[14.704815,53.977682],[14.705307,53.978994],[14.706516,53.981139],[14.707421,53.982145],[14.708124,53.98268],[14.709151,53.983419],[14.711094,53.984148],[14.713455,53.985029],[14.717852,53.986632],[14.72034,53.987713],[14.727419,53.991127],[14.733618,53.994116],[14.740116,53.978425],[14.740194,53.978236],[14.740718,53.97683],[14.741045,53.975894],[14.742323,53.972327],[14.742289,53.972272]]],"type":"Polygon"}
 }

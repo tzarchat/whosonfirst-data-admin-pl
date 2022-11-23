@@ -2,113 +2,117 @@
   "id": 1126006031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.36702,52.01975,20.36702,52.01975",
-    "geom:latitude":52.01975,
-    "geom:longitude":20.36702,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":1789,
-    "iso:country":"PL",
-    "lbl:bbox":"20.34702,51.99975,20.38702,52.03975",
-    "lbl:latitude":52.01975,
-    "lbl:longitude":20.36702,
-    "lbl:max_zoom":16.0,
-    "lbl:min_zoom":12.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Mrozy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002528492097601916,
+    "geom:area_square_m": 1931427.2970484393,
+    "geom:bbox": "20.35608156900334,52.00892572101771,20.382820180000017,52.027066055020015",
+    "geom:latitude": 20.37036471251113,
+    "geom:longitude": 52.01753750385757,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 1789,
+    "iso:country": "PL",
+    "lbl:bbox": "20.34702,51.99975,20.38702,52.03975",
+    "lbl:latitude": 52.01975,
+    "lbl:longitude": 20.36702,
+    "lbl:max_zoom": 16,
+    "lbl:min_zoom": 12,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Mrozy"
     ],
-    "name:ceb_x_preferred":[
-        "Mrozy"
+    "name:ceb_x_preferred": [
+      "Mrozy"
     ],
-    "name:eng_x_preferred":[
-        "Mrozy"
+    "name:eng_x_preferred": [
+      "Mrozy"
     ],
-    "name:fra_x_preferred":[
-        "Mrozy"
+    "name:fra_x_preferred": [
+      "Mrozy"
     ],
-    "name:pol_x_preferred":[
-        "Mrozy"
+    "name:pol_x_preferred": [
+      "Mrozy"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0440\u043e\u0437\u0438"
+    "name:ukr_x_preferred": [
+      "Мрози"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":764293,
-    "qs_pg:gn_pop":1789,
-    "qs_pg:name":"Mrozy",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":3,
-    "qs_pg:qs_id":1011163,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":508388,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125365977,
-        85633723,
-        102079897
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 764293,
+    "qs_pg:gn_pop": 1789,
+    "qs_pg:name": "Mrozy",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 3,
+    "qs_pg:qs_id": 1011163,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 508388,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":764293,
-        "gp:id":508388,
-        "qs_pg:id":1011163,
-        "wd:id":"Q6929680"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125365977,
+      85633723,
+      102079897
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 764293,
+      "gp:id": 508388,
+      "pl-gugik:jpt_kod_je": "143803_2.0020",
+      "qs_pg:id": 1011163,
+      "wd:id": "Q6929680"
     },
-    "wof:country":"PL",
-    "wof:created":1497299960,
-    "wof:geomhash":"2bb2bc1af1b3872b691f0759a48fd9fc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079897,
-            "localadmin_id":1125365977,
-            "locality_id":1126006031,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299960,
+    "wof:geomhash": "2d8bb0fd730aae0406302d7e6db3ca9d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079897,
+        "localadmin_id": 1125365977,
+        "locality_id": 1126006031,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126006031,
-    "wof:lastmodified":1570039007,
-    "wof:name":"Mrozy",
-    "wof:parent_id":1125365977,
-    "wof:placetype":"locality",
-    "wof:population":1789,
-    "wof:population_rank":3,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126006031,
+    "wof:lastmodified": 1669215840,
+    "wof:name": "Mrozy",
+    "wof:parent_id": 1125365977,
+    "wof:placetype": "locality",
+    "wof:population": 1789,
+    "wof:population_rank": 3,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.36702,
-    52.01975,
-    20.36702,
-    52.01975
-],
-  "geometry": {"coordinates":[20.36702,52.01975],"type":"Point"}
+    20.35608156900334,
+    52.00892572101771,
+    20.382820180000017,
+    52.027066055020015
+  ],
+  "geometry": {"coordinates":[[[20.373773,52.008926],[20.369447,52.009618],[20.366191,52.010148],[20.364332,52.010444],[20.363359,52.010598],[20.360287,52.011119],[20.359605,52.011946],[20.358902,52.012817],[20.357483,52.01455],[20.357091,52.015039],[20.356796,52.015407],[20.356082,52.016298],[20.357786,52.017037],[20.358488,52.017342],[20.359321,52.017703],[20.359371,52.017725],[20.361531,52.018646],[20.361996,52.018832],[20.362786,52.019145],[20.362911,52.019195],[20.362966,52.019217],[20.363443,52.019407],[20.363531,52.019441],[20.364037,52.019654],[20.364108,52.019683],[20.36445,52.019827],[20.364682,52.019925],[20.365068,52.020087],[20.365535,52.020283],[20.365656,52.020333],[20.365733,52.020408],[20.366498,52.020733],[20.366871,52.020891],[20.36732,52.021099],[20.367994,52.021411],[20.368214,52.021496],[20.368413,52.021582],[20.368474,52.021606],[20.369101,52.021854],[20.369193,52.021964],[20.369542,52.022386],[20.369582,52.022435],[20.370093,52.023051],[20.370921,52.024057],[20.371532,52.024819],[20.371684,52.024997],[20.371715,52.025033],[20.37345,52.027066],[20.373451,52.027066],[20.373779,52.02704],[20.374249,52.027002],[20.374451,52.026986],[20.37465,52.02697],[20.374996,52.026942],[20.375092,52.026935],[20.375754,52.026879],[20.376116,52.026851],[20.376149,52.02685],[20.376655,52.02681],[20.376837,52.026795],[20.376955,52.026786],[20.377424,52.026749],[20.377754,52.02672],[20.378025,52.026697],[20.378212,52.02668],[20.378361,52.026667],[20.378648,52.026642],[20.37875,52.026633],[20.379296,52.026586],[20.379305,52.026585],[20.379463,52.026571],[20.379713,52.026549],[20.379839,52.026538],[20.380079,52.026517],[20.38023,52.026504],[20.38072,52.026461],[20.381026,52.026435],[20.381185,52.026421],[20.381337,52.026408],[20.381362,52.026406],[20.381626,52.026385],[20.381923,52.026361],[20.38222,52.026338],[20.38282,52.026291],[20.381912,52.024532],[20.380827,52.022469],[20.380799,52.022416],[20.379927,52.02074],[20.379907,52.020702],[20.37924,52.019421],[20.379213,52.019372],[20.378919,52.018807],[20.378865,52.018707],[20.378502,52.018034],[20.378511,52.018032],[20.378266,52.017565],[20.378062,52.017177],[20.37803,52.017116],[20.378028,52.017111],[20.377296,52.015702],[20.377273,52.015657],[20.376892,52.014925],[20.376856,52.014856],[20.376844,52.014833],[20.376487,52.014145],[20.375748,52.012718],[20.375732,52.012687],[20.375701,52.012628],[20.375337,52.011933],[20.374489,52.010313],[20.373803,52.008983],[20.373773,52.008926]]],"type":"Polygon"}
 }

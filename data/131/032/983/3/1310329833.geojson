@@ -2,85 +2,89 @@
   "id": 1310329833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.89159,52.45575,18.89159,52.45575",
-    "geom:latitude":52.45575,
-    "geom:longitude":18.89159,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"418.0",
-    "gn:admin3_code":"41803.0",
-    "gn:asciiname":"Wolka Paruszewska",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":106,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3081445,
-    "gn:latitude":52.45575,
-    "gn:longitude":18.89159,
-    "gn:modification_date":"2010-09-16",
-    "gn:name":"W\u00f3lka Paruszewska",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.87159,52.43575,18.91159,52.47575",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "W\u00f3lka Paruszewska"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00020189654504205204,
+    "geom:area_square_m": 1527153.7553080155,
+    "geom:bbox": "18.880166711005426,52.45150775501836,18.900974759999276,52.46389957801285",
+    "geom:latitude": 18.89143999437558,
+    "geom:longitude": 52.4576429844117,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "418.0",
+    "gn:admin3_code": "41803.0",
+    "gn:asciiname": "Wolka Paruszewska",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 106,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3081445,
+    "gn:latitude": 52.45575,
+    "gn:longitude": 18.89159,
+    "gn:modification_date": "2010-09-16",
+    "gn:name": "Wólka Paruszewska",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.87159,52.43575,18.91159,52.47575",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Wólka Paruszewska"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0443\u043b\u044c\u043a\u0430-\u041f\u0430\u0440\u0443\u0448\u0435\u0432\u0441\u044c\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Вулька-Парушевська"
     ],
-    "name:und_x_variant":[
-        "W\u00f3lka Paruszowska"
+    "name:und_x_variant": [
+      "Wólka Paruszowska"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125397147,
-        85633723,
-        102079997
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3081445,
-        "wk:page":"W%C3%B3lka_Paruszewska"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125397147,
+      85633723,
+      102079997
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3081445,
+      "pl-gugik:jpt_kod_je": "041803_2.0020",
+      "wk:page": "W%C3%B3lka_Paruszewska"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"21bfa9e5534f188f6b03f6b3aa010335",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079997,
-            "localadmin_id":1125397147,
-            "locality_id":1310329833,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "38344f114067bcde5341e1830939cb7e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079997,
+        "localadmin_id": 1125397147,
+        "locality_id": 1310329833,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1310329833,
-    "wof:lastmodified":1570028403,
-    "wof:name":"Wolka Paruszewska",
-    "wof:parent_id":1125397147,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310329833,
+    "wof:lastmodified": 1669215899,
+    "wof:name": "Wolka Paruszewska",
+    "wof:parent_id": 1125397147,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.89159,
-    52.45575,
-    18.89159,
-    52.45575
-],
-  "geometry": {"coordinates":[18.89159,52.45575],"type":"Point"}
+    18.880166711005426,
+    52.45150775501836,
+    18.900974759999276,
+    52.46389957801285
+  ],
+  "geometry": {"coordinates":[[[18.880269,52.459292],[18.884339,52.459919],[18.8844,52.459928],[18.8844,52.459975],[18.884915,52.460398],[18.885697,52.461043],[18.885751,52.461085],[18.885778,52.461109],[18.886989,52.46079],[18.887135,52.460751],[18.887683,52.460607],[18.887727,52.460595],[18.887808,52.460696],[18.887507,52.461103],[18.886907,52.461914],[18.886722,52.462163],[18.886428,52.462427],[18.88644,52.462535],[18.887346,52.463332],[18.887991,52.4639],[18.88889,52.463844],[18.890333,52.463756],[18.891773,52.463677],[18.893614,52.46358],[18.894315,52.463547],[18.8948,52.463521],[18.895165,52.463501],[18.895507,52.46348],[18.896015,52.46343],[18.89668,52.463538],[18.897408,52.463656],[18.897879,52.463733],[18.898409,52.463741],[18.898597,52.463744],[18.899362,52.463755],[18.900246,52.463768],[18.900569,52.463773],[18.900745,52.463654],[18.900843,52.463631],[18.900975,52.463616],[18.900969,52.463558],[18.900914,52.463326],[18.900836,52.462796],[18.900821,52.462687],[18.900822,52.461838],[18.900797,52.460326],[18.900752,52.459036],[18.900712,52.457298],[18.900691,52.455539],[18.900534,52.455551],[18.900534,52.455162],[18.900534,52.454915],[18.900535,52.454339],[18.900508,52.453792],[18.900495,52.45303],[18.898821,52.452896],[18.895646,52.452643],[18.895514,52.452632],[18.895315,52.452618],[18.893791,52.452466],[18.892229,52.452325],[18.890756,52.452189],[18.889416,52.452057],[18.888624,52.451985],[18.888609,52.452023],[18.887909,52.451963],[18.885989,52.451786],[18.884464,52.451654],[18.88293,52.451508],[18.882022,52.453714],[18.881473,52.454873],[18.881455,52.454901],[18.880594,52.456789],[18.880209,52.457658],[18.880197,52.457685],[18.880365,52.457731],[18.880304,52.457796],[18.880351,52.458541],[18.880167,52.459276],[18.880269,52.459292]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1326758385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.33671,54.22062,23.33671,54.22062",
-    "geom:latitude":54.22062,
-    "geom:longitude":23.33671,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2009.0",
-    "gn:admin3_code":"200904.0",
-    "gn:asciiname":"Buda Zawidugierska",
-    "gn:country_code":"PL",
-    "gn:dem":158,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":774976,
-    "gn:latitude":54.22062,
-    "gn:longitude":23.33671,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Buda Zawidugierska",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.31671,54.20062,23.35671,54.24062",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "U\u017evidugiri\u0173 B\u016bda"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00020469303646272763,
+    "geom:area_square_m": 1486004.018697138,
+    "geom:bbox": "23.32676427807266,54.21872585202555,23.34525298407899,54.2323758750235",
+    "geom:latitude": 23.33671945736214,
+    "geom:longitude": 54.22556016639851,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2009.0",
+    "gn:admin3_code": "200904.0",
+    "gn:asciiname": "Buda Zawidugierska",
+    "gn:country_code": "PL",
+    "gn:dem": 158,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 774976,
+    "gn:latitude": 54.22062,
+    "gn:longitude": 23.33671,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Buda Zawidugierska",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.31671,54.20062,23.35671,54.24062",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Užvidugirių Būda"
     ],
-    "name:pol_x_preferred":[
-        "Buda Zawidugierska"
+    "name:pol_x_preferred": [
+      "Buda Zawidugierska"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0443\u0434\u0430-\u0417\u0430\u0432\u0456\u0434\u0443\u0491\u0435\u0440\u0441\u044c\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Буда-Завідуґерська"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125326571,
-        85633723,
-        102080257
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":774976,
-        "wk:page":"Buda_Zawidugierska"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125326571,
+      85633723,
+      102080257
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 774976,
+      "pl-gugik:jpt_kod_je": "200904_2.0001",
+      "wk:page": "Buda_Zawidugierska"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"87a0dca0659260e7614ff5c51da07a93",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080257,
-            "localadmin_id":1125326571,
-            "locality_id":1326758385,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "065800f0372046fbdedfb0894ea04e9c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080257,
+        "localadmin_id": 1125326571,
+        "locality_id": 1326758385,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1326758385,
-    "wof:lastmodified":1570005616,
-    "wof:name":"Buda Zawidugierska",
-    "wof:parent_id":1125326571,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326758385,
+    "wof:lastmodified": 1669215925,
+    "wof:name": "Buda Zawidugierska",
+    "wof:parent_id": 1125326571,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.33671,
-    54.22062,
-    23.33671,
-    54.22062
-],
-  "geometry": {"coordinates":[23.33671,54.22062],"type":"Point"}
+    23.32676427807266,
+    54.21872585202555,
+    23.34525298407899,
+    54.2323758750235
+  ],
+  "geometry": {"coordinates":[[[23.327796,54.232364],[23.327872,54.232363],[23.329037,54.232348],[23.330688,54.232292],[23.334006,54.23217],[23.335649,54.232114],[23.336956,54.232053],[23.337777,54.232026],[23.337807,54.232025],[23.33865,54.231997],[23.340474,54.231923],[23.340673,54.231915],[23.341769,54.231871],[23.345253,54.231756],[23.345218,54.23138],[23.345213,54.231326],[23.34511,54.230214],[23.345102,54.230133],[23.345034,54.229478],[23.344956,54.22874],[23.344898,54.228188],[23.344832,54.227364],[23.344793,54.226915],[23.344707,54.225932],[23.34467,54.225607],[23.344651,54.225441],[23.344618,54.225146],[23.344575,54.224717],[23.344532,54.224286],[23.34453,54.224265],[23.344465,54.223663],[23.34442,54.22324],[23.34441,54.223083],[23.344354,54.222156],[23.344325,54.221919],[23.344279,54.221404],[23.344201,54.220213],[23.344191,54.220068],[23.344045,54.218897],[23.344025,54.218726],[23.343534,54.218835],[23.34339,54.218841],[23.343064,54.218855],[23.342998,54.218857],[23.340062,54.218979],[23.336714,54.219105],[23.336478,54.219115],[23.332789,54.21927],[23.332697,54.219274],[23.332645,54.219276],[23.33257,54.219279],[23.332545,54.219281],[23.33173,54.219316],[23.330839,54.219356],[23.329552,54.219413],[23.327484,54.219485],[23.327681,54.220195],[23.327878,54.220944],[23.32789,54.220987],[23.328333,54.222672],[23.328474,54.223232],[23.328715,54.224193],[23.328816,54.224593],[23.328927,54.225038],[23.328961,54.225176],[23.329428,54.227043],[23.329577,54.227637],[23.329862,54.228804],[23.32988,54.228877],[23.329886,54.228905],[23.329899,54.228957],[23.329934,54.229099],[23.330077,54.229684],[23.330491,54.231186],[23.330521,54.231295],[23.32779,54.231376],[23.327714,54.231378],[23.326764,54.231406],[23.326882,54.232134],[23.326921,54.232376],[23.327796,54.232364]]],"type":"Polygon"}
 }

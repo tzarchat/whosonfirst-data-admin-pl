@@ -2,87 +2,91 @@
   "id": 1209132223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.91713,54.29267,20.91713,54.29267",
-    "geom:latitude":54.29267,
-    "geom:longitude":20.91713,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2801.0",
-    "gn:admin3_code":"280106.0",
-    "gn:asciiname":"Roskajmy",
-    "gn:country_code":"PL",
-    "gn:dem":65,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":760333,
-    "gn:latitude":54.29267,
-    "gn:longitude":20.91713,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Roskajmy",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.89713,54.27267,20.93713,54.31267",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Roskajmy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00024201574558266347,
+    "geom:area_square_m": 1754209.025848208,
+    "geom:bbox": "20.905883286003174,54.28490071901818,20.936587347995204,54.29761674001881",
+    "geom:latitude": 20.921234569147522,
+    "geom:longitude": 54.29070557286485,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2801.0",
+    "gn:admin3_code": "280106.0",
+    "gn:asciiname": "Roskajmy",
+    "gn:country_code": "PL",
+    "gn:dem": 65,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 760333,
+    "gn:latitude": 54.29267,
+    "gn:longitude": 20.91713,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Roskajmy",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.89713,54.27267,20.93713,54.31267",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Roskajmy"
     ],
-    "name:pol_x_preferred":[
-        "Roskajmy"
+    "name:pol_x_preferred": [
+      "Roskajmy"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u0441\u043a\u0430\u0439\u043c\u0438"
+    "name:ukr_x_preferred": [
+      "Роскайми"
     ],
-    "name:und_x_variant":[
-        "Roskeim"
+    "name:und_x_variant": [
+      "Roskeim"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125373109,
-        85633723,
-        102080247
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":760333,
-        "wk:page":"Roskajmy"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125373109,
+      85633723,
+      102080247
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 760333,
+      "pl-gugik:jpt_kod_je": "280106_5.0025",
+      "wk:page": "Roskajmy"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"195ac3d95d5e6f223235cf57aa54b2b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080247,
-            "localadmin_id":1125373109,
-            "locality_id":1209132223,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "844ecc5ec6a5e9b1ab2db24c77b3d49a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080247,
+        "localadmin_id": 1125373109,
+        "locality_id": 1209132223,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209132223,
-    "wof:lastmodified":1570021519,
-    "wof:name":"Roskajmy",
-    "wof:parent_id":1125373109,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209132223,
+    "wof:lastmodified": 1669215925,
+    "wof:name": "Roskajmy",
+    "wof:parent_id": 1125373109,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.91713,
-    54.29267,
-    20.91713,
-    54.29267
-],
-  "geometry": {"coordinates":[20.91713,54.29267],"type":"Point"}
+    20.905883286003174,
+    54.28490071901818,
+    20.936587347995204,
+    54.29761674001881
+  ],
+  "geometry": {"coordinates":[[[20.90722,54.288704],[20.905883,54.289381],[20.910579,54.293676],[20.909715,54.294461],[20.910916,54.295395],[20.912163,54.295917],[20.912428,54.296008],[20.912828,54.296145],[20.914338,54.296735],[20.915198,54.297057],[20.916692,54.297617],[20.91776,54.297308],[20.919579,54.296726],[20.91964,54.296768],[20.923149,54.295866],[20.925799,54.294951],[20.928122,54.294129],[20.929674,54.294021],[20.930641,54.293198],[20.931489,54.292075],[20.931552,54.291955],[20.934735,54.292656],[20.935103,54.291577],[20.935392,54.290978],[20.935438,54.290884],[20.935876,54.2902],[20.935971,54.29003],[20.936574,54.288967],[20.935733,54.28887],[20.933642,54.288644],[20.933962,54.288133],[20.934152,54.28788],[20.934259,54.287787],[20.935104,54.287345],[20.935271,54.287195],[20.935795,54.286562],[20.936553,54.285644],[20.936587,54.285602],[20.936434,54.28559],[20.934462,54.285438],[20.932663,54.285278],[20.930266,54.285057],[20.928657,54.284901],[20.928639,54.284944],[20.928322,54.286055],[20.927849,54.288018],[20.925105,54.287104],[20.924192,54.2868],[20.921492,54.285944],[20.92143,54.285924],[20.921269,54.285869],[20.919474,54.285254],[20.917892,54.284929],[20.917403,54.285141],[20.916774,54.285406],[20.914828,54.286128],[20.914427,54.286273],[20.90971,54.287981],[20.909424,54.288051],[20.909243,54.288063],[20.908705,54.288057],[20.908112,54.288252],[20.90722,54.288704]]],"type":"Polygon"}
 }

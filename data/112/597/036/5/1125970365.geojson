@@ -2,113 +2,117 @@
   "id": 1125970365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.10421,54.2989,23.10421,54.2989",
-    "geom:latitude":54.2989,
-    "geom:longitude":23.10421,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":34,
-    "iso:country":"PL",
-    "lbl:bbox":"23.08421,54.2789,23.12421,54.3189",
-    "lbl:latitude":54.2989,
-    "lbl:longitude":23.10421,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Budzisko"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021005290545470662,
+    "geom:area_square_m": 1522168.2618921178,
+    "geom:bbox": "23.092169601048912,54.29298885801992,23.126494416059135,54.308923435017704",
+    "geom:latitude": 23.11140441557424,
+    "geom:longitude": 54.300930310644205,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 34,
+    "iso:country": "PL",
+    "lbl:bbox": "23.08421,54.2789,23.12421,54.3189",
+    "lbl:latitude": 54.2989,
+    "lbl:longitude": 23.10421,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Budzisko"
     ],
-    "name:eng_x_preferred":[
-        "Budzisko"
+    "name:eng_x_preferred": [
+      "Budzisko"
     ],
-    "name:fra_x_preferred":[
-        "Budzisko"
+    "name:fra_x_preferred": [
+      "Budzisko"
     ],
-    "name:lit_x_preferred":[
-        "Budziskas"
+    "name:lit_x_preferred": [
+      "Budziskas"
     ],
-    "name:pol_x_preferred":[
-        "Budzisko"
+    "name:pol_x_preferred": [
+      "Budzisko"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0443\u0434\u0437\u0438\u0441\u044c\u043a\u043e"
+    "name:ukr_x_preferred": [
+      "Будзисько"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":7576233,
-    "qs_pg:gn_pop":34,
-    "qs_pg:name":"Budzisko",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":222976,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24932180,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752207,
-        85633723,
-        102080265
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 7576233,
+    "qs_pg:gn_pop": 34,
+    "qs_pg:name": "Budzisko",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 222976,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24932180,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7576233,
-        "gp:id":24932180,
-        "qs_pg:id":222976,
-        "wd:id":"Q4985316"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752207,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7576233,
+      "gp:id": 24932180,
+      "pl-gugik:jpt_kod_je": "201208_2.0007",
+      "qs_pg:id": 222976,
+      "wd:id": "Q4985316"
     },
-    "wof:country":"PL",
-    "wof:created":1497298136,
-    "wof:geomhash":"c19d6cc7ba7d25527fe4cb7ed6330eff",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752207,
-            "locality_id":1125970365,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298136,
+    "wof:geomhash": "da04efd1c2d83ecfeb733a564e282454",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752207,
+        "locality_id": 1125970365,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125970365,
-    "wof:lastmodified":1570037896,
-    "wof:name":"Budzisko",
-    "wof:parent_id":1477752207,
-    "wof:placetype":"locality",
-    "wof:population":34,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125970365,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Budzisko",
+    "wof:parent_id": 1477752207,
+    "wof:placetype": "locality",
+    "wof:population": 34,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.10421,
-    54.2989,
-    23.10421,
-    54.2989
-],
-  "geometry": {"coordinates":[23.10421,54.2989],"type":"Point"}
+    23.092169601048912,
+    54.29298885801992,
+    23.126494416059135,
+    54.308923435017704
+  ],
+  "geometry": {"coordinates":[[[23.122768,54.307885],[23.123934,54.308023],[23.124415,54.308094],[23.124998,54.308408],[23.125041,54.308432],[23.125084,54.308455],[23.125952,54.308923],[23.126075,54.308016],[23.126084,54.307946],[23.126151,54.307445],[23.126163,54.30734],[23.126238,54.306668],[23.126301,54.306113],[23.126403,54.305302],[23.126406,54.305279],[23.126434,54.305055],[23.126494,54.304578],[23.125356,54.304329],[23.124334,54.304105],[23.124305,54.304099],[23.124276,54.304093],[23.123079,54.303831],[23.12265,54.303737],[23.121544,54.303495],[23.120921,54.303359],[23.120311,54.303226],[23.118393,54.302807],[23.117563,54.302617],[23.117269,54.302549],[23.11753,54.301985],[23.117808,54.301384],[23.117865,54.301266],[23.118233,54.300511],[23.118432,54.300105],[23.118495,54.299978],[23.118614,54.299721],[23.118773,54.299388],[23.118811,54.299303],[23.118845,54.299234],[23.118854,54.299217],[23.119121,54.298651],[23.119312,54.298245],[23.115804,54.299212],[23.115554,54.299281],[23.114919,54.29931],[23.114761,54.298388],[23.114725,54.298174],[23.114595,54.297392],[23.114503,54.296965],[23.114486,54.296909],[23.114416,54.296563],[23.114374,54.296492],[23.114343,54.296441],[23.113822,54.295568],[23.113664,54.295306],[23.113259,54.29463],[23.113229,54.294579],[23.113137,54.294427],[23.112887,54.294021],[23.112611,54.293696],[23.11201,54.292989],[23.110965,54.293263],[23.110135,54.293481],[23.109739,54.293585],[23.10794,54.29406],[23.107298,54.294218],[23.104441,54.295001],[23.104264,54.29505],[23.102991,54.295389],[23.102111,54.295622],[23.102087,54.295628],[23.101992,54.295657],[23.10191,54.295682],[23.101855,54.295698],[23.101598,54.295776],[23.100517,54.296101],[23.100268,54.296176],[23.099145,54.296513],[23.098709,54.296635],[23.098302,54.296749],[23.097617,54.296942],[23.095948,54.297412],[23.095922,54.297419],[23.09539,54.297563],[23.095365,54.29757],[23.095062,54.297652],[23.094902,54.297695],[23.094476,54.297811],[23.092464,54.298355],[23.09217,54.298454],[23.099685,54.299135],[23.107032,54.304141],[23.11107,54.305567],[23.118334,54.308131],[23.119886,54.308612],[23.119714,54.308383],[23.119491,54.308086],[23.119237,54.307748],[23.119204,54.307704],[23.119377,54.307713],[23.122768,54.307885]]],"type":"Polygon"}
 }

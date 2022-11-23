@@ -2,84 +2,88 @@
   "id": 1276362791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.52888,52.23968,19.52888,52.23968",
-    "geom:latitude":52.23968,
-    "geom:longitude":19.52888,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1002.0",
-    "gn:admin3_code":"100209.0",
-    "gn:asciiname":"Wola Prosperowa",
-    "gn:country_code":"PL",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3081534,
-    "gn:latitude":52.23968,
-    "gn:longitude":19.52888,
-    "gn:modification_date":"2010-09-09",
-    "gn:name":"Wola Prosperowa",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.50888,52.21968,19.54888,52.25968",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Wola Prosperowa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017160707930174843,
+    "geom:area_square_m": 1304308.4679145901,
+    "geom:bbox": "19.527676895007172,52.229820506016004,19.535992432999567,52.25510194301999",
+    "geom:latitude": 19.53135462716738,
+    "geom:longitude": 52.2426430057809,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1002.0",
+    "gn:admin3_code": "100209.0",
+    "gn:asciiname": "Wola Prosperowa",
+    "gn:country_code": "PL",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3081534,
+    "gn:latitude": 52.23968,
+    "gn:longitude": 19.52888,
+    "gn:modification_date": "2010-09-09",
+    "gn:name": "Wola Prosperowa",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.50888,52.21968,19.54888,52.25968",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Wola Prosperowa"
     ],
-    "name:pol_x_preferred":[
-        "Wola Prosperowa"
+    "name:pol_x_preferred": [
+      "Wola Prosperowa"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u043e\u043b\u044f-\u041f\u0440\u043e\u0441\u043f\u0435\u0440\u043e\u0432\u0430"
+    "name:ukr_x_preferred": [
+      "Воля-Просперова"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125350665,
-        85633723,
-        102079929
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3081534,
-        "wk:page":"Wola_Prosperowa"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125350665,
+      85633723,
+      102079929
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3081534,
+      "pl-gugik:jpt_kod_je": "100209_2.0025",
+      "wk:page": "Wola_Prosperowa"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a3df259cf77b728b28a53326d30fcae1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079929,
-            "localadmin_id":1125350665,
-            "locality_id":1276362791,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f7fc2ac9d6b3bd3ffdf9ceba5d7934a8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079929,
+        "localadmin_id": 1125350665,
+        "locality_id": 1276362791,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1276362791,
-    "wof:lastmodified":1570019407,
-    "wof:name":"Wola Prosperowa",
-    "wof:parent_id":1125350665,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276362791,
+    "wof:lastmodified": 1669215850,
+    "wof:name": "Wola Prosperowa",
+    "wof:parent_id": 1125350665,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.52888,
-    52.23968,
-    19.52888,
-    52.23968
-],
-  "geometry": {"coordinates":[19.52888,52.23968],"type":"Point"}
+    19.527676895007172,
+    52.229820506016004,
+    19.535992432999567,
+    52.25510194301999
+  ],
+  "geometry": {"coordinates":[[[19.530488,52.230234],[19.529244,52.229972],[19.528527,52.229821],[19.528307,52.229926],[19.528017,52.230065],[19.527679,52.230228],[19.527677,52.230262],[19.527683,52.231573],[19.527686,52.231623],[19.527695,52.233339],[19.527678,52.236011],[19.527678,52.237377],[19.527712,52.240414],[19.527712,52.241154],[19.527712,52.242432],[19.527707,52.244458],[19.528131,52.244593],[19.528172,52.246779],[19.52819,52.24904],[19.528138,52.251761],[19.528121,52.252504],[19.528127,52.253654],[19.528128,52.253664],[19.528129,52.253674],[19.528135,52.255054],[19.52854,52.255057],[19.528608,52.255057],[19.52887,52.255059],[19.529579,52.255063],[19.530094,52.25507],[19.530307,52.255067],[19.530942,52.255073],[19.53104,52.255072],[19.531487,52.255076],[19.532706,52.255081],[19.534371,52.255092],[19.534658,52.255094],[19.535322,52.255098],[19.535992,52.255102],[19.535829,52.254405],[19.535734,52.254029],[19.535625,52.253566],[19.535343,52.252542],[19.535198,52.251722],[19.535101,52.250991],[19.535089,52.250888],[19.534995,52.250094],[19.534872,52.249063],[19.534872,52.248925],[19.534446,52.244796],[19.53429,52.244683],[19.534279,52.242591],[19.534278,52.242526],[19.534274,52.240793],[19.534276,52.239126],[19.534274,52.237683],[19.534847,52.237684],[19.53482,52.23613],[19.534901,52.235849],[19.535888,52.232456],[19.535936,52.232432],[19.535533,52.23218],[19.534524,52.23155],[19.534279,52.231315],[19.534271,52.231307],[19.533875,52.230928],[19.533621,52.230852],[19.533319,52.230763],[19.532983,52.230664],[19.532781,52.230634],[19.532697,52.230622],[19.532692,52.230621],[19.532679,52.230619],[19.532418,52.230583],[19.532377,52.230578],[19.532329,52.230571],[19.532034,52.230531],[19.531619,52.230466],[19.531465,52.230441],[19.531313,52.230411],[19.531236,52.230395],[19.530488,52.230234]]],"type":"Polygon"}
 }

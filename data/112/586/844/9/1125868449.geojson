@@ -2,102 +2,106 @@
   "id": 1125868449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.46056,52.61389,19.46056,52.61389",
-    "geom:latitude":52.61389,
-    "geom:longitude":19.46056,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"19.44056,52.59389,19.48056,52.63389",
-    "lbl:latitude":52.61389,
-    "lbl:longitude":19.46056,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:fra_x_preferred":[
-        "Rokicie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004969825433297078,
+    "geom:area_square_m": 3745813.43824956,
+    "geom:bbox": "19.44346334099568,52.599836206018935,19.479300237998288,52.630316407014575",
+    "geom:latitude": 19.460910143926455,
+    "geom:longitude": 52.615722281612726,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "19.44056,52.59389,19.48056,52.63389",
+    "lbl:latitude": 52.61389,
+    "lbl:longitude": 19.46056,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred": [
+      "Rokicie"
     ],
-    "name:pol_x_preferred":[
-        "Rokicie"
+    "name:pol_x_preferred": [
+      "Rokicie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u043a\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Рокіце"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3087052,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Rokicie",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos":5,
-    "qs_pg:photos_1k":1,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":5,
-    "qs_pg:photos_sr":1,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1345116,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":515920,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752661,
-        85633723,
-        102080003
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3087052,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Rokicie",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos": 5,
+    "qs_pg:photos_1k": 1,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 5,
+    "qs_pg:photos_sr": 1,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1345116,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 515920,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3087052,
-        "gp:id":515920,
-        "qs_pg:id":1345116
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752661,
+      85633723,
+      102080003
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3087052,
+      "gp:id": 515920,
+      "pl-gugik:jpt_kod_je": "141903_2.0029",
+      "qs_pg:id": 1345116
     },
-    "wof:country":"PL",
-    "wof:created":1497294163,
-    "wof:geomhash":"2a27ffe3028db5b5c46066d715d01fb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080003,
-            "localadmin_id":1477752661,
-            "locality_id":1125868449,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497294163,
+    "wof:geomhash": "1e9a6e706b064b73d12b7ebb96a0729f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080003,
+        "localadmin_id": 1477752661,
+        "locality_id": 1125868449,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125868449,
-    "wof:lastmodified":1570037158,
-    "wof:name":"Rokicie",
-    "wof:parent_id":1477752661,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125868449,
+    "wof:lastmodified": 1669215906,
+    "wof:name": "Rokicie",
+    "wof:parent_id": 1477752661,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.46056,
-    52.61389,
-    19.46056,
-    52.61389
-],
-  "geometry": {"coordinates":[19.46056,52.61389],"type":"Point"}
+    19.44346334099568,
+    52.599836206018935,
+    19.479300237998288,
+    52.630316407014575
+  ],
+  "geometry": {"coordinates":[[[19.459314,52.599836],[19.446644,52.603979],[19.443492,52.604993],[19.443463,52.605009],[19.450044,52.612452],[19.450761,52.613368],[19.451069,52.614102],[19.451174,52.614645],[19.451208,52.614925],[19.451123,52.615522],[19.45088,52.615912],[19.450937,52.616007],[19.450993,52.616716],[19.45095,52.616899],[19.450653,52.617028],[19.451946,52.619145],[19.452017,52.619264],[19.453014,52.620453],[19.453482,52.620888],[19.453916,52.621251],[19.455364,52.622211],[19.457853,52.624077],[19.459082,52.625211],[19.459949,52.62612],[19.461245,52.627498],[19.462772,52.629073],[19.463765,52.630189],[19.463829,52.630316],[19.463999,52.630248],[19.465086,52.630082],[19.465381,52.630051],[19.465526,52.630033],[19.465648,52.63002],[19.465636,52.630067],[19.466288,52.629971],[19.467537,52.629787],[19.467884,52.629736],[19.468085,52.629705],[19.468239,52.629685],[19.46904,52.629562],[19.470519,52.629336],[19.471434,52.629201],[19.472306,52.629065],[19.472991,52.628967],[19.473604,52.628884],[19.474352,52.628775],[19.474975,52.628688],[19.475568,52.628602],[19.477499,52.628316],[19.478954,52.628106],[19.4793,52.62805],[19.478324,52.627018],[19.478136,52.626611],[19.477714,52.62621],[19.477697,52.626137],[19.477644,52.625904],[19.477707,52.625695],[19.477828,52.625274],[19.477891,52.62509],[19.477472,52.624527],[19.477148,52.624108],[19.476515,52.623475],[19.475669,52.6227],[19.47433,52.621613],[19.47428,52.621576],[19.473774,52.621193],[19.473263,52.620733],[19.472958,52.620407],[19.472431,52.619811],[19.471645,52.618894],[19.47126,52.618391],[19.470463,52.617438],[19.469212,52.615967],[19.468116,52.614676],[19.468045,52.614593],[19.46779,52.614293],[19.46728,52.613642],[19.466773,52.612695],[19.466666,52.612582],[19.466065,52.611518],[19.465712,52.610863],[19.465507,52.610504],[19.465154,52.609948],[19.465076,52.609818],[19.465034,52.609638],[19.464042,52.608395],[19.464735,52.608236],[19.464601,52.607964],[19.465161,52.607763],[19.464602,52.607312],[19.465381,52.606909],[19.462686,52.604469],[19.462444,52.604185],[19.459314,52.599836]]],"type":"Polygon"}
 }

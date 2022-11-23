@@ -2,84 +2,88 @@
   "id": 1260108083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.00458,52.007,18.00458,52.007",
-    "geom:latitude":52.007,
-    "geom:longitude":18.00458,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3010.0",
-    "gn:admin3_code":"301002.0",
-    "gn:asciiname":"Borowiec Nowy",
-    "gn:country_code":"PL",
-    "gn:dem":108,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3102831,
-    "gn:latitude":52.007,
-    "gn:longitude":18.00458,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Borowiec Nowy",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.98458,51.987,18.02458,52.027",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Nowy Borowiec"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002336131312194954,
+    "geom:area_square_m": 1785350.1968771121,
+    "geom:bbox": "17.99687100099781,51.98901203301486,18.02892120699791,52.00315938501421",
+    "geom:latitude": 18.01334859031321,
+    "geom:longitude": 51.995819452998404,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3010.0",
+    "gn:admin3_code": "301002.0",
+    "gn:asciiname": "Borowiec Nowy",
+    "gn:country_code": "PL",
+    "gn:dem": 108,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3102831,
+    "gn:latitude": 52.007,
+    "gn:longitude": 18.00458,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Borowiec Nowy",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.98458,51.987,18.02458,52.027",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Nowy Borowiec"
     ],
-    "name:pol_x_preferred":[
-        "Nowy Borowiec"
+    "name:pol_x_preferred": [
+      "Nowy Borowiec"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u043e\u0432\u0438\u0439 \u0411\u043e\u0440\u043e\u0432\u0435\u0446\u044c"
+    "name:ukr_x_preferred": [
+      "Новий Боровець"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477751783,
-        85633723,
-        102079943
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102831,
-        "wk:page":"Nowy_Borowiec"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477751783,
+      85633723,
+      102079943
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102831,
+      "pl-gugik:jpt_kod_je": "301002_2.0005",
+      "wk:page": "Nowy_Borowiec"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"e7e68b31a37c40c21dbdac97a94fac05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079943,
-            "localadmin_id":1477751783,
-            "locality_id":1260108083,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "9c28dd94173c7bde46097ebda84b9fbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079943,
+        "localadmin_id": 1477751783,
+        "locality_id": 1260108083,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1260108083,
-    "wof:lastmodified":1570025623,
-    "wof:name":"Borowiec Nowy",
-    "wof:parent_id":1477751783,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260108083,
+    "wof:lastmodified": 1669215913,
+    "wof:name": "Borowiec Nowy",
+    "wof:parent_id": 1477751783,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.00457999999999,
-    52.007,
-    18.00457999999999,
-    52.007
-],
-  "geometry": {"coordinates":[18.00457999999999,52.007],"type":"Point"}
+    17.99687100099781,
+    51.98901203301486,
+    18.02892120699791,
+    52.00315938501421
+  ],
+  "geometry": {"coordinates":[[[17.996871,51.995166],[17.997241,51.995528],[17.997246,51.995532],[17.999054,51.997295],[18.000546,51.998858],[18.002204,52.000518],[18.002245,52.000559],[18.00229,52.000603],[18.002933,52.001236],[18.004392,52.002632],[18.005474,52.002289],[18.004424,52.001225],[18.00358,52.000387],[18.003034,51.999835],[18.004358,51.99875],[18.005438,51.998252],[18.007237,51.999957],[18.007997,52.000713],[18.008539,52.001293],[18.010116,52.003159],[18.010255,52.003099],[18.010261,52.003097],[18.011887,52.002394],[18.012113,52.002296],[18.013489,52.001694],[18.013528,52.001676],[18.013786,52.001558],[18.016345,52.000392],[18.017069,51.999963],[18.019131,52.000183],[18.019894,51.999773],[18.020232,52.000011],[18.020835,51.999695],[18.020891,51.999665],[18.021531,51.99933],[18.02241,51.999607],[18.023219,52.000226],[18.023702,51.999802],[18.023127,51.999219],[18.023584,51.998971],[18.023979,51.998757],[18.022034,51.997085],[18.022012,51.997066],[18.027039,51.994061],[18.028226,51.993362],[18.028921,51.992953],[18.027451,51.991486],[18.027437,51.991472],[18.027368,51.991403],[18.027342,51.991377],[18.027321,51.991356],[18.024972,51.989012],[18.02373,51.989365],[18.023041,51.989579],[18.022002,51.989903],[18.020718,51.990179],[18.02041,51.990245],[18.019776,51.990382],[18.019179,51.990531],[18.018126,51.99095],[18.015558,51.991345],[18.014202,51.991549],[18.013022,51.991588],[18.012341,51.991611],[18.011985,51.991623],[18.011511,51.991682],[18.009095,51.992218],[18.007405,51.992548],[18.006022,51.99279],[18.005251,51.992961],[18.003536,51.99317],[18.002801,51.993217],[18.002163,51.993353],[18.002128,51.99336],[18.001645,51.993458],[18.001008,51.993622],[18.001003,51.993624],[18.000895,51.993646],[17.999233,51.993993],[17.99899,51.994031],[17.997573,51.994541],[17.996871,51.995166]]],"type":"Polygon"}
 }

@@ -2,93 +2,97 @@
   "id": 1309830773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.43241,52.55506,19.43241,52.55506",
-    "geom:latitude":52.55506,
-    "geom:longitude":19.43241,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1419.0",
-    "gn:admin3_code":"141909.0",
-    "gn:asciiname":"Brzezinna Gora",
-    "gn:country_code":"PL",
-    "gn:dem":76,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3102398,
-    "gn:latitude":52.55506,
-    "gn:longitude":19.43241,
-    "gn:modification_date":"2010-09-25",
-    "gn:name":"Brzezinna G\u00f3ra",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.41241,52.53506,19.45241,52.57506",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0628\u0698\u0698\u0646\u0646\u0627 \u0642\u0648\u0631\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00012988822703965356,
+    "geom:area_square_m": 980262.757281336,
+    "geom:bbox": "19.417716258998723,52.553697469014985,19.443235669006807,52.56200485601538",
+    "geom:latitude": 19.428713709546425,
+    "geom:longitude": 52.557904380150575,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1419.0",
+    "gn:admin3_code": "141909.0",
+    "gn:asciiname": "Brzezinna Gora",
+    "gn:country_code": "PL",
+    "gn:dem": 76,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3102398,
+    "gn:latitude": 52.55506,
+    "gn:longitude": 19.43241,
+    "gn:modification_date": "2010-09-25",
+    "gn:name": "Brzezinna Góra",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.41241,52.53506,19.45241,52.57506",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "بژژننا قورا"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0698\u0698\u0646\u0646\u0627 \u06af\u0648\u0631\u0627"
+    "name:fas_x_preferred": [
+      "بژژننا گورا"
     ],
-    "name:fra_x_preferred":[
-        "Brzezinna G\u00f3ra"
+    "name:fra_x_preferred": [
+      "Brzezinna Góra"
     ],
-    "name:pol_x_preferred":[
-        "Brzezinna G\u00f3ra"
+    "name:pol_x_preferred": [
+      "Brzezinna Góra"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0436\u0435\u0437\u0456\u043d\u043d\u0430-\u0490\u0443\u0440\u0430"
+    "name:ukr_x_preferred": [
+      "Бжезінна-Ґура"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0631\u0632\u0632\u0646\u0646\u0627 \u06af\u0648\u0631"
+    "name:urd_x_preferred": [
+      "برززننا گور"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751329,
-        85633723,
-        102080003
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102398,
-        "wk:page":"Brzezinna_G%C3%B3ra"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751329,
+      85633723,
+      102080003
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102398,
+      "pl-gugik:jpt_kod_je": "141909_2.0003",
+      "wk:page": "Brzezinna_G%C3%B3ra"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"df1f59bb5e93355ddcad92e8264ba92c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080003,
-            "localadmin_id":1477751329,
-            "locality_id":1309830773,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e8b270bfb3beea44190979df6b26af55",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080003,
+        "localadmin_id": 1477751329,
+        "locality_id": 1309830773,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1309830773,
-    "wof:lastmodified":1570035308,
-    "wof:name":"Brzezinna Gora",
-    "wof:parent_id":1477751329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309830773,
+    "wof:lastmodified": 1669215908,
+    "wof:name": "Brzezinna Gora",
+    "wof:parent_id": 1477751329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.43241,
-    52.55506,
-    19.43241,
-    52.55506
-],
-  "geometry": {"coordinates":[19.43241,52.55506],"type":"Point"}
+    19.417716258998723,
+    52.553697469014985,
+    19.443235669006807,
+    52.56200485601538
+  ],
+  "geometry": {"coordinates":[[[19.420403,52.553697],[19.419218,52.556891],[19.417948,52.560284],[19.41773,52.560844],[19.417716,52.560877],[19.421046,52.561338],[19.423723,52.561692],[19.424417,52.561784],[19.425681,52.561966],[19.425673,52.561905],[19.425702,52.561906],[19.428003,52.561952],[19.428096,52.561954],[19.429965,52.561989],[19.430841,52.562005],[19.430865,52.56186],[19.431051,52.561822],[19.431302,52.561771],[19.431355,52.561517],[19.431404,52.561283],[19.430396,52.560887],[19.429828,52.560413],[19.428499,52.559882],[19.430479,52.559553],[19.431508,52.559496],[19.432368,52.559442],[19.433843,52.559439],[19.434961,52.559778],[19.436107,52.559693],[19.438461,52.559654],[19.439672,52.559742],[19.43975,52.559748],[19.439768,52.55973],[19.440371,52.559115],[19.440415,52.559071],[19.440696,52.558813],[19.441453,52.558079],[19.441495,52.558038],[19.441579,52.557957],[19.441712,52.557828],[19.441886,52.557657],[19.441969,52.557576],[19.442043,52.557504],[19.442135,52.557413],[19.442444,52.55711],[19.442616,52.556942],[19.442689,52.556871],[19.442776,52.556786],[19.443037,52.55653],[19.443093,52.556475],[19.443236,52.556336],[19.439767,52.555851],[19.436913,52.555466],[19.435455,52.555258],[19.433126,52.554959],[19.433054,52.554949],[19.432326,52.554865],[19.432305,52.554863],[19.43103,52.554725],[19.430328,52.55464],[19.430004,52.5546],[19.429871,52.554601],[19.429672,52.554674],[19.429318,52.554824],[19.429171,52.554886],[19.429126,52.554905],[19.427802,52.555133],[19.427503,52.555058],[19.425422,52.554659],[19.423765,52.554347],[19.422042,52.554022],[19.420403,52.553697]]],"type":"Polygon"}
 }

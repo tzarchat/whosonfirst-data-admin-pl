@@ -2,139 +2,143 @@
   "id": 1125877123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.93282,54.061,14.93282,54.061",
-    "geom:latitude":54.061,
-    "geom:longitude":14.93282,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":1084,
-    "iso:country":"PL",
-    "lbl:bbox":"14.91282,54.041,14.95282,54.081",
-    "lbl:latitude":54.061,
-    "lbl:longitude":14.93282,
-    "lbl:max_zoom":16.0,
-    "lbl:min_zoom":12.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Pobierowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0011482209293881894,
+    "geom:area_square_m": 8371447.851332677,
+    "geom:bbox": "14.895246110949575,54.03923763502365,14.961391675943569,54.06808794902442",
+    "geom:latitude": 14.932295196741514,
+    "geom:longitude": 54.05259686070383,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 1084,
+    "iso:country": "PL",
+    "lbl:bbox": "14.91282,54.041,14.95282,54.081",
+    "lbl:latitude": 54.061,
+    "lbl:longitude": 14.93282,
+    "lbl:max_zoom": 16,
+    "lbl:min_zoom": 12,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Pobierowo"
     ],
-    "name:azb_x_preferred":[
-        "\u067e\u0648\u0628\u06cc\u0631\u0648\u0648\u0648"
+    "name:azb_x_preferred": [
+      "پوبیرووو"
     ],
-    "name:ceb_x_preferred":[
-        "Pobierowo"
+    "name:ceb_x_preferred": [
+      "Pobierowo"
     ],
-    "name:ces_x_preferred":[
-        "Pobierowo"
+    "name:ces_x_preferred": [
+      "Pobierowo"
     ],
-    "name:deu_x_preferred":[
-        "Pobierowo"
+    "name:deu_x_preferred": [
+      "Pobierowo"
     ],
-    "name:eng_x_preferred":[
-        "Pobierowo"
+    "name:eng_x_preferred": [
+      "Pobierowo"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0648\u0628\u06cc\u0631\u0648\u0648\u0648"
+    "name:fas_x_preferred": [
+      "پوبیرووو"
     ],
-    "name:fra_x_preferred":[
-        "Pobierowo"
+    "name:fra_x_preferred": [
+      "Pobierowo"
     ],
-    "name:jpn_x_preferred":[
-        "\u30dd\u30d3\u30a8\u30ed\u30f4\u30a9"
+    "name:jpn_x_preferred": [
+      "ポビエロヴォ"
     ],
-    "name:nld_x_preferred":[
-        "Pobierowo"
+    "name:nld_x_preferred": [
+      "Pobierowo"
     ],
-    "name:pol_x_preferred":[
-        "Pobierowo"
+    "name:pol_x_preferred": [
+      "Pobierowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u043e\u0431\u0435\u0440\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Поберово"
     ],
-    "name:und_x_variant":[
-        "Poberow"
+    "name:und_x_variant": [
+      "Poberow"
     ],
-    "name:vie_x_preferred":[
-        "Pobierowo"
+    "name:vie_x_preferred": [
+      "Pobierowo"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3088747,
-    "qs_pg:gn_pop":1084,
-    "qs_pg:name":"Pobierowo",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos":78,
-    "qs_pg:photos_1k":16,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":3,
-    "qs_pg:photos_all":78,
-    "qs_pg:photos_sr":3,
-    "qs_pg:pop_sr":3,
-    "qs_pg:qs_id":271945,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":512908,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125316271,
-        85633723,
-        102080165
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3088747,
+    "qs_pg:gn_pop": 1084,
+    "qs_pg:name": "Pobierowo",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos": 78,
+    "qs_pg:photos_1k": 16,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 3,
+    "qs_pg:photos_all": 78,
+    "qs_pg:photos_sr": 3,
+    "qs_pg:pop_sr": 3,
+    "qs_pg:qs_id": 271945,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 512908,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3088747,
-        "gp:id":512908,
-        "qs_pg:id":271945,
-        "wd:id":"Q990193"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125316271,
+      85633723,
+      102080165
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3088747,
+      "gp:id": 512908,
+      "pl-gugik:jpt_kod_je": "320507_2.0001",
+      "qs_pg:id": 271945,
+      "wd:id": "Q990193"
     },
-    "wof:country":"PL",
-    "wof:created":1497294595,
-    "wof:geomhash":"222d34d8e7d9e752f0c44c0823688ece",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080165,
-            "localadmin_id":1125316271,
-            "locality_id":1125877123,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497294595,
+    "wof:geomhash": "4aabc1aaed1456a9198a896aaab95ceb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080165,
+        "localadmin_id": 1125316271,
+        "locality_id": 1125877123,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125877123,
-    "wof:lastmodified":1570037751,
-    "wof:name":"Pobierowo",
-    "wof:parent_id":1125316271,
-    "wof:placetype":"locality",
-    "wof:population":1084,
-    "wof:population_rank":3,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125877123,
+    "wof:lastmodified": 1669215901,
+    "wof:name": "Pobierowo",
+    "wof:parent_id": 1125316271,
+    "wof:placetype": "locality",
+    "wof:population": 1084,
+    "wof:population_rank": 3,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.93282,
-    54.061,
-    14.93282,
-    54.061
-],
-  "geometry": {"coordinates":[14.93282,54.061],"type":"Point"}
+    14.895246110949575,
+    54.03923763502365,
+    14.961391675943569,
+    54.06808794902442
+  ],
+  "geometry": {"coordinates":[[[14.952903,54.066475],[14.953001,54.066288],[14.95341,54.065504],[14.953357,54.065425],[14.953318,54.065369],[14.953304,54.065348],[14.953235,54.064241],[14.953153,54.062769],[14.953049,54.061285],[14.953913,54.060982],[14.956142,54.061379],[14.957559,54.061207],[14.957896,54.061174],[14.958197,54.061112],[14.958097,54.061043],[14.956743,54.059954],[14.955379,54.058875],[14.955183,54.058703],[14.95484,54.058385],[14.954224,54.057976],[14.953624,54.057672],[14.953301,54.057568],[14.952768,54.057429],[14.9534,54.057418],[14.953732,54.057466],[14.953826,54.05741],[14.955864,54.05604],[14.955948,54.056054],[14.955962,54.056034],[14.957214,54.054173],[14.958208,54.052687],[14.959379,54.050992],[14.960348,54.049556],[14.96134,54.04807],[14.961353,54.048051],[14.961392,54.047992],[14.961311,54.047971],[14.959849,54.047593],[14.958292,54.045924],[14.956565,54.044071],[14.954872,54.042269],[14.954426,54.041754],[14.954159,54.041058],[14.954097,54.040417],[14.954084,54.040285],[14.953952,54.040279],[14.949918,54.040103],[14.949858,54.040101],[14.94969,54.040093],[14.949629,54.040091],[14.949596,54.040089],[14.94791,54.040011],[14.947864,54.040009],[14.946173,54.039931],[14.946128,54.039929],[14.945344,54.039893],[14.945298,54.039891],[14.944377,54.039849],[14.944332,54.039847],[14.94262,54.039768],[14.937173,54.039554],[14.937082,54.03955],[14.937021,54.039547],[14.935361,54.039478],[14.935224,54.039472],[14.933525,54.039402],[14.933479,54.0394],[14.9317,54.039326],[14.931563,54.03932],[14.930327,54.039269],[14.930282,54.039267],[14.929585,54.039238],[14.929496,54.041884],[14.926814,54.041729],[14.92464,54.041615],[14.92496,54.043163],[14.924932,54.044203],[14.926703,54.044197],[14.926853,54.045007],[14.926788,54.045462],[14.926374,54.04568],[14.926337,54.0457],[14.926266,54.045737],[14.926182,54.045782],[14.925993,54.047474],[14.92599,54.047497],[14.925811,54.047477],[14.925074,54.047345],[14.924325,54.047262],[14.923058,54.047115],[14.922819,54.047098],[14.921318,54.046932],[14.920281,54.046818],[14.919821,54.046768],[14.918321,54.046602],[14.916811,54.046439],[14.91532,54.046273],[14.914647,54.046199],[14.913822,54.046109],[14.912369,54.045948],[14.910817,54.045778],[14.909316,54.045612],[14.907815,54.045447],[14.906314,54.045282],[14.90514,54.045152],[14.905094,54.04467],[14.903985,54.044729],[14.90126,54.044679],[14.901053,54.044701],[14.900978,54.044972],[14.901292,54.045006],[14.901025,54.045296],[14.900805,54.045762],[14.899684,54.047746],[14.898548,54.049885],[14.898106,54.050716],[14.897897,54.0511],[14.896721,54.053154],[14.896449,54.053618],[14.896199,54.054056],[14.895819,54.054619],[14.895246,54.055703],[14.952066,54.068088],[14.952372,54.067483],[14.952903,54.066475]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1226169209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.29124,51.08839,21.29124,51.08839",
-    "geom:latitude":51.08839,
-    "geom:longitude":21.29124,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1425.0",
-    "gn:admin3_code":"142503.0",
-    "gn:asciiname":"Piotrowe Pole",
-    "gn:country_code":"PL",
-    "gn:dem":207,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":762171,
-    "gn:latitude":51.08839,
-    "gn:longitude":21.29124,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Piotrowe Pole",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.27124,51.06839,21.31124,51.10839",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Piotrowe Pole"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000027498408125092834,
+    "geom:area_square_m": 214332.9553004913,
+    "geom:bbox": "21.28555925101156,51.08784774901253,21.294759009012054,51.09265957501572",
+    "geom:latitude": 21.29003084267957,
+    "geom:longitude": 51.089985176893244,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1425.0",
+    "gn:admin3_code": "142503.0",
+    "gn:asciiname": "Piotrowe Pole",
+    "gn:country_code": "PL",
+    "gn:dem": 207,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 762171,
+    "gn:latitude": 51.08839,
+    "gn:longitude": 21.29124,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Piotrowe Pole",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.27124,51.06839,21.31124,51.10839",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Piotrowe Pole"
     ],
-    "name:pol_x_preferred":[
-        "Piotrowe Pole"
+    "name:pol_x_preferred": [
+      "Piotrowe Pole"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0439\u043e\u0442\u0440\u043e\u0432\u0435-\u041f\u043e\u043b\u0435"
+    "name:ukr_x_preferred": [
+      "Пйотрове-Поле"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125278409,
-        85633723,
-        102079805
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762171,
-        "wk:page":"Piotrowe_Pole"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125278409,
+      85633723,
+      102079805
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762171,
+      "pl-gugik:jpt_kod_je": "142503_5.0023",
+      "wk:page": "Piotrowe_Pole"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"c528d72590be00bbc44025ac73b21f50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079805,
-            "localadmin_id":1125278409,
-            "locality_id":1226169209,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d2cab9f0fa65f8bcb31798643f73b448",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079805,
+        "localadmin_id": 1125278409,
+        "locality_id": 1226169209,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1226169209,
-    "wof:lastmodified":1570049211,
-    "wof:name":"Piotrowe Pole",
-    "wof:parent_id":1125278409,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226169209,
+    "wof:lastmodified": 1669215852,
+    "wof:name": "Piotrowe Pole",
+    "wof:parent_id": 1125278409,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.29124,
-    51.08839,
-    21.29124,
-    51.08839
-],
-  "geometry": {"coordinates":[21.29124,51.08839],"type":"Point"}
+    21.28555925101156,
+    51.08784774901253,
+    21.294759009012054,
+    51.09265957501572
+  ],
+  "geometry": {"coordinates":[[[[21.288773,51.088455],[21.288889,51.09059],[21.289001,51.09266],[21.289516,51.092412],[21.290097,51.092133],[21.290692,51.091847],[21.291332,51.091543],[21.29203,51.091211],[21.292285,51.09109],[21.292416,51.091028],[21.292537,51.09097],[21.292797,51.090846],[21.292962,51.090768],[21.293139,51.090684],[21.293486,51.09052],[21.293762,51.090389],[21.294759,51.089917],[21.294694,51.088477],[21.294665,51.087848],[21.293558,51.087963],[21.293348,51.087985],[21.29278,51.088045],[21.292644,51.088059],[21.292376,51.088087],[21.292244,51.0881],[21.292128,51.088112],[21.291847,51.088142],[21.291141,51.088214],[21.290503,51.088279],[21.289877,51.088342],[21.289326,51.088398],[21.288773,51.088455]]],[[[21.285559,51.088778],[21.285613,51.089783],[21.285703,51.091456],[21.285966,51.091561],[21.286541,51.091791],[21.286652,51.091836],[21.28682,51.091903],[21.286989,51.09197],[21.287262,51.09208],[21.287753,51.092276],[21.287884,51.092329],[21.288438,51.092555],[21.288328,51.090455],[21.288228,51.088519],[21.287667,51.088573],[21.287063,51.088632],[21.286778,51.08866],[21.286641,51.088673],[21.286513,51.088686],[21.286358,51.088701],[21.285982,51.088737],[21.285559,51.088778]]]],"type":"MultiPolygon"}
 }

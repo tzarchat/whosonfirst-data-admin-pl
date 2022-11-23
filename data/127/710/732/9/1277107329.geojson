@@ -2,101 +2,105 @@
   "id": 1277107329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.05675,51.74954,20.05675,51.74954",
-    "geom:latitude":51.74954,
-    "geom:longitude":20.05675,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1016.0",
-    "gn:admin3_code":"101611.0",
-    "gn:asciiname":"Branik",
-    "gn:country_code":"PL",
-    "gn:dem":161,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":775362,
-    "gn:latitude":51.74954,
-    "gn:longitude":20.05675,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Branik",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.03675,51.72954,20.07675,51.76954",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bos_x_preferred":[
-        "Branik"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017846697137650414,
+    "geom:area_square_m": 1371337.0175590753,
+    "geom:bbox": "20.042388100995232,51.74278304301791,20.0683808309988,51.75546035801616",
+    "geom:latitude": 20.056083447406067,
+    "geom:longitude": 51.748739630114635,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1016.0",
+    "gn:admin3_code": "101611.0",
+    "gn:asciiname": "Branik",
+    "gn:country_code": "PL",
+    "gn:dem": 161,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 775362,
+    "gn:latitude": 51.74954,
+    "gn:longitude": 20.05675,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Branik",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.03675,51.72954,20.07675,51.76954",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:bos_x_preferred": [
+      "Branik"
     ],
-    "name:ceb_x_preferred":[
-        "Branik"
+    "name:ceb_x_preferred": [
+      "Branik"
     ],
-    "name:hun_x_preferred":[
-        "Branik"
+    "name:hun_x_preferred": [
+      "Branik"
     ],
-    "name:ita_x_preferred":[
-        "Rifembergo"
+    "name:ita_x_preferred": [
+      "Rifembergo"
     ],
-    "name:nld_x_preferred":[
-        "Branik"
+    "name:nld_x_preferred": [
+      "Branik"
     ],
-    "name:pol_x_preferred":[
-        "Branik"
+    "name:pol_x_preferred": [
+      "Branik"
     ],
-    "name:ron_x_preferred":[
-        "Branik"
+    "name:ron_x_preferred": [
+      "Branik"
     ],
-    "name:slv_x_preferred":[
-        "Branik"
+    "name:slv_x_preferred": [
+      "Branik"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0440\u0430\u043d\u0438\u043a"
+    "name:ukr_x_preferred": [
+      "Браник"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125350471,
-        85633723,
-        102079831
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775362
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125350471,
+      85633723,
+      102079831
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775362,
+      "pl-gugik:jpt_kod_je": "101611_2.0003"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"8210d786179d16b28da86787d1e78623",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079831,
-            "localadmin_id":1125350471,
-            "locality_id":1277107329,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "5d477b79e57ad21e7596983079a9f3cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079831,
+        "localadmin_id": 1125350471,
+        "locality_id": 1277107329,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1277107329,
-    "wof:lastmodified":1570019684,
-    "wof:name":"Branik",
-    "wof:parent_id":1125350471,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277107329,
+    "wof:lastmodified": 1669215847,
+    "wof:name": "Branik",
+    "wof:parent_id": 1125350471,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.05675,
-    51.74954,
-    20.05675,
-    51.74954
-],
-  "geometry": {"coordinates":[20.05675,51.74954],"type":"Point"}
+    20.042388100995232,
+    51.74278304301791,
+    20.0683808309988,
+    51.75546035801616
+  ],
+  "geometry": {"coordinates":[[[20.042388,51.748187],[20.042477,51.748254],[20.042514,51.748282],[20.043414,51.748958],[20.044171,51.749526],[20.044385,51.749476],[20.04474,51.749755],[20.045323,51.750215],[20.045877,51.750651],[20.046401,51.751064],[20.046884,51.751444],[20.047235,51.75172],[20.047592,51.752002],[20.048598,51.752794],[20.048932,51.753056],[20.049246,51.753304],[20.049624,51.753601],[20.050563,51.754341],[20.051985,51.75546],[20.054708,51.754455],[20.054862,51.754405],[20.055081,51.754334],[20.055232,51.754286],[20.055625,51.754158],[20.056019,51.754031],[20.05644,51.753891],[20.056752,51.753793],[20.056892,51.753747],[20.05719,51.753651],[20.057294,51.753617],[20.057482,51.753557],[20.057805,51.753452],[20.05785,51.753437],[20.058099,51.753357],[20.058936,51.753085],[20.059021,51.753061],[20.059343,51.752954],[20.059887,51.752774],[20.059915,51.752765],[20.059946,51.752755],[20.060135,51.752692],[20.060513,51.752569],[20.061142,51.752364],[20.061371,51.752289],[20.061794,51.752138],[20.062409,51.751924],[20.062599,51.751858],[20.062646,51.751842],[20.062684,51.751829],[20.063134,51.751682],[20.063938,51.751399],[20.064333,51.751261],[20.064826,51.751088],[20.065277,51.750929],[20.065318,51.750915],[20.065369,51.750897],[20.063786,51.749414],[20.064345,51.749238],[20.064489,51.749193],[20.064668,51.749136],[20.064945,51.749049],[20.065172,51.748977],[20.06537,51.748914],[20.065418,51.748891],[20.065437,51.748881],[20.066068,51.748572],[20.066596,51.748313],[20.067011,51.74811],[20.067693,51.747776],[20.068381,51.747439],[20.067183,51.746299],[20.067159,51.746276],[20.067152,51.74627],[20.064938,51.744119],[20.064564,51.743756],[20.064344,51.743536],[20.064127,51.743318],[20.063839,51.74303],[20.063593,51.742783],[20.059446,51.743457],[20.059397,51.743465],[20.052648,51.744561],[20.050756,51.744869],[20.050705,51.744877],[20.050568,51.745122],[20.050443,51.745344],[20.050402,51.745417],[20.050186,51.7458],[20.050134,51.74588],[20.050095,51.745935],[20.049997,51.746077],[20.049901,51.746215],[20.04978,51.746391],[20.049723,51.746473],[20.049492,51.746586],[20.047159,51.747089],[20.046655,51.747174],[20.042602,51.748137],[20.042388,51.748187]]],"type":"Polygon"}
 }

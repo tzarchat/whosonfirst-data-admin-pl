@@ -2,84 +2,88 @@
   "id": 1344083313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.42606,52.29945,19.42606,52.29945",
-    "geom:latitude":52.29945,
-    "geom:longitude":19.42606,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1002.0",
-    "gn:admin3_code":"100210.0",
-    "gn:asciiname":"Rejmontow",
-    "gn:country_code":"PL",
-    "gn:dem":119,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3087244,
-    "gn:latitude":52.29945,
-    "gn:longitude":19.42606,
-    "gn:modification_date":"2010-09-09",
-    "gn:name":"Rejmont\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.40606,52.27945,19.44606,52.31945",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Rejmont\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014760539382382553,
+    "geom:area_square_m": 1120557.0659548622,
+    "geom:bbox": "19.419082365997973,52.29013070101198,19.447475844005478,52.30128092401984",
+    "geom:latitude": 19.4331782914152,
+    "geom:longitude": 52.29557636274761,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1002.0",
+    "gn:admin3_code": "100210.0",
+    "gn:asciiname": "Rejmontow",
+    "gn:country_code": "PL",
+    "gn:dem": 119,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3087244,
+    "gn:latitude": 52.29945,
+    "gn:longitude": 19.42606,
+    "gn:modification_date": "2010-09-09",
+    "gn:name": "Rejmontów",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.40606,52.27945,19.44606,52.31945",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Rejmontów"
     ],
-    "name:pol_x_preferred":[
-        "Rejmont\u00f3w"
+    "name:pol_x_preferred": [
+      "Rejmontów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u0435\u0439\u043c\u043e\u043d\u0442\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Реймонтув"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125320527,
-        85633723,
-        102079929
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3087244,
-        "wk:page":"Rejmont%C3%B3w"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125320527,
+      85633723,
+      102079929
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3087244,
+      "pl-gugik:jpt_kod_je": "100210_2.0021",
+      "wk:page": "Rejmont%C3%B3w"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9b03fbab58e6ec9c1c700daf0e5edc0b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079929,
-            "localadmin_id":1125320527,
-            "locality_id":1344083313,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "6e9103a321ec3daa0150ab5036cfe28f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079929,
+        "localadmin_id": 1125320527,
+        "locality_id": 1344083313,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1344083313,
-    "wof:lastmodified":1570009466,
-    "wof:name":"Rejmontow",
-    "wof:parent_id":1125320527,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344083313,
+    "wof:lastmodified": 1669215835,
+    "wof:name": "Rejmontow",
+    "wof:parent_id": 1125320527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.42606,
-    52.29945,
-    19.42606,
-    52.29945
-],
-  "geometry": {"coordinates":[19.42606,52.29945],"type":"Point"}
+    19.419082365997973,
+    52.29013070101198,
+    19.447475844005478,
+    52.30128092401984
+  ],
+  "geometry": {"coordinates":[[[19.440532,52.290131],[19.440498,52.29014],[19.438769,52.29064],[19.438643,52.290672],[19.43794,52.29089],[19.437132,52.291129],[19.435917,52.291481],[19.434876,52.291776],[19.434732,52.291816],[19.43451,52.291892],[19.433495,52.29219],[19.43205,52.292626],[19.430795,52.292999],[19.42956,52.293365],[19.428944,52.293546],[19.42815,52.293778],[19.42694,52.294131],[19.42598,52.294411],[19.423847,52.295045],[19.421452,52.295746],[19.421294,52.295813],[19.420826,52.296736],[19.419082,52.298288],[19.420227,52.298805],[19.421474,52.299363],[19.422625,52.299855],[19.423869,52.300399],[19.425337,52.301033],[19.42588,52.301281],[19.427163,52.300601],[19.428317,52.300124],[19.42858,52.300052],[19.428879,52.3001],[19.430084,52.300306],[19.430378,52.300269],[19.430646,52.300211],[19.430413,52.300101],[19.430068,52.299929],[19.429889,52.299848],[19.429578,52.299705],[19.429962,52.299591],[19.433138,52.298647],[19.434447,52.298258],[19.435736,52.297876],[19.435758,52.297877],[19.435782,52.297879],[19.438068,52.297193],[19.439771,52.296701],[19.440442,52.296504],[19.441113,52.296307],[19.441952,52.296055],[19.442301,52.295951],[19.44245,52.295943],[19.444825,52.295337],[19.445743,52.295105],[19.446494,52.294911],[19.447338,52.294695],[19.447352,52.294719],[19.447476,52.294691],[19.44622,52.29256],[19.446203,52.292531],[19.446413,52.292506],[19.446225,52.291852],[19.445728,52.291609],[19.445159,52.291599],[19.44421,52.291381],[19.443753,52.291476],[19.443332,52.291564],[19.442711,52.291543],[19.442058,52.29152],[19.44193,52.291377],[19.441395,52.290928],[19.440532,52.290131]]],"type":"Polygon"}
 }

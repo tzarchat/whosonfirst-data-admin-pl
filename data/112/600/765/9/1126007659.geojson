@@ -2,111 +2,115 @@
   "id": 1126007659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.27969,52.96312,23.27969,52.96312",
-    "geom:latitude":52.96312,
-    "geom:longitude":23.27969,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":50,
-    "iso:country":"PL",
-    "lbl:bbox":"23.25969,52.94312,23.29969,52.98312",
-    "lbl:latitude":52.96312,
-    "lbl:longitude":23.27969,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Laszki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00026934534101710647,
+    "geom:area_square_m": 2014148.044364884,
+    "geom:bbox": "23.258321053090313,52.95595840302266,23.290649855087196,52.96780126901916",
+    "geom:latitude": 23.273879332694438,
+    "geom:longitude": 52.96212644309959,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 50,
+    "iso:country": "PL",
+    "lbl:bbox": "23.25969,52.94312,23.29969,52.98312",
+    "lbl:latitude": 52.96312,
+    "lbl:longitude": 23.27969,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Laszki"
     ],
-    "name:eng_x_preferred":[
-        "Laszki"
+    "name:eng_x_preferred": [
+      "Laszki"
     ],
-    "name:fra_x_preferred":[
-        "Laszki"
+    "name:fra_x_preferred": [
+      "Laszki"
     ],
-    "name:lit_x_preferred":[
-        "La\u0161kai"
+    "name:lit_x_preferred": [
+      "Laškai"
     ],
-    "name:pol_x_preferred":[
-        "Laszki"
+    "name:pol_x_preferred": [
+      "Laszki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044f\u0448\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Ляшкі"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":766685,
-    "qs_pg:gn_pop":50,
-    "qs_pg:name":"Laszki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":300963,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":503918,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125294349,
-        85633723,
-        102080145
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 766685,
+    "qs_pg:gn_pop": 50,
+    "qs_pg:name": "Laszki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 300963,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 503918,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766685,
-        "gp:id":503918,
-        "qs_pg:id":300963,
-        "wd:id":"Q5619054"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125294349,
+      85633723,
+      102080145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766685,
+      "gp:id": 503918,
+      "pl-gugik:jpt_kod_je": "200214_5.0022",
+      "qs_pg:id": 300963,
+      "wd:id": "Q5619054"
     },
-    "wof:country":"PL",
-    "wof:created":1497300073,
-    "wof:geomhash":"eb8c5db18689afc87cb2dd08ab7d379c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080145,
-            "localadmin_id":1125294349,
-            "locality_id":1126007659,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300073,
+    "wof:geomhash": "fc5e75d98527015ac13f53741344afce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080145,
+        "localadmin_id": 1125294349,
+        "locality_id": 1126007659,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1126007659,
-    "wof:lastmodified":1570038819,
-    "wof:name":"Laszki",
-    "wof:parent_id":1125294349,
-    "wof:placetype":"locality",
-    "wof:population":50,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126007659,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Laszki",
+    "wof:parent_id": 1125294349,
+    "wof:placetype": "locality",
+    "wof:population": 50,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.27969,
-    52.96312,
-    23.27969,
-    52.96312
-],
-  "geometry": {"coordinates":[23.27969,52.96312],"type":"Point"}
+    23.258321053090313,
+    52.95595840302266,
+    23.290649855087196,
+    52.96780126901916
+  ],
+  "geometry": {"coordinates":[[[23.258321,52.963749],[23.258552,52.964887],[23.258551,52.964968],[23.258543,52.965882],[23.258541,52.966074],[23.258844,52.967411],[23.258884,52.967591],[23.258928,52.967587],[23.259439,52.967547],[23.260348,52.967474],[23.260489,52.967463],[23.260861,52.967433],[23.26118,52.967408],[23.26176,52.967362],[23.262017,52.967341],[23.262036,52.96734],[23.262299,52.967319],[23.265334,52.967078],[23.266123,52.967015],[23.266915,52.966952],[23.267358,52.966917],[23.267751,52.966886],[23.268288,52.966843],[23.268344,52.966839],[23.269383,52.966756],[23.26954,52.966743],[23.269956,52.96671],[23.270337,52.96668],[23.270772,52.966645],[23.271237,52.966608],[23.271666,52.966573],[23.272149,52.96653],[23.272531,52.966501],[23.274005,52.966379],[23.274477,52.96634],[23.275473,52.966258],[23.275546,52.966252],[23.275833,52.966228],[23.277002,52.966132],[23.277265,52.96611],[23.277588,52.966086],[23.278765,52.965989],[23.279623,52.966936],[23.280407,52.967801],[23.28242,52.967128],[23.282876,52.966975],[23.283497,52.966772],[23.283941,52.966619],[23.284172,52.966546],[23.284929,52.966293],[23.2853,52.96617],[23.286293,52.965832],[23.286749,52.965683],[23.2872,52.965535],[23.287652,52.965387],[23.29065,52.964387],[23.289333,52.962947],[23.289289,52.962899],[23.289246,52.962852],[23.288626,52.962173],[23.288559,52.9621],[23.288527,52.962065],[23.288002,52.96149],[23.287425,52.960858],[23.286997,52.960388],[23.286384,52.959721],[23.285817,52.959095],[23.284158,52.957276],[23.283543,52.956601],[23.283126,52.956147],[23.281522,52.955958],[23.279561,52.95607],[23.278083,52.956362],[23.277322,52.956447],[23.276599,52.956526],[23.273987,52.956544],[23.273547,52.9566],[23.273515,52.956604],[23.271085,52.956907],[23.270258,52.956882],[23.269728,52.956867],[23.269251,52.95692],[23.267404,52.957684],[23.26643,52.957731],[23.265336,52.957785],[23.264508,52.958091],[23.264096,52.958243],[23.263844,52.95836],[23.262022,52.959209],[23.261885,52.959318],[23.26101,52.960015],[23.260636,52.960496],[23.260143,52.961129],[23.259482,52.962468],[23.258558,52.963318],[23.258321,52.963749]]],"type":"Polygon"}
 }

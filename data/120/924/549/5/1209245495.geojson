@@ -2,87 +2,91 @@
   "id": 1209245495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.19652,53.39665,23.19652,53.39665",
-    "geom:latitude":53.39665,
-    "geom:longitude":23.19652,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201102.0",
-    "gn:asciiname":"Sitkowo",
-    "gn:country_code":"PL",
-    "gn:dem":174,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":759193,
-    "gn:latitude":53.39665,
-    "gn:longitude":23.19652,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Sitkowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.17652,53.37665,23.21652,53.41665",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Sitkowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004445914782014091,
+    "geom:area_square_m": 3291365.7608832666,
+    "geom:bbox": "23.180953246076232,53.38901493801669,23.22697569507745,53.4053026860234",
+    "geom:latitude": 23.20035982819862,
+    "geom:longitude": 53.39767002681797,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201102.0",
+    "gn:asciiname": "Sitkowo",
+    "gn:country_code": "PL",
+    "gn:dem": 174,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 759193,
+    "gn:latitude": 53.39665,
+    "gn:longitude": 23.19652,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Sitkowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.17652,53.37665,23.21652,53.41665",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Sitkowo"
     ],
-    "name:lit_x_preferred":[
-        "Sitkovas"
+    "name:lit_x_preferred": [
+      "Sitkovas"
     ],
-    "name:pol_x_preferred":[
-        "Sitkowo"
+    "name:pol_x_preferred": [
+      "Sitkowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0456\u0442\u043a\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Сітково"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477751503,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":759193,
-        "wk:page":"Sitkowo"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477751503,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 759193,
+      "pl-gugik:jpt_kod_je": "201102_2.0023",
+      "wk:page": "Sitkowo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4a84a047ba7f108f90ca54539ab66c78",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477751503,
-            "locality_id":1209245495,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "acd54152c604c1b392d4c8885a9e5426",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477751503,
+        "locality_id": 1209245495,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209245495,
-    "wof:lastmodified":1570021116,
-    "wof:name":"Sitkowo",
-    "wof:parent_id":1477751503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209245495,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Sitkowo",
+    "wof:parent_id": 1477751503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.19652,
-    53.39665,
-    23.19652,
-    53.39665
-],
-  "geometry": {"coordinates":[23.19652,53.39665],"type":"Point"}
+    23.180953246076232,
+    53.38901493801669,
+    23.22697569507745,
+    53.4053026860234
+  ],
+  "geometry": {"coordinates":[[[23.183491,53.395581],[23.18391,53.396349],[23.184158,53.3968],[23.184658,53.397716],[23.185049,53.398425],[23.186014,53.400176],[23.186042,53.400227],[23.186057,53.400255],[23.186908,53.401803],[23.187826,53.40348],[23.188025,53.403844],[23.188258,53.404269],[23.188286,53.404321],[23.188824,53.405303],[23.190121,53.405211],[23.19302,53.405007],[23.19308,53.405003],[23.193756,53.404955],[23.195164,53.404856],[23.196623,53.404753],[23.198384,53.404633],[23.200322,53.4045],[23.20042,53.404493],[23.20133,53.404431],[23.20318,53.404295],[23.204626,53.404188],[23.207378,53.403998],[23.208033,53.403951],[23.209868,53.403822],[23.212991,53.4036],[23.213175,53.403588],[23.218565,53.40322],[23.220178,53.40311],[23.220416,53.403094],[23.226976,53.402633],[23.224321,53.40125],[23.223855,53.401008],[23.223183,53.400658],[23.223045,53.400586],[23.222107,53.400098],[23.221612,53.399839],[23.221348,53.399702],[23.220615,53.399321],[23.219764,53.398877],[23.21965,53.398818],[23.219198,53.398583],[23.218619,53.398281],[23.216602,53.39723],[23.216455,53.397154],[23.214432,53.3961],[23.214294,53.396028],[23.212495,53.395091],[23.211818,53.394739],[23.210444,53.394023],[23.209651,53.393609],[23.205018,53.391216],[23.204917,53.391164],[23.203795,53.39058],[23.200787,53.389015],[23.200432,53.38905],[23.200053,53.389088],[23.199707,53.389122],[23.199398,53.389153],[23.198577,53.389235],[23.196084,53.389485],[23.196047,53.389488],[23.194701,53.389623],[23.193258,53.389766],[23.192713,53.389821],[23.1907,53.39001],[23.188964,53.390174],[23.188151,53.390255],[23.188138,53.390256],[23.187958,53.390273],[23.185384,53.390518],[23.185027,53.390552],[23.18502,53.390553],[23.184629,53.39059],[23.183477,53.3907],[23.181795,53.39086],[23.180953,53.390941],[23.183491,53.395581]]],"type":"Polygon"}
 }

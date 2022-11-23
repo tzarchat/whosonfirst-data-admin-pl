@@ -2,96 +2,100 @@
   "id": 1226269231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.67361,53.76271,19.67361,53.76271",
-    "geom:latitude":53.76271,
-    "geom:longitude":19.67361,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2807.0",
-    "gn:admin3_code":"280707.0",
-    "gn:asciiname":"Huta Wielka",
-    "gn:country_code":"PL",
-    "gn:dem":119,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3097930,
-    "gn:latitude":53.76271,
-    "gn:longitude":19.67361,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Huta Wielka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.65361,53.74271,19.69361,53.78271",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0648\u062a\u0627 \u0648\u06cc\u0644\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001558508391727834,
+    "geom:area_square_m": 1143923.23624162,
+    "geom:bbox": "19.655644608993565,53.75735301201561,19.679402946992823,53.76974735302131",
+    "geom:latitude": 19.668772155829263,
+    "geom:longitude": 53.76393024283894,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2807.0",
+    "gn:admin3_code": "280707.0",
+    "gn:asciiname": "Huta Wielka",
+    "gn:country_code": "PL",
+    "gn:dem": 119,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3097930,
+    "gn:latitude": 53.76271,
+    "gn:longitude": 19.67361,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Huta Wielka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.65361,53.74271,19.69361,53.78271",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خوتا ویلکا"
     ],
-    "name:deu_x_preferred":[
-        "Huta Wielka"
+    "name:deu_x_preferred": [
+      "Huta Wielka"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0648\u062a\u0627 \u0648\u06cc\u0644\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "خوتا ویلکا"
     ],
-    "name:pol_x_preferred":[
-        "Huta Wielka"
+    "name:pol_x_preferred": [
+      "Huta Wielka"
     ],
-    "name:ukr_x_preferred":[
-        "\u0413\u0443\u0442\u0430-\u0412\u0435\u043b\u0438\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Гута-Велика"
     ],
-    "name:und_x_variant":[
-        "Albrechtswalde"
+    "name:und_x_variant": [
+      "Albrechtswalde"
     ],
-    "name:vie_x_preferred":[
-        "Huta Wielka"
+    "name:vie_x_preferred": [
+      "Huta Wielka"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125290149,
-        85633723,
-        102080171
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097930,
-        "wk:page":"Huta_Wielka"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125290149,
+      85633723,
+      102080171
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097930,
+      "pl-gugik:jpt_kod_je": "280707_5.0007",
+      "wk:page": "Huta_Wielka"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"49c3ff799ec33d442ce9f474e735b434",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080171,
-            "localadmin_id":1125290149,
-            "locality_id":1226269231,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "0efb65641be2875a49f1a8c848c49899",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080171,
+        "localadmin_id": 1125290149,
+        "locality_id": 1226269231,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1226269231,
-    "wof:lastmodified":1570048670,
-    "wof:name":"Huta Wielka",
-    "wof:parent_id":1125290149,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226269231,
+    "wof:lastmodified": 1669215923,
+    "wof:name": "Huta Wielka",
+    "wof:parent_id": 1125290149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.67361,
-    53.76271,
-    19.67361,
-    53.76271
-],
-  "geometry": {"coordinates":[19.67361,53.76271],"type":"Point"}
+    19.655644608993565,
+    53.75735301201561,
+    19.679402946992823,
+    53.76974735302131
+  ],
+  "geometry": {"coordinates":[[[19.670137,53.766233],[19.67102,53.767616],[19.671709,53.76756],[19.672078,53.767528],[19.672454,53.767497],[19.672989,53.767457],[19.673233,53.767439],[19.673989,53.767313],[19.674248,53.767295],[19.674969,53.767244],[19.676103,53.767099],[19.6769,53.76697],[19.677402,53.766894],[19.677423,53.766891],[19.677754,53.766835],[19.678145,53.766654],[19.678256,53.766123],[19.678317,53.765938],[19.678903,53.764166],[19.678924,53.76403],[19.678991,53.763809],[19.679102,53.763458],[19.679277,53.762905],[19.679403,53.762508],[19.679267,53.762081],[19.679079,53.761822],[19.678994,53.761707],[19.678323,53.761816],[19.678123,53.7615],[19.678693,53.761296],[19.67852,53.76106],[19.678338,53.760812],[19.67812,53.760496],[19.677865,53.760095],[19.677179,53.759761],[19.677103,53.759721],[19.677007,53.759672],[19.674107,53.758202],[19.673891,53.758091],[19.672438,53.757353],[19.672137,53.757439],[19.6714,53.757638],[19.670397,53.757916],[19.669867,53.758055],[19.669319,53.758242],[19.668263,53.758604],[19.667154,53.758974],[19.667355,53.759962],[19.667582,53.760987],[19.667306,53.761037],[19.665686,53.761346],[19.665048,53.761468],[19.664447,53.761573],[19.66481,53.762125],[19.664595,53.762158],[19.662769,53.762528],[19.662677,53.762546],[19.661806,53.762723],[19.661913,53.762898],[19.660794,53.763321],[19.661011,53.763511],[19.660725,53.76393],[19.6604,53.764332],[19.660523,53.76462],[19.660394,53.764715],[19.66006,53.764772],[19.659705,53.765],[19.657906,53.764933],[19.657154,53.764904],[19.656469,53.766536],[19.656443,53.7666],[19.655924,53.767829],[19.655645,53.768427],[19.657819,53.769416],[19.658113,53.769561],[19.658487,53.769701],[19.658503,53.769704],[19.658618,53.769747],[19.663606,53.768687],[19.664918,53.767951],[19.667621,53.766413],[19.667763,53.766378],[19.668326,53.766359],[19.669763,53.766309],[19.670137,53.766233]]],"type":"Polygon"}
 }

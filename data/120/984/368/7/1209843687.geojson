@@ -2,79 +2,83 @@
   "id": 1209843687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.19405,53.69654,20.19405,53.69654",
-    "geom:latitude":53.69654,
-    "geom:longitude":20.19405,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2814.0",
-    "gn:admin3_code":"281405.0",
-    "gn:asciiname":"Salminek",
-    "gn:country_code":"PL",
-    "gn:dem":134,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":759638,
-    "gn:latitude":53.69654,
-    "gn:longitude":20.19405,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Salminek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.17405,53.67654,20.21405,53.71654",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sallmeien",
-        "Salminek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00020256292900342412,
+    "geom:area_square_m": 1489137.0492512612,
+    "geom:bbox": "20.179167975993522,53.68990867301856,20.20260145400463,53.70573821301713",
+    "geom:latitude": 20.191827904281435,
+    "geom:longitude": 53.69672052679697,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2814.0",
+    "gn:admin3_code": "281405.0",
+    "gn:asciiname": "Salminek",
+    "gn:country_code": "PL",
+    "gn:dem": 134,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 759638,
+    "gn:latitude": 53.69654,
+    "gn:longitude": 20.19405,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Salminek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.17405,53.67654,20.21405,53.71654",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:und_x_variant": [
+      "Sallmeien",
+      "Salminek"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125399461,
-        85633723,
-        102080207
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":759638,
-        "wk:page":"Salminek"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125399461,
+      85633723,
+      102080207
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 759638,
+      "pl-gugik:jpt_kod_je": "281405_2.0016",
+      "wk:page": "Salminek"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4b443c4af04e9c4267b27dea284fefbe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080207,
-            "localadmin_id":1125399461,
-            "locality_id":1209843687,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "36ed359b84fbc168a7d486d7c4b77eb2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080207,
+        "localadmin_id": 1125399461,
+        "locality_id": 1209843687,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209843687,
-    "wof:lastmodified":1570020766,
-    "wof:name":"Salminek",
-    "wof:parent_id":1125399461,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209843687,
+    "wof:lastmodified": 1669215925,
+    "wof:name": "Salminek",
+    "wof:parent_id": 1125399461,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.19405,
-    53.69654,
-    20.19405,
-    53.69654
-],
-  "geometry": {"coordinates":[20.19405,53.69654],"type":"Point"}
+    20.179167975993522,
+    53.68990867301856,
+    20.20260145400463,
+    53.70573821301713
+  ],
+  "geometry": {"coordinates":[[[20.180433,53.694706],[20.181029,53.696056],[20.181041,53.696078],[20.181055,53.696108],[20.181076,53.696149],[20.181087,53.696168],[20.181211,53.696387],[20.181914,53.696758],[20.182822,53.697237],[20.183219,53.697447],[20.183262,53.69747],[20.184931,53.69835],[20.184982,53.698376],[20.185711,53.698803],[20.18644,53.699333],[20.186488,53.69938],[20.187893,53.700307],[20.188706,53.700845],[20.189675,53.701533],[20.190491,53.702116],[20.191115,53.702441],[20.191232,53.702502],[20.19129,53.702531],[20.192109,53.702964],[20.193177,53.703543],[20.194921,53.704456],[20.195277,53.704649],[20.196549,53.705258],[20.196612,53.70529],[20.197503,53.705738],[20.198037,53.705285],[20.198151,53.705178],[20.198641,53.704718],[20.19948,53.703591],[20.199882,53.702895],[20.200044,53.702538],[20.200252,53.702085],[20.200263,53.702061],[20.200643,53.701231],[20.200685,53.70114],[20.202601,53.699882],[20.200888,53.699569],[20.201139,53.699448],[20.200301,53.698608],[20.199787,53.697211],[20.199616,53.696863],[20.199592,53.696813],[20.199572,53.696774],[20.199231,53.696077],[20.198644,53.693779],[20.197626,53.689949],[20.197181,53.689909],[20.193185,53.690404],[20.191354,53.690622],[20.191077,53.690655],[20.187675,53.691065],[20.18515,53.691357],[20.185078,53.691366],[20.179168,53.692064],[20.180433,53.694706]]],"type":"Polygon"}
 }

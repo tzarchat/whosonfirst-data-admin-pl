@@ -2,87 +2,91 @@
   "id": 1292930687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.66786,53.94805,19.66786,53.94805",
-    "geom:latitude":53.94805,
-    "geom:longitude":19.66786,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2804.0",
-    "gn:admin3_code":"280407.0",
-    "gn:asciiname":"Awajki",
-    "gn:country_code":"PL",
-    "gn:dem":115,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3104028,
-    "gn:latitude":53.94805,
-    "gn:longitude":19.66786,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Awajki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.64786,53.92805,19.68786,53.96805",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nld_x_preferred":[
-        "Awajki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00027146166266620443,
+    "geom:area_square_m": 1983755.6589625971,
+    "geom:bbox": "19.662566743006188,53.941150280021326,19.68767759100018,53.95855797101913",
+    "geom:latitude": 19.67599700619369,
+    "geom:longitude": 53.94953153173629,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2804.0",
+    "gn:admin3_code": "280407.0",
+    "gn:asciiname": "Awajki",
+    "gn:country_code": "PL",
+    "gn:dem": 115,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3104028,
+    "gn:latitude": 53.94805,
+    "gn:longitude": 19.66786,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Awajki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.64786,53.92805,19.68786,53.96805",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:nld_x_preferred": [
+      "Awajki"
     ],
-    "name:pol_x_preferred":[
-        "Awajki"
+    "name:pol_x_preferred": [
+      "Awajki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0432\u0430\u0439\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Авайкі"
     ],
-    "name:und_x_variant":[
-        "Awecken"
+    "name:und_x_variant": [
+      "Awecken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125367809,
-        85633723,
-        102080231
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3104028,
-        "wk:page":"Awajki"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125367809,
+      85633723,
+      102080231
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3104028,
+      "pl-gugik:jpt_kod_je": "280407_5.0003",
+      "wk:page": "Awajki"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"e3f64e95d3a5acdd7f3d8a95f193cf39",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080231,
-            "localadmin_id":1125367809,
-            "locality_id":1292930687,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "ceb2d13e2e78224716abe27548ef8991",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080231,
+        "localadmin_id": 1125367809,
+        "locality_id": 1292930687,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1292930687,
-    "wof:lastmodified":1570013303,
-    "wof:name":"Awajki",
-    "wof:parent_id":1125367809,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292930687,
+    "wof:lastmodified": 1669215925,
+    "wof:name": "Awajki",
+    "wof:parent_id": 1125367809,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.66786,
-    53.94805,
-    19.66786,
-    53.94805
-],
-  "geometry": {"coordinates":[19.66786,53.94805],"type":"Point"}
+    19.662566743006188,
+    53.941150280021326,
+    19.68767759100018,
+    53.95855797101913
+  ],
+  "geometry": {"coordinates":[[[19.675187,53.957699],[19.675281,53.957668],[19.675672,53.957394],[19.676457,53.956819],[19.677535,53.955992],[19.68172,53.95429],[19.681863,53.954232],[19.683044,53.953481],[19.683583,53.953139],[19.683931,53.952852],[19.687554,53.950406],[19.687678,53.94728],[19.687662,53.947208],[19.687592,53.946898],[19.687268,53.945448],[19.687084,53.944625],[19.686997,53.944235],[19.68692,53.94389],[19.686818,53.943433],[19.685118,53.942164],[19.68376,53.94115],[19.68233,53.941283],[19.681791,53.941332],[19.680382,53.941262],[19.679686,53.941452],[19.679269,53.941794],[19.678503,53.942569],[19.67727,53.943018],[19.677066,53.943111],[19.676955,53.94316],[19.676582,53.943329],[19.676097,53.943562],[19.675489,53.943719],[19.67535,53.943755],[19.673867,53.944104],[19.673729,53.944145],[19.673252,53.944288],[19.671941,53.944609],[19.671588,53.944692],[19.670162,53.944951],[19.669087,53.945289],[19.667945,53.945934],[19.667418,53.946031],[19.666481,53.946185],[19.665329,53.946215],[19.665061,53.946228],[19.664985,53.946231],[19.664716,53.946257],[19.664399,53.946306],[19.663772,53.946402],[19.663474,53.946442],[19.663304,53.94647],[19.663202,53.946501],[19.663112,53.946546],[19.662967,53.94666],[19.662594,53.947203],[19.662586,53.947464],[19.662567,53.948166],[19.663266,53.948483],[19.663989,53.949404],[19.664501,53.950295],[19.665246,53.951711],[19.6653,53.951819],[19.665456,53.95203],[19.665978,53.953176],[19.667111,53.954902],[19.668245,53.9566],[19.668299,53.956691],[19.669091,53.957176],[19.671703,53.958558],[19.672687,53.958508],[19.672984,53.958412],[19.673111,53.958371],[19.673677,53.958187],[19.674638,53.957877],[19.675187,53.957699]]],"type":"Polygon"}
 }

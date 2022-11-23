@@ -2,84 +2,88 @@
   "id": 1327361655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.90116,51.71384,20.90116,51.71384",
-    "geom:latitude":51.71384,
-    "geom:longitude":20.90116,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1401.0",
-    "gn:admin3_code":"140102.0",
-    "gn:asciiname":"Lekarcice",
-    "gn:country_code":"PL",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766536,
-    "gn:latitude":51.71384,
-    "gn:longitude":20.90116,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Lekarcice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.88116,51.69384,20.92116,51.73384",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Lekarcice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00018732707263609873,
+    "geom:area_square_m": 1440572.0019104052,
+    "geom:bbox": "20.895571399005526,51.70413157401227,20.922006846999306,51.72034246401469",
+    "geom:latitude": 20.908989223624868,
+    "geom:longitude": 51.71228402773548,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1401.0",
+    "gn:admin3_code": "140102.0",
+    "gn:asciiname": "Lekarcice",
+    "gn:country_code": "PL",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766536,
+    "gn:latitude": 51.71384,
+    "gn:longitude": 20.90116,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Lekarcice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.88116,51.69384,20.92116,51.73384",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Lekarcice"
     ],
-    "name:pol_x_preferred":[
-        "Lekarcice"
+    "name:pol_x_preferred": [
+      "Lekarcice"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0435\u043a\u0430\u0440\u0446\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Лекарцице"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751867,
-        85633723,
-        102079839
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766536,
-        "wk:page":"Lekarcice"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751867,
+      85633723,
+      102079839
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766536,
+      "pl-gugik:jpt_kod_je": "140102_2.0014",
+      "wk:page": "Lekarcice"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"bec0f662b20ebff27badd625474acf2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079839,
-            "localadmin_id":1477751867,
-            "locality_id":1327361655,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e1fa497b3ac3caa3a1eda12447452018",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079839,
+        "localadmin_id": 1477751867,
+        "locality_id": 1327361655,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1327361655,
-    "wof:lastmodified":1570005153,
-    "wof:name":"Lekarcice",
-    "wof:parent_id":1477751867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327361655,
+    "wof:lastmodified": 1669215938,
+    "wof:name": "Lekarcice",
+    "wof:parent_id": 1477751867,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.90116,
-    51.71384000000001,
-    20.90116,
-    51.71384000000001
-],
-  "geometry": {"coordinates":[20.90116,51.71384000000001],"type":"Point"}
+    20.895571399005526,
+    51.70413157401227,
+    20.922006846999306,
+    51.72034246401469
+  ],
+  "geometry": {"coordinates":[[[20.895571,51.714986],[20.898122,51.716157],[20.898212,51.716199],[20.901132,51.717558],[20.902637,51.718258],[20.903202,51.71852],[20.903535,51.718674],[20.904139,51.718949],[20.904198,51.718975],[20.904825,51.719261],[20.905181,51.719423],[20.905845,51.719728],[20.906041,51.719798],[20.906292,51.71985],[20.906662,51.719957],[20.907136,51.720103],[20.907936,51.720342],[20.909236,51.718898],[20.91096,51.716983],[20.911001,51.716938],[20.912093,51.71572],[20.915059,51.712437],[20.915089,51.712405],[20.915568,51.713007],[20.916059,51.712639],[20.916788,51.712092],[20.917009,51.711927],[20.917247,51.711748],[20.91743,51.711611],[20.918223,51.711017],[20.91889,51.710516],[20.919297,51.710211],[20.919678,51.709914],[20.920568,51.709258],[20.922007,51.70817],[20.921027,51.707343],[20.92042,51.706818],[20.920432,51.706777],[20.920167,51.706549],[20.919067,51.705606],[20.918949,51.705538],[20.918732,51.705351],[20.918533,51.705179],[20.918313,51.704989],[20.918046,51.704757],[20.918012,51.704728],[20.917876,51.704611],[20.917425,51.704233],[20.917307,51.704132],[20.917271,51.704148],[20.915525,51.704928],[20.914495,51.705389],[20.91399,51.705614],[20.913458,51.705852],[20.912655,51.706211],[20.911689,51.706643],[20.911502,51.706726],[20.911467,51.706742],[20.911432,51.706771],[20.911304,51.706828],[20.91119,51.706878],[20.910896,51.707007],[20.909988,51.707406],[20.909584,51.707584],[20.909387,51.70767],[20.909201,51.707752],[20.908815,51.707921],[20.908451,51.708087],[20.908103,51.708246],[20.907867,51.708351],[20.90782,51.708372],[20.907385,51.708566],[20.906146,51.709119],[20.904841,51.709706],[20.904542,51.709861],[20.901715,51.711113],[20.901648,51.711143],[20.90057,51.710683],[20.900542,51.710707],[20.89968,51.711437],[20.89882,51.712165],[20.898602,51.712354],[20.897838,51.713018],[20.89684,51.713884],[20.895571,51.714986]]],"type":"Polygon"}
 }

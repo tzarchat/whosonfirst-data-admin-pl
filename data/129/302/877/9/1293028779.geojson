@@ -2,84 +2,88 @@
   "id": 1293028779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.48773,54.13433,23.48773,54.13433",
-    "geom:latitude":54.13433,
-    "geom:longitude":23.48773,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2009.0",
-    "gn:admin3_code":"200905.0",
-    "gn:asciiname":"Rachelany",
-    "gn:country_code":"PL",
-    "gn:dem":146,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":760852,
-    "gn:latitude":54.13433,
-    "gn:longitude":23.48773,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Rachelany",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.46773,54.11433,23.50773,54.15433",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Rakelija"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00018656983004750012,
+    "geom:area_square_m": 1357271.3505136925,
+    "geom:bbox": "23.47433188208997,54.13051275202565,23.491514818086067,54.14858275402481",
+    "geom:latitude": 23.48401971379087,
+    "geom:longitude": 54.138327253976385,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2009.0",
+    "gn:admin3_code": "200905.0",
+    "gn:asciiname": "Rachelany",
+    "gn:country_code": "PL",
+    "gn:dem": 146,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 760852,
+    "gn:latitude": 54.13433,
+    "gn:longitude": 23.48773,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Rachelany",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.46773,54.11433,23.50773,54.15433",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Rakelija"
     ],
-    "name:pol_x_preferred":[
-        "Rachelany"
+    "name:pol_x_preferred": [
+      "Rachelany"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u0430\u0445\u0435\u043b\u044f\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Рахеляни"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125409187,
-        85633723,
-        102080257
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":760852,
-        "wk:page":"Rachelany"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125409187,
+      85633723,
+      102080257
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 760852,
+      "pl-gugik:jpt_kod_je": "200905_2.0045",
+      "wk:page": "Rachelany"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"2e91ea4c7d07c6e10d044608ef740386",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080257,
-            "localadmin_id":1125409187,
-            "locality_id":1293028779,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "828f4e58f5982db55a7b09b7b58114e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080257,
+        "localadmin_id": 1125409187,
+        "locality_id": 1293028779,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1293028779,
-    "wof:lastmodified":1570015721,
-    "wof:name":"Rachelany",
-    "wof:parent_id":1125409187,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293028779,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Rachelany",
+    "wof:parent_id": 1125409187,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.48773,
-    54.13433000000001,
-    23.48773,
-    54.13433000000001
-],
-  "geometry": {"coordinates":[23.48773,54.13433000000001],"type":"Point"}
+    23.47433188208997,
+    54.13051275202565,
+    23.491514818086067,
+    54.14858275402481
+  ],
+  "geometry": {"coordinates":[[[23.484093,54.146493],[23.484834,54.147097],[23.485975,54.14769],[23.486474,54.147948],[23.487065,54.148264],[23.487132,54.148301],[23.487188,54.14833],[23.487217,54.148346],[23.487238,54.148357],[23.48747,54.148481],[23.48766,54.148583],[23.48946,54.144627],[23.49031,54.140108],[23.491168,54.135553],[23.491515,54.135305],[23.491221,54.135304],[23.490895,54.135303],[23.490735,54.134287],[23.490678,54.133921],[23.490621,54.133558],[23.489209,54.13256],[23.488466,54.132035],[23.487769,54.131543],[23.48774,54.131522],[23.48771,54.131501],[23.487682,54.131481],[23.487136,54.131095],[23.486313,54.130513],[23.483547,54.130912],[23.482374,54.131081],[23.48178,54.131166],[23.481456,54.131213],[23.480432,54.13136],[23.480166,54.131398],[23.480077,54.131411],[23.478362,54.131657],[23.478313,54.131723],[23.478256,54.131802],[23.478254,54.131804],[23.477245,54.133192],[23.477057,54.13345],[23.476726,54.133905],[23.476345,54.134429],[23.47619,54.134644],[23.475911,54.13503],[23.475417,54.135716],[23.475372,54.135777],[23.475351,54.135807],[23.47507,54.136196],[23.474393,54.137133],[23.474332,54.137218],[23.477106,54.136966],[23.477108,54.137007],[23.477164,54.138384],[23.477173,54.138521],[23.477173,54.138526],[23.477175,54.138561],[23.477175,54.138566],[23.4772,54.139002],[23.477207,54.139127],[23.477222,54.13945],[23.477226,54.139519],[23.47725,54.140038],[23.477289,54.140864],[23.478425,54.141817],[23.478459,54.141846],[23.479177,54.142449],[23.479485,54.142707],[23.479617,54.142815],[23.479883,54.143034],[23.48037,54.143433],[23.480848,54.143824],[23.480941,54.143901],[23.481199,54.144114],[23.482079,54.144842],[23.482834,54.145467],[23.482968,54.145576],[23.483541,54.146043],[23.484024,54.146438],[23.484093,54.146493]]],"type":"Polygon"}
 }

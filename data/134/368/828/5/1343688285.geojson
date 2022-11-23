@@ -2,94 +2,98 @@
   "id": 1343688285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.45539,51.92148,20.45539,51.92148",
-    "geom:latitude":51.92148,
-    "geom:longitude":20.45539,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1015.0",
-    "gn:admin3_code":"101504.0",
-    "gn:asciiname":"Huta Piekarska",
-    "gn:country_code":"PL",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":770862,
-    "gn:latitude":51.92148,
-    "gn:longitude":20.45539,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Huta Piekarska",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.43539,51.90148,20.47539,51.94148",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0648\u062a\u0627 \u067e\u06cc\u06a9\u0627\u0631\u0633\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0000427499274244842,
+    "geom:area_square_m": 327348.911435904,
+    "geom:bbox": "20.510544200001302,51.90290076001686,20.5254610290048,51.910891147015136",
+    "geom:latitude": 20.517524029920406,
+    "geom:longitude": 51.90704581725155,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1015.0",
+    "gn:admin3_code": "101504.0",
+    "gn:asciiname": "Huta Piekarska",
+    "gn:country_code": "PL",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 770862,
+    "gn:latitude": 51.92148,
+    "gn:longitude": 20.45539,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Huta Piekarska",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.43539,51.90148,20.47539,51.94148",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خوتا پیکارسکا"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0648\u062a\u0627 \u067e\u06cc\u06a9\u0627\u0631\u0633\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "خوتا پیکارسکا"
     ],
-    "name:fra_x_preferred":[
-        "Huta Piekarska"
+    "name:fra_x_preferred": [
+      "Huta Piekarska"
     ],
-    "name:ind_x_preferred":[
-        "Huta Piekarska"
+    "name:ind_x_preferred": [
+      "Huta Piekarska"
     ],
-    "name:pol_x_preferred":[
-        "Huta Piekarska"
+    "name:pol_x_preferred": [
+      "Huta Piekarska"
     ],
-    "name:und_x_variant":[
-        "Huta",
-        "Huta Zawadzka"
+    "name:und_x_variant": [
+      "Huta",
+      "Huta Zawadzka"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125385751,
-        85633723,
-        102079895
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":770862,
-        "wk:page":"Huta_Piekarska"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125385751,
+      85633723,
+      102079895
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 770862,
+      "pl-gugik:jpt_kod_je": "143802_5.0063",
+      "wk:page": "Huta_Piekarska"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"54c8d662dbef8bb584f18e988e92050c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079895,
-            "localadmin_id":1125385751,
-            "locality_id":1343688285,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "0cd0cda4863076d4d7017c79bf00ed84",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079895,
+        "localadmin_id": 1125385751,
+        "locality_id": 1343688285,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1343688285,
-    "wof:lastmodified":1570010800,
-    "wof:name":"Huta Piekarska",
-    "wof:parent_id":1125385751,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343688285,
+    "wof:lastmodified": 1669215836,
+    "wof:name": "Huta Piekarska",
+    "wof:parent_id": 1125385751,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.45539,
-    51.92148,
-    20.45539,
-    51.92148
-],
-  "geometry": {"coordinates":[20.45539,51.92148],"type":"Point"}
+    20.510544200001302,
+    51.90290076001686,
+    20.5254610290048,
+    51.910891147015136
+  ],
+  "geometry": {"coordinates":[[[20.518777,51.902901],[20.516766,51.904606],[20.514773,51.906294],[20.512984,51.907792],[20.51242,51.908264],[20.512289,51.908376],[20.511676,51.908896],[20.51145,51.909089],[20.510544,51.909869],[20.510611,51.909929],[20.510723,51.910062],[20.511,51.910379],[20.511465,51.910891],[20.511503,51.910883],[20.512633,51.910499],[20.51335,51.910266],[20.51432,51.909943],[20.514675,51.909819],[20.514757,51.909817],[20.516116,51.909371],[20.516168,51.909354],[20.516959,51.909094],[20.518273,51.908675],[20.518228,51.908564],[20.518422,51.908499],[20.518515,51.908467],[20.518747,51.908389],[20.51889,51.908341],[20.518991,51.908307],[20.519381,51.908176],[20.520585,51.907773],[20.521427,51.907492],[20.522581,51.907105],[20.522904,51.906997],[20.523037,51.906952],[20.523499,51.9068],[20.524018,51.906625],[20.524102,51.906596],[20.525308,51.906188],[20.525461,51.906136],[20.524571,51.905157],[20.524547,51.90513],[20.524526,51.905106],[20.524336,51.904884],[20.523804,51.905071],[20.523351,51.90523],[20.522386,51.905568],[20.52144,51.905895],[20.519455,51.903696],[20.519082,51.903318],[20.518918,51.903151],[20.518816,51.902978],[20.518784,51.902962],[20.518777,51.902901]]],"type":"Polygon"}
 }

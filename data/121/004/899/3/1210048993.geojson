@@ -2,87 +2,91 @@
   "id": 1210048993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.57424,54.04578,22.57424,54.04578",
-    "geom:latitude":54.04578,
-    "geom:longitude":22.57424,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2813.0",
-    "gn:admin3_code":"281306.0",
-    "gn:asciiname":"Nowe Raczki",
-    "gn:country_code":"PL",
-    "gn:dem":180,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":763653,
-    "gn:latitude":54.04578,
-    "gn:longitude":22.57424,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Nowe Raczki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.55424,54.02578,22.59424,54.06578",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Nowe Raczki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014456024966370503,
+    "geom:area_square_m": 1053986.4250786705,
+    "geom:bbox": "22.560307545030806,54.04094745501553,22.581835724038214,54.05046061001914",
+    "geom:latitude": 22.570485515645498,
+    "geom:longitude": 54.0456353660706,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2813.0",
+    "gn:admin3_code": "281306.0",
+    "gn:asciiname": "Nowe Raczki",
+    "gn:country_code": "PL",
+    "gn:dem": 180,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 763653,
+    "gn:latitude": 54.04578,
+    "gn:longitude": 22.57424,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Nowe Raczki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.55424,54.02578,22.59424,54.06578",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Nowe Raczki"
     ],
-    "name:pol_x_preferred":[
-        "Nowe Raczki"
+    "name:pol_x_preferred": [
+      "Nowe Raczki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u043e\u0432\u0435 \u0420\u0430\u0447\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Нове Рачкі"
     ],
-    "name:und_x_variant":[
-        "Neu Retzken"
+    "name:und_x_variant": [
+      "Neu Retzken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752773,
-        85633723,
-        102080243
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":763653,
-        "wk:page":"Nowe_Raczki"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752773,
+      85633723,
+      102080243
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 763653,
+      "pl-gugik:jpt_kod_je": "281306_2.0013",
+      "wk:page": "Nowe_Raczki"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"bcb8c8bedcab1f5413b5aad34691d176",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080243,
-            "localadmin_id":1477752773,
-            "locality_id":1210048993,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1f4263a30be756912de6a3cf1d4bf4e3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080243,
+        "localadmin_id": 1477752773,
+        "locality_id": 1210048993,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1210048993,
-    "wof:lastmodified":1570023695,
-    "wof:name":"Nowe Raczki",
-    "wof:parent_id":1477752773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210048993,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Nowe Raczki",
+    "wof:parent_id": 1477752773,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.57424,
-    54.04578000000001,
-    22.57424,
-    54.04578000000001
-],
-  "geometry": {"coordinates":[22.57424,54.04578000000001],"type":"Point"}
+    22.560307545030806,
+    54.04094745501553,
+    22.581835724038214,
+    54.05046061001914
+  ],
+  "geometry": {"coordinates":[[[22.564359,54.050438],[22.568041,54.04986],[22.568427,54.049794],[22.569038,54.049711],[22.570173,54.049541],[22.570739,54.049473],[22.57084,54.04946],[22.571658,54.049356],[22.572427,54.04925],[22.574216,54.049003],[22.574642,54.048941],[22.574685,54.048935],[22.574877,54.048909],[22.575822,54.04878],[22.576326,54.048708],[22.577186,54.048569],[22.578558,54.048349],[22.579406,54.048232],[22.579534,54.048215],[22.579681,54.048194],[22.580289,54.048109],[22.581836,54.047886],[22.581432,54.047363],[22.581567,54.045989],[22.581587,54.045778],[22.581437,54.045631],[22.580854,54.045062],[22.580212,54.044435],[22.580141,54.044366],[22.580155,54.044104],[22.580248,54.042442],[22.579776,54.042428],[22.579048,54.042406],[22.578527,54.042391],[22.577997,54.042375],[22.576512,54.042332],[22.576066,54.04233],[22.576054,54.04233],[22.575278,54.042326],[22.574407,54.042322],[22.574342,54.042322],[22.572798,54.042314],[22.572209,54.041682],[22.571515,54.040947],[22.568976,54.040978],[22.568854,54.04098],[22.567651,54.040991],[22.566603,54.041001],[22.56592,54.042661],[22.565511,54.042606],[22.564583,54.04243],[22.562892,54.042059],[22.561823,54.042505],[22.560308,54.043226],[22.560894,54.043796],[22.561183,54.044077],[22.561442,54.044308],[22.56141,54.044483],[22.561362,54.044753],[22.561327,54.044941],[22.561238,54.045417],[22.561214,54.045544],[22.56104,54.046353],[22.560959,54.046707],[22.560707,54.047801],[22.560561,54.048439],[22.563199,54.049404],[22.564232,54.049782],[22.5642,54.050008],[22.564213,54.050296],[22.564218,54.050419],[22.564213,54.050461],[22.564359,54.050438]]],"type":"Polygon"}
 }

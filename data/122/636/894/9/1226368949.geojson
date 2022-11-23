@@ -2,90 +2,94 @@
   "id": 1226368949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.69632,54.22673,20.69632,54.22673",
-    "geom:latitude":54.22673,
-    "geom:longitude":20.69632,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2801.0",
-    "gn:admin3_code":"280103.0",
-    "gn:asciiname":"Kiersity",
-    "gn:country_code":"PL",
-    "gn:dem":82,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":769217,
-    "gn:latitude":54.22673,
-    "gn:longitude":20.69632,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kiersity",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.67632,54.20673,20.71632,54.24673",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Kiersity"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00034848549112655614,
+    "geom:area_square_m": 2529943.0845174016,
+    "geom:bbox": "20.689757036994894,54.217602410016,20.724460592001144,54.231757705019305",
+    "geom:latitude": 20.70597496423405,
+    "geom:longitude": 54.22469396117507,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2801.0",
+    "gn:admin3_code": "280103.0",
+    "gn:asciiname": "Kiersity",
+    "gn:country_code": "PL",
+    "gn:dem": 82,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 769217,
+    "gn:latitude": 54.22673,
+    "gn:longitude": 20.69632,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kiersity",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.67632,54.20673,20.71632,54.24673",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Kiersity"
     ],
-    "name:pol_x_preferred":[
-        "Kiersity"
+    "name:pol_x_preferred": [
+      "Kiersity"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0435\u0440\u0441\u0456\u0442\u0438"
+    "name:ukr_x_preferred": [
+      "Керсіти"
     ],
-    "name:und_x_variant":[
-        "Kirschitten"
+    "name:und_x_variant": [
+      "Kirschitten"
     ],
-    "name:vie_x_preferred":[
-        "Kiersity"
+    "name:vie_x_preferred": [
+      "Kiersity"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751845,
-        85633723,
-        102080247
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":769217,
-        "wk:page":"Kiersity%2C_Bartoszyce_County"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751845,
+      85633723,
+      102080247
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 769217,
+      "pl-gugik:jpt_kod_je": "280103_2.0025",
+      "wk:page": "Kiersity%2C_Bartoszyce_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"2e51b5503a36b4ea89c06eaf57cb84fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080247,
-            "localadmin_id":1477751845,
-            "locality_id":1226368949,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "033e724be1d32dcf9cf4120d578f71c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080247,
+        "localadmin_id": 1477751845,
+        "locality_id": 1226368949,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1226368949,
-    "wof:lastmodified":1570053109,
-    "wof:name":"Kiersity",
-    "wof:parent_id":1477751845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226368949,
+    "wof:lastmodified": 1669215931,
+    "wof:name": "Kiersity",
+    "wof:parent_id": 1477751845,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.69632,
-    54.22673,
-    20.69632,
-    54.22673
-],
-  "geometry": {"coordinates":[20.69632,54.22673],"type":"Point"}
+    20.689757036994894,
+    54.217602410016,
+    20.724460592001144,
+    54.231757705019305
+  ],
+  "geometry": {"coordinates":[[[20.720574,54.229952],[20.721612,54.229856],[20.721745,54.229844],[20.721433,54.228563],[20.721581,54.228535],[20.723107,54.228351],[20.724461,54.228197],[20.723885,54.22708],[20.723407,54.226189],[20.722731,54.224906],[20.72192,54.224989],[20.720862,54.225097],[20.719029,54.225327],[20.719452,54.221199],[20.719266,54.2212],[20.718318,54.221024],[20.718219,54.220949],[20.717709,54.220571],[20.71681,54.220147],[20.716654,54.220076],[20.713737,54.21875],[20.712583,54.218225],[20.711461,54.217688],[20.709925,54.218249],[20.709112,54.218836],[20.704903,54.218557],[20.704722,54.218548],[20.701626,54.218333],[20.700711,54.218283],[20.699831,54.218224],[20.699748,54.218218],[20.699219,54.218183],[20.697438,54.218062],[20.697232,54.218048],[20.695639,54.217941],[20.694964,54.217895],[20.694241,54.217846],[20.694114,54.217838],[20.691452,54.217658],[20.690638,54.217602],[20.690567,54.217929],[20.690522,54.218073],[20.690684,54.218336],[20.690692,54.218417],[20.690896,54.218671],[20.691452,54.219242],[20.691224,54.219367],[20.691208,54.219748],[20.691243,54.219815],[20.691235,54.22009],[20.690997,54.220305],[20.690728,54.220317],[20.690485,54.220541],[20.690494,54.220688],[20.69034,54.220906],[20.690557,54.221463],[20.690612,54.221489],[20.692625,54.222129],[20.692632,54.222506],[20.692672,54.224186],[20.692571,54.225068],[20.693068,54.225505],[20.693132,54.226132],[20.693166,54.226853],[20.693259,54.227441],[20.693262,54.227562],[20.691413,54.227492],[20.689757,54.227429],[20.68977,54.227611],[20.690047,54.230164],[20.690837,54.230162],[20.691411,54.229849],[20.691649,54.229819],[20.692119,54.22976],[20.692444,54.229684],[20.69281,54.229509],[20.693437,54.229481],[20.694494,54.229452],[20.695041,54.229464],[20.69544,54.22958],[20.695746,54.229663],[20.697006,54.229816],[20.700214,54.229716],[20.70178,54.231758],[20.701959,54.23174],[20.702087,54.23173],[20.705899,54.231362],[20.708898,54.231073],[20.711652,54.230813],[20.713722,54.230617],[20.716355,54.230362],[20.717241,54.230276],[20.720574,54.229952]]],"type":"Polygon"}
 }

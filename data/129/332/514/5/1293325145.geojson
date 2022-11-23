@@ -2,90 +2,94 @@
   "id": 1293325145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.86982,54.23915,20.86982,54.23915",
-    "geom:latitude":54.23915,
-    "geom:longitude":20.86982,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2801.0",
-    "gn:admin3_code":"280103.0",
-    "gn:asciiname":"Witki",
-    "gn:country_code":"PL",
-    "gn:dem":54,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755541,
-    "gn:latitude":54.23915,
-    "gn:longitude":20.86982,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Witki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.84982,54.21915,20.88982,54.25915",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Witki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003148114735364167,
+    "geom:area_square_m": 2284664.299313954,
+    "geom:bbox": "20.858716012008863,54.22751669101939,20.890052014996343,54.24768828401908",
+    "geom:latitude": 20.87429169382584,
+    "geom:longitude": 54.23960940462323,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2801.0",
+    "gn:admin3_code": "280103.0",
+    "gn:asciiname": "Witki",
+    "gn:country_code": "PL",
+    "gn:dem": 54,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755541,
+    "gn:latitude": 54.23915,
+    "gn:longitude": 20.86982,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Witki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.84982,54.21915,20.88982,54.25915",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Witki"
     ],
-    "name:pol_x_preferred":[
-        "Witki"
+    "name:pol_x_preferred": [
+      "Witki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0456\u0442\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Віткі"
     ],
-    "name:und_x_variant":[
-        "Assmanns"
+    "name:und_x_variant": [
+      "Assmanns"
     ],
-    "name:vie_x_preferred":[
-        "Witki"
+    "name:vie_x_preferred": [
+      "Witki"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751845,
-        85633723,
-        102080247
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755541,
-        "wk:page":"Witki%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751845,
+      85633723,
+      102080247
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755541,
+      "pl-gugik:jpt_kod_je": "280103_2.0076",
+      "wk:page": "Witki%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"08099302af7de35a9d37936d8921b041",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080247,
-            "localadmin_id":1477751845,
-            "locality_id":1293325145,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "5a08c19e688c2fa0529f630d11b3effe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080247,
+        "localadmin_id": 1477751845,
+        "locality_id": 1293325145,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1293325145,
-    "wof:lastmodified":1570015278,
-    "wof:name":"Witki",
-    "wof:parent_id":1477751845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293325145,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Witki",
+    "wof:parent_id": 1477751845,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.86982,
-    54.23915,
-    20.86982,
-    54.23915
-],
-  "geometry": {"coordinates":[20.86982,54.23915],"type":"Point"}
+    20.858716012008863,
+    54.22751669101939,
+    20.890052014996343,
+    54.24768828401908
+  ],
+  "geometry": {"coordinates":[[[20.88647,54.23537],[20.880678,54.235298],[20.879727,54.235279],[20.877483,54.235235],[20.876837,54.235223],[20.876793,54.235222],[20.875723,54.235201],[20.875178,54.23519],[20.873884,54.235165],[20.872567,54.235139],[20.8668,54.235026],[20.866796,54.234953],[20.866792,54.234588],[20.866826,54.233253],[20.866834,54.233192],[20.8669,54.232453],[20.866915,54.232278],[20.86693,54.232138],[20.867019,54.230867],[20.867042,54.230573],[20.866205,54.229975],[20.865627,54.229589],[20.864743,54.229027],[20.864369,54.228814],[20.863478,54.228221],[20.86242,54.227517],[20.858716,54.229141],[20.859881,54.231524],[20.860075,54.231877],[20.86141,54.234666],[20.86204,54.235935],[20.862545,54.236953],[20.86306,54.237988],[20.86321,54.23829],[20.86334,54.238553],[20.86348,54.238834],[20.863601,54.239074],[20.863743,54.239358],[20.863984,54.239838],[20.864031,54.239946],[20.865784,54.243973],[20.867347,54.24742],[20.868377,54.247329],[20.869389,54.247203],[20.87081,54.24702],[20.870989,54.246998],[20.882346,54.245537],[20.883324,54.247688],[20.884546,54.247557],[20.885861,54.247325],[20.885911,54.247316],[20.887225,54.247059],[20.890052,54.246726],[20.889143,54.244443],[20.888349,54.242456],[20.888259,54.242214],[20.8872,54.239474],[20.886774,54.237436],[20.88647,54.23537]]],"type":"Polygon"}
 }

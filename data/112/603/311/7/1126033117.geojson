@@ -2,113 +2,117 @@
   "id": 1126033117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.81895,52.10434,16.81895,52.10434",
-    "geom:latitude":52.10434,
-    "geom:longitude":16.81895,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":276,
-    "iso:country":"PL",
-    "lbl:bbox":"16.79895,52.08434,16.83895,52.12434",
-    "lbl:latitude":52.10434,
-    "lbl:longitude":16.81895,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Gorzyczki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0007279108862965329,
+    "geom:area_square_m": 5549291.055003148,
+    "geom:bbox": "16.785500469002805,52.0940920110132,16.84083499099904,52.11835348202005",
+    "geom:latitude": 16.81509851708275,
+    "geom:longitude": 52.1066140638914,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 276,
+    "iso:country": "PL",
+    "lbl:bbox": "16.79895,52.08434,16.83895,52.12434",
+    "lbl:latitude": 52.10434,
+    "lbl:longitude": 16.81895,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Gorzyczki"
     ],
-    "name:ceb_x_preferred":[
-        "Gorzyczki"
+    "name:ceb_x_preferred": [
+      "Gorzyczki"
     ],
-    "name:eng_x_preferred":[
-        "Gorzyczki"
+    "name:eng_x_preferred": [
+      "Gorzyczki"
     ],
-    "name:fra_x_preferred":[
-        "Gorzyczki"
+    "name:fra_x_preferred": [
+      "Gorzyczki"
     ],
-    "name:pol_x_preferred":[
-        "Gorzyczki"
+    "name:pol_x_preferred": [
+      "Gorzyczki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043e\u0436\u0438\u0447\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Ґожичкі"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3098698,
-    "qs_pg:gn_pop":276,
-    "qs_pg:name":"Gorzyczki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":5,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":962908,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":494597,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125371113,
-        85633723,
-        102079871
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3098698,
+    "qs_pg:gn_pop": 276,
+    "qs_pg:name": "Gorzyczki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 5,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 962908,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 494597,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3098698,
-        "gp:id":494597,
-        "qs_pg:id":962908,
-        "wd:id":"Q5587087"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125371113,
+      85633723,
+      102079871
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3098698,
+      "gp:id": 494597,
+      "pl-gugik:jpt_kod_je": "301102_5.0009",
+      "qs_pg:id": 962908,
+      "wd:id": "Q5587087"
     },
-    "wof:country":"PL",
-    "wof:created":1497301605,
-    "wof:geomhash":"405df5f586867a8ec20a5c311d26d1d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079871,
-            "localadmin_id":1125371113,
-            "locality_id":1126033117,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497301605,
+    "wof:geomhash": "3f3aad47d74e24968b9cfb15924a7314",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079871,
+        "localadmin_id": 1125371113,
+        "locality_id": 1126033117,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126033117,
-    "wof:lastmodified":1570037126,
-    "wof:name":"Gorzyczki",
-    "wof:parent_id":1125371113,
-    "wof:placetype":"locality",
-    "wof:population":276,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126033117,
+    "wof:lastmodified": 1669215903,
+    "wof:name": "Gorzyczki",
+    "wof:parent_id": 1125371113,
+    "wof:placetype": "locality",
+    "wof:population": 276,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.81895,
-    52.10434,
-    16.81895,
-    52.10434
-],
-  "geometry": {"coordinates":[16.81895,52.10434],"type":"Point"}
+    16.785500469002805,
+    52.0940920110132,
+    16.84083499099904,
+    52.11835348202005
+  ],
+  "geometry": {"coordinates":[[[16.7855,52.107744],[16.785512,52.107783],[16.785675,52.10832],[16.785872,52.109094],[16.785877,52.109113],[16.786264,52.109005],[16.786932,52.108656],[16.787922,52.108609],[16.788459,52.108742],[16.788926,52.108963],[16.7891,52.108966],[16.789436,52.108872],[16.790289,52.108811],[16.790927,52.108893],[16.791338,52.108994],[16.7915,52.109003],[16.793973,52.110073],[16.795103,52.110313],[16.79542,52.11038],[16.796956,52.110514],[16.799833,52.110755],[16.8043,52.110682],[16.80698,52.110452],[16.80807,52.110816],[16.810693,52.112186],[16.810812,52.112294],[16.812384,52.114085],[16.816507,52.115362],[16.821111,52.118156],[16.821392,52.11822],[16.82188,52.118221],[16.821876,52.118234],[16.821966,52.118234],[16.821932,52.118353],[16.822116,52.11834],[16.828064,52.11792],[16.830315,52.117681],[16.830306,52.117583],[16.831396,52.117408],[16.832082,52.117268],[16.832758,52.11713],[16.833259,52.117033],[16.8333,52.117101],[16.835603,52.11628],[16.837189,52.115711],[16.839018,52.115056],[16.840835,52.114592],[16.840678,52.114555],[16.838899,52.10855],[16.838867,52.108439],[16.837797,52.104827],[16.83697,52.104868],[16.836201,52.104907],[16.835536,52.10494],[16.834977,52.104968],[16.834236,52.105005],[16.83418,52.105008],[16.833389,52.105047],[16.833305,52.105052],[16.832491,52.105092],[16.831976,52.105118],[16.831645,52.105135],[16.831285,52.105153],[16.83083,52.105175],[16.830587,52.105187],[16.830036,52.105215],[16.829618,52.105236],[16.828802,52.105277],[16.828366,52.105298],[16.828477,52.105719],[16.828092,52.105622],[16.827612,52.1055],[16.827176,52.105391],[16.82666,52.10526],[16.826237,52.103801],[16.826207,52.103698],[16.82541,52.100954],[16.825389,52.100881],[16.825141,52.100055],[16.825122,52.09999],[16.823896,52.095906],[16.823233,52.096063],[16.822606,52.096211],[16.820614,52.096683],[16.819893,52.096842],[16.818365,52.097185],[16.817558,52.09737],[16.816803,52.097543],[16.816633,52.097576],[16.81661,52.097529],[16.816591,52.097491],[16.81657,52.09745],[16.816544,52.0974],[16.816537,52.097296],[16.816422,52.097111],[16.81627,52.096867],[16.815906,52.096281],[16.815115,52.094997],[16.814573,52.094119],[16.814472,52.094092],[16.813441,52.094363],[16.813286,52.094404],[16.81255,52.094597],[16.810668,52.095092],[16.810473,52.095143],[16.808403,52.095694],[16.805815,52.096389],[16.803429,52.097032],[16.803211,52.09709],[16.794166,52.099539],[16.794112,52.099553],[16.789346,52.100831],[16.789763,52.101387],[16.789701,52.101377],[16.789846,52.101534],[16.789925,52.101547],[16.790027,52.101564],[16.790673,52.102432],[16.791701,52.105727],[16.791749,52.105722],[16.791756,52.105745],[16.787506,52.106246],[16.7855,52.107744]]],"type":"Polygon"}
 }

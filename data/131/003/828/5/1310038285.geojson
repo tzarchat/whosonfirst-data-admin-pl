@@ -2,84 +2,88 @@
   "id": 1310038285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.96078,53.97555,22.96078,53.97555",
-    "geom:latitude":53.97555,
-    "geom:longitude":22.96078,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2001.0",
-    "gn:admin3_code":"200105.0",
-    "gn:asciiname":"Juryzdyka",
-    "gn:country_code":"PL",
-    "gn:dem":141,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":769904,
-    "gn:latitude":53.97555,
-    "gn:longitude":22.96078,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Juryzdyka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.94078,53.95555,22.98078,53.99555",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Jurizdika"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000021209651130855857,
+    "geom:area_square_m": 154905.84014728852,
+    "geom:bbox": "22.959951556044754,53.970101424021315,22.969189686046043,53.97676674502408",
+    "geom:latitude": 22.964246712110874,
+    "geom:longitude": 53.9732252461061,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2001.0",
+    "gn:admin3_code": "200105.0",
+    "gn:asciiname": "Juryzdyka",
+    "gn:country_code": "PL",
+    "gn:dem": 141,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 769904,
+    "gn:latitude": 53.97555,
+    "gn:longitude": 22.96078,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Juryzdyka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.94078,53.95555,22.98078,53.99555",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Jurizdika"
     ],
-    "name:pol_x_preferred":[
-        "Juryzdyka"
+    "name:pol_x_preferred": [
+      "Juryzdyka"
     ],
-    "name:ukr_x_preferred":[
-        "\u042e\u0440\u0438\u0437\u0434\u0438\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Юриздика"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125315335,
-        85633723,
-        102080221
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":769904,
-        "wk:page":"Juryzdyka"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125315335,
+      85633723,
+      102080221
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 769904,
+      "pl-gugik:jpt_kod_je": "200105_2.0026",
+      "wk:page": "Juryzdyka"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"443576dde24b062a04684707a3b1cab2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080221,
-            "localadmin_id":1125315335,
-            "locality_id":1310038285,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "ef933b06de67d4cab4b2e261887cce31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080221,
+        "localadmin_id": 1125315335,
+        "locality_id": 1310038285,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1310038285,
-    "wof:lastmodified":1570028119,
-    "wof:name":"Juryzdyka",
-    "wof:parent_id":1125315335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310038285,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Juryzdyka",
+    "wof:parent_id": 1125315335,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.96078,
-    53.97555,
-    22.96078,
-    53.97555
-],
-  "geometry": {"coordinates":[22.96078,53.97555],"type":"Point"}
+    22.959951556044754,
+    53.970101424021315,
+    22.969189686046043,
+    53.97676674502408
+  ],
+  "geometry": {"coordinates":[[[22.960027,53.974996],[22.960147,53.975337],[22.960301,53.975477],[22.96035,53.975523],[22.960669,53.975807],[22.960857,53.975924],[22.959952,53.976386],[22.960394,53.976767],[22.961319,53.976226],[22.961362,53.976201],[22.961671,53.97602],[22.962561,53.975502],[22.962614,53.975469],[22.962657,53.975444],[22.962991,53.975249],[22.963559,53.974919],[22.963807,53.974775],[22.964063,53.974626],[22.964329,53.974471],[22.964394,53.974433],[22.964725,53.974241],[22.965309,53.973894],[22.965632,53.973703],[22.966041,53.973461],[22.966536,53.973168],[22.966838,53.972989],[22.966886,53.972961],[22.967134,53.972814],[22.967198,53.972776],[22.967487,53.972605],[22.967735,53.972458],[22.967969,53.97232],[22.968297,53.972126],[22.968571,53.971964],[22.969147,53.971624],[22.96919,53.971599],[22.967266,53.970101],[22.967222,53.970127],[22.966683,53.970439],[22.965838,53.970929],[22.965408,53.971178],[22.965022,53.971401],[22.964781,53.971541],[22.964716,53.971579],[22.964701,53.971588],[22.964401,53.971761],[22.963919,53.972036],[22.963489,53.97229],[22.963155,53.972481],[22.962586,53.972808],[22.961784,53.973267],[22.96174,53.973293],[22.961522,53.973418],[22.961199,53.973603],[22.961034,53.973744],[22.960618,53.974049],[22.960488,53.974116],[22.960444,53.97414],[22.960263,53.974234],[22.960167,53.974338],[22.960063,53.974498],[22.959992,53.974752],[22.960027,53.974996]]],"type":"Polygon"}
 }

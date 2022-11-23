@@ -2,84 +2,88 @@
   "id": 1276469137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.08801,54.07209,19.08801,54.07209",
-    "geom:latitude":54.07209,
-    "geom:longitude":19.08801,
-    "gn:admin1_code":"82.0",
-    "gn:admin2_code":"2209.0",
-    "gn:admin3_code":"220904.0",
-    "gn:asciiname":"Pielica",
-    "gn:country_code":"PL",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3089112,
-    "gn:latitude":54.07209,
-    "gn:longitude":19.08801,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Pielica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.06801,54.05209,19.10801,54.09209",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Pielica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003406024661524405,
+    "geom:area_square_m": 2481985.930782238,
+    "geom:bbox": "19.07400881100626,54.05796468101943,19.10315913900352,54.077144672022946",
+    "geom:latitude": 19.087578400294955,
+    "geom:longitude": 54.06827668033725,
+    "gn:admin1_code": "82.0",
+    "gn:admin2_code": "2209.0",
+    "gn:admin3_code": "220904.0",
+    "gn:asciiname": "Pielica",
+    "gn:country_code": "PL",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3089112,
+    "gn:latitude": 54.07209,
+    "gn:longitude": 19.08801,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Pielica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.06801,54.05209,19.10801,54.09209",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Pielica"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0435\u043b\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Пелиця"
     ],
-    "name:und_x_variant":[
-        "Herrenhagen"
+    "name:und_x_variant": [
+      "Herrenhagen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125356717,
-        85633723,
-        102080201
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3089112,
-        "wk:page":"Pielica"
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125356717,
+      85633723,
+      102080201
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3089112,
+      "pl-gugik:jpt_kod_je": "220904_2.0011",
+      "wk:page": "Pielica"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"c45b22ff5d5d501de1b48f7a88b39665",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080201,
-            "localadmin_id":1125356717,
-            "locality_id":1276469137,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "02671f5415a21fffa306e9e15ecdd64a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080201,
+        "localadmin_id": 1125356717,
+        "locality_id": 1276469137,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1276469137,
-    "wof:lastmodified":1570018402,
-    "wof:name":"Pielica",
-    "wof:parent_id":1125356717,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276469137,
+    "wof:lastmodified": 1669215917,
+    "wof:name": "Pielica",
+    "wof:parent_id": 1125356717,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.08801,
-    54.07209,
-    19.08801,
-    54.07209
-],
-  "geometry": {"coordinates":[19.08801,54.07209],"type":"Point"}
+    19.07400881100626,
+    54.05796468101943,
+    19.10315913900352,
+    54.077144672022946
+  ],
+  "geometry": {"coordinates":[[[19.074009,54.073425],[19.075942,54.073761],[19.077827,54.074127],[19.078898,54.074334],[19.079917,54.07458],[19.080983,54.074869],[19.081132,54.074909],[19.081798,54.075048],[19.082982,54.075167],[19.083926,54.075331],[19.085283,54.075632],[19.085739,54.07579],[19.085831,54.075814],[19.086112,54.075865],[19.086868,54.076022],[19.087497,54.076171],[19.087886,54.076203],[19.088229,54.076247],[19.089632,54.076361],[19.090757,54.076545],[19.09107,54.076601],[19.092285,54.076742],[19.094801,54.077145],[19.094865,54.077135],[19.096103,54.075873],[19.098783,54.073218],[19.09842,54.07303],[19.097637,54.072748],[19.097615,54.072704],[19.10004,54.07029],[19.100697,54.07038],[19.101488,54.069824],[19.103031,54.068734],[19.103159,54.06864],[19.101886,54.067603],[19.100616,54.066568],[19.100353,54.066379],[19.100007,54.066129],[19.098236,54.065193],[19.096964,54.064521],[19.095192,54.06351],[19.093594,54.062599],[19.092716,54.062099],[19.090153,54.061172],[19.08992,54.061088],[19.088789,54.060702],[19.088735,54.060653],[19.088743,54.060349],[19.088617,54.059241],[19.088662,54.058972],[19.088036,54.058953],[19.086695,54.058853],[19.085905,54.058777],[19.084347,54.058557],[19.084087,54.058521],[19.082729,54.058322],[19.082142,54.058233],[19.081172,54.058113],[19.08015,54.057965],[19.079989,54.058323],[19.079841,54.058654],[19.079736,54.058889],[19.079686,54.05894],[19.079534,54.059247],[19.079209,54.059936],[19.078924,54.060683],[19.078573,54.062236],[19.078439,54.062957],[19.077895,54.065049],[19.077472,54.066793],[19.077385,54.067148],[19.07738,54.067165],[19.077127,54.067969],[19.077057,54.068234],[19.076936,54.068687],[19.075131,54.068496],[19.075106,54.068606],[19.075093,54.068664],[19.074016,54.073394],[19.074009,54.073425]]],"type":"Polygon"}
 }

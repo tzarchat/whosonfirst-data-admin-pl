@@ -2,81 +2,85 @@
   "id": 1276582845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.11977,50.92541,17.11977,50.92541",
-    "geom:latitude":50.92541,
-    "geom:longitude":17.11977,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"215.0",
-    "gn:admin3_code":"21502.0",
-    "gn:asciiname":"Chwastnica",
-    "gn:country_code":"PL",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3101472,
-    "gn:latitude":50.92541,
-    "gn:longitude":17.11977,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Chwastnica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.09977,50.90541,17.13977,50.94541",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Chwastnica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001564158453050633,
+    "geom:area_square_m": 1223452.5896432453,
+    "geom:bbox": "17.111183740001614,50.91760257701299,17.127310256004318,50.93291255301464",
+    "geom:latitude": 17.119585000425893,
+    "geom:longitude": 50.92538183362523,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "215.0",
+    "gn:admin3_code": "21502.0",
+    "gn:asciiname": "Chwastnica",
+    "gn:country_code": "PL",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3101472,
+    "gn:latitude": 50.92541,
+    "gn:longitude": 17.11977,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Chwastnica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.09977,50.90541,17.13977,50.94541",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Chwastnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u0432\u0430\u0441\u0442\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Хвастниця"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1477751765,
-        85633723,
-        102079651
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101472,
-        "wk:page":"Chwastnica%2C_Lower_Silesian_Voivodeship"
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1477751765,
+      85633723,
+      102079651
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101472,
+      "pl-gugik:jpt_kod_je": "021502_2.0002",
+      "wk:page": "Chwastnica%2C_Lower_Silesian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"08d6666072e6858cfb6d8515db23a1e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079651,
-            "localadmin_id":1477751765,
-            "locality_id":1276582845,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e409a8856cdc68c56f189a1b65e48f5a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079651,
+        "localadmin_id": 1477751765,
+        "locality_id": 1276582845,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1276582845,
-    "wof:lastmodified":1570017049,
-    "wof:name":"Chwastnica",
-    "wof:parent_id":1477751765,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276582845,
+    "wof:lastmodified": 1669215888,
+    "wof:name": "Chwastnica",
+    "wof:parent_id": 1477751765,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.11977000000001,
-    50.92541,
-    17.11977000000001,
-    50.92541
-],
-  "geometry": {"coordinates":[17.11977000000001,50.92541],"type":"Point"}
+    17.111183740001614,
+    50.91760257701299,
+    17.127310256004318,
+    50.93291255301464
+  ],
+  "geometry": {"coordinates":[[[17.111184,50.925662],[17.112059,50.927945],[17.1121,50.928034],[17.112134,50.928106],[17.112476,50.928841],[17.112618,50.928812],[17.114361,50.92846],[17.114857,50.930566],[17.115066,50.931453],[17.115021,50.931521],[17.115018,50.931525],[17.114373,50.932815],[17.114326,50.932894],[17.114422,50.932913],[17.117107,50.931366],[17.118702,50.931014],[17.119009,50.930986],[17.119884,50.930919],[17.121234,50.930815],[17.122334,50.93073],[17.122785,50.931756],[17.122878,50.931743],[17.122979,50.931729],[17.122964,50.931684],[17.12731,50.931001],[17.12725,50.930849],[17.127066,50.930433],[17.126886,50.929988],[17.126677,50.929423],[17.126568,50.929042],[17.126382,50.927957],[17.126442,50.927861],[17.126348,50.927059],[17.126333,50.926943],[17.126316,50.926593],[17.126293,50.926404],[17.126243,50.926312],[17.126247,50.925713],[17.126273,50.925698],[17.126268,50.925477],[17.126145,50.924608],[17.12592,50.923674],[17.12535,50.922568],[17.12518,50.922188],[17.124976,50.921625],[17.124791,50.92109],[17.124633,50.920638],[17.124111,50.918605],[17.123944,50.917945],[17.123867,50.917603],[17.123832,50.917614],[17.121618,50.918324],[17.121477,50.918369],[17.120155,50.918817],[17.118246,50.919415],[17.116991,50.919808],[17.116892,50.919838],[17.116824,50.919859],[17.115416,50.920294],[17.115346,50.920315],[17.114739,50.920509],[17.114673,50.92053],[17.114183,50.920686],[17.113674,50.92084],[17.112484,50.921198],[17.112585,50.921666],[17.112786,50.924564],[17.112805,50.924622],[17.1129,50.924914],[17.112923,50.924986],[17.112843,50.92498],[17.112827,50.925061],[17.112786,50.925108],[17.112733,50.925113],[17.112156,50.925295],[17.111184,50.925662]]],"type":"Polygon"}
 }

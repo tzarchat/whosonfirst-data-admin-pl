@@ -2,87 +2,91 @@
   "id": 1344189667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.69598,53.30913,23.69598,53.30913",
-    "geom:latitude":53.30913,
-    "geom:longitude":23.69598,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201110.0",
-    "gn:asciiname":"Sukowicze",
-    "gn:country_code":"PL",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":757820,
-    "gn:latitude":53.30913,
-    "gn:longitude":23.69598,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Sukowicze",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.67598,53.28913,23.71598,53.32913",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Sukowicze"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006315279027602202,
+    "geom:area_square_m": 4685280.327246056,
+    "geom:bbox": "23.662292582120266,53.29382614502011,23.7168353481297,53.317285650026754",
+    "geom:latitude": 23.691628112279485,
+    "geom:longitude": 53.305699535783354,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201110.0",
+    "gn:asciiname": "Sukowicze",
+    "gn:country_code": "PL",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 757820,
+    "gn:latitude": 53.30913,
+    "gn:longitude": 23.69598,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Sukowicze",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.67598,53.28913,23.71598,53.32913",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Sukowicze"
     ],
-    "name:lit_x_preferred":[
-        "Sukovi\u010d\u0117"
+    "name:lit_x_preferred": [
+      "Sukovičė"
     ],
-    "name:pol_x_preferred":[
-        "Sukowicze"
+    "name:pol_x_preferred": [
+      "Sukowicze"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0443\u043a\u043e\u0432\u0456\u0447\u0435"
+    "name:ukr_x_preferred": [
+      "Суковіче"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752205,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757820,
-        "wk:page":"Sukowicze"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752205,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757820,
+      "pl-gugik:jpt_kod_je": "201110_2.0030",
+      "wk:page": "Sukowicze"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d413ac097e39220954e4136995a9b4cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477752205,
-            "locality_id":1344189667,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e8e2fbcf4fe29f0581f2e2c7d0fafe6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477752205,
+        "locality_id": 1344189667,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1344189667,
-    "wof:lastmodified":1570011542,
-    "wof:name":"Sukowicze",
-    "wof:parent_id":1477752205,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344189667,
+    "wof:lastmodified": 1669215920,
+    "wof:name": "Sukowicze",
+    "wof:parent_id": 1477752205,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.69598,
-    53.30913,
-    23.69598,
-    53.30913
-],
-  "geometry": {"coordinates":[23.69598,53.30913],"type":"Point"}
+    23.662292582120266,
+    53.29382614502011,
+    23.7168353481297,
+    53.317285650026754
+  ],
+  "geometry": {"coordinates":[[[23.662293,53.308267],[23.662822,53.30837],[23.662836,53.308373],[23.663034,53.308412],[23.671372,53.310019],[23.671489,53.310039],[23.673316,53.310361],[23.675457,53.310785],[23.676181,53.310942],[23.67534,53.312431],[23.675413,53.312445],[23.6824,53.313852],[23.682477,53.313917],[23.684197,53.315386],[23.684251,53.315436],[23.686135,53.317171],[23.68626,53.317286],[23.689317,53.316341],[23.697066,53.313773],[23.697238,53.313722],[23.702591,53.312151],[23.704382,53.311572],[23.707108,53.31069],[23.708979,53.310057],[23.710634,53.309496],[23.7122,53.308966],[23.71453,53.308169],[23.715035,53.307992],[23.71528,53.307906],[23.715534,53.307817],[23.716495,53.30748],[23.716835,53.307362],[23.715342,53.30605],[23.715115,53.305846],[23.714254,53.305084],[23.714112,53.30496],[23.712021,53.303109],[23.711914,53.303014],[23.711797,53.302908],[23.709988,53.301289],[23.708277,53.299739],[23.708227,53.299684],[23.707068,53.298636],[23.70701,53.298584],[23.7064,53.298036],[23.705128,53.296889],[23.704119,53.295989],[23.700899,53.297],[23.698763,53.296567],[23.697304,53.296272],[23.695699,53.295909],[23.695101,53.295774],[23.694998,53.29572],[23.686078,53.293826],[23.684057,53.297151],[23.682258,53.300064],[23.682212,53.300137],[23.681913,53.300615],[23.681587,53.301127],[23.67961,53.304233],[23.679575,53.30429],[23.679291,53.304745],[23.677761,53.307171],[23.673552,53.305177],[23.67233,53.304426],[23.67225,53.304377],[23.670872,53.303542],[23.670515,53.303325],[23.669984,53.303013],[23.669533,53.302749],[23.668334,53.302214],[23.668204,53.302319],[23.66764,53.303376],[23.667442,53.303691],[23.666935,53.304551],[23.666711,53.304924],[23.666611,53.30509],[23.66629,53.305624],[23.664331,53.305227],[23.664125,53.305185],[23.663926,53.305519],[23.663607,53.306055],[23.663251,53.306655],[23.662896,53.307251],[23.662495,53.307926],[23.662455,53.307995],[23.662293,53.308267]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1209842231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.53722,52.63796,21.53722,52.63796",
-    "geom:latitude":52.63796,
-    "geom:longitude":21.53722,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1435.0",
-    "gn:admin3_code":"143501.0",
-    "gn:asciiname":"Ojcowizna",
-    "gn:country_code":"PL",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":763364,
-    "gn:latitude":52.63796,
-    "gn:longitude":21.53722,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Ojcowizna",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.51722,52.61796,21.55722,52.65796",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Ojcowizna"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00004208194922639999,
+    "geom:area_square_m": 317008.1304793714,
+    "geom:bbox": "21.53172006201117,52.635280919016914,21.54334565700757,52.64316672901588",
+    "geom:latitude": 21.537848078714738,
+    "geom:longitude": 52.63923739799585,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1435.0",
+    "gn:admin3_code": "143501.0",
+    "gn:asciiname": "Ojcowizna",
+    "gn:country_code": "PL",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 763364,
+    "gn:latitude": 52.63796,
+    "gn:longitude": 21.53722,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Ojcowizna",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.51722,52.61796,21.55722,52.65796",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Ojcowizna"
     ],
-    "name:pol_x_preferred":[
-        "Ojcowizna"
+    "name:pol_x_preferred": [
+      "Ojcowizna"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u0439\u0446\u043e\u0432\u0456\u0437\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Ойцовізна"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477753003,
-        85633723,
-        102080045
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":763364,
-        "wk:page":"Ojcowizna"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477753003,
+      85633723,
+      102080045
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 763364,
+      "pl-gugik:jpt_kod_je": "143501_2.0012",
+      "wk:page": "Ojcowizna"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"ef83de56be377e50dc31681dc26bc85a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080045,
-            "localadmin_id":1477753003,
-            "locality_id":1209842231,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e9dda5e69345ee49d3b486b086f6013d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080045,
+        "localadmin_id": 1477753003,
+        "locality_id": 1209842231,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1209842231,
-    "wof:lastmodified":1570020804,
-    "wof:name":"Ojcowizna",
-    "wof:parent_id":1477753003,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209842231,
+    "wof:lastmodified": 1669215947,
+    "wof:name": "Ojcowizna",
+    "wof:parent_id": 1477753003,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.53722,
-    52.63796,
-    21.53722,
-    52.63796
-],
-  "geometry": {"coordinates":[21.53722,52.63796],"type":"Point"}
+    21.53172006201117,
+    52.635280919016914,
+    21.54334565700757,
+    52.64316672901588
+  ],
+  "geometry": {"coordinates":[[[21.53172,52.638097],[21.531756,52.638114],[21.531769,52.63812],[21.532232,52.638334],[21.532905,52.638646],[21.533333,52.638844],[21.533775,52.639048],[21.534898,52.639568],[21.536585,52.641372],[21.538262,52.643167],[21.538491,52.643085],[21.538709,52.643007],[21.538729,52.643],[21.538938,52.642926],[21.53916,52.642847],[21.539376,52.64277],[21.539402,52.642761],[21.539615,52.642684],[21.5398,52.642619],[21.540012,52.642543],[21.540055,52.642528],[21.540234,52.642464],[21.540255,52.642456],[21.540504,52.642368],[21.540561,52.642347],[21.540697,52.642299],[21.540776,52.642271],[21.541109,52.642155],[21.541148,52.642142],[21.541368,52.642065],[21.541467,52.642031],[21.541637,52.641972],[21.541693,52.641952],[21.541901,52.64188],[21.541925,52.641871],[21.542037,52.641833],[21.542156,52.641791],[21.542168,52.641787],[21.542376,52.641715],[21.542422,52.641699],[21.542593,52.641639],[21.542683,52.641608],[21.542772,52.641577],[21.542953,52.641514],[21.54296,52.641512],[21.543158,52.641443],[21.543346,52.641377],[21.54152,52.639418],[21.541225,52.639102],[21.539748,52.637518],[21.539412,52.637148],[21.537738,52.635312],[21.537709,52.635281],[21.537665,52.635282],[21.53764,52.635283],[21.537247,52.635293],[21.537157,52.635336],[21.536901,52.635469],[21.536903,52.63547],[21.536677,52.635587],[21.536459,52.635705],[21.536214,52.635829],[21.535986,52.635945],[21.535934,52.635971],[21.535731,52.636076],[21.535562,52.636163],[21.535354,52.63627],[21.535143,52.636378],[21.534947,52.63648],[21.534746,52.636583],[21.534543,52.636688],[21.534312,52.636807],[21.534166,52.636882],[21.533955,52.636991],[21.533753,52.637095],[21.533571,52.637189],[21.53335,52.637302],[21.533161,52.6374],[21.532956,52.637506],[21.532107,52.637915],[21.532009,52.637962],[21.53172,52.638097]]],"type":"Polygon"}
 }

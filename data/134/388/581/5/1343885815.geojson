@@ -2,99 +2,103 @@
   "id": 1343885815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.62987,53.93216,22.62987,53.93216",
-    "geom:latitude":53.93216,
-    "geom:longitude":22.62987,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280503.0",
-    "gn:asciiname":"Dorsze",
-    "gn:country_code":"PL",
-    "gn:dem":148,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":773009,
-    "gn:latitude":53.93216,
-    "gn:longitude":22.62987,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Dorsze",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.60987,53.91216,22.64987,53.95216",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062f\u0648\u0631\u0634\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003634448712414911,
+    "geom:area_square_m": 2657099.4473334495,
+    "geom:bbox": "22.621721444033955,53.92405956102033,22.657363271029034,53.9396757510209",
+    "geom:latitude": 22.638968271669448,
+    "geom:longitude": 53.93111431628137,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280503.0",
+    "gn:asciiname": "Dorsze",
+    "gn:country_code": "PL",
+    "gn:dem": 148,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 773009,
+    "gn:latitude": 53.93216,
+    "gn:longitude": 22.62987,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Dorsze",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.60987,53.91216,22.64987,53.95216",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "دورشه"
     ],
-    "name:deu_x_preferred":[
-        "Dorsze"
+    "name:deu_x_preferred": [
+      "Dorsze"
     ],
-    "name:fas_x_preferred":[
-        "\u062f\u0648\u0631\u0634\u0647"
+    "name:fas_x_preferred": [
+      "دورشه"
     ],
-    "name:fra_x_preferred":[
-        "Dorsze"
+    "name:fra_x_preferred": [
+      "Dorsze"
     ],
-    "name:nld_x_preferred":[
-        "Dorsze"
+    "name:nld_x_preferred": [
+      "Dorsze"
     ],
-    "name:pol_x_preferred":[
-        "Dorsze"
+    "name:pol_x_preferred": [
+      "Dorsze"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u043e\u0440\u0448\u0435"
+    "name:ukr_x_preferred": [
+      "Дорше"
     ],
-    "name:und_x_variant":[
-        "Dorschen"
+    "name:und_x_variant": [
+      "Dorschen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752289,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":773009,
-        "wk:page":"Dorsze%2C_E%C5%82k_County"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752289,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 773009,
+      "pl-gugik:jpt_kod_je": "280503_2.0004",
+      "wk:page": "Dorsze%2C_E%C5%82k_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"fb616d467f478b449d2b2013ec9347a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477752289,
-            "locality_id":1343885815,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "85d39bd94256d013e5e0ed6268a2be5c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477752289,
+        "locality_id": 1343885815,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1343885815,
-    "wof:lastmodified":1570012250,
-    "wof:name":"Dorsze",
-    "wof:parent_id":1477752289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343885815,
+    "wof:lastmodified": 1669215923,
+    "wof:name": "Dorsze",
+    "wof:parent_id": 1477752289,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.62987,
-    53.93216,
-    22.62987,
-    53.93216
-],
-  "geometry": {"coordinates":[22.62987,53.93216],"type":"Point"}
+    22.621721444033955,
+    53.92405956102033,
+    22.657363271029034,
+    53.9396757510209
+  ],
+  "geometry": {"coordinates":[[[22.638241,53.939552],[22.638292,53.939546],[22.639712,53.939379],[22.641888,53.939162],[22.643906,53.938961],[22.645512,53.938944],[22.646003,53.93894],[22.647004,53.938929],[22.650142,53.938899],[22.651549,53.938676],[22.651238,53.935631],[22.651193,53.935215],[22.650971,53.933173],[22.650967,53.933135],[22.650959,53.93306],[22.650958,53.933051],[22.650831,53.931632],[22.650576,53.930566],[22.650137,53.929167],[22.64972,53.927837],[22.649514,53.927333],[22.650459,53.927242],[22.653463,53.926953],[22.654445,53.926862],[22.656496,53.926672],[22.657363,53.926592],[22.656192,53.925377],[22.655731,53.924874],[22.655688,53.924827],[22.65565,53.924786],[22.655396,53.924477],[22.655061,53.924368],[22.652302,53.924401],[22.650271,53.924432],[22.64815,53.924464],[22.647877,53.924468],[22.645282,53.924506],[22.643279,53.924536],[22.643065,53.924539],[22.641507,53.924561],[22.640163,53.92458],[22.639797,53.924585],[22.638258,53.924607],[22.637809,53.924612],[22.637345,53.924617],[22.63704,53.92462],[22.636644,53.924624],[22.635309,53.924638],[22.634795,53.924644],[22.633505,53.924657],[22.633457,53.924658],[22.632723,53.924666],[22.630129,53.924695],[22.630026,53.924677],[22.62836,53.924387],[22.628156,53.924352],[22.626829,53.924121],[22.626478,53.92406],[22.626003,53.925048],[22.625311,53.926481],[22.624609,53.928004],[22.624622,53.928457],[22.624947,53.928791],[22.624441,53.928989],[22.623936,53.928973],[22.623505,53.929065],[22.622927,53.929179],[22.622373,53.929243],[22.621721,53.929299],[22.621915,53.929723],[22.622111,53.930152],[22.622198,53.930343],[22.622377,53.930567],[22.622793,53.931085],[22.623308,53.931728],[22.624845,53.933657],[22.624961,53.933803],[22.625169,53.934235],[22.625803,53.93555],[22.628563,53.935482],[22.63132,53.935413],[22.633673,53.936655],[22.634368,53.937082],[22.636121,53.938689],[22.637164,53.939676],[22.637227,53.939671],[22.637358,53.939655],[22.637454,53.939644],[22.638181,53.939559],[22.638241,53.939552]]],"type":"Polygon"}
 }

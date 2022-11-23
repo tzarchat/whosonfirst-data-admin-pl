@@ -2,81 +2,85 @@
   "id": 1243289793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.79211,51.03524,18.79211,51.03524",
-    "geom:latitude":51.03524,
-    "geom:longitude":18.79211,
-    "gn:admin1_code":"83.0",
-    "gn:admin2_code":"2406.0",
-    "gn:admin3_code":"240603.0",
-    "gn:asciiname":"Rozalin",
-    "gn:country_code":"PL",
-    "gn:dem":223,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3086922,
-    "gn:latitude":51.03524,
-    "gn:longitude":18.79211,
-    "gn:modification_date":"2010-09-25",
-    "gn:name":"Rozalin",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.77211,51.01524,18.81211,51.05524",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Rozalin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003663385673471138,
+    "geom:area_square_m": 2858622.6585852723,
+    "geom:bbox": "18.774748188994955,51.027951125014305,18.807295969993078,51.04668413601565",
+    "geom:latitude": 18.791865636225147,
+    "geom:longitude": 51.03692905043411,
+    "gn:admin1_code": "83.0",
+    "gn:admin2_code": "2406.0",
+    "gn:admin3_code": "240603.0",
+    "gn:asciiname": "Rozalin",
+    "gn:country_code": "PL",
+    "gn:dem": 223,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3086922,
+    "gn:latitude": 51.03524,
+    "gn:longitude": 18.79211,
+    "gn:modification_date": "2010-09-25",
+    "gn:name": "Rozalin",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.77211,51.01524,18.81211,51.05524",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Rozalin"
     ],
-    "name:pol_x_preferred":[
-        "Rozalin"
+    "name:pol_x_preferred": [
+      "Rozalin"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687277,
-        102191581,
-        1125368503,
-        85633723,
-        102079667
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3086922,
-        "wk:page":"Rozalin%2C_Silesian_Voivodeship"
+    "wof:belongsto": [
+      85687277,
+      102191581,
+      1125368503,
+      85633723,
+      102079667
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3086922,
+      "pl-gugik:jpt_kod_je": "240603_2.0014",
+      "wk:page": "Rozalin%2C_Silesian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"962a10c8661d13194d9f38d973315be4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079667,
-            "localadmin_id":1125368503,
-            "locality_id":1243289793,
-            "region_id":85687277
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1d50e9085e11b13249c622f154cc4e11",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079667,
+        "localadmin_id": 1125368503,
+        "locality_id": 1243289793,
+        "region_id": 85687277
+      }
     ],
-    "wof:id":1243289793,
-    "wof:lastmodified":1570045038,
-    "wof:name":"Rozalin",
-    "wof:parent_id":1125368503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243289793,
+    "wof:lastmodified": 1669215837,
+    "wof:name": "Rozalin",
+    "wof:parent_id": 1125368503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.79211,
-    51.03524,
-    18.79211,
-    51.03524
-],
-  "geometry": {"coordinates":[18.79211,51.03524],"type":"Point"}
+    18.774748188994955,
+    51.027951125014305,
+    18.807295969993078,
+    51.04668413601565
+  ],
+  "geometry": {"coordinates":[[[18.774748,51.035083],[18.775622,51.03618],[18.775657,51.036221],[18.776451,51.037211],[18.776981,51.037867],[18.778673,51.04007],[18.778744,51.040163],[18.779792,51.041494],[18.780619,51.042559],[18.780653,51.042613],[18.781527,51.04374],[18.783872,51.046684],[18.78823,51.04533],[18.791715,51.044235],[18.797025,51.042593],[18.797091,51.042577],[18.796984,51.042332],[18.799153,51.041829],[18.800918,51.041417],[18.803503,51.040812],[18.805603,51.040314],[18.807241,51.039929],[18.807294,51.039913],[18.807296,51.039862],[18.807293,51.039751],[18.807277,51.039181],[18.80727,51.038856],[18.80725,51.038424],[18.80723,51.038005],[18.807219,51.037466],[18.807149,51.037335],[18.80678,51.03658],[18.806443,51.035881],[18.80631,51.035604],[18.806119,51.035233],[18.805927,51.034861],[18.805632,51.034271],[18.805615,51.034239],[18.805438,51.033892],[18.805267,51.033548],[18.805096,51.033211],[18.80495,51.03292],[18.804828,51.032679],[18.804705,51.032446],[18.804643,51.03233],[18.804611,51.032271],[18.804552,51.032158],[18.804385,51.031836],[18.804256,51.031597],[18.804134,51.031366],[18.803895,51.030911],[18.803774,51.030673],[18.803654,51.030436],[18.803545,51.030222],[18.803433,51.030001],[18.803355,51.029848],[18.803291,51.029722],[18.803222,51.029586],[18.803128,51.0294],[18.803079,51.029303],[18.802989,51.029127],[18.802944,51.029039],[18.802898,51.028949],[18.80284,51.028834],[18.802784,51.028725],[18.802722,51.028603],[18.802437,51.028038],[18.802405,51.027975],[18.801671,51.028061],[18.800708,51.027951],[18.798805,51.028378],[18.795839,51.029077],[18.792836,51.029786],[18.790133,51.030415],[18.78985,51.030481],[18.789696,51.030517],[18.787975,51.030922],[18.784994,51.031627],[18.782402,51.032221],[18.782184,51.032272],[18.780714,51.032843],[18.778943,51.033517],[18.776168,51.034558],[18.774748,51.035083]]],"type":"Polygon"}
 }

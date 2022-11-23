@@ -2,95 +2,99 @@
   "id": 1276685305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.15135,50.51647,19.15135,50.51647",
-    "geom:latitude":50.51647,
-    "geom:longitude":19.15135,
-    "gn:admin1_code":"83.0",
-    "gn:admin2_code":"2401.0",
-    "gn:admin3_code":"240107.0",
-    "gn:asciiname":"Surma",
-    "gn:country_code":"PL",
-    "gn:dem":313,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3084157,
-    "gn:latitude":50.51647,
-    "gn:longitude":19.15135,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Surma",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.13135,50.49647,19.17135,50.53647",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Surma"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000034486261009610384,
+    "geom:area_square_m": 272077.92028525274,
+    "geom:bbox": "19.145542392996376,50.51507268301553,19.15478823899551,50.52026966300922",
+    "geom:latitude": 19.15023018902252,
+    "geom:longitude": 50.51732649884748,
+    "gn:admin1_code": "83.0",
+    "gn:admin2_code": "2401.0",
+    "gn:admin3_code": "240107.0",
+    "gn:asciiname": "Surma",
+    "gn:country_code": "PL",
+    "gn:dem": 313,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3084157,
+    "gn:latitude": 50.51647,
+    "gn:longitude": 19.15135,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Surma",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.13135,50.49647,19.17135,50.53647",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Surma"
     ],
-    "name:deu_x_preferred":[
-        "Surma"
+    "name:deu_x_preferred": [
+      "Surma"
     ],
-    "name:fin_x_preferred":[
-        "Surma"
+    "name:fin_x_preferred": [
+      "Surma"
     ],
-    "name:fra_x_preferred":[
-        "Surma"
+    "name:fra_x_preferred": [
+      "Surma"
     ],
-    "name:new_x_preferred":[
-        "\u0938\u0941\u0930\u094d\u092e\u093e"
+    "name:new_x_preferred": [
+      "सुर्मा"
     ],
-    "name:pol_x_preferred":[
-        "Surma"
+    "name:pol_x_preferred": [
+      "Surma"
     ],
-    "name:swe_x_preferred":[
-        "Surma"
+    "name:swe_x_preferred": [
+      "Surma"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687277,
-        102191581,
-        1125394811,
-        85633723,
-        102079527
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3084157
+    "wof:belongsto": [
+      85687277,
+      102191581,
+      1125394811,
+      85633723,
+      102079527
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3084157,
+      "pl-gugik:jpt_kod_je": "240107_5.0009"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a4e55cbbcb7e314647f93bcdff55a0bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079527,
-            "localadmin_id":1125394811,
-            "locality_id":1276685305,
-            "region_id":85687277
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "017f281dcbd7edeeeb4487a414b8e7e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079527,
+        "localadmin_id": 1125394811,
+        "locality_id": 1276685305,
+        "region_id": 85687277
+      }
     ],
-    "wof:id":1276685305,
-    "wof:lastmodified":1570017236,
-    "wof:name":"Surma",
-    "wof:parent_id":1125394811,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276685305,
+    "wof:lastmodified": 1669215873,
+    "wof:name": "Surma",
+    "wof:parent_id": 1125394811,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.15135,
-    50.51647,
-    19.15135,
-    50.51647
-],
-  "geometry": {"coordinates":[19.15135,50.51647],"type":"Point"}
+    19.145542392996376,
+    50.51507268301553,
+    19.15478823899551,
+    50.52026966300922
+  ],
+  "geometry": {"coordinates":[[[19.145542,50.516382],[19.145552,50.516531],[19.145574,50.516852],[19.145599,50.517217],[19.1456,50.517234],[19.145673,50.517316],[19.145776,50.517433],[19.145931,50.517607],[19.146086,50.517782],[19.146258,50.517977],[19.146561,50.518318],[19.146675,50.518446],[19.146758,50.51854],[19.146896,50.518696],[19.147041,50.518859],[19.147286,50.519135],[19.147583,50.519471],[19.147763,50.519673],[19.147881,50.519806],[19.148017,50.51996],[19.148292,50.52027],[19.149146,50.519902],[19.149502,50.519778],[19.150458,50.519444],[19.150508,50.519427],[19.15125,50.519151],[19.151856,50.519023],[19.152974,50.519164],[19.154602,50.519028],[19.15467,50.518874],[19.15477,50.518299],[19.154694,50.517837],[19.154525,50.517331],[19.154442,50.517164],[19.154358,50.516997],[19.15454,50.516218],[19.154788,50.516038],[19.154295,50.515721],[19.15321,50.515222],[19.152705,50.515207],[19.152423,50.515198],[19.152141,50.51519],[19.151859,50.515182],[19.151694,50.515177],[19.151578,50.515169],[19.151488,50.515164],[19.151411,50.515161],[19.150968,50.515139],[19.150703,50.515125],[19.150162,50.515096],[19.149722,50.515073],[19.149614,50.515108],[19.148709,50.515405],[19.148565,50.515453],[19.147743,50.51558],[19.147576,50.515606],[19.145674,50.51553],[19.145582,50.515527],[19.145564,50.515927],[19.145553,50.516159],[19.145549,50.516244],[19.145544,50.516347],[19.145542,50.516382]]],"type":"Polygon"}
 }

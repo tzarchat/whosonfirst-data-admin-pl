@@ -2,96 +2,100 @@
   "id": 1309738175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.26519,53.47704,23.26519,53.47704",
-    "geom:latitude":53.47704,
-    "geom:longitude":23.26519,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201102.0",
-    "gn:asciiname":"Marchelowka",
-    "gn:country_code":"PL",
-    "gn:dem":160,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":765266,
-    "gn:latitude":53.47704,
-    "gn:longitude":23.26519,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Marchel\u00f3wka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.24519,53.45704,23.28519,53.49704",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0645\u0627\u0631\u062e\u0644\u0648\u0648\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003999176831414748,
+    "geom:area_square_m": 2955190.8276124056,
+    "geom:bbox": "23.236499615072443,53.47005981402316,23.2784018120834,53.483369865020876",
+    "geom:latitude": 23.257463476746874,
+    "geom:longitude": 53.47670294371502,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201102.0",
+    "gn:asciiname": "Marchelowka",
+    "gn:country_code": "PL",
+    "gn:dem": 160,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 765266,
+    "gn:latitude": 53.47704,
+    "gn:longitude": 23.26519,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Marchelówka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.24519,53.45704,23.28519,53.49704",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "مارخلووکا"
     ],
-    "name:bel_x_preferred":[
-        "\u041c\u0430\u0440\u0445\u0435\u043b\u0451\u045e\u043a\u0430"
+    "name:bel_x_preferred": [
+      "Мархелёўка"
     ],
-    "name:fas_x_preferred":[
-        "\u0645\u0627\u0631\u062e\u0644\u0648\u0648\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "مارخلووکا"
     ],
-    "name:fra_x_preferred":[
-        "Marchel\u00f3wka"
+    "name:fra_x_preferred": [
+      "Marchelówka"
     ],
-    "name:lit_x_preferred":[
-        "Marcheluvka"
+    "name:lit_x_preferred": [
+      "Marcheluvka"
     ],
-    "name:pol_x_preferred":[
-        "Marchel\u00f3wka"
+    "name:pol_x_preferred": [
+      "Marchelówka"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0430\u0440\u0445\u0435\u043b\u044e\u0432\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Мархелювка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477751503,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":765266,
-        "wk:page":"Marchel%C3%B3wka"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477751503,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 765266,
+      "pl-gugik:jpt_kod_je": "201102_2.0015",
+      "wk:page": "Marchel%C3%B3wka"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"34d879398f2a04e834cff358a639fd81",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477751503,
-            "locality_id":1309738175,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "23adc857aa1e664988752caddcb6d741",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477751503,
+        "locality_id": 1309738175,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1309738175,
-    "wof:lastmodified":1570036162,
-    "wof:name":"Marchelowka",
-    "wof:parent_id":1477751503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309738175,
+    "wof:lastmodified": 1669215922,
+    "wof:name": "Marchelowka",
+    "wof:parent_id": 1477751503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.26519,
-    53.47704,
-    23.26519,
-    53.47704
-],
-  "geometry": {"coordinates":[23.26519,53.47704],"type":"Point"}
+    23.236499615072443,
+    53.47005981402316,
+    23.2784018120834,
+    53.483369865020876
+  ],
+  "geometry": {"coordinates":[[[23.2365,53.473404],[23.236646,53.473966],[23.236697,53.474161],[23.236719,53.474245],[23.236809,53.474591],[23.236896,53.474924],[23.237028,53.475432],[23.237379,53.476778],[23.237878,53.478693],[23.237897,53.478764],[23.239098,53.48337],[23.239188,53.483361],[23.241934,53.483094],[23.242191,53.483069],[23.242835,53.483006],[23.245149,53.482818],[23.245214,53.482813],[23.2474,53.482634],[23.250008,53.482413],[23.251168,53.482318],[23.257946,53.481765],[23.260018,53.481575],[23.26035,53.481545],[23.260439,53.481536],[23.262228,53.481387],[23.262422,53.481371],[23.263929,53.481247],[23.265464,53.481121],[23.267151,53.480984],[23.267403,53.480955],[23.26756,53.480937],[23.268011,53.480886],[23.268138,53.480876],[23.272326,53.480535],[23.273406,53.480447],[23.277113,53.48013],[23.278402,53.48002],[23.277849,53.477907],[23.277814,53.477773],[23.277549,53.476761],[23.277457,53.47641],[23.277359,53.476035],[23.27725,53.47562],[23.27701,53.474702],[23.276819,53.473972],[23.276661,53.473371],[23.27656,53.472985],[23.276547,53.472934],[23.276481,53.472681],[23.276269,53.47187],[23.275809,53.470111],[23.275795,53.47006],[23.275028,53.470124],[23.274964,53.47013],[23.27494,53.470132],[23.273518,53.470252],[23.273304,53.47027],[23.273105,53.470287],[23.272794,53.470308],[23.272442,53.470337],[23.271581,53.470409],[23.269544,53.470578],[23.269484,53.470583],[23.269287,53.4706],[23.265227,53.470941],[23.261697,53.471237],[23.256838,53.471666],[23.255444,53.471789],[23.25289,53.472005],[23.251344,53.472135],[23.251255,53.472143],[23.250171,53.472235],[23.249675,53.472278],[23.246117,53.47259],[23.245404,53.472653],[23.244572,53.472726],[23.244051,53.472771],[23.241708,53.472976],[23.238692,53.473224],[23.2365,53.473404]]],"type":"Polygon"}
 }

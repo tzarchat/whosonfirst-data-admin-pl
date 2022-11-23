@@ -2,93 +2,97 @@
   "id": 1310331155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.75485,53.16266,20.75485,53.16266",
-    "geom:latitude":53.16266,
-    "geom:longitude":20.75485,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1422.0",
-    "gn:admin3_code":"142206.0",
-    "gn:asciiname":"Chmielonek",
-    "gn:country_code":"PL",
-    "gn:dem":160,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":774501,
-    "gn:latitude":53.16266,
-    "gn:longitude":20.75485,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Chmielonek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.73485,53.14266,20.77485,53.18266",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0645\u06cc\u0644\u0648\u0646\u06a9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00025878460761840554,
+    "geom:area_square_m": 1926230.1608576279,
+    "geom:bbox": "20.744505633008625,53.15340260101969,20.770651445994734,53.172715494020586",
+    "geom:latitude": 20.758637824570805,
+    "geom:longitude": 53.163622238754435,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1422.0",
+    "gn:admin3_code": "142206.0",
+    "gn:asciiname": "Chmielonek",
+    "gn:country_code": "PL",
+    "gn:dem": 160,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 774501,
+    "gn:latitude": 53.16266,
+    "gn:longitude": 20.75485,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Chmielonek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.73485,53.14266,20.77485,53.18266",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خمیلونک"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0645\u06cc\u0644\u0648\u0646\u06a9"
+    "name:fas_x_preferred": [
+      "خمیلونک"
     ],
-    "name:fra_x_preferred":[
-        "Chmielonek"
+    "name:fra_x_preferred": [
+      "Chmielonek"
     ],
-    "name:nld_x_preferred":[
-        "Chmielonek"
+    "name:nld_x_preferred": [
+      "Chmielonek"
     ],
-    "name:pol_x_preferred":[
-        "Chmielonek"
+    "name:pol_x_preferred": [
+      "Chmielonek"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u043c\u0435\u043b\u044c\u043e\u043d\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Хмельонек"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125289069,
-        85633723,
-        102080117
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":774501,
-        "wk:page":"Chmielonek"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125289069,
+      85633723,
+      102080117
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 774501,
+      "pl-gugik:jpt_kod_je": "142206_2.0004",
+      "wk:page": "Chmielonek"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"7a5bc409ef1d7b61d890a0b59c26f876",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080117,
-            "localadmin_id":1125289069,
-            "locality_id":1310331155,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a2fc84b56c89e31f3fb790e5845a49d0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080117,
+        "localadmin_id": 1125289069,
+        "locality_id": 1310331155,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1310331155,
-    "wof:lastmodified":1570028691,
-    "wof:name":"Chmielonek",
-    "wof:parent_id":1125289069,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310331155,
+    "wof:lastmodified": 1669215946,
+    "wof:name": "Chmielonek",
+    "wof:parent_id": 1125289069,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.75485,
-    53.16266,
-    20.75485,
-    53.16266
-],
-  "geometry": {"coordinates":[20.75485,53.16266],"type":"Point"}
+    20.744505633008625,
+    53.15340260101969,
+    20.770651445994734,
+    53.172715494020586
+  ],
+  "geometry": {"coordinates":[[[20.744506,53.166855],[20.74466,53.167097],[20.745199,53.167947],[20.74566,53.168674],[20.745838,53.168955],[20.745951,53.169133],[20.746008,53.169137],[20.746944,53.169197],[20.747117,53.169202],[20.747315,53.169175],[20.747681,53.169063],[20.748931,53.168597],[20.749192,53.168498],[20.750071,53.168161],[20.750992,53.167807],[20.752301,53.167305],[20.752389,53.167259],[20.752583,53.167186],[20.755684,53.166007],[20.755728,53.166054],[20.7559,53.166239],[20.756027,53.166376],[20.756045,53.166401],[20.756297,53.166653],[20.756462,53.166819],[20.756738,53.167098],[20.757024,53.167387],[20.757498,53.167866],[20.757545,53.167914],[20.75876,53.169165],[20.75885,53.169257],[20.759285,53.169694],[20.761046,53.171459],[20.765059,53.172646],[20.765094,53.172657],[20.766061,53.171955],[20.768582,53.172681],[20.768704,53.172715],[20.769109,53.171973],[20.768176,53.170679],[20.767938,53.170349],[20.767814,53.170182],[20.767446,53.169687],[20.767041,53.169142],[20.767745,53.168645],[20.76863,53.168021],[20.768567,53.166443],[20.768566,53.166251],[20.768667,53.16588],[20.768804,53.165392],[20.768888,53.165022],[20.768879,53.164743],[20.768871,53.164352],[20.768868,53.164187],[20.768864,53.163985],[20.768941,53.163804],[20.769165,53.163282],[20.769331,53.162894],[20.76978,53.162415],[20.769846,53.162345],[20.770006,53.162175],[20.770651,53.161487],[20.770592,53.161461],[20.769747,53.161085],[20.768821,53.160674],[20.767373,53.16003],[20.767255,53.159976],[20.766532,53.159653],[20.764896,53.158921],[20.763707,53.158389],[20.76333,53.15822],[20.760605,53.157],[20.75679,53.155293],[20.752651,53.15344],[20.752568,53.153403],[20.752551,53.153485],[20.751968,53.156451],[20.75029,53.160233],[20.750273,53.160272],[20.750223,53.160384],[20.749253,53.162517],[20.74911,53.162831],[20.745987,53.165421],[20.745616,53.165729],[20.745041,53.166273],[20.744821,53.166481],[20.744506,53.166855]]],"type":"Polygon"}
 }

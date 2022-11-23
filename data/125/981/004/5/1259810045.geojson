@@ -2,83 +2,87 @@
   "id": 1259810045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.66129,51.78753,20.66129,51.78753",
-    "geom:latitude":51.78753,
-    "geom:longitude":20.66129,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1406.0",
-    "gn:admin3_code":"140602.0",
-    "gn:asciiname":"Tomczyce",
-    "gn:country_code":"PL",
-    "gn:dem":170,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":756864,
-    "gn:latitude":51.78753,
-    "gn:longitude":20.66129,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Tomczyce",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.64129,51.76753,20.68129,51.80753",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Tomczyce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017936642064682104,
+    "geom:area_square_m": 1376893.6158816402,
+    "geom:bbox": "20.657416487007538,51.78519704001692,20.672077974996558,51.805527534011006",
+    "geom:latitude": 20.66577107076452,
+    "geom:longitude": 51.79374637963373,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1406.0",
+    "gn:admin3_code": "140602.0",
+    "gn:asciiname": "Tomczyce",
+    "gn:country_code": "PL",
+    "gn:dem": 170,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 756864,
+    "gn:latitude": 51.78753,
+    "gn:longitude": 20.66129,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Tomczyce",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.64129,51.76753,20.68129,51.80753",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Tomczyce"
     ],
-    "name:pol_x_preferred":[
-        "Tomczyce"
+    "name:pol_x_preferred": [
+      "Tomczyce"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u043e\u043c\u0447\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Томчице"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751387,
-        85633723,
-        102079877
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756864
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751387,
+      85633723,
+      102079877
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756864,
+      "pl-gugik:jpt_kod_je": "140602_2.0040"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9ad86ede4907cb12b635fe87951a1c0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079877,
-            "localadmin_id":1477751387,
-            "locality_id":1259810045,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "13a83441f2404e8d07bb4bc25c77ae5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079877,
+        "localadmin_id": 1477751387,
+        "locality_id": 1259810045,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1259810045,
-    "wof:lastmodified":1570048188,
-    "wof:name":"Tomczyce",
-    "wof:parent_id":1477751387,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259810045,
+    "wof:lastmodified": 1669215839,
+    "wof:name": "Tomczyce",
+    "wof:parent_id": 1477751387,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.66129,
-    51.78753,
-    20.66129,
-    51.78753
-],
-  "geometry": {"coordinates":[20.66129,51.78753],"type":"Point"}
+    20.657416487007538,
+    51.78519704001692,
+    20.672077974996558,
+    51.805527534011006
+  ],
+  "geometry": {"coordinates":[[[20.666197,51.785197],[20.664955,51.785284],[20.662932,51.785433],[20.66268,51.785452],[20.662206,51.785479],[20.661236,51.785624],[20.660456,51.785735],[20.659701,51.785855],[20.659572,51.785888],[20.659433,51.785948],[20.659291,51.786069],[20.659221,51.786128],[20.658744,51.786544],[20.657438,51.787698],[20.657416,51.787718],[20.657478,51.787833],[20.658594,51.789908],[20.659127,51.790899],[20.660956,51.79433],[20.660963,51.794343],[20.661501,51.79535],[20.663622,51.799333],[20.663134,51.799368],[20.663142,51.799396],[20.664005,51.802353],[20.664571,51.804283],[20.665703,51.804166],[20.666141,51.805474],[20.666159,51.805528],[20.667525,51.805455],[20.667551,51.805409],[20.668572,51.803607],[20.669267,51.802382],[20.670008,51.801086],[20.670591,51.800066],[20.671054,51.800021],[20.670924,51.799439],[20.671194,51.798929],[20.671223,51.798873],[20.671231,51.798859],[20.671275,51.798777],[20.671822,51.797744],[20.67184,51.797727],[20.671923,51.797649],[20.671845,51.797288],[20.671834,51.797211],[20.671826,51.797147],[20.671329,51.796039],[20.671241,51.795437],[20.671238,51.795411],[20.671233,51.795382],[20.671227,51.79534],[20.671227,51.795337],[20.671273,51.794859],[20.671224,51.794355],[20.671229,51.794316],[20.671257,51.794138],[20.671257,51.793826],[20.671305,51.79347],[20.671334,51.793351],[20.671343,51.793311],[20.671395,51.79309],[20.671496,51.792707],[20.671557,51.792003],[20.671574,51.791937],[20.671647,51.791655],[20.67179,51.7911],[20.671811,51.79102],[20.671895,51.79016],[20.671977,51.789319],[20.672066,51.788499],[20.672078,51.788306],[20.671745,51.787635],[20.671261,51.787625],[20.67038,51.787671],[20.669656,51.78776],[20.668681,51.787819],[20.666287,51.785292],[20.666197,51.785197]]],"type":"Polygon"}
 }

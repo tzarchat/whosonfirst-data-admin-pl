@@ -2,114 +2,118 @@
   "id": 1126008679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.2569,51.30404,17.2569,51.30404",
-    "geom:latitude":51.30404,
-    "geom:longitude":17.2569,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":80,
-    "iso:country":"PL",
-    "lbl:bbox":"17.2369,51.28404,17.2769,51.32404",
-    "lbl:latitude":51.30404,
-    "lbl:longitude":17.2569,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Ludgierzowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001869389884739121,
+    "geom:area_square_m": 1450398.2605930082,
+    "geom:bbox": "17.24750561999246,51.29701909101061,17.268749698005337,51.31032865901297",
+    "geom:latitude": 17.25741873025439,
+    "geom:longitude": 51.303775428515664,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 80,
+    "iso:country": "PL",
+    "lbl:bbox": "17.2369,51.28404,17.2769,51.32404",
+    "lbl:latitude": 51.30404,
+    "lbl:longitude": 17.2569,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Ludgierzowice"
     ],
-    "name:eng_x_preferred":[
-        "Ludgierzowice"
+    "name:eng_x_preferred": [
+      "Ludgierzowice"
     ],
-    "name:fra_x_preferred":[
-        "Ludgierzowice"
+    "name:fra_x_preferred": [
+      "Ludgierzowice"
     ],
-    "name:nan_x_preferred":[
-        "Ludgierzowice"
+    "name:nan_x_preferred": [
+      "Ludgierzowice"
     ],
-    "name:pol_x_preferred":[
-        "Ludgierzowice"
+    "name:pol_x_preferred": [
+      "Ludgierzowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044e\u0434\u0491\u0435\u0436\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Людґежовіце"
     ],
-    "name:und_x_variant":[
-        "L\u00fcckerwitz"
+    "name:und_x_variant": [
+      "Lückerwitz"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3092779,
-    "qs_pg:gn_pop":80,
-    "qs_pg:name":"Ludgierzowice",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Dolnosl\u0105skie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":301714,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":505644,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Dolnosl\u0105skie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125358943,
-        85633723,
-        102079733
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3092779,
+    "qs_pg:gn_pop": 80,
+    "qs_pg:name": "Ludgierzowice",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Dolnosląskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 301714,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 505644,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3092779,
-        "gp:id":505644,
-        "qs_pg:id":301714,
-        "wd:id":"Q11763406"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Dolnosląskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125358943,
+      85633723,
+      102079733
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3092779,
+      "gp:id": 505644,
+      "pl-gugik:jpt_kod_je": "022005_2.0008",
+      "qs_pg:id": 301714,
+      "wd:id": "Q11763406"
     },
-    "wof:country":"PL",
-    "wof:created":1497300135,
-    "wof:geomhash":"211c60c626fb8351195d7bf951352d04",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079733,
-            "localadmin_id":1125358943,
-            "locality_id":1126008679,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300135,
+    "wof:geomhash": "79cd6c63b3ec9bee5aba973381866108",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079733,
+        "localadmin_id": 1125358943,
+        "locality_id": 1126008679,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1126008679,
-    "wof:lastmodified":1570039018,
-    "wof:name":"Ludgierzowice",
-    "wof:parent_id":1125358943,
-    "wof:placetype":"locality",
-    "wof:population":80,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126008679,
+    "wof:lastmodified": 1669215869,
+    "wof:name": "Ludgierzowice",
+    "wof:parent_id": 1125358943,
+    "wof:placetype": "locality",
+    "wof:population": 80,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.2569,
-    51.30404,
-    17.2569,
-    51.30404
-],
-  "geometry": {"coordinates":[17.2569,51.30404],"type":"Point"}
+    17.24750561999246,
+    51.29701909101061,
+    17.268749698005337,
+    51.31032865901297
+  ],
+  "geometry": {"coordinates":[[[17.247506,51.299621],[17.247547,51.299673],[17.248676,51.301081],[17.248799,51.301232],[17.249525,51.302089],[17.249583,51.302161],[17.250423,51.303167],[17.250475,51.30323],[17.250746,51.303574],[17.250676,51.303583],[17.250723,51.303639],[17.250778,51.303805],[17.25078,51.303867],[17.25071,51.305582],[17.250712,51.305598],[17.250756,51.305688],[17.250755,51.306492],[17.25071,51.308104],[17.250618,51.310286],[17.250605,51.310329],[17.253103,51.31028],[17.254103,51.310263],[17.255486,51.310245],[17.255712,51.310212],[17.25767,51.310193],[17.257757,51.310192],[17.259311,51.310025],[17.260694,51.309708],[17.262065,51.309393],[17.26281,51.309223],[17.263419,51.309083],[17.263841,51.308994],[17.265108,51.307777],[17.265241,51.307649],[17.265956,51.307122],[17.266024,51.307043],[17.265175,51.306422],[17.265858,51.305948],[17.268712,51.303971],[17.26875,51.303945],[17.268018,51.303483],[17.266918,51.302788],[17.266759,51.302671],[17.26672,51.302643],[17.266011,51.302128],[17.26587,51.302001],[17.265431,51.301811],[17.263879,51.301288],[17.263815,51.301265],[17.262902,51.300957],[17.262864,51.300944],[17.262923,51.300884],[17.262954,51.300852],[17.263289,51.300513],[17.263472,51.300002],[17.263492,51.299943],[17.263648,51.299506],[17.264,51.298583],[17.263077,51.298485],[17.263005,51.298478],[17.258924,51.297998],[17.258083,51.29793],[17.257229,51.297861],[17.256846,51.29783],[17.256782,51.297832],[17.256386,51.29778],[17.255721,51.297709],[17.254833,51.297607],[17.253746,51.297492],[17.253167,51.297435],[17.252866,51.297404],[17.251931,51.297306],[17.248918,51.297019],[17.248687,51.29702],[17.248903,51.297574],[17.248956,51.297671],[17.249198,51.298336],[17.249317,51.29867],[17.24936,51.298749],[17.249489,51.29893],[17.249556,51.299008],[17.249706,51.299209],[17.247506,51.299621]]],"type":"Polygon"}
 }

@@ -2,124 +2,128 @@
   "id": 1125896651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.76345,52.73213,23.76345,52.73213",
-    "geom:latitude":52.73213,
-    "geom:longitude":23.76345,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"23.74345,52.71213,23.78345,52.75213",
-    "lbl:latitude":52.73213,
-    "lbl:longitude":23.76345,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Teremiski"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000251183481727108,
+    "geom:area_square_m": 1888169.083727757,
+    "geom:bbox": "23.74974384914161,52.72615087802042,23.778181041152358,52.74262096802419",
+    "geom:latitude": 23.76280603682478,
+    "geom:longitude": 52.73320627551258,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "23.74345,52.71213,23.78345,52.75213",
+    "lbl:latitude": 52.73213,
+    "lbl:longitude": 23.76345,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Teremiski"
     ],
-    "name:azb_x_preferred":[
-        "\u062a\u0631\u0645\u06cc\u0633\u06a9\u06cc"
+    "name:azb_x_preferred": [
+      "ترمیسکی"
     ],
-    "name:eng_x_preferred":[
-        "Teremiski"
+    "name:eng_x_preferred": [
+      "Teremiski"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0631\u0645\u06cc\u0633\u06a9\u06cc"
+    "name:fas_x_preferred": [
+      "ترمیسکی"
     ],
-    "name:fra_x_preferred":[
-        "Teremiski"
+    "name:fra_x_preferred": [
+      "Teremiski"
     ],
-    "name:lit_x_preferred":[
-        "Teremiskai"
+    "name:lit_x_preferred": [
+      "Teremiskai"
     ],
-    "name:pol_x_preferred":[
-        "Teremiski"
+    "name:pol_x_preferred": [
+      "Teremiski"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0435\u0440\u0435\u043c\u0456\u0441\u044c\u043a\u0438\u0439"
+    "name:ukr_x_preferred": [
+      "Тереміський"
     ],
-    "name:und_x_variant":[
-        "Teremyski"
+    "name:und_x_variant": [
+      "Teremyski"
     ],
-    "name:vie_x_preferred":[
-        "Teremiski"
+    "name:vie_x_preferred": [
+      "Teremiski"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":756948,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Teremiski",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos":251,
-    "qs_pg:photos_1k":51,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":4,
-    "qs_pg:photos_all":251,
-    "qs_pg:photos_sr":5,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1118951,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24942813,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125287479,
-        85633723,
-        102080091
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 756948,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Teremiski",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos": 251,
+    "qs_pg:photos_1k": 51,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 4,
+    "qs_pg:photos_all": 251,
+    "qs_pg:photos_sr": 5,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1118951,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24942813,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756948,
-        "gp:id":24942813,
-        "qs_pg:id":1118951,
-        "wd:id":"Q3692747"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125287479,
+      85633723,
+      102080091
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756948,
+      "gp:id": 24942813,
+      "pl-gugik:jpt_kod_je": "200502_2.0005",
+      "qs_pg:id": 1118951,
+      "wd:id": "Q3692747"
     },
-    "wof:country":"PL",
-    "wof:created":1497295602,
-    "wof:geomhash":"441b8e2ea8f854583309280459fd99d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080091,
-            "localadmin_id":1125287479,
-            "locality_id":1125896651,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295602,
+    "wof:geomhash": "cec1c059315378fce7295d048eab3d0c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080091,
+        "localadmin_id": 1125287479,
+        "locality_id": 1125896651,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125896651,
-    "wof:lastmodified":1570037592,
-    "wof:name":"Teremiski",
-    "wof:parent_id":1125287479,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125896651,
+    "wof:lastmodified": 1669215930,
+    "wof:name": "Teremiski",
+    "wof:parent_id": 1125287479,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.76345,
-    52.73213,
-    23.76345,
-    52.73213
-],
-  "geometry": {"coordinates":[23.76345,52.73213],"type":"Point"}
+    23.74974384914161,
+    52.72615087802042,
+    23.778181041152358,
+    52.74262096802419
+  ],
+  "geometry": {"coordinates":[[[23.749744,52.729435],[23.750345,52.73046],[23.750877,52.731365],[23.751295,52.731586],[23.751784,52.731845],[23.752317,52.732127],[23.75294,52.732456],[23.753108,52.732545],[23.753552,52.732781],[23.754175,52.733113],[23.75442,52.733243],[23.755006,52.733555],[23.755329,52.733727],[23.755568,52.733854],[23.75552,52.734026],[23.754924,52.736132],[23.754789,52.736609],[23.754358,52.738132],[23.7547,52.738394],[23.755324,52.73887],[23.756604,52.739848],[23.757744,52.740717],[23.758108,52.740995],[23.75878,52.741508],[23.75812,52.742118],[23.758781,52.742316],[23.75881,52.742325],[23.7589,52.742352],[23.759799,52.742621],[23.759901,52.742155],[23.761535,52.742158],[23.761942,52.742158],[23.764125,52.740849],[23.764245,52.740777],[23.765828,52.739835],[23.765936,52.739769],[23.766582,52.73937],[23.767197,52.738989],[23.767012,52.738619],[23.766673,52.737945],[23.766655,52.737908],[23.770722,52.735601],[23.77582,52.73497],[23.776785,52.734859],[23.778181,52.7347],[23.778177,52.734664],[23.777996,52.733337],[23.775519,52.732997],[23.774341,52.732836],[23.773981,52.732356],[23.773123,52.731197],[23.772682,52.7306],[23.772577,52.730458],[23.772379,52.73019],[23.772265,52.730037],[23.771898,52.729538],[23.771396,52.728855],[23.771159,52.728532],[23.771149,52.728519],[23.770998,52.728313],[23.770848,52.728108],[23.770603,52.727776],[23.769953,52.72689],[23.767226,52.726181],[23.767111,52.726151],[23.766109,52.726251],[23.765015,52.726359],[23.764701,52.726391],[23.764454,52.726415],[23.764183,52.726442],[23.764138,52.726447],[23.763561,52.726505],[23.763096,52.726551],[23.761884,52.726673],[23.759622,52.7269],[23.759592,52.726903],[23.758656,52.726994],[23.757875,52.727073],[23.757351,52.727127],[23.757122,52.727151],[23.756743,52.727189],[23.754623,52.727402],[23.752191,52.728416],[23.751958,52.728518],[23.750232,52.729232],[23.749744,52.729435]]],"type":"Polygon"}
 }

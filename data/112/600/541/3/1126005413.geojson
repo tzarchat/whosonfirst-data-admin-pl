@@ -2,125 +2,129 @@
   "id": 1126005413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.1549,52.94279,14.1549,52.94279",
-    "geom:latitude":52.94279,
-    "geom:longitude":14.1549,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":210,
-    "iso:country":"PL",
-    "lbl:bbox":"14.1349,52.92279,14.1749,52.96279",
-    "lbl:latitude":52.94279,
-    "lbl:longitude":14.1549,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Bielinek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0008259123958281998,
+    "geom:area_square_m": 6178245.320053094,
+    "geom:bbox": "14.138841775849661,52.926237539021756,14.173460295842787,52.964634957022504",
+    "geom:latitude": 14.154682107673429,
+    "geom:longitude": 52.94719661215197,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 210,
+    "iso:country": "PL",
+    "lbl:bbox": "14.1349,52.92279,14.1749,52.96279",
+    "lbl:latitude": 52.94279,
+    "lbl:longitude": 14.1549,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Bielinek"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0438\u0435\u043b\u0438\u043d\u0435\u043a"
+    "name:bul_x_preferred": [
+      "Биелинек"
     ],
-    "name:ceb_x_preferred":[
-        "Bielinek"
+    "name:ceb_x_preferred": [
+      "Bielinek"
     ],
-    "name:eng_x_preferred":[
-        "Bielinek"
+    "name:eng_x_preferred": [
+      "Bielinek"
     ],
-    "name:fra_x_preferred":[
-        "Bielinek"
+    "name:fra_x_preferred": [
+      "Bielinek"
     ],
-    "name:nld_x_preferred":[
-        "Bielinek"
+    "name:nld_x_preferred": [
+      "Bielinek"
     ],
-    "name:pol_x_preferred":[
-        "Bielinek"
+    "name:pol_x_preferred": [
+      "Bielinek"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0435\u043b\u0456\u043d\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Белінек"
     ],
-    "name:und_x_variant":[
-        "Bellinchen"
+    "name:und_x_variant": [
+      "Bellinchen"
     ],
-    "name:vie_x_preferred":[
-        "Bielinek"
+    "name:vie_x_preferred": [
+      "Bielinek"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3103425,
-    "qs_pg:gn_pop":210,
-    "qs_pg:name":"Bielinek",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":7,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1010601,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":486283,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125290209,
-        85633723,
-        102080047
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3103425,
+    "qs_pg:gn_pop": 210,
+    "qs_pg:name": "Bielinek",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 7,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1010601,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 486283,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103425,
-        "gp:id":486283,
-        "qs_pg:id":1010601,
-        "wd:id":"Q2621155"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125290209,
+      85633723,
+      102080047
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103425,
+      "gp:id": 486283,
+      "pl-gugik:jpt_kod_je": "320602_5.0001",
+      "qs_pg:id": 1010601,
+      "wd:id": "Q2621155"
     },
-    "wof:country":"PL",
-    "wof:created":1497299915,
-    "wof:geomhash":"3ef153d045bc7702aaf1c3c34f8d994c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080047,
-            "localadmin_id":1125290209,
-            "locality_id":1126005413,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299915,
+    "wof:geomhash": "d228a7202db3dd559d02d6dd0402ba3e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080047,
+        "localadmin_id": 1125290209,
+        "locality_id": 1126005413,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1126005413,
-    "wof:lastmodified":1570039467,
-    "wof:name":"Bielinek",
-    "wof:parent_id":1125290209,
-    "wof:placetype":"locality",
-    "wof:population":210,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126005413,
+    "wof:lastmodified": 1669215912,
+    "wof:name": "Bielinek",
+    "wof:parent_id": 1125290209,
+    "wof:placetype": "locality",
+    "wof:population": 210,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.1549,
-    52.94279,
-    14.1549,
-    52.94279
-],
-  "geometry": {"coordinates":[14.1549,52.94279],"type":"Point"}
+    14.138841775849661,
+    52.926237539021756,
+    14.173460295842787,
+    52.964634957022504
+  ],
+  "geometry": {"coordinates":[[[14.138842,52.951776],[14.139134,52.952449],[14.140155,52.953479],[14.140856,52.954902],[14.142006,52.956355],[14.143127,52.957763],[14.143385,52.959397],[14.143533,52.960551],[14.143658,52.961369],[14.144739,52.962203],[14.146865,52.963034],[14.149455,52.963653],[14.155844,52.964635],[14.157498,52.964623],[14.158235,52.963488],[14.158591,52.963354],[14.159079,52.963378],[14.159482,52.963397],[14.160059,52.963557],[14.160251,52.963431],[14.160172,52.963354],[14.160037,52.963279],[14.15976,52.963187],[14.159532,52.963137],[14.159397,52.96308],[14.159404,52.963024],[14.159736,52.962992],[14.159816,52.962693],[14.159825,52.962662],[14.159791,52.962539],[14.159783,52.962511],[14.159756,52.962407],[14.159878,52.962316],[14.160072,52.962262],[14.160544,52.962101],[14.160688,52.962099],[14.160911,52.962009],[14.161169,52.961887],[14.161575,52.961736],[14.162449,52.961693],[14.163621,52.961664],[14.163871,52.961652],[14.164676,52.961672],[14.165222,52.961803],[14.165464,52.96186],[14.165623,52.961848],[14.165793,52.961802],[14.165908,52.961723],[14.16677,52.96161],[14.167059,52.961546],[14.167506,52.961447],[14.167869,52.96138],[14.167954,52.961364],[14.167578,52.96042],[14.166993,52.959202],[14.16676,52.958886],[14.173339,52.955559],[14.17346,52.955498],[14.169752,52.952701],[14.168389,52.951673],[14.168317,52.951619],[14.168189,52.951531],[14.166925,52.95056],[14.166903,52.950543],[14.166848,52.950501],[14.16562,52.949566],[14.165492,52.949468],[14.165192,52.949239],[14.165037,52.949117],[14.164247,52.948498],[14.164363,52.948424],[14.164471,52.948355],[14.164621,52.948257],[14.172864,52.943901],[14.171728,52.943033],[14.170206,52.941858],[14.169897,52.941632],[14.169862,52.941607],[14.169752,52.941527],[14.169012,52.940956],[14.168349,52.940448],[14.168166,52.940309],[14.167044,52.93945],[14.166889,52.939332],[14.165267,52.938102],[14.165228,52.938071],[14.165201,52.938049],[14.164468,52.937368],[14.161877,52.935308],[14.160166,52.933952],[14.159738,52.933612],[14.159586,52.933489],[14.159488,52.933409],[14.159431,52.933362],[14.159405,52.933341],[14.159313,52.933268],[14.158977,52.932997],[14.158325,52.932484],[14.157671,52.931953],[14.157275,52.931625],[14.156939,52.931368],[14.155792,52.930442],[14.155527,52.930224],[14.155325,52.930095],[14.155292,52.930074],[14.155322,52.930054],[14.155477,52.929951],[14.155461,52.929848],[14.155293,52.929714],[14.155286,52.929708],[14.155025,52.929492],[14.152875,52.927856],[14.152781,52.92778],[14.152731,52.927741],[14.15245,52.927688],[14.151283,52.927382],[14.150501,52.927222],[14.150205,52.927176],[14.149649,52.926899],[14.149452,52.926851],[14.149011,52.926743],[14.148849,52.926704],[14.14742,52.926614],[14.145371,52.926238],[14.1454,52.926465],[14.145742,52.927455],[14.145388,52.928679],[14.144708,52.930283],[14.144198,52.931082],[14.143132,52.932276],[14.142647,52.933247],[14.142687,52.934787],[14.142714,52.935605],[14.142199,52.936661],[14.142192,52.938751],[14.142539,52.940403],[14.143638,52.941835],[14.144314,52.94351],[14.144131,52.9449],[14.142933,52.946928],[14.142415,52.947698],[14.141141,52.949026],[14.140288,52.950401],[14.139268,52.950951],[14.138842,52.951776]]],"type":"Polygon"}
 }

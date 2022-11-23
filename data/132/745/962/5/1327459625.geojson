@@ -2,84 +2,88 @@
   "id": 1327459625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.57991,53.72394,22.57991,53.72394",
-    "geom:latitude":53.72394,
-    "geom:longitude":22.57991,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2004.0",
-    "gn:admin3_code":"200404.0",
-    "gn:asciiname":"Przestrzele",
-    "gn:country_code":"PL",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535536,
-    "gn:latitude":53.72394,
-    "gn:longitude":22.57991,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Przestrzele",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.55991,53.70394,22.59991,53.74394",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "P\u017eest\u017eel\u0117"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00027136090170757493,
+    "geom:area_square_m": 1993705.3559382427,
+    "geom:bbox": "22.564684438030003,53.712200089014644,22.59483353202737,53.73431579802113",
+    "geom:latitude": 22.581421511941972,
+    "geom:longitude": 53.722479222708515,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2004.0",
+    "gn:admin3_code": "200404.0",
+    "gn:asciiname": "Przestrzele",
+    "gn:country_code": "PL",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535536,
+    "gn:latitude": 53.72394,
+    "gn:longitude": 22.57991,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Przestrzele",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.55991,53.70394,22.59991,53.74394",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Pžestželė"
     ],
-    "name:pol_x_preferred":[
-        "Przestrzele"
+    "name:pol_x_preferred": [
+      "Przestrzele"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0448\u0435\u0441\u0442\u0448\u0435\u043b\u0435"
+    "name:ukr_x_preferred": [
+      "Пшестшеле"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752131,
-        85633723,
-        102080181
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535536,
-        "wk:page":"Przestrzele%2C_Grajewo_County"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752131,
+      85633723,
+      102080181
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535536,
+      "pl-gugik:jpt_kod_je": "200404_5.0020",
+      "wk:page": "Przestrzele%2C_Grajewo_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"110a4c8830f0a4535befe1bb8feaa33d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080181,
-            "localadmin_id":1477752131,
-            "locality_id":1327459625,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "3b9d4b1e88bc02dfda861da2efdafdaf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080181,
+        "localadmin_id": 1477752131,
+        "locality_id": 1327459625,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1327459625,
-    "wof:lastmodified":1570008189,
-    "wof:name":"Przestrzele",
-    "wof:parent_id":1477752131,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327459625,
+    "wof:lastmodified": 1669215926,
+    "wof:name": "Przestrzele",
+    "wof:parent_id": 1477752131,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.57991,
-    53.72394,
-    22.57991,
-    53.72394
-],
-  "geometry": {"coordinates":[22.57991,53.72394],"type":"Point"}
+    22.564684438030003,
+    53.712200089014644,
+    22.59483353202737,
+    53.73431579802113
+  ],
+  "geometry": {"coordinates":[[[22.584683,53.73429],[22.58467,53.734172],[22.584663,53.733519],[22.584708,53.732497],[22.584745,53.731327],[22.584797,53.72999],[22.584824,53.727032],[22.584826,53.726897],[22.592181,53.721521],[22.592524,53.721242],[22.593096,53.720828],[22.594359,53.719915],[22.594834,53.719576],[22.594262,53.718865],[22.594249,53.718849],[22.594223,53.718817],[22.593645,53.718096],[22.593615,53.71806],[22.593594,53.718034],[22.592919,53.717176],[22.592227,53.715913],[22.591666,53.715311],[22.591556,53.715207],[22.591552,53.715203],[22.591517,53.715168],[22.592111,53.714981],[22.591957,53.714812],[22.591933,53.71479],[22.591686,53.714565],[22.591482,53.714376],[22.590983,53.713991],[22.590455,53.713583],[22.59007,53.713334],[22.588714,53.712588],[22.588238,53.712323],[22.587995,53.7122],[22.586557,53.713182],[22.585858,53.713944],[22.585822,53.713984],[22.584701,53.715205],[22.584538,53.715333],[22.584467,53.715388],[22.584397,53.715445],[22.584315,53.7155],[22.583244,53.716223],[22.582713,53.716575],[22.581789,53.716959],[22.580448,53.717392],[22.578943,53.717827],[22.578494,53.717957],[22.578385,53.717989],[22.577728,53.718181],[22.577254,53.718316],[22.576499,53.718532],[22.573946,53.719373],[22.573613,53.719451],[22.573558,53.719472],[22.573549,53.719476],[22.572843,53.719748],[22.572405,53.719936],[22.571607,53.720148],[22.570689,53.720399],[22.570237,53.720496],[22.568258,53.72092],[22.567807,53.720999],[22.567052,53.721199],[22.566395,53.721408],[22.56637,53.721414],[22.564684,53.72208],[22.564931,53.722243],[22.565666,53.72268],[22.566665,53.723291],[22.567247,53.723647],[22.569392,53.724969],[22.571985,53.726561],[22.573193,53.727313],[22.573791,53.727688],[22.574778,53.728272],[22.575954,53.728988],[22.576239,53.729161],[22.577291,53.7298],[22.579546,53.731181],[22.580416,53.731717],[22.580794,53.731946],[22.582284,53.732851],[22.584674,53.734316],[22.584683,53.73429]]],"type":"Polygon"}
 }

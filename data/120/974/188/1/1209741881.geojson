@@ -2,88 +2,92 @@
   "id": 1209741881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.70867,53.53831,21.70867,53.53831",
-    "geom:latitude":53.53831,
-    "geom:longitude":21.70867,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2816.0",
-    "gn:admin3_code":"281603.0",
-    "gn:asciiname":"Wielki Las",
-    "gn:country_code":"PL",
-    "gn:dem":119,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755870,
-    "gn:latitude":53.53831,
-    "gn:longitude":21.70867,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Wielki Las",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.68867,53.51831,21.72867,53.55831",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wielki Las"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00015574881650756684,
+    "geom:area_square_m": 1149219.262223437,
+    "geom:bbox": "21.69830679600985,53.53161081102186,21.71201798101117,53.5471575990211",
+    "geom:latitude": 21.70455844424491,
+    "geom:longitude": 53.539413788380344,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2816.0",
+    "gn:admin3_code": "281603.0",
+    "gn:asciiname": "Wielki Las",
+    "gn:country_code": "PL",
+    "gn:dem": 119,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755870,
+    "gn:latitude": 53.53831,
+    "gn:longitude": 21.70867,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Wielki Las",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.68867,53.51831,21.72867,53.55831",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Wielki Las"
     ],
-    "name:pol_x_preferred":[
-        "Wielki Las"
+    "name:pol_x_preferred": [
+      "Wielki Las"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u044f\u0441"
+    "name:ukr_x_preferred": [
+      "Великий Ляс"
     ],
-    "name:und_x_variant":[
-        "Tannenheim",
-        "Wielgilasz"
+    "name:und_x_variant": [
+      "Tannenheim",
+      "Wielgilasz"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125310811,
-        85633723,
-        102080195
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755870,
-        "wk:page":"Wielki_Las"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125310811,
+      85633723,
+      102080195
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755870,
+      "pl-gugik:jpt_kod_je": "281603_5.0037",
+      "wk:page": "Wielki_Las"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d68d4d883c8431e2e50f386c9ac12783",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080195,
-            "localadmin_id":1125310811,
-            "locality_id":1209741881,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "68090c4ee07a16298f11370e34af6510",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080195,
+        "localadmin_id": 1125310811,
+        "locality_id": 1209741881,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209741881,
-    "wof:lastmodified":1570022865,
-    "wof:name":"Wielki Las",
-    "wof:parent_id":1125310811,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209741881,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Wielki Las",
+    "wof:parent_id": 1125310811,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.70867,
-    53.53831,
-    21.70867,
-    53.53831
-],
-  "geometry": {"coordinates":[21.70867,53.53831],"type":"Point"}
+    21.69830679600985,
+    53.53161081102186,
+    21.71201798101117,
+    53.5471575990211
+  ],
+  "geometry": {"coordinates":[[[21.699138,53.531611],[21.699121,53.53162],[21.699095,53.531632],[21.698996,53.532433],[21.698898,53.533218],[21.698825,53.533804],[21.698585,53.536184],[21.698418,53.537833],[21.698414,53.537871],[21.698346,53.538546],[21.698307,53.538928],[21.700066,53.540159],[21.699851,53.541298],[21.699841,53.541351],[21.69973,53.541941],[21.699587,53.54282],[21.699449,53.543673],[21.699199,53.545076],[21.699139,53.545156],[21.699125,53.54523],[21.699,53.545896],[21.699045,53.545902],[21.70183,53.546255],[21.701944,53.54627],[21.702251,53.546309],[21.702659,53.546364],[21.703148,53.54643],[21.703296,53.546449],[21.703752,53.546511],[21.703909,53.546532],[21.704615,53.546621],[21.704768,53.546641],[21.707737,53.547023],[21.708785,53.547158],[21.709229,53.545871],[21.709311,53.545637],[21.709533,53.544982],[21.70969,53.544552],[21.709826,53.544152],[21.710018,53.543587],[21.710026,53.543565],[21.710035,53.543543],[21.710369,53.542713],[21.710924,53.541327],[21.71093,53.541314],[21.710936,53.541301],[21.711465,53.540176],[21.711924,53.538931],[21.712018,53.538674],[21.711992,53.538661],[21.709658,53.537531],[21.709128,53.537268],[21.709012,53.53721],[21.709105,53.536935],[21.709335,53.536254],[21.70961,53.535433],[21.709884,53.534637],[21.708585,53.534465],[21.708002,53.534388],[21.70815,53.534023],[21.708282,53.533682],[21.708289,53.533674],[21.708296,53.533666],[21.709007,53.532922],[21.709018,53.53291],[21.707479,53.532712],[21.705305,53.532416],[21.703097,53.532116],[21.699138,53.531611]]],"type":"Polygon"}
 }

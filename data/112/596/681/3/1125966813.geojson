@@ -2,123 +2,127 @@
   "id": 1125966813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.74446,52.2145,20.74446,52.2145",
-    "geom:latitude":52.2145,
-    "geom:longitude":20.74446,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":157,
-    "iso:country":"PL",
-    "lbl:bbox":"20.72446,52.1945,20.76446,52.2345",
-    "lbl:latitude":52.2145,
-    "lbl:longitude":20.74446,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Koprki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00013901366970240858,
+    "geom:area_square_m": 1057136.4463573624,
+    "geom:bbox": "20.73946347600582,52.211730241013576,20.75320322299593,52.225933090019794",
+    "geom:latitude": 20.745545024943905,
+    "geom:longitude": 52.21896366638078,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 157,
+    "iso:country": "PL",
+    "lbl:bbox": "20.72446,52.1945,20.76446,52.2345",
+    "lbl:latitude": 52.2145,
+    "lbl:longitude": 20.74446,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Koprki"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u067e\u0631\u06a9\u06cc"
+    "name:azb_x_preferred": [
+      "کوپرکی"
     ],
-    "name:bul_x_preferred":[
-        "\u041a\u043e\u043f\u0440\u043a\u0438"
+    "name:bul_x_preferred": [
+      "Копрки"
     ],
-    "name:ceb_x_preferred":[
-        "Koprki"
+    "name:ceb_x_preferred": [
+      "Koprki"
     ],
-    "name:eng_x_preferred":[
-        "Koprki"
+    "name:eng_x_preferred": [
+      "Koprki"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0648\u067e\u0631\u06a9\u06cc"
+    "name:fas_x_preferred": [
+      "کوپرکی"
     ],
-    "name:fra_x_preferred":[
-        "Koprki"
+    "name:fra_x_preferred": [
+      "Koprki"
     ],
-    "name:nan_x_preferred":[
-        "Koprki"
+    "name:nan_x_preferred": [
+      "Koprki"
     ],
-    "name:pol_x_preferred":[
-        "Koprki"
+    "name:pol_x_preferred": [
+      "Koprki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043f\u0440\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Копркі"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":7602773,
-    "qs_pg:gn_pop":157,
-    "qs_pg:name":"Koprki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":509050,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24935849,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752857,
-        85633723,
-        102079949
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 7602773,
+    "qs_pg:gn_pop": 157,
+    "qs_pg:name": "Koprki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 509050,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24935849,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7602773,
-        "gp:id":24935849,
-        "qs_pg:id":509050,
-        "wd:id":"Q6431210"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752857,
+      85633723,
+      102079949
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7602773,
+      "gp:id": 24935849,
+      "pl-gugik:jpt_kod_je": "143206_5.0008",
+      "qs_pg:id": 509050,
+      "wd:id": "Q6431210"
     },
-    "wof:country":"PL",
-    "wof:created":1497298006,
-    "wof:geomhash":"fed1ce099e8b25a79d3adc659d5d2e22",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079949,
-            "localadmin_id":1477752857,
-            "locality_id":1125966813,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298006,
+    "wof:geomhash": "2d144ccf6514d0e36465e4bab03fa1c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079949,
+        "localadmin_id": 1477752857,
+        "locality_id": 1125966813,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125966813,
-    "wof:lastmodified":1570037944,
-    "wof:name":"Koprki",
-    "wof:parent_id":1477752857,
-    "wof:placetype":"locality",
-    "wof:population":157,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125966813,
+    "wof:lastmodified": 1669215948,
+    "wof:name": "Koprki",
+    "wof:parent_id": 1477752857,
+    "wof:placetype": "locality",
+    "wof:population": 157,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.74446,
-    52.2145,
-    20.74446,
-    52.2145
-],
-  "geometry": {"coordinates":[20.74446,52.2145],"type":"Point"}
+    20.73946347600582,
+    52.211730241013576,
+    20.75320322299593,
+    52.225933090019794
+  ],
+  "geometry": {"coordinates":[[[20.739463,52.220071],[20.739519,52.220293],[20.740005,52.221889],[20.740801,52.224506],[20.74081,52.224535],[20.740989,52.224552],[20.741092,52.224564],[20.741388,52.224597],[20.741912,52.224722],[20.742393,52.224878],[20.742856,52.225003],[20.743755,52.225074],[20.74437,52.225088],[20.745067,52.225105],[20.745914,52.225116],[20.746249,52.22509],[20.746661,52.225094],[20.747106,52.225098],[20.747671,52.22514],[20.748135,52.225145],[20.748546,52.225145],[20.748685,52.225144],[20.748865,52.225144],[20.749041,52.225144],[20.74935,52.225144],[20.749388,52.225144],[20.749731,52.225144],[20.750067,52.225144],[20.750479,52.225143],[20.750939,52.225187],[20.75112,52.22523],[20.751399,52.225297],[20.751803,52.225395],[20.752027,52.225478],[20.752348,52.225658],[20.752567,52.225864],[20.752576,52.225875],[20.752622,52.225933],[20.752933,52.225883],[20.753203,52.225827],[20.753175,52.225766],[20.75317,52.225755],[20.752281,52.223225],[20.752256,52.223155],[20.750786,52.218969],[20.749319,52.214791],[20.749313,52.214774],[20.749316,52.214738],[20.748795,52.21326],[20.748767,52.21318],[20.748256,52.21173],[20.748155,52.211751],[20.747712,52.211762],[20.747432,52.211774],[20.746643,52.21178],[20.745739,52.2118],[20.745341,52.211808],[20.74492,52.211818],[20.740568,52.211921],[20.740375,52.211945],[20.740378,52.211988],[20.740319,52.213117],[20.740147,52.215881],[20.739944,52.219257],[20.739463,52.220071]]],"type":"Polygon"}
 }

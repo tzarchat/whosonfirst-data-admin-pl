@@ -2,137 +2,141 @@
   "id": 1125914383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.32446,52.76445,14.32446,52.76445",
-    "geom:latitude":52.76445,
-    "geom:longitude":14.32446,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":123,
-    "iso:country":"PL",
-    "lbl:bbox":"14.30446,52.74445,14.34446,52.78445",
-    "lbl:latitude":52.76445,
-    "lbl:longitude":14.32446,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Gozdowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002655626110483941,
+    "geom:area_square_m": 1994646.756531009,
+    "geom:bbox": "14.289621487863016,52.75970405701922,14.331155426861091,52.77873206202267",
+    "geom:latitude": 14.309731501940576,
+    "geom:longitude": 52.76869129285605,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 123,
+    "iso:country": "PL",
+    "lbl:bbox": "14.30446,52.74445,14.34446,52.78445",
+    "lbl:latitude": 52.76445,
+    "lbl:longitude": 14.32446,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Gozdowice"
     ],
-    "name:azb_x_preferred":[
-        "\u0642\u0648\u0632\u062f\u0648\u0648\u06cc\u062a\u0633\u0647"
+    "name:azb_x_preferred": [
+      "قوزدوویتسه"
     ],
-    "name:ceb_x_preferred":[
-        "Gozdowice"
+    "name:ceb_x_preferred": [
+      "Gozdowice"
     ],
-    "name:deu_x_preferred":[
-        "Gozdowice"
+    "name:deu_x_preferred": [
+      "Gozdowice"
     ],
-    "name:eng_x_preferred":[
-        "Gozdowice"
+    "name:eng_x_preferred": [
+      "Gozdowice"
     ],
-    "name:fas_x_preferred":[
-        "\u06af\u0648\u0632\u062f\u0648\u0648\u06cc\u062a\u0633\u0647"
+    "name:fas_x_preferred": [
+      "گوزدوویتسه"
     ],
-    "name:fra_x_preferred":[
-        "Gozdowice"
+    "name:fra_x_preferred": [
+      "Gozdowice"
     ],
-    "name:hsb_x_preferred":[
-        "Gozdowice"
+    "name:hsb_x_preferred": [
+      "Gozdowice"
     ],
-    "name:nan_x_preferred":[
-        "Gozdowice"
+    "name:nan_x_preferred": [
+      "Gozdowice"
     ],
-    "name:nld_x_preferred":[
-        "Gozdowice"
+    "name:nld_x_preferred": [
+      "Gozdowice"
     ],
-    "name:pol_x_preferred":[
-        "Gozdowice"
+    "name:pol_x_preferred": [
+      "Gozdowice"
     ],
-    "name:rus_x_preferred":[
-        "\u0413\u043e\u0437\u0434\u043e\u0432\u0438\u0446\u0435"
+    "name:rus_x_preferred": [
+      "Гоздовице"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043e\u0437\u0434\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Ґоздовіце"
     ],
-    "name:und_x_variant":[
-        "G\u00fcstebiese"
+    "name:und_x_variant": [
+      "Güstebiese"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3098578,
-    "qs_pg:gn_pop":123,
-    "qs_pg:name":"Gozdowice",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":927636,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":494769,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125275977,
-        85633723,
-        102080047
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3098578,
+    "qs_pg:gn_pop": 123,
+    "qs_pg:name": "Gozdowice",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 927636,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 494769,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3098578,
-        "gp:id":494769,
-        "qs_pg:id":927636,
-        "wd:id":"Q1354452"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125275977,
+      85633723,
+      102080047
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3098578,
+      "gp:id": 494769,
+      "pl-gugik:jpt_kod_je": "320605_5.0002",
+      "qs_pg:id": 927636,
+      "wd:id": "Q1354452"
     },
-    "wof:country":"PL",
-    "wof:created":1497296264,
-    "wof:geomhash":"93269733d70fc07a9a067565e5d18b92",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080047,
-            "localadmin_id":1125275977,
-            "locality_id":1125914383,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497296264,
+    "wof:geomhash": "42094acfd6956a3f0ef5ad24f530202d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080047,
+        "localadmin_id": 1125275977,
+        "locality_id": 1125914383,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125914383,
-    "wof:lastmodified":1570038081,
-    "wof:name":"Gozdowice",
-    "wof:parent_id":1125275977,
-    "wof:placetype":"locality",
-    "wof:population":123,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125914383,
+    "wof:lastmodified": 1669215904,
+    "wof:name": "Gozdowice",
+    "wof:parent_id": 1125275977,
+    "wof:placetype": "locality",
+    "wof:population": 123,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.32446,
-    52.76445,
-    14.32446,
-    52.76445
-],
-  "geometry": {"coordinates":[14.32446,52.76445],"type":"Point"}
+    14.289621487863016,
+    52.75970405701922,
+    14.331155426861091,
+    52.77873206202267
+  ],
+  "geometry": {"coordinates":[[[14.289621,52.770893],[14.29044,52.771856],[14.290537,52.77199],[14.292413,52.774245],[14.294075,52.776215],[14.29412,52.776257],[14.294981,52.777263],[14.295114,52.77742],[14.295199,52.777519],[14.295491,52.77786],[14.295608,52.777997],[14.295638,52.778032],[14.296117,52.778594],[14.296235,52.778732],[14.296517,52.778585],[14.297626,52.777705],[14.2983,52.777206],[14.298688,52.776999],[14.299413,52.776408],[14.300908,52.775292],[14.301179,52.774981],[14.302602,52.773345],[14.302732,52.773225],[14.303248,52.772921],[14.303522,52.772767],[14.303837,52.772733],[14.304111,52.772784],[14.305356,52.773207],[14.305706,52.773305],[14.30608,52.773414],[14.306344,52.773449],[14.306696,52.77348],[14.306979,52.773475],[14.307213,52.77347],[14.307577,52.773433],[14.307881,52.773393],[14.308447,52.773178],[14.308821,52.772989],[14.309006,52.772885],[14.309184,52.772788],[14.311706,52.77085],[14.311917,52.770709],[14.312389,52.770429],[14.313,52.770082],[14.313228,52.769972],[14.315384,52.768999],[14.315759,52.768826],[14.316146,52.768672],[14.316226,52.768641],[14.316411,52.768601],[14.316659,52.768548],[14.316576,52.768434],[14.316326,52.768084],[14.316292,52.767928],[14.316382,52.767758],[14.316869,52.767361],[14.317101,52.767165],[14.317358,52.766861],[14.317767,52.766835],[14.317767,52.766772],[14.317877,52.766629],[14.318207,52.766461],[14.318415,52.766435],[14.318496,52.766347],[14.318687,52.766137],[14.319123,52.765999],[14.319119,52.765863],[14.31911,52.765605],[14.318661,52.76574],[14.31847,52.765655],[14.318658,52.76547],[14.320912,52.764823],[14.321682,52.765308],[14.321336,52.765797],[14.321378,52.76581],[14.32127,52.765917],[14.321242,52.765962],[14.321213,52.766007],[14.320877,52.766064],[14.320854,52.766133],[14.320815,52.766244],[14.320929,52.76629],[14.321742,52.766622],[14.321931,52.766702],[14.322248,52.766369],[14.322688,52.766532],[14.322977,52.76664],[14.323177,52.766714],[14.322842,52.767069],[14.322155,52.767688],[14.322484,52.76829],[14.321263,52.768094],[14.321489,52.768853],[14.321611,52.769266],[14.322897,52.769515],[14.322993,52.769534],[14.323672,52.769664],[14.324637,52.76985],[14.325079,52.769935],[14.326058,52.770118],[14.325936,52.769832],[14.326013,52.769817],[14.326667,52.769691],[14.327636,52.769464],[14.327566,52.769342],[14.328182,52.769213],[14.328407,52.769171],[14.328547,52.769146],[14.329244,52.769018],[14.329937,52.768904],[14.329656,52.768241],[14.329631,52.768182],[14.328978,52.76664],[14.328443,52.766394],[14.328619,52.766287],[14.32881,52.765794],[14.328919,52.7655],[14.329047,52.7651],[14.328972,52.764605],[14.32896,52.764523],[14.328879,52.76399],[14.328892,52.763277],[14.32875,52.761948],[14.328724,52.761703],[14.328717,52.761652],[14.328716,52.761627],[14.328797,52.761595],[14.32905,52.761635],[14.329163,52.761679],[14.33001,52.761545],[14.330167,52.761326],[14.33092,52.761246],[14.331155,52.761175],[14.328806,52.759704],[14.327591,52.76004],[14.32399,52.761486],[14.323076,52.762125],[14.321686,52.762635],[14.319595,52.762971],[14.318234,52.763402],[14.316557,52.763256],[14.315546,52.763255],[14.313285,52.763792],[14.310351,52.764392],[14.308469,52.765157],[14.306803,52.765306],[14.304994,52.765514],[14.301674,52.766695],[14.299942,52.767535],[14.298555,52.767995],[14.294236,52.76904],[14.293118,52.769654],[14.292175,52.770304],[14.290429,52.770721],[14.289621,52.770893]]],"type":"Polygon"}
 }

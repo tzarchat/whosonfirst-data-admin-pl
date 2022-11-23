@@ -2,84 +2,88 @@
   "id": 1259912237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.77741,53.223,22.77741,53.223",
-    "geom:latitude":53.223,
-    "geom:longitude":22.77741,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2002.0",
-    "gn:admin3_code":"200212.0",
-    "gn:asciiname":"Tatary",
-    "gn:country_code":"PL",
-    "gn:dem":106,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":757003,
-    "gn:latitude":53.223,
-    "gn:longitude":22.77741,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Tatary",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.75741,53.203,22.79741,53.243",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Tatarai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017364670125350823,
+    "geom:area_square_m": 1290700.5889785583,
+    "geom:bbox": "22.75421224103742,53.218420649017084,22.778427815038405,53.2332165520149",
+    "geom:latitude": 22.767797541519876,
+    "geom:longitude": 53.224667228326346,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2002.0",
+    "gn:admin3_code": "200212.0",
+    "gn:asciiname": "Tatary",
+    "gn:country_code": "PL",
+    "gn:dem": 106,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 757003,
+    "gn:latitude": 53.223,
+    "gn:longitude": 22.77741,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Tatary",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.75741,53.203,22.79741,53.243",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Tatarai"
     ],
-    "name:pol_x_preferred":[
-        "Tatary"
+    "name:pol_x_preferred": [
+      "Tatary"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0430\u0442\u0430\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Татари"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125282539,
-        85633723,
-        102080145
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757003,
-        "wk:page":"Tatary%2C_Podlaskie_Voivodeship"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125282539,
+      85633723,
+      102080145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757003,
+      "pl-gugik:jpt_kod_je": "200212_5.0030",
+      "wk:page": "Tatary%2C_Podlaskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"506a89e3eb726d5b7ba56b5e8d92067c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080145,
-            "localadmin_id":1125282539,
-            "locality_id":1259912237,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f951c23f4033edbc4fd1741935a6bbe3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080145,
+        "localadmin_id": 1125282539,
+        "locality_id": 1259912237,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1259912237,
-    "wof:lastmodified":1570045500,
-    "wof:name":"Tatary",
-    "wof:parent_id":1125282539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259912237,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Tatary",
+    "wof:parent_id": 1125282539,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.77741,
-    53.223,
-    22.77741,
-    53.223
-],
-  "geometry": {"coordinates":[22.77741,53.223],"type":"Point"}
+    22.75421224103742,
+    53.218420649017084,
+    22.778427815038405,
+    53.2332165520149
+  ],
+  "geometry": {"coordinates":[[[22.754212,53.219899],[22.754285,53.220157],[22.755064,53.220901],[22.755989,53.221467],[22.757507,53.221585],[22.758288,53.221133],[22.759257,53.221219],[22.760776,53.222466],[22.760911,53.222606],[22.761052,53.222832],[22.76117,53.22319],[22.762175,53.224539],[22.762968,53.225464],[22.763209,53.226746],[22.763601,53.227796],[22.764254,53.229484],[22.764398,53.231309],[22.764406,53.231398],[22.772645,53.233187],[22.772856,53.233216],[22.772859,53.233217],[22.772861,53.233213],[22.77331,53.232281],[22.773343,53.232085],[22.773466,53.231351],[22.773477,53.231285],[22.773534,53.230007],[22.773887,53.227985],[22.774165,53.226742],[22.774179,53.22668],[22.775141,53.224574],[22.7756,53.223589],[22.775661,53.223574],[22.775663,53.223574],[22.776879,53.223275],[22.776905,53.223268],[22.777663,53.223069],[22.778058,53.222967],[22.778061,53.222966],[22.778428,53.22287],[22.778236,53.222757],[22.777747,53.22247],[22.77701,53.222036],[22.776234,53.221579],[22.776193,53.221353],[22.776051,53.220562],[22.776001,53.220279],[22.775978,53.220153],[22.775895,53.219688],[22.775697,53.219538],[22.775494,53.219543],[22.775488,53.219543],[22.773817,53.219589],[22.773054,53.219608],[22.771308,53.219622],[22.771233,53.219623],[22.769318,53.219647],[22.769243,53.219646],[22.769182,53.219647],[22.766884,53.219674],[22.766789,53.219674],[22.764052,53.219243],[22.761381,53.218785],[22.75756,53.218421],[22.757007,53.218713],[22.757318,53.218895],[22.754924,53.219593],[22.754845,53.219847],[22.754212,53.219899]]],"type":"Polygon"}
 }

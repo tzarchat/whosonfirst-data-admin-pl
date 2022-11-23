@@ -2,87 +2,91 @@
   "id": 1209447611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.91571,52.32362,17.91571,52.32362",
-    "geom:latitude":52.32362,
-    "geom:longitude":17.91571,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3023.0",
-    "gn:admin3_code":"302306.0",
-    "gn:asciiname":"Korwin",
-    "gn:country_code":"PL",
-    "gn:dem":94,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095187,
-    "gn:latitude":52.32362,
-    "gn:longitude":17.91571,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Korwin",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.89571,52.30362,17.93571,52.34362",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Korwin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021043983084670815,
+    "geom:area_square_m": 1596520.4163120678,
+    "geom:bbox": "17.903585721002923,52.31693147201872,17.926043396006328,52.332858621012285",
+    "geom:latitude": 17.915180511887282,
+    "geom:longitude": 52.324815189601864,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3023.0",
+    "gn:admin3_code": "302306.0",
+    "gn:asciiname": "Korwin",
+    "gn:country_code": "PL",
+    "gn:dem": 94,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095187,
+    "gn:latitude": 52.32362,
+    "gn:longitude": 17.91571,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Korwin",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.89571,52.30362,17.93571,52.34362",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Korwin"
     ],
-    "name:ita_x_preferred":[
-        "Korwin"
+    "name:ita_x_preferred": [
+      "Korwin"
     ],
-    "name:pol_x_preferred":[
-        "Korwin"
+    "name:pol_x_preferred": [
+      "Korwin"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u0440\u0432\u0456\u043d"
+    "name:ukr_x_preferred": [
+      "Корвін"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477752821,
-        85633723,
-        102079941
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095187,
-        "wk:page":"Korwin%2C_Greater_Poland_Voivodeship"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477752821,
+      85633723,
+      102079941
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095187,
+      "pl-gugik:jpt_kod_je": "302306_2.0012",
+      "wk:page": "Korwin%2C_Greater_Poland_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"67966fafd23bada00790a2bfbb4f8b47",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079941,
-            "localadmin_id":1477752821,
-            "locality_id":1209447611,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "5dd8608cacbf3ee72053db7d2f4a65f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079941,
+        "localadmin_id": 1477752821,
+        "locality_id": 1209447611,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1209447611,
-    "wof:lastmodified":1570023340,
-    "wof:name":"Korwin",
-    "wof:parent_id":1477752821,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209447611,
+    "wof:lastmodified": 1669215903,
+    "wof:name": "Korwin",
+    "wof:parent_id": 1477752821,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.91571,
-    52.32362,
-    17.91571,
-    52.32362
-],
-  "geometry": {"coordinates":[17.91571,52.32362],"type":"Point"}
+    17.903585721002923,
+    52.31693147201872,
+    17.926043396006328,
+    52.332858621012285
+  ],
+  "geometry": {"coordinates":[[[17.903586,52.319572],[17.904325,52.32041],[17.904733,52.32081],[17.905132,52.32118],[17.905473,52.321486],[17.905838,52.32182],[17.906138,52.322073],[17.906535,52.322404],[17.906585,52.322459],[17.907236,52.323475],[17.907832,52.324895],[17.908048,52.325103],[17.908184,52.325277],[17.908615,52.325665],[17.909401,52.326329],[17.909495,52.326433],[17.909572,52.326552],[17.909733,52.326902],[17.910003,52.327799],[17.910353,52.328731],[17.910693,52.329257],[17.910237,52.330056],[17.910053,52.33039],[17.909544,52.331335],[17.909507,52.331406],[17.909394,52.331618],[17.909239,52.331959],[17.9092,52.332049],[17.909132,52.332338],[17.909012,52.332793],[17.909045,52.332787],[17.909905,52.33262],[17.91189,52.332141],[17.914502,52.331444],[17.916025,52.332859],[17.918079,52.331967],[17.918403,52.331827],[17.919157,52.331564],[17.919614,52.331423],[17.919706,52.331395],[17.919941,52.331952],[17.921364,52.331338],[17.921697,52.331156],[17.922261,52.330791],[17.923405,52.329974],[17.923462,52.329935],[17.923471,52.329926],[17.923479,52.329923],[17.924559,52.329166],[17.924598,52.329139],[17.924651,52.329102],[17.924684,52.329078],[17.925997,52.328195],[17.926043,52.328164],[17.925748,52.32799],[17.925472,52.32774],[17.925185,52.327425],[17.924034,52.326443],[17.923955,52.326357],[17.923907,52.32568],[17.923854,52.325546],[17.923491,52.325218],[17.923463,52.325126],[17.92364,52.324448],[17.923505,52.323946],[17.923522,52.323863],[17.92358,52.323742],[17.923618,52.323662],[17.924099,52.323322],[17.924392,52.323117],[17.924363,52.323089],[17.922702,52.321483],[17.92227,52.321065],[17.922216,52.321008],[17.920396,52.319378],[17.919953,52.319505],[17.919736,52.319567],[17.919197,52.319722],[17.910957,52.317468],[17.90907,52.316931],[17.90537,52.31866],[17.905426,52.318701],[17.905666,52.318824],[17.905791,52.318903],[17.905278,52.31913],[17.904786,52.319319],[17.903622,52.319564],[17.903586,52.319572]]],"type":"Polygon"}
 }

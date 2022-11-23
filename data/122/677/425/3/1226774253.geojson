@@ -2,94 +2,98 @@
   "id": 1226774253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.2733,53.75904,22.2733,53.75904",
-    "geom:latitude":53.75904,
-    "geom:longitude":22.2733,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280502.0",
-    "gn:asciiname":"Rostki Bajtkowskie",
-    "gn:country_code":"PL",
-    "gn:dem":165,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":760300,
-    "gn:latitude":53.75904,
-    "gn:longitude":22.2733,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Rostki Bajtkowskie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.2533,53.73904,22.2933,53.77904",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Rostki Bajtkowskie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014297809764554113,
+    "geom:area_square_m": 1049477.5762097435,
+    "geom:bbox": "22.26745346301867,53.7501660020175,22.288202185028602,53.76778053802272",
+    "geom:latitude": 22.276109523490707,
+    "geom:longitude": 53.7623744806709,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280502.0",
+    "gn:asciiname": "Rostki Bajtkowskie",
+    "gn:country_code": "PL",
+    "gn:dem": 165,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 760300,
+    "gn:latitude": 53.75904,
+    "gn:longitude": 22.2733,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Rostki Bajtkowskie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.2533,53.73904,22.2933,53.77904",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Rostki Bajtkowskie"
     ],
-    "name:fra_x_preferred":[
-        "Rostki Bajtkowskie"
+    "name:fra_x_preferred": [
+      "Rostki Bajtkowskie"
     ],
-    "name:pol_x_preferred":[
-        "Rostki Bajtkowskie"
+    "name:pol_x_preferred": [
+      "Rostki Bajtkowskie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u0441\u0442\u043a\u0456-\u0411\u0430\u0439\u0442\u043a\u043e\u0432\u0441\u044c\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Росткі-Байтковські"
     ],
-    "name:und_x_variant":[
-        "Waiblingen Ostpreussen",
-        "Rostken bei Baitenberg",
-        "Waiblingen",
-        "Rostken Kirchspiel Baitkowen",
-        "Rostken"
+    "name:und_x_variant": [
+      "Waiblingen Ostpreussen",
+      "Rostken bei Baitenberg",
+      "Waiblingen",
+      "Rostken Kirchspiel Baitkowen",
+      "Rostken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751711,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":760300,
-        "wk:page":"Rostki_Bajtkowskie"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751711,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 760300,
+      "pl-gugik:jpt_kod_je": "280502_2.0041",
+      "wk:page": "Rostki_Bajtkowskie"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"db907e4744dff5ce9afe51f1ba405cf4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477751711,
-            "locality_id":1226774253,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "9bf5489bd5cef8d8a761ac48a314d0b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477751711,
+        "locality_id": 1226774253,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1226774253,
-    "wof:lastmodified":1570052042,
-    "wof:name":"Rostki Bajtkowskie",
-    "wof:parent_id":1477751711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226774253,
+    "wof:lastmodified": 1669215931,
+    "wof:name": "Rostki Bajtkowskie",
+    "wof:parent_id": 1477751711,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.2733,
-    53.75904,
-    22.2733,
-    53.75904
-],
-  "geometry": {"coordinates":[22.2733,53.75904],"type":"Point"}
+    22.26745346301867,
+    53.7501660020175,
+    22.288202185028602,
+    53.76778053802272
+  ],
+  "geometry": {"coordinates":[[[22.274705,53.767421],[22.274893,53.767403],[22.276264,53.767274],[22.276363,53.767268],[22.278088,53.767158],[22.279224,53.767097],[22.279611,53.767076],[22.282468,53.766932],[22.283495,53.766878],[22.284251,53.766867],[22.285336,53.766794],[22.286133,53.766739],[22.288121,53.766637],[22.288017,53.765908],[22.288013,53.765881],[22.287937,53.765351],[22.288202,53.764048],[22.287709,53.762571],[22.2877,53.762552],[22.287682,53.762509],[22.287568,53.762248],[22.285387,53.762163],[22.285266,53.762159],[22.282882,53.762286],[22.281427,53.762351],[22.280434,53.76235],[22.280096,53.761483],[22.280085,53.761457],[22.279631,53.760294],[22.278457,53.760312],[22.277602,53.760325],[22.277352,53.760328],[22.276697,53.760342],[22.276267,53.760351],[22.275716,53.758906],[22.275696,53.758853],[22.274934,53.759007],[22.274135,53.757985],[22.274094,53.757932],[22.273358,53.758025],[22.272399,53.758047],[22.271412,53.75786],[22.271175,53.757739],[22.270938,53.757619],[22.270515,53.757374],[22.270035,53.757205],[22.269723,53.756995],[22.269311,53.756729],[22.269036,53.756573],[22.268983,53.756568],[22.268549,53.756425],[22.268389,53.756397],[22.268432,53.756389],[22.26855,53.756367],[22.269589,53.75627],[22.269615,53.756182],[22.269621,53.756164],[22.269972,53.755006],[22.269985,53.754962],[22.270003,53.754902],[22.270011,53.754876],[22.270151,53.754414],[22.270472,53.753291],[22.270648,53.752698],[22.270656,53.752672],[22.270703,53.752511],[22.270711,53.752485],[22.270726,53.752437],[22.270732,53.752414],[22.270743,53.75238],[22.270748,53.752361],[22.270763,53.75231],[22.270853,53.752007],[22.270858,53.75199],[22.270861,53.75198],[22.270878,53.751924],[22.271003,53.751502],[22.270727,53.751048],[22.271101,53.750329],[22.270793,53.750304],[22.270768,53.750302],[22.270741,53.750299],[22.269607,53.750204],[22.269201,53.750166],[22.268858,53.751024],[22.268844,53.751063],[22.268531,53.751917],[22.268229,53.752743],[22.268018,53.753283],[22.267913,53.753547],[22.267453,53.755105],[22.267571,53.755909],[22.267597,53.756085],[22.267979,53.757763],[22.268259,53.759051],[22.268414,53.759458],[22.268618,53.759995],[22.269328,53.760427],[22.269482,53.760683],[22.270326,53.76167],[22.270346,53.761694],[22.270696,53.762103],[22.270725,53.762144],[22.271985,53.763919],[22.269952,53.764292],[22.268305,53.764596],[22.268276,53.764601],[22.268276,53.76472],[22.268271,53.766174],[22.270447,53.767781],[22.274705,53.767421]]],"type":"Polygon"}
 }

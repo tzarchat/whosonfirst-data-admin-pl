@@ -2,96 +2,100 @@
   "id": 1259515821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.51958,54.47733,17.51958,54.47733",
-    "geom:latitude":54.47733,
-    "geom:longitude":17.51958,
-    "gn:admin1_code":"82.0",
-    "gn:admin2_code":"2212.0",
-    "gn:admin3_code":"221207.0",
-    "gn:asciiname":"Chlewnica",
-    "gn:country_code":"PL",
-    "gn:dem":91,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3101760,
-    "gn:latitude":54.47733,
-    "gn:longitude":17.51958,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Chlewnica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.49958,54.45733,17.53958,54.49733",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0644\u0648\u0646\u0642\u062a\u0633\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001954159119256017,
+    "geom:area_square_m": 1410141.3841181109,
+    "geom:bbox": "17.502638654993046,54.46991775301609,17.525921238006006,54.4827058050176",
+    "geom:latitude": 17.515780871173128,
+    "geom:longitude": 54.4752032997619,
+    "gn:admin1_code": "82.0",
+    "gn:admin2_code": "2212.0",
+    "gn:admin3_code": "221207.0",
+    "gn:asciiname": "Chlewnica",
+    "gn:country_code": "PL",
+    "gn:dem": 91,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3101760,
+    "gn:latitude": 54.47733,
+    "gn:longitude": 17.51958,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Chlewnica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.49958,54.45733,17.53958,54.49733",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خلونقتسا"
     ],
-    "name:csb_x_preferred":[
-        "Chl\u00e9wnica"
+    "name:csb_x_preferred": [
+      "Chléwnica"
     ],
-    "name:deu_x_preferred":[
-        "Chlewnica"
+    "name:deu_x_preferred": [
+      "Chlewnica"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0644\u0648\u0646\u06af\u062a\u0633\u0627"
+    "name:fas_x_preferred": [
+      "خلونگتسا"
     ],
-    "name:nld_x_preferred":[
-        "Chlewnica"
+    "name:nld_x_preferred": [
+      "Chlewnica"
     ],
-    "name:pol_x_preferred":[
-        "Chlewnica"
+    "name:pol_x_preferred": [
+      "Chlewnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u043b\u0435\u0432\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Хлевниця"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1477751377,
-        85633723,
-        102080255
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101760,
-        "wk:page":"Chlewnica"
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1477751377,
+      85633723,
+      102080255
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101760,
+      "pl-gugik:jpt_kod_je": "221207_2.0001",
+      "wk:page": "Chlewnica"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"5b88364cbe6acf530887a554afc28a5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080255,
-            "localadmin_id":1477751377,
-            "locality_id":1259515821,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d3fe1325c0060a5d818c37ca9034e16b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080255,
+        "localadmin_id": 1477751377,
+        "locality_id": 1259515821,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1259515821,
-    "wof:lastmodified":1570047668,
-    "wof:name":"Chlewnica",
-    "wof:parent_id":1477751377,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259515821,
+    "wof:lastmodified": 1669215915,
+    "wof:name": "Chlewnica",
+    "wof:parent_id": 1477751377,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.51958,
-    54.47733,
-    17.51958,
-    54.47733
-],
-  "geometry": {"coordinates":[17.51958,54.47733],"type":"Point"}
+    17.502638654993046,
+    54.46991775301609,
+    17.525921238006006,
+    54.4827058050176
+  ],
+  "geometry": {"coordinates":[[[17.502639,54.47701],[17.502734,54.477015],[17.504268,54.477063],[17.5057,54.477122],[17.507979,54.477214],[17.50982,54.477283],[17.511542,54.477357],[17.513904,54.477455],[17.515274,54.477506],[17.515137,54.478041],[17.51508,54.478264],[17.514794,54.479378],[17.514064,54.482397],[17.514048,54.482459],[17.514145,54.482706],[17.514236,54.482694],[17.51427,54.48269],[17.514613,54.482666],[17.515491,54.482579],[17.5172,54.482414],[17.518509,54.482278],[17.520223,54.482098],[17.522086,54.48193],[17.523826,54.481764],[17.524065,54.481599],[17.524068,54.480945],[17.523955,54.480124],[17.523951,54.4801],[17.524259,54.478866],[17.524294,54.478669],[17.524333,54.478445],[17.524428,54.477909],[17.5245,54.47769],[17.524503,54.477667],[17.524521,54.477538],[17.524526,54.477539],[17.52455,54.477399],[17.524559,54.477342],[17.524662,54.476883],[17.524752,54.476448],[17.52493,54.475561],[17.52504,54.475111],[17.525222,54.474223],[17.525415,54.47333],[17.525523,54.472881],[17.525616,54.472436],[17.525727,54.472],[17.525798,54.471543],[17.525815,54.471344],[17.525921,54.470897],[17.525781,54.470893],[17.525566,54.470886],[17.525404,54.470867],[17.523813,54.470761],[17.523652,54.470724],[17.522525,54.470449],[17.521102,54.470142],[17.520622,54.470137],[17.519858,54.469966],[17.518882,54.469918],[17.517135,54.469992],[17.516126,54.470035],[17.514039,54.47012],[17.512562,54.470179],[17.511044,54.470246],[17.510417,54.47027],[17.508934,54.470328],[17.506759,54.470419],[17.505794,54.470462],[17.505631,54.470469],[17.50553,54.470473],[17.503798,54.47055],[17.504062,54.471363],[17.504128,54.471566],[17.504152,54.471617],[17.504158,54.471637],[17.504187,54.471709],[17.504248,54.471863],[17.504273,54.472259],[17.504302,54.472693],[17.504387,54.473917],[17.504424,54.474452],[17.504458,54.474948],[17.504435,54.475187],[17.503073,54.476559],[17.502928,54.476712],[17.50283,54.47678],[17.502692,54.476944],[17.502639,54.47701]]],"type":"Polygon"}
 }

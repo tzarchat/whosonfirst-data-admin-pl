@@ -2,79 +2,83 @@
   "id": 1326562415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.31667,54.16667,21.31667,54.16667",
-    "geom:latitude":54.16667,
-    "geom:longitude":21.31667,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2808.0",
-    "gn:admin3_code":"280802.0",
-    "gn:asciiname":"Borszyny",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":69,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":775447,
-    "gn:latitude":54.16667,
-    "gn:longitude":21.31667,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Borszyny",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.29667,54.14667,21.33667,54.18667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Borschenen",
-        "Borszyny"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00024360662722501175,
+    "geom:area_square_m": 1771159.0207854565,
+    "geom:bbox": "21.286004326000477,54.150420213016524,21.308148979009385,54.17343389802314",
+    "geom:latitude": 21.29730057658874,
+    "geom:longitude": 54.16301533681757,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2808.0",
+    "gn:admin3_code": "280802.0",
+    "gn:asciiname": "Borszyny",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 69,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 775447,
+    "gn:latitude": 54.16667,
+    "gn:longitude": 21.31667,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Borszyny",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.29667,54.14667,21.33667,54.18667",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:und_x_variant": [
+      "Borschenen",
+      "Borszyny"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751361,
-        85633723,
-        102080249
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775447
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751361,
+      85633723,
+      102080249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775447,
+      "pl-gugik:jpt_kod_je": "280802_2.0006"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3be02585cc3ab36960a34c87666e6370",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080249,
-            "localadmin_id":1477751361,
-            "locality_id":1326562415,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "435eab879d2e0a6a9899d08ec4b935c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080249,
+        "localadmin_id": 1477751361,
+        "locality_id": 1326562415,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1326562415,
-    "wof:lastmodified":1570005956,
-    "wof:name":"Borszyny",
-    "wof:parent_id":1477751361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326562415,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Borszyny",
+    "wof:parent_id": 1477751361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.31667,
-    54.16667,
-    21.31667,
-    54.16667
-],
-  "geometry": {"coordinates":[21.31667,54.16667],"type":"Point"}
+    21.286004326000477,
+    54.150420213016524,
+    21.308148979009385,
+    54.17343389802314
+  ],
+  "geometry": {"coordinates":[[[21.301278,54.169152],[21.302315,54.167536],[21.303724,54.165414],[21.305203,54.163255],[21.306294,54.160617],[21.306196,54.160593],[21.305985,54.160515],[21.305587,54.160359],[21.30481,54.159908],[21.303755,54.159346],[21.301107,54.157639],[21.299968,54.156705],[21.300124,54.156649],[21.303536,54.155419],[21.305757,54.153515],[21.308149,54.151489],[21.306065,54.152028],[21.30139,54.151196],[21.29909,54.150928],[21.297573,54.150614],[21.296559,54.15042],[21.295544,54.151737],[21.295433,54.15188],[21.295688,54.152327],[21.296035,54.152882],[21.296768,54.153714],[21.297775,54.154658],[21.299043,54.155818],[21.296328,54.156772],[21.291984,54.158268],[21.291809,54.158328],[21.293991,54.160025],[21.293975,54.160187],[21.293937,54.160199],[21.293776,54.160251],[21.293513,54.160336],[21.290128,54.161497],[21.290192,54.161554],[21.290285,54.1616],[21.291782,54.16234],[21.290384,54.164477],[21.288752,54.16704],[21.288722,54.167087],[21.288658,54.167187],[21.287338,54.169154],[21.286423,54.170567],[21.286004,54.171211],[21.287988,54.171537],[21.291205,54.172142],[21.291274,54.172155],[21.291343,54.172167],[21.293951,54.172635],[21.298416,54.173434],[21.301278,54.169152]]],"type":"Polygon"}
 }

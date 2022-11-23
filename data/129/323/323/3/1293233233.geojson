@@ -2,81 +2,85 @@
   "id": 1293233233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.10039,50.9052,17.10039,50.9052",
-    "geom:latitude":50.9052,
-    "geom:longitude":17.10039,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"215.0",
-    "gn:admin3_code":"21502.0",
-    "gn:asciiname":"Danielowice",
-    "gn:country_code":"PL",
-    "gn:dem":141,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3100664,
-    "gn:latitude":50.9052,
-    "gn:longitude":17.10039,
-    "gn:modification_date":"2010-09-12",
-    "gn:name":"Danielowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.08039,50.8852,17.12039,50.9252",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Danielowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00006705793913883599,
+    "geom:area_square_m": 524744.5999518894,
+    "geom:bbox": "17.09294206799962,50.899909699009875,17.110598846002212,50.9093969460176",
+    "geom:latitude": 17.102716920655183,
+    "geom:longitude": 50.90442210603588,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "215.0",
+    "gn:admin3_code": "21502.0",
+    "gn:asciiname": "Danielowice",
+    "gn:country_code": "PL",
+    "gn:dem": 141,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3100664,
+    "gn:latitude": 50.9052,
+    "gn:longitude": 17.10039,
+    "gn:modification_date": "2010-09-12",
+    "gn:name": "Danielowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.08039,50.8852,17.12039,50.9252",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Danielowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u0430\u043d\u0435\u043b\u044c\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Данельовіце"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1477751765,
-        85633723,
-        102079651
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3100664,
-        "wk:page":"Danielowice"
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1477751765,
+      85633723,
+      102079651
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3100664,
+      "pl-gugik:jpt_kod_je": "021502_2.0003",
+      "wk:page": "Danielowice"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9692b9248befd47041701e7b92b2ef4c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079651,
-            "localadmin_id":1477751765,
-            "locality_id":1293233233,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "eff08a0d7a523b04b645325393346c0d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079651,
+        "localadmin_id": 1477751765,
+        "locality_id": 1293233233,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1293233233,
-    "wof:lastmodified":1570013648,
-    "wof:name":"Danielowice",
-    "wof:parent_id":1477751765,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293233233,
+    "wof:lastmodified": 1669215860,
+    "wof:name": "Danielowice",
+    "wof:parent_id": 1477751765,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.10039,
-    50.9052,
-    17.10039,
-    50.9052
-],
-  "geometry": {"coordinates":[17.10039,50.9052],"type":"Point"}
+    17.09294206799962,
+    50.899909699009875,
+    17.110598846002212,
+    50.9093969460176
+  ],
+  "geometry": {"coordinates":[[[17.092942,50.904768],[17.092949,50.904822],[17.093143,50.905348],[17.093366,50.90557],[17.09377,50.905838],[17.094442,50.906237],[17.094493,50.906222],[17.095872,50.905893],[17.095993,50.906051],[17.099798,50.905548],[17.099963,50.905553],[17.10006,50.905556],[17.100174,50.905566],[17.10185,50.905946],[17.102634,50.90612],[17.103779,50.906375],[17.105059,50.906659],[17.106747,50.90694],[17.105284,50.909397],[17.105746,50.90934],[17.105954,50.9093],[17.10643,50.909207],[17.107222,50.908999],[17.108186,50.908745],[17.108949,50.908605],[17.109201,50.908558],[17.11001,50.908373],[17.110337,50.908285],[17.110599,50.908235],[17.110338,50.907764],[17.110219,50.907613],[17.110126,50.907525],[17.109981,50.907431],[17.108462,50.905616],[17.108264,50.905379],[17.107941,50.904876],[17.107906,50.904828],[17.10773,50.904546],[17.106768,50.903133],[17.106736,50.903086],[17.106513,50.902754],[17.10648,50.902721],[17.106442,50.902683],[17.106396,50.902607],[17.106089,50.901737],[17.106024,50.901451],[17.106037,50.901312],[17.106262,50.900718],[17.106452,50.89991],[17.10637,50.899922],[17.103313,50.900544],[17.099163,50.901407],[17.098908,50.901458],[17.099604,50.902107],[17.099144,50.902664],[17.09901,50.902752],[17.09876,50.902855],[17.093014,50.904591],[17.09302,50.904765],[17.092942,50.904768]]],"type":"Polygon"}
 }

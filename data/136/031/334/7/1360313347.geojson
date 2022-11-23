@@ -2,84 +2,88 @@
   "id": 1360313347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.1334,52.76369,21.1334,52.76369",
-    "geom:latitude":52.76369,
-    "geom:longitude":21.1334,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1424.0",
-    "gn:admin3_code":"142404.0",
-    "gn:asciiname":"Szygowek",
-    "gn:country_code":"PL",
-    "gn:dem":80,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":757172,
-    "gn:latitude":52.76369,
-    "gn:longitude":21.1334,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Szyg\u00f3wek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.1134,52.74369,21.1534,52.78369",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Szyg\u00f3wek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002322693294008598,
+    "geom:area_square_m": 1744920.4479416944,
+    "geom:bbox": "21.12019100499821,52.75157430501373,21.144224373008353,52.76631806501823",
+    "geom:latitude": 21.13079130473615,
+    "geom:longitude": 52.76013933637675,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1424.0",
+    "gn:admin3_code": "142404.0",
+    "gn:asciiname": "Szygowek",
+    "gn:country_code": "PL",
+    "gn:dem": 80,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 757172,
+    "gn:latitude": 52.76369,
+    "gn:longitude": 21.1334,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Szygówek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.1134,52.74369,21.1534,52.78369",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Szygówek"
     ],
-    "name:pol_x_preferred":[
-        "Szyg\u00f3wek"
+    "name:pol_x_preferred": [
+      "Szygówek"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u0438\u0491\u0443\u0432\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Шиґувек"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125302285,
-        85633723,
-        102080027
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757172,
-        "wk:page":"Szyg%C3%B3wek"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125302285,
+      85633723,
+      102080027
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757172,
+      "pl-gugik:jpt_kod_je": "142404_5.0021",
+      "wk:page": "Szyg%C3%B3wek"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"922db6dbcfd185fb694f583f8940e0b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080027,
-            "localadmin_id":1125302285,
-            "locality_id":1360313347,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fbd7128fcf98c8134f4d7d1e19a29664",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080027,
+        "localadmin_id": 1125302285,
+        "locality_id": 1360313347,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1360313347,
-    "wof:lastmodified":1570029006,
-    "wof:name":"Szygowek",
-    "wof:parent_id":1125302285,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360313347,
+    "wof:lastmodified": 1669215942,
+    "wof:name": "Szygowek",
+    "wof:parent_id": 1125302285,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.1334,
-    52.76369,
-    21.1334,
-    52.76369
-],
-  "geometry": {"coordinates":[21.1334,52.76369],"type":"Point"}
+    21.12019100499821,
+    52.75157430501373,
+    21.144224373008353,
+    52.76631806501823
+  ],
+  "geometry": {"coordinates":[[[21.12804,52.751574],[21.125395,52.751654],[21.124312,52.751648],[21.122278,52.751666],[21.122084,52.75314],[21.120582,52.756474],[21.120499,52.756925],[21.120478,52.757036],[21.120191,52.758592],[21.120223,52.759201],[21.120271,52.760001],[21.120722,52.761452],[21.121808,52.763822],[21.125467,52.765373],[21.127748,52.765621],[21.128082,52.765625],[21.130607,52.76598],[21.133096,52.765902],[21.133143,52.765906],[21.133821,52.765961],[21.134468,52.766015],[21.134558,52.766022],[21.134693,52.766033],[21.134863,52.766047],[21.13501,52.76606],[21.135332,52.766086],[21.135639,52.766111],[21.136067,52.766147],[21.136139,52.766153],[21.136488,52.766112],[21.1365,52.766111],[21.136668,52.766091],[21.136887,52.766066],[21.137271,52.766021],[21.137629,52.765979],[21.137689,52.765972],[21.137973,52.766004],[21.138388,52.766051],[21.138754,52.766093],[21.139143,52.766137],[21.13952,52.76618],[21.139899,52.766223],[21.14034,52.766273],[21.140458,52.766275],[21.144224,52.766318],[21.144197,52.766278],[21.143918,52.765781],[21.143655,52.765366],[21.143638,52.76534],[21.143613,52.765302],[21.143597,52.765278],[21.142785,52.764018],[21.142895,52.76213],[21.142935,52.761182],[21.142908,52.760317],[21.142129,52.758974],[21.141952,52.758668],[21.141773,52.758616],[21.141109,52.758423],[21.141083,52.758415],[21.141022,52.758398],[21.140928,52.758369],[21.139451,52.757917],[21.139059,52.757865],[21.136876,52.757575],[21.135724,52.757497],[21.135697,52.757704],[21.135498,52.75759],[21.134483,52.756781],[21.133464,52.755943],[21.133344,52.755844],[21.131849,52.755195],[21.130922,52.754764],[21.129836,52.754399],[21.128044,52.754078],[21.128064,52.753197],[21.128095,52.752533],[21.12804,52.751574]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1260211469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.18622,53.52439,21.18622,53.52439",
-    "geom:latitude":53.52439,
-    "geom:longitude":21.18622,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2817.0",
-    "gn:admin3_code":"281707.0",
-    "gn:asciiname":"Jerominy",
-    "gn:country_code":"PL",
-    "gn:dem":139,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":770099,
-    "gn:latitude":53.52439,
-    "gn:longitude":21.18622,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Jerominy",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.16622,53.50439,21.20622,53.54439",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Jerominy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00020104722895375433,
+    "geom:area_square_m": 1484072.8476242458,
+    "geom:bbox": "21.17892891999852,53.51384051002091,21.20047189601133,53.52850197302197",
+    "geom:latitude": 21.18895947193414,
+    "geom:longitude": 53.52180934539282,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2817.0",
+    "gn:admin3_code": "281707.0",
+    "gn:asciiname": "Jerominy",
+    "gn:country_code": "PL",
+    "gn:dem": 139,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 770099,
+    "gn:latitude": 53.52439,
+    "gn:longitude": 21.18622,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Jerominy",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.16622,53.50439,21.20622,53.54439",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Jerominy"
     ],
-    "name:ukr_x_preferred":[
-        "\u0404\u0440\u043e\u043c\u0456\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Єроміни"
     ],
-    "name:und_x_variant":[
-        "Jeromin"
+    "name:und_x_variant": [
+      "Jeromin"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751469,
-        85633723,
-        102080167
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":770099,
-        "wk:page":"Jerominy"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751469,
+      85633723,
+      102080167
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 770099,
+      "pl-gugik:jpt_kod_je": "281707_2.0005",
+      "wk:page": "Jerominy"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"df9eaa278503ff07f0cd3b8d8e5e8a59",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080167,
-            "localadmin_id":1477751469,
-            "locality_id":1260211469,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "9c00c44a2e7908729bee0dbe0db9750d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080167,
+        "localadmin_id": 1477751469,
+        "locality_id": 1260211469,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1260211469,
-    "wof:lastmodified":1570025985,
-    "wof:name":"Jerominy",
-    "wof:parent_id":1477751469,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260211469,
+    "wof:lastmodified": 1669215921,
+    "wof:name": "Jerominy",
+    "wof:parent_id": 1477751469,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.18622,
-    53.52439,
-    21.18622,
-    53.52439
-],
-  "geometry": {"coordinates":[21.18622,53.52439],"type":"Point"}
+    21.17892891999852,
+    53.51384051002091,
+    21.20047189601133,
+    53.52850197302197
+  ],
+  "geometry": {"coordinates":[[[21.178929,53.520235],[21.178953,53.520628],[21.178972,53.521011],[21.178968,53.521277],[21.179003,53.52229],[21.17905,53.522447],[21.179363,53.523434],[21.179561,53.524047],[21.179742,53.524658],[21.179771,53.524849],[21.179884,53.524879],[21.183731,53.525886],[21.183858,53.52592],[21.184485,53.526078],[21.185318,53.526287],[21.186215,53.526514],[21.186725,53.526642],[21.188595,53.527113],[21.188628,53.527122],[21.189447,53.527328],[21.189548,53.527353],[21.190779,53.527643],[21.192796,53.526382],[21.193634,53.527666],[21.193777,53.527885],[21.193947,53.528372],[21.195664,53.528432],[21.195814,53.528445],[21.197661,53.528467],[21.200472,53.528502],[21.200464,53.528441],[21.200316,53.527319],[21.200301,53.527207],[21.200194,53.52698],[21.200147,53.526546],[21.200093,53.526205],[21.19994,53.525018],[21.199841,53.524232],[21.199837,53.524195],[21.199834,53.524173],[21.199729,53.523262],[21.199726,53.523241],[21.199452,53.520836],[21.199409,53.520778],[21.197187,53.521257],[21.197102,53.521276],[21.196152,53.52148],[21.195759,53.521576],[21.195651,53.521597],[21.195163,53.521675],[21.193875,53.519835],[21.193641,53.519496],[21.192875,53.51845],[21.192835,53.518406],[21.192799,53.518352],[21.192749,53.518282],[21.192325,53.517675],[21.191206,53.516158],[21.191157,53.51607],[21.190729,53.515534],[21.189347,53.51524],[21.189232,53.515212],[21.187003,53.514749],[21.187367,53.513841],[21.18608,53.51402],[21.18562,53.514084],[21.18474,53.51408],[21.184093,53.514077],[21.183578,53.514074],[21.182532,53.514068],[21.182301,53.514482],[21.181619,53.515706],[21.181409,53.516084],[21.181034,53.516759],[21.180651,53.517452],[21.180024,53.518085],[21.17931,53.518811],[21.179178,53.519335],[21.179068,53.519735],[21.178956,53.520142],[21.178929,53.520235]]],"type":"Polygon"}
 }

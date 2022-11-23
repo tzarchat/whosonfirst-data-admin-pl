@@ -2,307 +2,311 @@
   "id": 1125846371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.3145,53.03172,14.3145,53.03172",
-    "geom:latitude":53.03172,
-    "geom:longitude":14.3145,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"14.2945,53.01172,14.3345,53.05172",
-    "lbl:latitude":53.03172,
-    "lbl:longitude":14.3145,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:afr_x_preferred":[
-        "Krajnik Dolny"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006494026611620804,
+    "geom:area_square_m": 4849027.293684619,
+    "geom:bbox": "14.294265502862409,53.01424443802321,14.346542239880927,53.042826653025045",
+    "geom:latitude": 14.322562989661964,
+    "geom:longitude": 53.02654685909692,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "14.2945,53.01172,14.3345,53.05172",
+    "lbl:latitude": 53.03172,
+    "lbl:longitude": 14.3145,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:arg_x_preferred":[
-        "Krajnik Dolny"
+    "name:arg_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ast_x_preferred":[
-        "Krajnik Dolny"
+    "name:ast_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0631\u0627\u06cc\u0646\u0642\u06a9 \u062f\u0648\u0644\u0646\u0647"
+    "name:azb_x_preferred": [
+      "کراینقک دولنه"
     ],
-    "name:bar_x_preferred":[
-        "Krajnik Dolny"
+    "name:bar_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:bre_x_preferred":[
-        "Krajnik Dolny"
+    "name:bre_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:cat_x_preferred":[
-        "Krajnik Dolny"
+    "name:cat_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ces_x_preferred":[
-        "Krajnik Dolny"
+    "name:ces_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:cos_x_preferred":[
-        "Krajnik Dolny"
+    "name:cos_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:cym_x_preferred":[
-        "Krajnik Dolny"
+    "name:cym_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:dan_x_preferred":[
-        "Krajnik Dolny"
+    "name:dan_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:deu_x_preferred":[
-        "Krajnik Dolny"
+    "name:deu_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:eng_x_preferred":[
-        "Krajnik Dolny"
+    "name:eng_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:epo_x_preferred":[
-        "Krajnik Dolny"
+    "name:epo_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:est_x_preferred":[
-        "Krajnik Dolny"
+    "name:est_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:eus_x_preferred":[
-        "Krajnik Dolny"
+    "name:eus_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0631\u0627\u06cc\u0646\u06af\u06a9 \u062f\u0648\u0644\u0646\u0647"
+    "name:fas_x_preferred": [
+      "کراینگک دولنه"
     ],
-    "name:fin_x_preferred":[
-        "Krajnik Dolny"
+    "name:fin_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:fra_x_preferred":[
-        "Krajnik Dolny"
+    "name:fra_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:frp_x_preferred":[
-        "Krajnik Dolny"
+    "name:frp_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:fur_x_preferred":[
-        "Krajnik Dolny"
+    "name:fur_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:gla_x_preferred":[
-        "Krajnik Dolny"
+    "name:gla_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:gle_x_preferred":[
-        "Krajnik Dolny"
+    "name:gle_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:glg_x_preferred":[
-        "Krajnik Dolny"
+    "name:glg_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:gsw_x_preferred":[
-        "Krajnik Dolny"
+    "name:gsw_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:hrv_x_preferred":[
-        "Krajnik Dolny"
+    "name:hrv_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:hun_x_preferred":[
-        "Krajnik Dolny"
+    "name:hun_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ido_x_preferred":[
-        "Krajnik Dolny"
+    "name:ido_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ile_x_preferred":[
-        "Krajnik Dolny"
+    "name:ile_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ina_x_preferred":[
-        "Krajnik Dolny"
+    "name:ina_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ind_x_preferred":[
-        "Krajnik Dolny"
+    "name:ind_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:isl_x_preferred":[
-        "Krajnik Dolny"
+    "name:isl_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ita_x_preferred":[
-        "Krajnik Dolny"
+    "name:ita_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:kon_x_preferred":[
-        "Krajnik Dolny"
+    "name:kon_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:lij_x_preferred":[
-        "Krajnik Dolny"
+    "name:lij_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:lim_x_preferred":[
-        "Krajnik Dolny"
+    "name:lim_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ltz_x_preferred":[
-        "Krajnik Dolny"
+    "name:ltz_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:min_x_preferred":[
-        "Krajnik Dolny"
+    "name:min_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:mlg_x_preferred":[
-        "Krajnik Dolny"
+    "name:mlg_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:msa_x_preferred":[
-        "Krajnik Dolny"
+    "name:msa_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nan_x_preferred":[
-        "Krajnik Dolny"
+    "name:nan_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nap_x_preferred":[
-        "Krajnik Dolny"
+    "name:nap_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nds_x_preferred":[
-        "Krajnik Dolny"
+    "name:nds_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nld_x_preferred":[
-        "Krajnik Dolny"
+    "name:nld_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nno_x_preferred":[
-        "Krajnik Dolny"
+    "name:nno_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nob_x_preferred":[
-        "Krajnik Dolny"
+    "name:nob_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:nrm_x_preferred":[
-        "Krajnik Dolny"
+    "name:nrm_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:oci_x_preferred":[
-        "Krajnik Dolny"
+    "name:oci_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:pcd_x_preferred":[
-        "Krajnik Dolny"
+    "name:pcd_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:pms_x_preferred":[
-        "Krajnik Dolny"
+    "name:pms_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:pol_x_preferred":[
-        "Krajnik Dolny"
+    "name:pol_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:por_x_preferred":[
-        "Krajnik Dolny"
+    "name:por_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:roh_x_preferred":[
-        "Krajnik Dolny"
+    "name:roh_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ron_x_preferred":[
-        "Krajnik Dolny"
+    "name:ron_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:scn_x_preferred":[
-        "Krajnik Dolny"
+    "name:scn_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:sco_x_preferred":[
-        "Krajnik Dolny"
+    "name:sco_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:slk_x_preferred":[
-        "Krajnik Dolny"
+    "name:slk_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:slv_x_preferred":[
-        "Krajnik Dolny"
+    "name:slv_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:spa_x_preferred":[
-        "Krajnik Dolny"
+    "name:spa_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:srd_x_preferred":[
-        "Krajnik Dolny"
+    "name:srd_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:swa_x_preferred":[
-        "Krajnik Dolny"
+    "name:swa_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:swe_x_preferred":[
-        "Krajnik Dolny"
+    "name:swe_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0440\u0430\u0439\u043d\u0438\u043a-\u0414\u043e\u043b\u044c\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Крайник-Дольни"
     ],
-    "name:und_x_variant":[
-        "Nieder Kr\u00e4nig"
+    "name:und_x_variant": [
+      "Nieder Kränig"
     ],
-    "name:vec_x_preferred":[
-        "Krajnik Dolny"
+    "name:vec_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:vie_x_preferred":[
-        "Krajnik Dolny"
+    "name:vie_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:vls_x_preferred":[
-        "Krajnik Dolny"
+    "name:vls_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:vol_x_preferred":[
-        "Krajnik Dolny"
+    "name:vol_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:wln_x_preferred":[
-        "Krajnik Dolny"
+    "name:wln_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:wol_x_preferred":[
-        "Krajnik Dolny"
+    "name:wol_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "name:zul_x_preferred":[
-        "Krajnik Dolny"
+    "name:zul_x_preferred": [
+      "Krajnik Dolny"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3094805,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Krajnik Dolny",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos":6,
-    "qs_pg:photos_1k":1,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":6,
-    "qs_pg:photos_sr":1,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":22962,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":502062,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125376845,
-        85633723,
-        102080047
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3094805,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Krajnik Dolny",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos": 6,
+    "qs_pg:photos_1k": 1,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 6,
+    "qs_pg:photos_sr": 1,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 22962,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 502062,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3094805,
-        "gp:id":502062,
-        "qs_pg:id":22962,
-        "wd:id":"Q374564"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125376845,
+      85633723,
+      102080047
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3094805,
+      "gp:id": 502062,
+      "pl-gugik:jpt_kod_je": "320603_5.0004",
+      "qs_pg:id": 22962,
+      "wd:id": "Q374564"
     },
-    "wof:country":"PL",
-    "wof:created":1497293179,
-    "wof:geomhash":"744a3380c2a6a8f819f0928ede7bbc0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080047,
-            "localadmin_id":1125376845,
-            "locality_id":1125846371,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497293179,
+    "wof:geomhash": "80d18799934ab6c25f056b916fa37e7e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080047,
+        "localadmin_id": 1125376845,
+        "locality_id": 1125846371,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125846371,
-    "wof:lastmodified":1570039996,
-    "wof:name":"Krajnik Dolny",
-    "wof:parent_id":1125376845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125846371,
+    "wof:lastmodified": 1669215915,
+    "wof:name": "Krajnik Dolny",
+    "wof:parent_id": 1125376845,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.3145,
-    53.03172,
-    14.3145,
-    53.03172
-],
-  "geometry": {"coordinates":[14.3145,53.03172],"type":"Point"}
+    14.294265502862409,
+    53.01424443802321,
+    14.346542239880927,
+    53.042826653025045
+  ],
+  "geometry": {"coordinates":[[[14.294266,53.020223],[14.294539,53.020361],[14.294963,53.020568],[14.295266,53.020717],[14.295894,53.02078],[14.296169,53.020841],[14.296421,53.020896],[14.295995,53.021255],[14.295405,53.021772],[14.295368,53.021776],[14.295353,53.021786],[14.295302,53.021819],[14.294685,53.022222],[14.294914,53.022671],[14.295827,53.02307],[14.297394,53.023577],[14.298081,53.024433],[14.299053,53.025669],[14.300325,53.026487],[14.302219,53.027411],[14.303426,53.028468],[14.304366,53.028785],[14.305873,53.029054],[14.306848,53.029745],[14.3085,53.031154],[14.308888,53.031971],[14.310424,53.033145],[14.310924,53.033909],[14.311186,53.034612],[14.312334,53.035519],[14.314878,53.036886],[14.31767,53.038217],[14.319266,53.038342],[14.321201,53.039319],[14.321796,53.039942],[14.322219,53.04087],[14.323384,53.041644],[14.32637,53.042827],[14.328981,53.042218],[14.329099,53.042189],[14.329142,53.042177],[14.329395,53.042105],[14.329441,53.042092],[14.329729,53.042011],[14.330114,53.041909],[14.330057,53.041881],[14.329826,53.04175],[14.328839,53.041187],[14.328619,53.041079],[14.32833,53.040944],[14.328275,53.040912],[14.327612,53.040504],[14.327548,53.040472],[14.327601,53.04043],[14.327372,53.040323],[14.326905,53.040103],[14.326196,53.039768],[14.326126,53.039729],[14.325877,53.03957],[14.325801,53.039538],[14.325353,53.039287],[14.325149,53.038859],[14.324911,53.038462],[14.324841,53.038039],[14.325165,53.037541],[14.325267,53.037585],[14.325336,53.037614],[14.325376,53.037631],[14.326152,53.037766],[14.326223,53.037721],[14.326499,53.037546],[14.32698,53.037916],[14.327227,53.037797],[14.32771,53.037553],[14.328193,53.037308],[14.327884,53.037254],[14.327041,53.037675],[14.326087,53.036963],[14.325728,53.036564],[14.325248,53.036041],[14.32516,53.035944],[14.32505,53.035825],[14.325582,53.035559],[14.325801,53.035459],[14.326096,53.035311],[14.327294,53.034714],[14.328595,53.0341],[14.328613,53.03409],[14.328854,53.033977],[14.329532,53.033651],[14.330742,53.03307],[14.331161,53.032864],[14.331199,53.032846],[14.333043,53.031942],[14.335677,53.030308],[14.335807,53.030227],[14.33584,53.030207],[14.33714,53.029401],[14.337258,53.029328],[14.33818,53.028754],[14.338365,53.028646],[14.340483,53.027322],[14.341089,53.026943],[14.341136,53.026913],[14.341729,53.026542],[14.342011,53.026366],[14.342984,53.025758],[14.343961,53.025157],[14.344917,53.024569],[14.344968,53.024538],[14.346066,53.023854],[14.345303,53.023493],[14.345064,53.02338],[14.34558,53.02298],[14.345104,53.022779],[14.344946,53.022713],[14.345582,53.022129],[14.345696,53.022001],[14.34595,53.021713],[14.346484,53.021109],[14.346542,53.021045],[14.346437,53.021005],[14.344022,53.020081],[14.342837,53.019548],[14.341498,53.018973],[14.341379,53.018937],[14.340244,53.018442],[14.340071,53.018367],[14.339745,53.018224],[14.339462,53.018097],[14.336947,53.016966],[14.336367,53.016705],[14.334835,53.016032],[14.333911,53.015626],[14.333825,53.015595],[14.333493,53.015454],[14.333199,53.015325],[14.332879,53.015181],[14.33272,53.01511],[14.331791,53.014692],[14.331349,53.014493],[14.330799,53.014244],[14.329449,53.014932],[14.328785,53.01527],[14.328465,53.015432],[14.328399,53.015466],[14.327906,53.015713],[14.327723,53.015805],[14.327362,53.015984],[14.327037,53.016146],[14.326413,53.016465],[14.326383,53.01648],[14.325924,53.016709],[14.325154,53.017094],[14.324662,53.01734],[14.324418,53.017462],[14.32409,53.017627],[14.323977,53.017685],[14.3236,53.017886],[14.323159,53.018118],[14.32198,53.018736],[14.321943,53.018755],[14.321346,53.019069],[14.321336,53.019075],[14.321234,53.019131],[14.320835,53.019327],[14.319799,53.019864],[14.319397,53.020072],[14.31891,53.020305],[14.318819,53.02035],[14.318363,53.020578],[14.317643,53.020936],[14.317268,53.020969],[14.31573,53.021486],[14.315412,53.021611],[14.314983,53.021779],[14.314605,53.021927],[14.314532,53.021955],[14.314001,53.022163],[14.313957,53.022169],[14.313762,53.022223],[14.313206,53.022386],[14.312728,53.022351],[14.312136,53.022308],[14.311556,53.022266],[14.310908,53.02222],[14.310117,53.022162],[14.308651,53.022056],[14.307527,53.021974],[14.307438,53.021968],[14.306728,53.021916],[14.306306,53.021491],[14.305663,53.020844],[14.305558,53.020738],[14.30486,53.019927],[14.304602,53.019627],[14.304212,53.019717],[14.303977,53.019772],[14.303642,53.019849],[14.303328,53.019922],[14.30295,53.020014],[14.302072,53.020226],[14.302004,53.020242],[14.300814,53.020541],[14.300138,53.02071],[14.299556,53.020834],[14.299138,53.020923],[14.298552,53.021055],[14.298301,53.020992],[14.297724,53.02065],[14.297056,53.020254],[14.296315,53.020325],[14.296317,53.02022],[14.296307,53.020075],[14.296298,53.019955],[14.296286,53.019375],[14.296085,53.019358],[14.296043,53.019354],[14.295207,53.019285],[14.294661,53.019644],[14.294266,53.020223]]],"type":"Polygon"}
 }

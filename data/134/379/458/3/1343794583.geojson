@@ -2,87 +2,91 @@
   "id": 1343794583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.98255,50.424,23.98255,50.424",
-    "geom:latitude":50.424,
-    "geom:longitude":23.98255,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"618.0",
-    "gn:admin3_code":"61813.0",
-    "gn:asciiname":"Oserdow",
-    "gn:country_code":"PL",
-    "gn:dem":226,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":763020,
-    "gn:latitude":50.424,
-    "gn:longitude":23.98255,
-    "gn:modification_date":"2011-01-08",
-    "gn:name":"Oserd\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.96255,50.404,24.00255,50.444",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Oserd\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00032366887045166224,
+    "geom:area_square_m": 2558513.25394741,
+    "geom:bbox": "23.96601880627944,50.417605297017424,23.99363714428847,50.43284255902066",
+    "geom:latitude": 23.979883461069004,
+    "geom:longitude": 50.42492355278852,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "618.0",
+    "gn:admin3_code": "61813.0",
+    "gn:asciiname": "Oserdow",
+    "gn:country_code": "PL",
+    "gn:dem": 226,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 763020,
+    "gn:latitude": 50.424,
+    "gn:longitude": 23.98255,
+    "gn:modification_date": "2011-01-08",
+    "gn:name": "Oserdów",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.96255,50.404,24.00255,50.444",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Oserdów"
     ],
-    "name:pol_x_preferred":[
-        "Oserd\u00f3w"
+    "name:pol_x_preferred": [
+      "Oserdów"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u0441\u0435\u0440\u0434\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Осердув"
     ],
-    "name:und_x_variant":[
-        "Oserduv"
+    "name:und_x_variant": [
+      "Oserduv"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125375727,
-        85633723,
-        102079689
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":763020,
-        "wk:page":"Oserd%C3%B3w"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125375727,
+      85633723,
+      102079689
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 763020,
+      "pl-gugik:jpt_kod_je": "061813_2.0011",
+      "wk:page": "Oserd%C3%B3w"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"fd08557dee67f44c20517066ef2dc7b1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079689,
-            "localadmin_id":1125375727,
-            "locality_id":1343794583,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "2680374c28454b7d5e5d8714dcf50bf6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079689,
+        "localadmin_id": 1125375727,
+        "locality_id": 1343794583,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1343794583,
-    "wof:lastmodified":1570009951,
-    "wof:name":"Oserdow",
-    "wof:parent_id":1125375727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343794583,
+    "wof:lastmodified": 1669215949,
+    "wof:name": "Oserdow",
+    "wof:parent_id": 1125375727,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.98255,
-    50.424,
-    23.98255,
-    50.424
-],
-  "geometry": {"coordinates":[23.98255,50.424],"type":"Point"}
+    23.96601880627944,
+    50.417605297017424,
+    23.99363714428847,
+    50.43284255902066
+  ],
+  "geometry": {"coordinates":[[[23.966019,50.419288],[23.9664,50.420341],[23.96659,50.420866],[23.96677,50.421363],[23.966969,50.421913],[23.96712,50.422332],[23.967139,50.422385],[23.967277,50.422765],[23.9673,50.422828],[23.96762,50.423713],[23.96765,50.423795],[23.967782,50.424162],[23.967886,50.424449],[23.967976,50.424697],[23.968016,50.424808],[23.968165,50.425219],[23.968353,50.42574],[23.968374,50.425797],[23.968583,50.426375],[23.968672,50.426619],[23.96871,50.426724],[23.969024,50.427593],[23.96914,50.427913],[23.969257,50.428236],[23.969504,50.428918],[23.969587,50.429149],[23.969753,50.429608],[23.969847,50.429868],[23.969926,50.430084],[23.970017,50.430336],[23.97003,50.430373],[23.970124,50.430631],[23.97017,50.43076],[23.9703,50.431119],[23.970611,50.431977],[23.970635,50.432044],[23.970924,50.432843],[23.971348,50.432728],[23.972876,50.432522],[23.97513,50.432427],[23.975214,50.432425],[23.978388,50.432335],[23.979701,50.432099],[23.979914,50.43206],[23.980954,50.431874],[23.981809,50.431824],[23.98332,50.431738],[23.98828,50.431942],[23.990598,50.431732],[23.990696,50.431723],[23.991316,50.430815],[23.991518,50.430125],[23.991591,50.429081],[23.99155,50.427404],[23.991543,50.424766],[23.99146,50.421965],[23.993637,50.419135],[23.993493,50.41912],[23.993451,50.419116],[23.991267,50.41888],[23.98968,50.41871],[23.984261,50.418074],[23.984195,50.418068],[23.984182,50.418066],[23.98414,50.418062],[23.979534,50.417626],[23.979313,50.417605],[23.978395,50.41773],[23.976796,50.417948],[23.976155,50.418036],[23.975809,50.418083],[23.975373,50.418143],[23.974875,50.418203],[23.974095,50.418297],[23.973172,50.418408],[23.972544,50.418483],[23.971766,50.418577],[23.971531,50.418606],[23.971164,50.418651],[23.970419,50.418743],[23.969718,50.41883],[23.969442,50.418864],[23.969012,50.418917],[23.968169,50.419021],[23.967455,50.41911],[23.966755,50.419196],[23.966019,50.419288]]],"type":"Polygon"}
 }

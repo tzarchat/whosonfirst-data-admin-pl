@@ -2,90 +2,94 @@
   "id": 1226474895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.73618,52.0602,20.73618,52.0602",
-    "geom:latitude":52.0602,
-    "geom:longitude":20.73618,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1421.0",
-    "gn:admin3_code":"142105.0",
-    "gn:asciiname":"Kostowiec",
-    "gn:country_code":"PL",
-    "gn:dem":144,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":767981,
-    "gn:latitude":52.0602,
-    "gn:longitude":20.73618,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kostowiec",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.71618,52.0402,20.75618,52.0802",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u0633\u062a\u0648\u0648\u06cc\u062a\u0633"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010846473689649343,
+    "geom:area_square_m": 827748.0095406455,
+    "geom:bbox": "20.72911997099725,52.05591067401201,20.744653242001583,52.06546801401234",
+    "geom:latitude": 20.737814558161165,
+    "geom:longitude": 52.05992690316078,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1421.0",
+    "gn:admin3_code": "142105.0",
+    "gn:asciiname": "Kostowiec",
+    "gn:country_code": "PL",
+    "gn:dem": 144,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 767981,
+    "gn:latitude": 52.0602,
+    "gn:longitude": 20.73618,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kostowiec",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.71618,52.0402,20.75618,52.0802",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "کوستوویتس"
     ],
-    "name:ces_x_preferred":[
-        "Kostowiec"
+    "name:ces_x_preferred": [
+      "Kostowiec"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0648\u0633\u062a\u0648\u0648\u06cc\u062a\u0633"
+    "name:fas_x_preferred": [
+      "کوستوویتس"
     ],
-    "name:fra_x_preferred":[
-        "Kostowiec"
+    "name:fra_x_preferred": [
+      "Kostowiec"
     ],
-    "name:pol_x_preferred":[
-        "Kostowiec"
+    "name:pol_x_preferred": [
+      "Kostowiec"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125347727,
-        85633723,
-        102079919
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":767981,
-        "wk:page":"Kostowiec"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125347727,
+      85633723,
+      102079919
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 767981,
+      "pl-gugik:jpt_kod_je": "142105_2.0004",
+      "wk:page": "Kostowiec"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9ed8a3f41ff9a2a3cee6fb0432c8a662",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079919,
-            "localadmin_id":1125347727,
-            "locality_id":1226474895,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "30a88b4d7f02336ab20ce29a818c38ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079919,
+        "localadmin_id": 1125347727,
+        "locality_id": 1226474895,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1226474895,
-    "wof:lastmodified":1570051514,
-    "wof:name":"Kostowiec",
-    "wof:parent_id":1125347727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226474895,
+    "wof:lastmodified": 1669215951,
+    "wof:name": "Kostowiec",
+    "wof:parent_id": 1125347727,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.73618,
-    52.0602,
-    20.73618,
-    52.0602
-],
-  "geometry": {"coordinates":[20.73618,52.0602],"type":"Point"}
+    20.72911997099725,
+    52.05591067401201,
+    20.744653242001583,
+    52.06546801401234
+  ],
+  "geometry": {"coordinates":[[[20.72912,52.055911],[20.729543,52.056531],[20.729589,52.056598],[20.729851,52.057049],[20.72989,52.057115],[20.729913,52.057156],[20.731224,52.059321],[20.732116,52.060621],[20.733403,52.062497],[20.733416,52.062516],[20.733408,52.062544],[20.733046,52.063635],[20.73303,52.063689],[20.732957,52.063929],[20.732948,52.064011],[20.732859,52.064295],[20.732733,52.064694],[20.732503,52.065426],[20.732489,52.065468],[20.73343,52.065225],[20.733493,52.065219],[20.73392,52.065157],[20.734224,52.065152],[20.734879,52.065081],[20.73519,52.065005],[20.735889,52.064873],[20.737218,52.064632],[20.738305,52.064409],[20.741022,52.063843],[20.742921,52.063599],[20.743575,52.063422],[20.744077,52.06322],[20.744291,52.063099],[20.744375,52.063029],[20.744401,52.063003],[20.744465,52.062946],[20.744579,52.062777],[20.744635,52.062596],[20.744628,52.060725],[20.744621,52.060729],[20.744622,52.06037],[20.744624,52.060011],[20.744628,52.059346],[20.744632,52.059232],[20.744634,52.058614],[20.744633,52.058544],[20.744636,52.057621],[20.744644,52.056881],[20.744653,52.055962],[20.744531,52.055962],[20.741772,52.055969],[20.741534,52.055969],[20.739293,52.055977],[20.738594,52.05598],[20.738517,52.05598],[20.738122,52.055981],[20.737884,52.055983],[20.737781,52.055984],[20.737655,52.055983],[20.737447,52.055984],[20.736995,52.055986],[20.736937,52.055986],[20.734921,52.055996],[20.734827,52.055995],[20.734142,52.055985],[20.733963,52.055982],[20.733794,52.055979],[20.733279,52.055971],[20.732811,52.055964],[20.732249,52.055955],[20.732035,52.055952],[20.731277,52.05594],[20.730962,52.055939],[20.730659,52.055934],[20.730196,52.055928],[20.729581,52.055917],[20.72912,52.055911]]],"type":"Polygon"}
 }

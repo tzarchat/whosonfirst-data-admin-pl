@@ -2,93 +2,97 @@
   "id": 1209132303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.7266,53.32107,23.7266,53.32107",
-    "geom:latitude":53.32107,
-    "geom:longitude":23.7266,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201110.0",
-    "gn:asciiname":"Harkawicze",
-    "gn:country_code":"PL",
-    "gn:dem":164,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":771133,
-    "gn:latitude":53.32107,
-    "gn:longitude":23.7266,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Harkawicze",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.7066,53.30107,23.7466,53.34107",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0627\u0631\u06a9\u0627\u0648\u06cc\u0686\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0013152884117593956,
+    "geom:area_square_m": 9755003.569284657,
+    "geom:bbox": "23.689316928121723,53.301072946023375,23.75622421113634,53.33688213802348",
+    "geom:latitude": 23.722929673395154,
+    "geom:longitude": 53.319378402410464,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201110.0",
+    "gn:asciiname": "Harkawicze",
+    "gn:country_code": "PL",
+    "gn:dem": 164,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 771133,
+    "gn:latitude": 53.32107,
+    "gn:longitude": 23.7266,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Harkawicze",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.7066,53.30107,23.7466,53.34107",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خارکاویچه"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0627\u0631\u06a9\u0627\u0648\u06cc\u0686\u0647"
+    "name:fas_x_preferred": [
+      "خارکاویچه"
     ],
-    "name:fra_x_preferred":[
-        "Harkawicze"
+    "name:fra_x_preferred": [
+      "Harkawicze"
     ],
-    "name:lit_x_preferred":[
-        "Harkavi\u010d\u0117"
+    "name:lit_x_preferred": [
+      "Harkavičė"
     ],
-    "name:pol_x_preferred":[
-        "Harkawicze"
+    "name:pol_x_preferred": [
+      "Harkawicze"
     ],
-    "name:ukr_x_preferred":[
-        "\u0413\u0430\u0440\u043a\u0430\u0432\u0456\u0447\u0435"
+    "name:ukr_x_preferred": [
+      "Гаркавіче"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752205,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":771133,
-        "wk:page":"Harkawicze"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752205,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 771133,
+      "pl-gugik:jpt_kod_je": "201110_2.0008",
+      "wk:page": "Harkawicze"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"e1f68a0fd9a4a3d391ae65887e9286c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477752205,
-            "locality_id":1209132303,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fa9e1cd6b47f54858721ae997c360cc1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477752205,
+        "locality_id": 1209132303,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209132303,
-    "wof:lastmodified":1570021574,
-    "wof:name":"Harkawicze",
-    "wof:parent_id":1477752205,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209132303,
+    "wof:lastmodified": 1669215927,
+    "wof:name": "Harkawicze",
+    "wof:parent_id": 1477752205,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.7266,
-    53.32107,
-    23.7266,
-    53.32107
-],
-  "geometry": {"coordinates":[23.7266,53.32107],"type":"Point"}
+    23.689316928121723,
+    53.301072946023375,
+    23.75622421113634,
+    53.33688213802348
+  ],
+  "geometry": {"coordinates":[[[23.689317,53.316341],[23.693242,53.320785],[23.69395,53.321586],[23.699808,53.328296],[23.699834,53.328327],[23.699897,53.328401],[23.699907,53.328412],[23.701839,53.330675],[23.702603,53.331544],[23.704673,53.333931],[23.705332,53.33373],[23.70751,53.333065],[23.707589,53.333156],[23.710853,53.336882],[23.713207,53.336183],[23.719085,53.334438],[23.719105,53.334431],[23.719298,53.334374],[23.734422,53.329839],[23.742606,53.327334],[23.744961,53.326643],[23.745006,53.32663],[23.74512,53.326597],[23.745146,53.326589],[23.748009,53.325749],[23.748725,53.325534],[23.750112,53.325116],[23.750194,53.325092],[23.755557,53.3234],[23.756132,53.323217],[23.756224,53.323216],[23.756219,53.32318],[23.754912,53.321693],[23.754839,53.321606],[23.754817,53.321581],[23.75358,53.320113],[23.749695,53.315691],[23.746495,53.31207],[23.742928,53.308011],[23.741576,53.306469],[23.740043,53.304731],[23.740027,53.304713],[23.739024,53.303558],[23.73693,53.301128],[23.736882,53.301073],[23.736765,53.301109],[23.733204,53.302214],[23.731899,53.302618],[23.73127,53.302813],[23.731064,53.302871],[23.730535,53.303034],[23.729467,53.303361],[23.728682,53.303599],[23.728526,53.303646],[23.727574,53.303934],[23.727547,53.303954],[23.727351,53.304004],[23.725147,53.304699],[23.724959,53.304791],[23.724873,53.304833],[23.724334,53.305095],[23.724282,53.305123],[23.72394,53.305224],[23.723834,53.305257],[23.718364,53.306901],[23.716835,53.307362],[23.716495,53.30748],[23.715534,53.307817],[23.71528,53.307906],[23.715035,53.307992],[23.71453,53.308169],[23.7122,53.308966],[23.710634,53.309496],[23.708979,53.310057],[23.707108,53.31069],[23.704382,53.311572],[23.702591,53.312151],[23.697238,53.313722],[23.697066,53.313773],[23.689317,53.316341]]],"type":"Polygon"}
 }

@@ -2,118 +2,122 @@
   "id": 1125921719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.34674,54.82017,18.34674,54.82017",
-    "geom:latitude":54.82017,
-    "geom:longitude":18.34674,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":323,
-    "iso:country":"PL",
-    "lbl:bbox":"18.32674,54.80017,18.36674,54.84017",
-    "lbl:latitude":54.82017,
-    "lbl:longitude":18.34674,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:deu_x_preferred":[
-        "Rozewie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00022277346915202615,
+    "geom:area_square_m": 1593948.0029386266,
+    "geom:bbox": "18.33024677299877,54.81560918301779,18.35066269599654,54.83429142501754",
+    "geom:latitude": 18.338671571205392,
+    "geom:longitude": 54.82419852083995,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 323,
+    "iso:country": "PL",
+    "lbl:bbox": "18.32674,54.80017,18.36674,54.84017",
+    "lbl:latitude": 54.82017,
+    "lbl:longitude": 18.34674,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred": [
+      "Rozewie"
     ],
-    "name:eng_x_preferred":[
-        "Rozewie"
+    "name:eng_x_preferred": [
+      "Rozewie"
     ],
-    "name:fra_x_preferred":[
-        "Rozewie"
+    "name:fra_x_preferred": [
+      "Rozewie"
     ],
-    "name:nld_x_preferred":[
-        "Rozewie"
+    "name:nld_x_preferred": [
+      "Rozewie"
     ],
-    "name:pol_x_preferred":[
-        "Rozewie"
+    "name:pol_x_preferred": [
+      "Rozewie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u0437\u0435\u0432\u0435"
+    "name:ukr_x_preferred": [
+      "Розеве"
     ],
-    "name:und_x_variant":[
-        "Rixh\u00f6ft"
+    "name:und_x_variant": [
+      "Rixhöft"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3086891,
-    "qs_pg:gn_pop":323,
-    "qs_pg:name":"Rozewie",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Pomorskie",
-    "qs_pg:photos":40,
-    "qs_pg:photos_1k":8,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":4,
-    "qs_pg:photos_all":245,
-    "qs_pg:photos_sr":2,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1135639,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":516232,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125415495,
-        85633723,
-        102080269
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3086891,
+    "qs_pg:gn_pop": 323,
+    "qs_pg:name": "Rozewie",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Pomorskie",
+    "qs_pg:photos": 40,
+    "qs_pg:photos_1k": 8,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 4,
+    "qs_pg:photos_all": 245,
+    "qs_pg:photos_sr": 2,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1135639,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 516232,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3086891,
-        "gp:id":516232,
-        "qs_pg:id":1135639,
-        "wd:id":"Q14231451"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125415495,
+      85633723,
+      102080269
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3086891,
+      "gp:id": 516232,
+      "pl-gugik:jpt_kod_je": "221104_5.0006",
+      "qs_pg:id": 1135639,
+      "wd:id": "Q14231451"
     },
-    "wof:country":"PL",
-    "wof:created":1497296504,
-    "wof:geomhash":"2f0dc56173eb5c9a4edaba7db6b36bb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080269,
-            "localadmin_id":1125415495,
-            "locality_id":1125921719,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:created": 1497296504,
+    "wof:geomhash": "b722b34d94d1fa524b37359e8fffecda",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080269,
+        "localadmin_id": 1125415495,
+        "locality_id": 1125921719,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1125921719,
-    "wof:lastmodified":1570036691,
-    "wof:name":"Rozewie",
-    "wof:parent_id":1125415495,
-    "wof:placetype":"locality",
-    "wof:population":323,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125921719,
+    "wof:lastmodified": 1669215917,
+    "wof:name": "Rozewie",
+    "wof:parent_id": 1125415495,
+    "wof:placetype": "locality",
+    "wof:population": 323,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.34674,
-    54.82017,
-    18.34674,
-    54.82017
-],
-  "geometry": {"coordinates":[18.34674,54.82017],"type":"Point"}
+    18.33024677299877,
+    54.81560918301779,
+    18.35066269599654,
+    54.83429142501754
+  ],
+  "geometry": {"coordinates":[[[18.333057,54.832299],[18.333493,54.833568],[18.333742,54.834291],[18.335667,54.833833],[18.346139,54.828674],[18.344619,54.827645],[18.34462,54.82753],[18.344289,54.827478],[18.344392,54.827288],[18.344426,54.827224],[18.344456,54.827116],[18.34446,54.827099],[18.344512,54.826912],[18.344468,54.826877],[18.345054,54.826636],[18.345635,54.826043],[18.345924,54.82579],[18.346869,54.824944],[18.347133,54.824601],[18.347666,54.823899],[18.347966,54.823135],[18.347977,54.822505],[18.34835,54.821965],[18.34878,54.821919],[18.348858,54.821665],[18.349449,54.821311],[18.350077,54.820959],[18.35047,54.820862],[18.350663,54.820769],[18.350416,54.820727],[18.349872,54.820314],[18.349123,54.820172],[18.348711,54.820094],[18.348657,54.820083],[18.347216,54.819794],[18.347041,54.819594],[18.344266,54.819051],[18.344277,54.819071],[18.342644,54.818752],[18.342331,54.818665],[18.341824,54.816294],[18.341738,54.816235],[18.341646,54.816173],[18.341103,54.815835],[18.341029,54.815786],[18.340757,54.815609],[18.336092,54.816159],[18.336118,54.81623],[18.333613,54.816414],[18.332705,54.816434],[18.332336,54.816442],[18.332594,54.816811],[18.333095,54.817515],[18.333098,54.817594],[18.333127,54.818883],[18.333134,54.819114],[18.330523,54.819599],[18.330808,54.820369],[18.330995,54.820892],[18.331611,54.822619],[18.33108,54.822624],[18.330956,54.822624],[18.330594,54.822627],[18.330289,54.822629],[18.330285,54.822877],[18.330281,54.823128],[18.330276,54.823422],[18.330275,54.823459],[18.330274,54.823531],[18.330271,54.82371],[18.330268,54.823962],[18.330265,54.824213],[18.330262,54.824483],[18.330259,54.824699],[18.330256,54.824914],[18.330253,54.82513],[18.330251,54.825345],[18.330258,54.825579],[18.330254,54.8256],[18.330247,54.825636],[18.330891,54.825638],[18.331979,54.825639],[18.332172,54.825757],[18.332343,54.825861],[18.332408,54.8259],[18.332875,54.826184],[18.33311,54.82618],[18.333121,54.826423],[18.333133,54.826665],[18.333144,54.826908],[18.333155,54.82715],[18.333165,54.827372],[18.331314,54.827292],[18.331417,54.827593],[18.331453,54.827694],[18.331974,54.829175],[18.331724,54.82951],[18.331879,54.829557],[18.332114,54.829631],[18.332327,54.830258],[18.332395,54.830458],[18.332463,54.830658],[18.332518,54.830824],[18.332619,54.831123],[18.332682,54.831296],[18.332782,54.831602],[18.333031,54.832233],[18.333057,54.832299]]],"type":"Polygon"}
 }

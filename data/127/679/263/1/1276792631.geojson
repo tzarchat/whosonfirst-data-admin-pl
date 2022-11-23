@@ -2,90 +2,94 @@
   "id": 1276792631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.74071,52.61757,17.74071,52.61757",
-    "geom:latitude":52.61757,
-    "geom:longitude":17.74071,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3003.0",
-    "gn:admin3_code":"300309.0",
-    "gn:asciiname":"Smolary",
-    "gn:country_code":"PL",
-    "gn:dem":117,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3085367,
-    "gn:latitude":52.61757,
-    "gn:longitude":17.74071,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Smolary",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.72071,52.59757,17.76071,52.63757",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0633\u0645\u0648\u0644\u0627\u0631\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00030280075849716697,
+    "geom:area_square_m": 2281925.067076687,
+    "geom:bbox": "17.725475638992542,52.611726596018485,17.753277372002124,52.63250357102066",
+    "geom:latitude": 17.741089746313573,
+    "geom:longitude": 52.62198910330792,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3003.0",
+    "gn:admin3_code": "300309.0",
+    "gn:asciiname": "Smolary",
+    "gn:country_code": "PL",
+    "gn:dem": 117,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3085367,
+    "gn:latitude": 52.61757,
+    "gn:longitude": 17.74071,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Smolary",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.72071,52.59757,17.76071,52.63757",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "سمولاره"
     ],
-    "name:fas_x_preferred":[
-        "\u0633\u0645\u0648\u0644\u0627\u0631\u0647"
+    "name:fas_x_preferred": [
+      "سمولاره"
     ],
-    "name:fra_x_preferred":[
-        "Smolary"
+    "name:fra_x_preferred": [
+      "Smolary"
     ],
-    "name:pol_x_preferred":[
-        "Smolary"
+    "name:pol_x_preferred": [
+      "Smolary"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u043c\u043e\u043b\u044f\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Смоляри"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125282361,
-        85633723,
-        102079967
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3085367,
-        "wk:page":"Smolary%2C_Gniezno_County"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125282361,
+      85633723,
+      102079967
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3085367,
+      "pl-gugik:jpt_kod_je": "300309_5.0025",
+      "wk:page": "Smolary%2C_Gniezno_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"77bace2a42d3b64b2dfc6b4c5fae751f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079967,
-            "localadmin_id":1125282361,
-            "locality_id":1276792631,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e8a8824d5d9b8dcace50ff93ffb413a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079967,
+        "localadmin_id": 1125282361,
+        "locality_id": 1276792631,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1276792631,
-    "wof:lastmodified":1570018727,
-    "wof:name":"Smolary",
-    "wof:parent_id":1125282361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276792631,
+    "wof:lastmodified": 1669215907,
+    "wof:name": "Smolary",
+    "wof:parent_id": 1125282361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.74071,
-    52.61756999999999,
-    17.74071,
-    52.61756999999999
-],
-  "geometry": {"coordinates":[17.74071,52.61756999999999],"type":"Point"}
+    17.725475638992542,
+    52.611726596018485,
+    17.753277372002124,
+    52.63250357102066
+  ],
+  "geometry": {"coordinates":[[[17.725476,52.621518],[17.725814,52.621631],[17.725925,52.621668],[17.72679,52.621956],[17.729399,52.623151],[17.730526,52.623814],[17.731663,52.624381],[17.73284,52.625139],[17.732947,52.625208],[17.734523,52.625767],[17.734725,52.62586],[17.7368,52.626816],[17.737038,52.626855],[17.737818,52.627203],[17.738063,52.627313],[17.738247,52.627395],[17.738724,52.628289],[17.740677,52.629789],[17.742174,52.63027],[17.743437,52.630742],[17.744501,52.631488],[17.744868,52.631584],[17.745016,52.631623],[17.745865,52.631845],[17.747613,52.632163],[17.749113,52.632504],[17.750434,52.629212],[17.750467,52.629132],[17.751861,52.625657],[17.751102,52.625122],[17.751147,52.625058],[17.752292,52.622201],[17.753257,52.619792],[17.753277,52.619726],[17.752424,52.619351],[17.752388,52.619335],[17.750998,52.618709],[17.750974,52.618698],[17.748695,52.617671],[17.744597,52.615768],[17.744007,52.61547],[17.743866,52.615399],[17.743838,52.615386],[17.743142,52.615037],[17.741804,52.614588],[17.739858,52.613725],[17.739165,52.613417],[17.737469,52.612665],[17.735894,52.611956],[17.73545,52.611755],[17.735399,52.611727],[17.735212,52.611797],[17.734804,52.611913],[17.733989,52.612803],[17.733323,52.613532],[17.732777,52.614127],[17.732407,52.614541],[17.731987,52.614983],[17.731941,52.614986],[17.731756,52.615201],[17.731994,52.615691],[17.732114,52.615936],[17.732147,52.616043],[17.731975,52.616533],[17.731695,52.617147],[17.731647,52.617258],[17.731408,52.617817],[17.730843,52.618197],[17.73017,52.618664],[17.729253,52.619779],[17.728856,52.619623],[17.728678,52.619716],[17.727256,52.620483],[17.726275,52.621195],[17.725476,52.621518]]],"type":"Polygon"}
 }

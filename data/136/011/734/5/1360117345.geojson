@@ -2,87 +2,91 @@
   "id": 1360117345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.74076,54.09181,22.74076,54.09181",
-    "geom:latitude":54.09181,
-    "geom:longitude":22.74076,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201201.0",
-    "gn:asciiname":"Maryna",
-    "gn:country_code":"PL",
-    "gn:dem":185,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":765158,
-    "gn:latitude":54.09181,
-    "gn:longitude":22.74076,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Maryna",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.72076,54.07181,22.76076,54.11181",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Maryna"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003256772661041966,
+    "geom:area_square_m": 2371791.7695966214,
+    "geom:bbox": "22.726105835035405,54.084297599015166,22.75888917603248,54.10342815901984",
+    "geom:latitude": 22.742341406515223,
+    "geom:longitude": 54.093596434347276,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201201.0",
+    "gn:asciiname": "Maryna",
+    "gn:country_code": "PL",
+    "gn:dem": 185,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 765158,
+    "gn:latitude": 54.09181,
+    "gn:longitude": 22.74076,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Maryna",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.72076,54.07181,22.76076,54.11181",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Maryna"
     ],
-    "name:lit_x_preferred":[
-        "Marina"
+    "name:lit_x_preferred": [
+      "Marina"
     ],
-    "name:pol_x_preferred":[
-        "Maryna"
+    "name:pol_x_preferred": [
+      "Maryna"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0430\u0440\u0438\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Марина"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125309719,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":765158,
-        "wk:page":"Maryna%2C_Podlaskie_Voivodeship"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125309719,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 765158,
+      "pl-gugik:jpt_kod_je": "201201_2.0014",
+      "wk:page": "Maryna%2C_Podlaskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"90f9e3fe41cb1ba9cb2fea05ad80211e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1125309719,
-            "locality_id":1360117345,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "6d0f49e5f90655bfeae04e5d5a209e68",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1125309719,
+        "locality_id": 1360117345,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1360117345,
-    "wof:lastmodified":1570029706,
-    "wof:name":"Maryna",
-    "wof:parent_id":1125309719,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360117345,
+    "wof:lastmodified": 1669215924,
+    "wof:name": "Maryna",
+    "wof:parent_id": 1125309719,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.74076,
-    54.09181,
-    22.74076,
-    54.09181
-],
-  "geometry": {"coordinates":[22.74076,54.09181],"type":"Point"}
+    22.726105835035405,
+    54.084297599015166,
+    22.75888917603248,
+    54.10342815901984
+  ],
+  "geometry": {"coordinates":[[[22.74643,54.103395],[22.747122,54.102752],[22.747526,54.102376],[22.747858,54.102068],[22.748309,54.101648],[22.749921,54.10015],[22.750001,54.100075],[22.750358,54.099743],[22.752145,54.098078],[22.752235,54.097994],[22.754041,54.09632],[22.755203,54.095243],[22.75533,54.095124],[22.75622,54.094292],[22.756671,54.09387],[22.757167,54.093406],[22.757428,54.093162],[22.757558,54.093041],[22.757681,54.092927],[22.758889,54.091809],[22.757229,54.091241],[22.754394,54.090271],[22.752495,54.089622],[22.751182,54.089172],[22.749968,54.088756],[22.749639,54.088643],[22.748493,54.08825],[22.748176,54.088142],[22.746994,54.087737],[22.74599,54.087393],[22.744999,54.087053],[22.743784,54.086637],[22.743736,54.08662],[22.742706,54.086261],[22.74171,54.085913],[22.740344,54.085436],[22.739974,54.085307],[22.739427,54.085116],[22.738437,54.08477],[22.737084,54.084298],[22.735177,54.086034],[22.734729,54.086452],[22.733421,54.087672],[22.733316,54.08777],[22.733232,54.087848],[22.73227,54.088745],[22.731481,54.08948],[22.73144,54.089518],[22.731383,54.089571],[22.73084,54.090077],[22.730176,54.090695],[22.729657,54.091179],[22.729468,54.091353],[22.728483,54.09226],[22.727996,54.092708],[22.727939,54.092761],[22.727881,54.092814],[22.727391,54.093267],[22.727105,54.09353],[22.726106,54.09446],[22.728685,54.095601],[22.72921,54.095833],[22.729796,54.096092],[22.730457,54.096384],[22.730877,54.096569],[22.73207,54.097096],[22.732424,54.097252],[22.735069,54.098426],[22.735119,54.098448],[22.735581,54.098652],[22.737461,54.09948],[22.7388,54.100071],[22.739194,54.100244],[22.740231,54.100701],[22.740343,54.10075],[22.741213,54.101137],[22.741317,54.101184],[22.742964,54.101917],[22.743639,54.102214],[22.745963,54.103238],[22.746395,54.103428],[22.74643,54.103395]]],"type":"Polygon"}
 }

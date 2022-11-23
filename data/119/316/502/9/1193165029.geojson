@@ -2,81 +2,85 @@
   "id": 1193165029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.92866,52.68743,16.92866,52.68743",
-    "geom:latitude":52.68743,
-    "geom:longitude":16.92866,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3016.0",
-    "gn:admin3_code":"301602.0",
-    "gn:asciiname":"Szczytno",
-    "gn:country_code":"PL",
-    "gn:dem":76,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3083739,
-    "gn:latitude":52.68743,
-    "gn:longitude":16.92866,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Szczytno",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.90866,52.66743,16.94866,52.70743",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Szczytno"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002327607215895457,
+    "geom:area_square_m": 1751636.0937710768,
+    "geom:bbox": "16.908597107997792,52.67345210402052,16.938204519989657,52.69238151001842",
+    "geom:latitude": 16.921290175646263,
+    "geom:longitude": 52.68388128547194,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3016.0",
+    "gn:admin3_code": "301602.0",
+    "gn:asciiname": "Szczytno",
+    "gn:country_code": "PL",
+    "gn:dem": 76,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3083739,
+    "gn:latitude": 52.68743,
+    "gn:longitude": 16.92866,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Szczytno",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.90866,52.66743,16.94866,52.70743",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Szczytno"
     ],
-    "name:ukr_x_preferred":[
-        "\u0429\u0438\u0442\u043d\u043e"
+    "name:ukr_x_preferred": [
+      "Щитно"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125414397,
-        85633723,
-        102079987
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3083739,
-        "wk:page":"Szczytno%2C_Greater_Poland_Voivodeship"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125414397,
+      85633723,
+      102079987
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3083739,
+      "pl-gugik:jpt_kod_je": "301602_5.0018",
+      "wk:page": "Szczytno%2C_Greater_Poland_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"065b3d061734b420ecac3a0d4d416180",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079987,
-            "localadmin_id":1125414397,
-            "locality_id":1193165029,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1c5a3e339853a18af058a4f4ae15cfa8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079987,
+        "localadmin_id": 1125414397,
+        "locality_id": 1193165029,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1193165029,
-    "wof:lastmodified":1570024233,
-    "wof:name":"Szczytno",
-    "wof:parent_id":1125414397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193165029,
+    "wof:lastmodified": 1669215916,
+    "wof:name": "Szczytno",
+    "wof:parent_id": 1125414397,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.92866,
-    52.68743000000001,
-    16.92866,
-    52.68743000000001
-],
-  "geometry": {"coordinates":[16.92866,52.68743000000001],"type":"Point"}
+    16.908597107997792,
+    52.67345210402052,
+    16.938204519989657,
+    52.69238151001842
+  ],
+  "geometry": {"coordinates":[[[16.908597,52.680456],[16.908617,52.680462],[16.909277,52.680644],[16.909233,52.680746],[16.90897,52.682459],[16.908962,52.682526],[16.909463,52.682963],[16.911156,52.684192],[16.913275,52.685766],[16.913314,52.685793],[16.913643,52.686023],[16.914371,52.686538],[16.915311,52.687202],[16.916003,52.687692],[16.916313,52.687917],[16.916779,52.688256],[16.9173,52.688634],[16.918281,52.689347],[16.918377,52.689416],[16.919317,52.690104],[16.919486,52.690228],[16.919667,52.69036],[16.919871,52.690509],[16.920357,52.690864],[16.920982,52.69071],[16.923569,52.690074],[16.923657,52.690052],[16.924763,52.690135],[16.924797,52.690138],[16.925839,52.690205],[16.925964,52.690214],[16.927097,52.690287],[16.92825,52.691237],[16.929389,52.692159],[16.929648,52.692382],[16.931228,52.690751],[16.933238,52.688732],[16.93648,52.688126],[16.936686,52.688077],[16.938205,52.687829],[16.936679,52.686816],[16.93617,52.686438],[16.934578,52.685529],[16.93232,52.684535],[16.928787,52.683057],[16.928736,52.683009],[16.925577,52.681697],[16.923421,52.681317],[16.920844,52.680855],[16.919155,52.680546],[16.918129,52.68036],[16.91665,52.680031],[16.917297,52.678836],[16.917758,52.677923],[16.918046,52.677999],[16.919293,52.677749],[16.919626,52.677016],[16.919944,52.676329],[16.920328,52.675497],[16.920725,52.674632],[16.921128,52.673764],[16.918949,52.673629],[16.916001,52.673452],[16.914137,52.675208],[16.908597,52.680456]]],"type":"Polygon"}
 }

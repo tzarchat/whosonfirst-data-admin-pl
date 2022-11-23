@@ -2,86 +2,90 @@
   "id": 1309932547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1754,53.6032,23.1754,53.6032",
-    "geom:latitude":53.6032,
-    "geom:longitude":23.1754,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201109.0",
-    "gn:asciiname":"Leszczany",
-    "gn:country_code":"PL",
-    "gn:dem":159,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766402,
-    "gn:latitude":53.6032,
-    "gn:longitude":23.1754,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Leszczany",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.1554,53.5832,23.1954,53.6232",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Leszczany"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00033712615914229443,
+    "geom:area_square_m": 2483677.148262852,
+    "geom:bbox": "23.164115208065905,53.59336084502154,23.18750200007078,53.61966436602364",
+    "geom:latitude": 23.174473650066602,
+    "geom:longitude": 53.605802335867246,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201109.0",
+    "gn:asciiname": "Leszczany",
+    "gn:country_code": "PL",
+    "gn:dem": 159,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766402,
+    "gn:latitude": 53.6032,
+    "gn:longitude": 23.1754,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Leszczany",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.1554,53.5832,23.1954,53.6232",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Leszczany"
     ],
-    "name:lit_x_preferred":[
-        "Le\u0161\u010danai"
+    "name:lit_x_preferred": [
+      "Leščanai"
     ],
-    "name:pol_x_preferred":[
-        "Leszczany"
+    "name:pol_x_preferred": [
+      "Leszczany"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0435\u0449\u0430\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Лещани"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125289651,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766402
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125289651,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766402,
+      "pl-gugik:jpt_kod_je": "201109_5.0027"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"63e82d7141dfc42a98bbfa8082b5f6b5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1125289651,
-            "locality_id":1309932547,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1b91a4eee5f106f1a705586fab245940",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1125289651,
+        "locality_id": 1309932547,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1309932547,
-    "wof:lastmodified":1570035997,
-    "wof:name":"Leszczany",
-    "wof:parent_id":1125289651,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309932547,
+    "wof:lastmodified": 1669215931,
+    "wof:name": "Leszczany",
+    "wof:parent_id": 1125289651,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.1754,
-    53.6032,
-    23.1754,
-    53.6032
-],
-  "geometry": {"coordinates":[23.1754,53.6032],"type":"Point"}
+    23.164115208065905,
+    53.59336084502154,
+    23.18750200007078,
+    53.61966436602364
+  ],
+  "geometry": {"coordinates":[[[23.164115,53.611072],[23.164307,53.6119],[23.164381,53.61222],[23.164598,53.613155],[23.164782,53.613967],[23.164797,53.614031],[23.164871,53.614357],[23.164971,53.614798],[23.165298,53.616245],[23.165767,53.618266],[23.165784,53.618342],[23.165966,53.618155],[23.166025,53.618166],[23.169592,53.618816],[23.169644,53.618825],[23.169716,53.618839],[23.17066,53.619011],[23.172157,53.619283],[23.174251,53.619664],[23.175046,53.618089],[23.17517,53.617843],[23.1752,53.617783],[23.176012,53.616179],[23.177453,53.613316],[23.178435,53.611368],[23.178794,53.610654],[23.178816,53.610611],[23.179343,53.609565],[23.180386,53.607491],[23.181312,53.605654],[23.181351,53.605577],[23.181536,53.60521],[23.181781,53.604723],[23.181835,53.604615],[23.181852,53.604582],[23.181872,53.604542],[23.182147,53.603991],[23.182388,53.603497],[23.182741,53.602812],[23.18293,53.602437],[23.182952,53.602394],[23.183211,53.601879],[23.18334,53.601623],[23.183395,53.601511],[23.183816,53.600676],[23.184591,53.599135],[23.185526,53.597273],[23.186301,53.595732],[23.186508,53.595332],[23.186898,53.594546],[23.187502,53.593361],[23.187412,53.593368],[23.184596,53.593599],[23.177857,53.594155],[23.177392,53.594193],[23.174737,53.594413],[23.172556,53.594594],[23.17248,53.594599],[23.172474,53.594601],[23.171487,53.59656],[23.170619,53.598278],[23.170576,53.598363],[23.170564,53.598386],[23.170223,53.599062],[23.16964,53.600221],[23.169624,53.600252],[23.169549,53.600401],[23.169536,53.600427],[23.169494,53.600509],[23.169026,53.601447],[23.168674,53.60214],[23.168584,53.602319],[23.168471,53.602553],[23.168241,53.603008],[23.168107,53.603278],[23.168066,53.603358],[23.167296,53.604878],[23.166674,53.606126],[23.165816,53.607835],[23.165806,53.607855],[23.165779,53.607908],[23.165765,53.607935],[23.165744,53.607978],[23.165042,53.60937],[23.16491,53.609632],[23.164568,53.610251],[23.164447,53.61047],[23.164115,53.611072]]],"type":"Polygon"}
 }

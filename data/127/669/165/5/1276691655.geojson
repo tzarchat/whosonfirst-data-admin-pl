@@ -2,81 +2,85 @@
   "id": 1276691655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.70553,51.11044,23.70553,51.11044",
-    "geom:latitude":51.11044,
-    "geom:longitude":23.70553,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"603.0",
-    "gn:admin3_code":"60304.0",
-    "gn:asciiname":"Pogranicze",
-    "gn:country_code":"PL",
-    "gn:dem":178,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":761694,
-    "gn:latitude":51.11044,
-    "gn:longitude":23.70553,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Pogranicze",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.68553,51.09044,23.72553,51.13044",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Pogranicze"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00039526188539590486,
+    "geom:area_square_m": 3079946.62744266,
+    "geom:bbox": "23.693462354183893,51.09152361701637,23.719120547187767,51.11667970401573",
+    "geom:latitude": 23.707561039378422,
+    "geom:longitude": 51.1032432102096,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "603.0",
+    "gn:admin3_code": "60304.0",
+    "gn:asciiname": "Pogranicze",
+    "gn:country_code": "PL",
+    "gn:dem": 178,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 761694,
+    "gn:latitude": 51.11044,
+    "gn:longitude": 23.70553,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Pogranicze",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.68553,51.09044,23.72553,51.13044",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Pogranicze"
     ],
-    "name:pol_x_preferred":[
-        "Pogranicze"
+    "name:pol_x_preferred": [
+      "Pogranicze"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125306301,
-        85633723,
-        102079813
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":761694,
-        "wk:page":"Pogranicze%2C_Lublin_Voivodeship"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125306301,
+      85633723,
+      102079813
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 761694,
+      "pl-gugik:jpt_kod_je": "060304_2.0020",
+      "wk:page": "Pogranicze%2C_Lublin_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"ba71d67b11b668617aefb7b0b884c7bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079813,
-            "localadmin_id":1125306301,
-            "locality_id":1276691655,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "0e19b841fc92ecbba7e17adddaa36ec2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079813,
+        "localadmin_id": 1125306301,
+        "locality_id": 1276691655,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1276691655,
-    "wof:lastmodified":1570016927,
-    "wof:name":"Pogranicze",
-    "wof:parent_id":1125306301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276691655,
+    "wof:lastmodified": 1669215950,
+    "wof:name": "Pogranicze",
+    "wof:parent_id": 1125306301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.70553,
-    51.11044,
-    23.70553,
-    51.11044
-],
-  "geometry": {"coordinates":[23.70553,51.11044],"type":"Point"}
+    23.693462354183893,
+    51.09152361701637,
+    23.719120547187767,
+    51.11667970401573
+  ],
+  "geometry": {"coordinates":[[[23.693462,51.094639],[23.694229,51.096595],[23.695525,51.099972],[23.696331,51.10092],[23.697142,51.101873],[23.6991,51.104089],[23.699669,51.104732],[23.700213,51.105364],[23.700743,51.105979],[23.700873,51.106169],[23.704044,51.110807],[23.704097,51.110934],[23.704217,51.111304],[23.704651,51.112648],[23.704797,51.113448],[23.705091,51.114224],[23.705233,51.11464],[23.705597,51.115709],[23.705615,51.115762],[23.705884,51.116551],[23.705928,51.11668],[23.706069,51.116667],[23.709586,51.11635],[23.710182,51.1163],[23.710755,51.116252],[23.712201,51.116131],[23.714136,51.115969],[23.71466,51.115926],[23.715266,51.115876],[23.715317,51.115911],[23.715527,51.115875],[23.715751,51.115836],[23.716719,51.115756],[23.716843,51.115745],[23.716825,51.115649],[23.716777,51.115401],[23.716712,51.115062],[23.716623,51.114604],[23.71652,51.114069],[23.716448,51.113694],[23.716269,51.112766],[23.717221,51.112687],[23.718373,51.112591],[23.718305,51.112142],[23.718283,51.111996],[23.7182,51.11163],[23.717927,51.110415],[23.717795,51.109826],[23.717783,51.109774],[23.717766,51.109697],[23.717447,51.108228],[23.717113,51.106692],[23.716963,51.10601],[23.716957,51.105983],[23.71661,51.104411],[23.716547,51.104121],[23.716422,51.103556],[23.716315,51.103026],[23.716254,51.102727],[23.716001,51.101482],[23.715933,51.101175],[23.71553,51.099445],[23.715434,51.098928],[23.715197,51.098015],[23.715195,51.097991],[23.714975,51.096955],[23.714965,51.096906],[23.719121,51.096558],[23.719059,51.096533],[23.718995,51.096507],[23.718412,51.096272],[23.717606,51.095948],[23.715749,51.095199],[23.715641,51.095153],[23.713952,51.094437],[23.711577,51.093419],[23.711486,51.093382],[23.71006,51.092762],[23.709094,51.092346],[23.708672,51.092161],[23.707188,51.091524],[23.70162,51.092791],[23.696082,51.094051],[23.693462,51.094639]]],"type":"Polygon"}
 }
