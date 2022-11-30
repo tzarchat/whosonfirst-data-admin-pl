@@ -2,86 +2,90 @@
   "id": 1193042985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.37198,53.07328,23.37198,53.07328",
-    "geom:latitude":53.07328,
-    "geom:longitude":23.37198,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2002.0",
-    "gn:admin3_code":"200214.0",
-    "gn:asciiname":"Zacisze",
-    "gn:country_code":"PL",
-    "gn:dem":155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":754259,
-    "gn:latitude":53.07328,
-    "gn:longitude":23.37198,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Zacisze",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.35198,53.05328,23.39198,53.09328",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Zacisze"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00019308276427891234,
+    "geom:area_square_m": 1440182.336391603,
+    "geom:bbox": "23.353194250088617,53.06640900101981,23.38030338809994,53.0794542160202",
+    "geom:latitude": 23.36679164451493,
+    "geom:longitude": 53.073293485993496,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2002.0",
+    "gn:admin3_code": "200214.0",
+    "gn:asciiname": "Zacisze",
+    "gn:country_code": "PL",
+    "gn:dem": 155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 754259,
+    "gn:latitude": 53.07328,
+    "gn:longitude": 23.37198,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Zacisze",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.35198,53.05328,23.39198,53.09328",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Zacisze"
     ],
-    "name:lit_x_preferred":[
-        "Zaci\u0161\u0117"
+    "name:lit_x_preferred": [
+      "Zacišė"
     ],
-    "name:pol_x_preferred":[
-        "Zacisze"
+    "name:pol_x_preferred": [
+      "Zacisze"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u0446\u0438\u0448\u0435"
+    "name:ukr_x_preferred": [
+      "Зацише"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125294349,
-        85633723,
-        102080145
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":754259
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125294349,
+      85633723,
+      102080145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 754259,
+      "pl-gugik:jpt_kod_je": "200214_5.0044"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"16d2f256eca2785470eb722d972f8352",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080145,
-            "localadmin_id":1125294349,
-            "locality_id":1193042985,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1e114e6ae5e1f1d493c1134ba9c1d855",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080145,
+        "localadmin_id": 1125294349,
+        "locality_id": 1193042985,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1193042985,
-    "wof:lastmodified":1570024110,
-    "wof:name":"Zacisze",
-    "wof:parent_id":1125294349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193042985,
+    "wof:lastmodified": 1669727336,
+    "wof:name": "Zacisze",
+    "wof:parent_id": 1125294349,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.37198,
-    53.07328,
-    23.37198,
-    53.07328
-],
-  "geometry": {"coordinates":[23.37198,53.07328],"type":"Point"}
+    23.353194250088617,
+    53.06640900101981,
+    23.38030338809994,
+    53.0794542160202
+  ],
+  "geometry": {"coordinates":[[[23.353194,53.072858],[23.353848,53.073586],[23.355037,53.07491],[23.357028,53.077129],[23.357833,53.078021],[23.358981,53.079291],[23.358998,53.079313],[23.359037,53.079357],[23.359134,53.079454],[23.359214,53.07944],[23.360776,53.07916],[23.360968,53.079125],[23.36179,53.078978],[23.362499,53.078854],[23.364669,53.078474],[23.364761,53.078457],[23.364841,53.078443],[23.365668,53.078295],[23.367003,53.078059],[23.367491,53.077927],[23.36756,53.077908],[23.369568,53.077369],[23.370038,53.07724],[23.370518,53.07711],[23.372086,53.07668],[23.372911,53.076454],[23.375507,53.075695],[23.378163,53.07498],[23.380303,53.0744],[23.380278,53.074378],[23.380257,53.074355],[23.379053,53.073024],[23.378654,53.07259],[23.378102,53.071977],[23.377158,53.070939],[23.377024,53.070791],[23.37702,53.070786],[23.376287,53.069979],[23.375646,53.069273],[23.375598,53.069221],[23.375346,53.068943],[23.375124,53.068699],[23.374883,53.068434],[23.373044,53.066409],[23.372527,53.066575],[23.372196,53.066681],[23.371863,53.066788],[23.370749,53.067148],[23.370697,53.067164],[23.370014,53.067384],[23.369946,53.067406],[23.368092,53.068004],[23.367785,53.068103],[23.367316,53.068252],[23.36576,53.068754],[23.36572,53.068767],[23.36394,53.069344],[23.3639,53.069356],[23.36301,53.069644],[23.362307,53.06987],[23.36213,53.069928],[23.361974,53.069978],[23.361931,53.069992],[23.359424,53.070799],[23.357242,53.071503],[23.357169,53.071528],[23.354991,53.072276],[23.353234,53.072845],[23.353194,53.072858]]],"type":"Polygon"}
 }

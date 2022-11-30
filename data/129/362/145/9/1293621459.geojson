@@ -2,84 +2,88 @@
   "id": 1293621459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.47706,52.24278,20.47706,52.24278",
-    "geom:latitude":52.24278,
-    "geom:longitude":20.47706,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1432.0",
-    "gn:admin3_code":"143204.0",
-    "gn:asciiname":"Stelmachowo",
-    "gn:country_code":"PL",
-    "gn:dem":84,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7602745,
-    "gn:latitude":52.24278,
-    "gn:longitude":20.47706,
-    "gn:modification_date":"2010-11-27",
-    "gn:name":"Stelmachowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.45706,52.22278,20.49706,52.26278",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Stelmachowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00007907847313650458,
+    "geom:area_square_m": 601090.074347594,
+    "geom:bbox": "20.46912860800521,52.234481374011786,20.481154355000537,52.242780071019176",
+    "geom:latitude": 20.474617419812912,
+    "geom:longitude": 52.238881887629724,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1432.0",
+    "gn:admin3_code": "143204.0",
+    "gn:asciiname": "Stelmachowo",
+    "gn:country_code": "PL",
+    "gn:dem": 84,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7602745,
+    "gn:latitude": 52.24278,
+    "gn:longitude": 20.47706,
+    "gn:modification_date": "2010-11-27",
+    "gn:name": "Stelmachowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.45706,52.22278,20.49706,52.26278",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Stelmachowo"
     ],
-    "name:pol_x_preferred":[
-        "Stelmachowo"
+    "name:pol_x_preferred": [
+      "Stelmachowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0435\u043b\u044c\u043c\u0430\u0445\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Стельмахово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752351,
-        85633723,
-        102079949
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7602745,
-        "wk:page":"Stelmachowo%2C_Masovian_Voivodeship"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752351,
+      85633723,
+      102079949
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7602745,
+      "pl-gugik:jpt_kod_je": "143204_2.0021",
+      "wk:page": "Stelmachowo%2C_Masovian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d7df50fe1f4df65c696c39287937fab4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079949,
-            "localadmin_id":1477752351,
-            "locality_id":1293621459,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "276e1d88bd226b5f4570a67bbb51ed3f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079949,
+        "localadmin_id": 1477752351,
+        "locality_id": 1293621459,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1293621459,
-    "wof:lastmodified":1570012779,
-    "wof:name":"Stelmachowo",
-    "wof:parent_id":1477752351,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293621459,
+    "wof:lastmodified": 1669727346,
+    "wof:name": "Stelmachowo",
+    "wof:parent_id": 1477752351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.47706,
-    52.24278,
-    20.47706,
-    52.24278
-],
-  "geometry": {"coordinates":[20.47706,52.24278],"type":"Point"}
+    20.46912860800521,
+    52.234481374011786,
+    20.481154355000537,
+    52.242780071019176
+  ],
+  "geometry": {"coordinates":[[[20.469129,52.235246],[20.469129,52.235426],[20.469138,52.235786],[20.469129,52.238106],[20.469202,52.239025],[20.469268,52.239878],[20.469273,52.239943],[20.469274,52.239951],[20.469549,52.241336],[20.469704,52.242128],[20.469708,52.242149],[20.469717,52.242207],[20.470081,52.242226],[20.470391,52.242242],[20.470545,52.242248],[20.47104,52.24227],[20.471874,52.242316],[20.472516,52.242344],[20.473017,52.242368],[20.47328,52.242381],[20.473693,52.242403],[20.474057,52.242422],[20.474872,52.242456],[20.476086,52.242513],[20.476829,52.242557],[20.477657,52.242599],[20.478096,52.24262],[20.478548,52.242642],[20.478828,52.242655],[20.478886,52.242658],[20.478938,52.242661],[20.479374,52.242696],[20.479801,52.242716],[20.48026,52.242736],[20.480708,52.242759],[20.481103,52.24278],[20.481154,52.242745],[20.481142,52.242703],[20.480975,52.24204],[20.480776,52.241391],[20.480557,52.240678],[20.480547,52.240643],[20.480454,52.240339],[20.480339,52.239964],[20.480058,52.239049],[20.480042,52.238996],[20.479011,52.235818],[20.479011,52.235787],[20.478838,52.235743],[20.477436,52.23541],[20.477283,52.235383],[20.477037,52.23534],[20.47636,52.235291],[20.476122,52.235274],[20.475026,52.235133],[20.474476,52.235063],[20.474337,52.235054],[20.473834,52.23501],[20.473402,52.234984],[20.473165,52.234969],[20.472785,52.234946],[20.471171,52.234855],[20.470911,52.234838],[20.470338,52.234767],[20.470163,52.234721],[20.469759,52.234615],[20.469175,52.234481],[20.469129,52.235246]]],"type":"Polygon"}
 }

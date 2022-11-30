@@ -2,708 +2,712 @@
   "id": 1209848271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.34626,52.47682,21.34626,52.47682",
-    "geom:latitude":52.47682,
-    "geom:longitude":21.34626,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1434.0",
-    "gn:admin3_code":"143405.0",
-    "gn:asciiname":"Trojany",
-    "gn:country_code":"PL",
-    "gn:dem":92,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":756788,
-    "gn:latitude":52.47682,
-    "gn:longitude":21.34626,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Trojany",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.32626,52.45682,21.36626,52.49682",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:abk_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0005912686408588245,
+    "geom:area_square_m": 4470800.827405434,
+    "geom:bbox": "21.32490766901239,52.45584121801616,21.356227612007118,52.48689041901983",
+    "geom:latitude": 21.33833831510835,
+    "geom:longitude": 52.473336435191804,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1434.0",
+    "gn:admin3_code": "143405.0",
+    "gn:asciiname": "Trojany",
+    "gn:country_code": "PL",
+    "gn:dem": 92,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 756788,
+    "gn:latitude": 52.47682,
+    "gn:longitude": 21.34626,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Trojany",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.32626,52.45682,21.36626,52.49682",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:abk_x_preferred": [
+      "Трояны"
     ],
-    "name:ace_x_preferred":[
-        "Trojany"
+    "name:ace_x_preferred": [
+      "Trojany"
     ],
-    "name:ady_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:ady_x_preferred": [
+      "Трояны"
     ],
-    "name:afr_x_preferred":[
-        "Trojany"
+    "name:afr_x_preferred": [
+      "Trojany"
     ],
-    "name:aka_x_preferred":[
-        "Trojany"
+    "name:aka_x_preferred": [
+      "Trojany"
     ],
-    "name:als_x_preferred":[
-        "Trojany"
+    "name:als_x_preferred": [
+      "Trojany"
     ],
-    "name:amh_x_preferred":[
-        "\u1275\u122e\u12eb\u1292\u1363 \u121b\u1236\u126a\u12eb"
+    "name:amh_x_preferred": [
+      "ትሮያኒ፣ ማሶቪያ"
     ],
-    "name:ang_x_preferred":[
-        "Trojany"
+    "name:ang_x_preferred": [
+      "Trojany"
     ],
-    "name:ara_x_preferred":[
-        "\u062a\u0631\u0648\u064a\u0627\u0646\u064a"
+    "name:ara_x_preferred": [
+      "تروياني"
     ],
-    "name:arc_x_preferred":[
-        "\u071b\u072a\u0718\u071d\u0710\u0722\u071d"
+    "name:arc_x_preferred": [
+      "ܛܪܘܝܐܢܝ"
     ],
-    "name:arg_x_preferred":[
-        "Trojany"
+    "name:arg_x_preferred": [
+      "Trojany"
     ],
-    "name:ast_x_preferred":[
-        "Trojany"
+    "name:ast_x_preferred": [
+      "Trojany"
     ],
-    "name:ava_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:ava_x_preferred": [
+      "Трояны"
     ],
-    "name:aym_x_preferred":[
-        "Trojany"
+    "name:aym_x_preferred": [
+      "Trojany"
     ],
-    "name:azb_x_preferred":[
-        "\u062a\u0631\u0648\u06cc\u0627\u0646\u06cc"
+    "name:azb_x_preferred": [
+      "ترویانی"
     ],
-    "name:aze_x_preferred":[
-        "Troyan\u0131"
+    "name:aze_x_preferred": [
+      "Troyanı"
     ],
-    "name:bak_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:bak_x_preferred": [
+      "Трояны"
     ],
-    "name:bam_x_preferred":[
-        "Trojany"
+    "name:bam_x_preferred": [
+      "Trojany"
     ],
-    "name:bar_x_preferred":[
-        "Trojany"
+    "name:bar_x_preferred": [
+      "Trojany"
     ],
-    "name:bcl_x_preferred":[
-        "Trojany"
+    "name:bcl_x_preferred": [
+      "Trojany"
     ],
-    "name:bel_x_preferred":[
-        "\u0422\u0440\u0430\u044f\u043d\u044b"
+    "name:bel_x_preferred": [
+      "Траяны"
     ],
-    "name:bis_x_preferred":[
-        "Trojany"
+    "name:bis_x_preferred": [
+      "Trojany"
     ],
-    "name:bjn_x_preferred":[
-        "Trojany"
+    "name:bjn_x_preferred": [
+      "Trojany"
     ],
-    "name:bod_x_preferred":[
-        "Trojany"
+    "name:bod_x_preferred": [
+      "Trojany"
     ],
-    "name:bre_x_preferred":[
-        "Trojany"
+    "name:bre_x_preferred": [
+      "Trojany"
     ],
-    "name:bug_x_preferred":[
-        "Trojany"
+    "name:bug_x_preferred": [
+      "Trojany"
     ],
-    "name:bul_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u0438"
+    "name:bul_x_preferred": [
+      "Трояни"
     ],
-    "name:bxr_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:bxr_x_preferred": [
+      "Трояны"
     ],
-    "name:cat_x_preferred":[
-        "Trojany"
+    "name:cat_x_preferred": [
+      "Trojany"
     ],
-    "name:cdo_x_preferred":[
-        "Trojany"
+    "name:cdo_x_preferred": [
+      "Trojany"
     ],
-    "name:ceb_x_preferred":[
-        "Trojany"
+    "name:ceb_x_preferred": [
+      "Trojany"
     ],
-    "name:ces_x_preferred":[
-        "Trojany"
+    "name:ces_x_preferred": [
+      "Trojany"
     ],
-    "name:cha_x_preferred":[
-        "Trojany"
+    "name:cha_x_preferred": [
+      "Trojany"
     ],
-    "name:che_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:che_x_preferred": [
+      "Трояны"
     ],
-    "name:chr_x_preferred":[
-        "Trojany"
+    "name:chr_x_preferred": [
+      "Trojany"
     ],
-    "name:chu_x_preferred":[
-        "\u0422\u0440\u043e\ua657\u043d\ua651"
+    "name:chu_x_preferred": [
+      "Троꙗнꙑ"
     ],
-    "name:chv_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:chv_x_preferred": [
+      "Трояны"
     ],
-    "name:chy_x_preferred":[
-        "Trojany"
+    "name:chy_x_preferred": [
+      "Trojany"
     ],
-    "name:cor_x_preferred":[
-        "Trojany"
+    "name:cor_x_preferred": [
+      "Trojany"
     ],
-    "name:cos_x_preferred":[
-        "Trojany"
+    "name:cos_x_preferred": [
+      "Trojany"
     ],
-    "name:crh_x_preferred":[
-        "Troyan\u0131"
+    "name:crh_x_preferred": [
+      "Troyanı"
     ],
-    "name:csb_x_preferred":[
-        "Trojany"
+    "name:csb_x_preferred": [
+      "Trojany"
     ],
-    "name:cym_x_preferred":[
-        "Trojany"
+    "name:cym_x_preferred": [
+      "Trojany"
     ],
-    "name:dan_x_preferred":[
-        "Trojany"
+    "name:dan_x_preferred": [
+      "Trojany"
     ],
-    "name:deu_x_preferred":[
-        "Trojany"
+    "name:deu_x_preferred": [
+      "Trojany"
     ],
-    "name:diq_x_preferred":[
-        "Trojany"
+    "name:diq_x_preferred": [
+      "Trojany"
     ],
-    "name:dsb_x_preferred":[
-        "Trojany"
+    "name:dsb_x_preferred": [
+      "Trojany"
     ],
-    "name:ell_x_preferred":[
-        "\u03a4\u03c1\u03bf\u03b3\u03b9\u03ac\u03bd\u03b5 \u039c\u03b1\u03c3\u03bf\u03b2\u03af\u03b1\u03c2"
+    "name:ell_x_preferred": [
+      "Τρογιάνε Μασοβίας"
     ],
-    "name:eml_x_preferred":[
-        "Trojany"
+    "name:eml_x_preferred": [
+      "Trojany"
     ],
-    "name:epo_x_preferred":[
-        "Trojany"
+    "name:epo_x_preferred": [
+      "Trojany"
     ],
-    "name:est_x_preferred":[
-        "Trojany"
+    "name:est_x_preferred": [
+      "Trojany"
     ],
-    "name:eus_x_preferred":[
-        "Trojany"
+    "name:eus_x_preferred": [
+      "Trojany"
     ],
-    "name:ewe_x_preferred":[
-        "Trojany"
+    "name:ewe_x_preferred": [
+      "Trojany"
     ],
-    "name:ext_x_preferred":[
-        "Trojany"
+    "name:ext_x_preferred": [
+      "Trojany"
     ],
-    "name:fao_x_preferred":[
-        "Trojany"
+    "name:fao_x_preferred": [
+      "Trojany"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0631\u0648\u06cc\u0627\u0646\u06cc"
+    "name:fas_x_preferred": [
+      "ترویانی"
     ],
-    "name:fij_x_preferred":[
-        "Trojany"
+    "name:fij_x_preferred": [
+      "Trojany"
     ],
-    "name:fin_x_preferred":[
-        "Trojany"
+    "name:fin_x_preferred": [
+      "Trojany"
     ],
-    "name:fra_x_preferred":[
-        "Trojany"
+    "name:fra_x_preferred": [
+      "Trojany"
     ],
-    "name:frp_x_preferred":[
-        "Trojany"
+    "name:frp_x_preferred": [
+      "Trojany"
     ],
-    "name:frr_x_preferred":[
-        "Trojany"
+    "name:frr_x_preferred": [
+      "Trojany"
     ],
-    "name:fry_x_preferred":[
-        "Trojany"
+    "name:fry_x_preferred": [
+      "Trojany"
     ],
-    "name:ful_x_preferred":[
-        "Trojany"
+    "name:ful_x_preferred": [
+      "Trojany"
     ],
-    "name:fur_x_preferred":[
-        "Trojany"
+    "name:fur_x_preferred": [
+      "Trojany"
     ],
-    "name:gag_x_preferred":[
-        "Trojany"
+    "name:gag_x_preferred": [
+      "Trojany"
     ],
-    "name:gla_x_preferred":[
-        "Trojany"
+    "name:gla_x_preferred": [
+      "Trojany"
     ],
-    "name:gle_x_preferred":[
-        "Trojany"
+    "name:gle_x_preferred": [
+      "Trojany"
     ],
-    "name:glg_x_preferred":[
-        "Trojany"
+    "name:glg_x_preferred": [
+      "Trojany"
     ],
-    "name:glv_x_preferred":[
-        "Trojany"
+    "name:glv_x_preferred": [
+      "Trojany"
     ],
-    "name:got_x_preferred":[
-        "\ud800\udf44\ud800\udf42\ud800\udf49\ud800\udf3e\ud800\udf30\ud800\udf3d\ud800\udf39"
+    "name:got_x_preferred": [
+      "𐍄𐍂𐍉𐌾𐌰𐌽𐌹"
     ],
-    "name:hak_x_preferred":[
-        "Trojany"
+    "name:hak_x_preferred": [
+      "Trojany"
     ],
-    "name:hat_x_preferred":[
-        "Trojany"
+    "name:hat_x_preferred": [
+      "Trojany"
     ],
-    "name:hau_x_preferred":[
-        "Trojany"
+    "name:hau_x_preferred": [
+      "Trojany"
     ],
-    "name:haw_x_preferred":[
-        "Trojany"
+    "name:haw_x_preferred": [
+      "Trojany"
     ],
-    "name:hif_x_preferred":[
-        "Trojany"
+    "name:hif_x_preferred": [
+      "Trojany"
     ],
-    "name:hrv_x_preferred":[
-        "Trojany"
+    "name:hrv_x_preferred": [
+      "Trojany"
     ],
-    "name:hsb_x_preferred":[
-        "Trojany"
+    "name:hsb_x_preferred": [
+      "Trojany"
     ],
-    "name:hun_x_preferred":[
-        "Trojany"
+    "name:hun_x_preferred": [
+      "Trojany"
     ],
-    "name:hye_x_preferred":[
-        "\u054f\u0580\u0578\u0575\u0576\u056b"
+    "name:hye_x_preferred": [
+      "Տրոյնի"
     ],
-    "name:ibo_x_preferred":[
-        "Trojany"
+    "name:ibo_x_preferred": [
+      "Trojany"
     ],
-    "name:ido_x_preferred":[
-        "Trojany"
+    "name:ido_x_preferred": [
+      "Trojany"
     ],
-    "name:iku_x_preferred":[
-        "Trojany"
+    "name:iku_x_preferred": [
+      "Trojany"
     ],
-    "name:ile_x_preferred":[
-        "Trojany"
+    "name:ile_x_preferred": [
+      "Trojany"
     ],
-    "name:ilo_x_preferred":[
-        "Trojany"
+    "name:ilo_x_preferred": [
+      "Trojany"
     ],
-    "name:ina_x_preferred":[
-        "Trojany"
+    "name:ina_x_preferred": [
+      "Trojany"
     ],
-    "name:inh_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:inh_x_preferred": [
+      "Трояны"
     ],
-    "name:ipk_x_preferred":[
-        "Trojany"
+    "name:ipk_x_preferred": [
+      "Trojany"
     ],
-    "name:isl_x_preferred":[
-        "Trojany"
+    "name:isl_x_preferred": [
+      "Trojany"
     ],
-    "name:ita_x_preferred":[
-        "Trojany"
+    "name:ita_x_preferred": [
+      "Trojany"
     ],
-    "name:jam_x_preferred":[
-        "Trojany"
+    "name:jam_x_preferred": [
+      "Trojany"
     ],
-    "name:jav_x_preferred":[
-        "Trojany"
+    "name:jav_x_preferred": [
+      "Trojany"
     ],
-    "name:jbo_x_preferred":[
-        "trojany"
+    "name:jbo_x_preferred": [
+      "trojany"
     ],
-    "name:jpn_x_preferred":[
-        "\u30c8\u30ed\u30e4\u30cb"
+    "name:jpn_x_preferred": [
+      "トロヤニ"
     ],
-    "name:kaa_x_preferred":[
-        "Trojany"
+    "name:kaa_x_preferred": [
+      "Trojany"
     ],
-    "name:kab_x_preferred":[
-        "Trojany"
+    "name:kab_x_preferred": [
+      "Trojany"
     ],
-    "name:kal_x_preferred":[
-        "Trojany"
+    "name:kal_x_preferred": [
+      "Trojany"
     ],
-    "name:kbd_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:kbd_x_preferred": [
+      "Трояны"
     ],
-    "name:kik_x_preferred":[
-        "Trojany"
+    "name:kik_x_preferred": [
+      "Trojany"
     ],
-    "name:kin_x_preferred":[
-        "Trojany"
+    "name:kin_x_preferred": [
+      "Trojany"
     ],
-    "name:koi_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:koi_x_preferred": [
+      "Трояны"
     ],
-    "name:kom_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:kom_x_preferred": [
+      "Трояны"
     ],
-    "name:kon_x_preferred":[
-        "Trojany"
+    "name:kon_x_preferred": [
+      "Trojany"
     ],
-    "name:kor_x_preferred":[
-        "\ud2b8\ub85c\uc57c\ub2c8"
+    "name:kor_x_preferred": [
+      "트로야니"
     ],
-    "name:krc_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:krc_x_preferred": [
+      "Трояны"
     ],
-    "name:ksh_x_preferred":[
-        "Trojany"
+    "name:ksh_x_preferred": [
+      "Trojany"
     ],
-    "name:kur_x_preferred":[
-        "Trojany"
+    "name:kur_x_preferred": [
+      "Trojany"
     ],
-    "name:lad_x_preferred":[
-        "Trojany"
+    "name:lad_x_preferred": [
+      "Trojany"
     ],
-    "name:lav_x_preferred":[
-        "Trojani"
+    "name:lav_x_preferred": [
+      "Trojani"
     ],
-    "name:lbe_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:lbe_x_preferred": [
+      "Трояны"
     ],
-    "name:lij_x_preferred":[
-        "Trojany"
+    "name:lij_x_preferred": [
+      "Trojany"
     ],
-    "name:lim_x_preferred":[
-        "Trojany"
+    "name:lim_x_preferred": [
+      "Trojany"
     ],
-    "name:lin_x_preferred":[
-        "Trojany"
+    "name:lin_x_preferred": [
+      "Trojany"
     ],
-    "name:lit_x_preferred":[
-        "Trojanai"
+    "name:lit_x_preferred": [
+      "Trojanai"
     ],
-    "name:lmo_x_preferred":[
-        "Trojany"
+    "name:lmo_x_preferred": [
+      "Trojany"
     ],
-    "name:ltg_x_preferred":[
-        "Trojany"
+    "name:ltg_x_preferred": [
+      "Trojany"
     ],
-    "name:ltz_x_preferred":[
-        "Trojany"
+    "name:ltz_x_preferred": [
+      "Trojany"
     ],
-    "name:lug_x_preferred":[
-        "Trojany"
+    "name:lug_x_preferred": [
+      "Trojany"
     ],
-    "name:mdf_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:mdf_x_preferred": [
+      "Трояны"
     ],
-    "name:mhr_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:mhr_x_preferred": [
+      "Трояны"
     ],
-    "name:mlg_x_preferred":[
-        "Trojany"
+    "name:mlg_x_preferred": [
+      "Trojany"
     ],
-    "name:mlt_x_preferred":[
-        "Trojany"
+    "name:mlt_x_preferred": [
+      "Trojany"
     ],
-    "name:mon_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:mon_x_preferred": [
+      "Трояны"
     ],
-    "name:mri_x_preferred":[
-        "Trojany"
+    "name:mri_x_preferred": [
+      "Trojany"
     ],
-    "name:mrj_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:mrj_x_preferred": [
+      "Трояны"
     ],
-    "name:msa_x_preferred":[
-        "Trojany"
+    "name:msa_x_preferred": [
+      "Trojany"
     ],
-    "name:mwl_x_preferred":[
-        "Trojany"
+    "name:mwl_x_preferred": [
+      "Trojany"
     ],
-    "name:myv_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b \u0432\u0435\u043b\u0435"
+    "name:myv_x_preferred": [
+      "Трояны веле"
     ],
-    "name:nap_x_preferred":[
-        "Trojany"
+    "name:nap_x_preferred": [
+      "Trojany"
     ],
-    "name:nau_x_preferred":[
-        "Trojany"
+    "name:nau_x_preferred": [
+      "Trojany"
     ],
-    "name:nds_x_preferred":[
-        "Trojany"
+    "name:nds_x_preferred": [
+      "Trojany"
     ],
-    "name:nld_x_preferred":[
-        "Trojany"
+    "name:nld_x_preferred": [
+      "Trojany"
     ],
-    "name:nno_x_preferred":[
-        "Trojany"
+    "name:nno_x_preferred": [
+      "Trojany"
     ],
-    "name:nor_x_preferred":[
-        "Trojany"
+    "name:nor_x_preferred": [
+      "Trojany"
     ],
-    "name:nov_x_preferred":[
-        "Trojany"
+    "name:nov_x_preferred": [
+      "Trojany"
     ],
-    "name:nrm_x_preferred":[
-        "Trojany"
+    "name:nrm_x_preferred": [
+      "Trojany"
     ],
-    "name:nso_x_preferred":[
-        "Trojany"
+    "name:nso_x_preferred": [
+      "Trojany"
     ],
-    "name:nya_x_preferred":[
-        "Trojany"
+    "name:nya_x_preferred": [
+      "Trojany"
     ],
-    "name:oci_x_preferred":[
-        "Trojany"
+    "name:oci_x_preferred": [
+      "Trojany"
     ],
-    "name:olo_x_preferred":[
-        "Trojany"
+    "name:olo_x_preferred": [
+      "Trojany"
     ],
-    "name:orm_x_preferred":[
-        "Trojany"
+    "name:orm_x_preferred": [
+      "Trojany"
     ],
-    "name:oss_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:oss_x_preferred": [
+      "Трояны"
     ],
-    "name:pag_x_preferred":[
-        "Trojany"
+    "name:pag_x_preferred": [
+      "Trojany"
     ],
-    "name:pam_x_preferred":[
-        "Trojany"
+    "name:pam_x_preferred": [
+      "Trojany"
     ],
-    "name:pap_x_preferred":[
-        "Trojany"
+    "name:pap_x_preferred": [
+      "Trojany"
     ],
-    "name:pcd_x_preferred":[
-        "Trojany"
+    "name:pcd_x_preferred": [
+      "Trojany"
     ],
-    "name:pdc_x_preferred":[
-        "Trojany"
+    "name:pdc_x_preferred": [
+      "Trojany"
     ],
-    "name:pfl_x_preferred":[
-        "Trojany"
+    "name:pfl_x_preferred": [
+      "Trojany"
     ],
-    "name:pih_x_preferred":[
-        "Trojany"
+    "name:pih_x_preferred": [
+      "Trojany"
     ],
-    "name:pms_x_preferred":[
-        "Trojany"
+    "name:pms_x_preferred": [
+      "Trojany"
     ],
-    "name:pnb_x_preferred":[
-        "\u062a\u0631\u0648\u06cc\u0627\u0646\u06cc"
+    "name:pnb_x_preferred": [
+      "ترویانی"
     ],
-    "name:pnt_x_preferred":[
-        "Trojany"
+    "name:pnt_x_preferred": [
+      "Trojany"
     ],
-    "name:pol_x_preferred":[
-        "Trojany"
+    "name:pol_x_preferred": [
+      "Trojany"
     ],
-    "name:por_x_preferred":[
-        "Trojany"
+    "name:por_x_preferred": [
+      "Trojany"
     ],
-    "name:que_x_preferred":[
-        "Trojany"
+    "name:que_x_preferred": [
+      "Trojany"
     ],
-    "name:rmy_x_preferred":[
-        "Trojany"
+    "name:rmy_x_preferred": [
+      "Trojany"
     ],
-    "name:ron_x_preferred":[
-        "Trojany"
+    "name:ron_x_preferred": [
+      "Trojany"
     ],
-    "name:rue_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:rue_x_preferred": [
+      "Трояны"
     ],
-    "name:run_x_preferred":[
-        "Trojany"
+    "name:run_x_preferred": [
+      "Trojany"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:rus_x_preferred": [
+      "Трояны"
     ],
-    "name:sag_x_preferred":[
-        "Trojany"
+    "name:sag_x_preferred": [
+      "Trojany"
     ],
-    "name:sah_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:sah_x_preferred": [
+      "Трояны"
     ],
-    "name:scn_x_preferred":[
-        "Trojany"
+    "name:scn_x_preferred": [
+      "Trojany"
     ],
-    "name:sco_x_preferred":[
-        "Trojany"
+    "name:sco_x_preferred": [
+      "Trojany"
     ],
-    "name:sgs_x_preferred":[
-        "Truojan\u0101"
+    "name:sgs_x_preferred": [
+      "Truojanā"
     ],
-    "name:slk_x_preferred":[
-        "Trojany"
+    "name:slk_x_preferred": [
+      "Trojany"
     ],
-    "name:sme_x_preferred":[
-        "Trojany"
+    "name:sme_x_preferred": [
+      "Trojany"
     ],
-    "name:smo_x_preferred":[
-        "Trojany"
+    "name:smo_x_preferred": [
+      "Trojany"
     ],
-    "name:sna_x_preferred":[
-        "Trojany"
+    "name:sna_x_preferred": [
+      "Trojany"
     ],
-    "name:som_x_preferred":[
-        "Trojany"
+    "name:som_x_preferred": [
+      "Trojany"
     ],
-    "name:sot_x_preferred":[
-        "Trojany"
+    "name:sot_x_preferred": [
+      "Trojany"
     ],
-    "name:spa_x_preferred":[
-        "Trojany"
+    "name:spa_x_preferred": [
+      "Trojany"
     ],
-    "name:sqi_x_preferred":[
-        "Trojany"
+    "name:sqi_x_preferred": [
+      "Trojany"
     ],
-    "name:srd_x_preferred":[
-        "Trojany"
+    "name:srd_x_preferred": [
+      "Trojany"
     ],
-    "name:srn_x_preferred":[
-        "Trojany"
+    "name:srn_x_preferred": [
+      "Trojany"
     ],
-    "name:srp_x_preferred":[
-        "\u0422\u0440\u043e\u0458\u0430\u043d\u0438"
+    "name:srp_x_preferred": [
+      "Тројани"
     ],
-    "name:ssw_x_preferred":[
-        "Trojany"
+    "name:ssw_x_preferred": [
+      "Trojany"
     ],
-    "name:stq_x_preferred":[
-        "Trojany"
+    "name:stq_x_preferred": [
+      "Trojany"
     ],
-    "name:sun_x_preferred":[
-        "Trojany"
+    "name:sun_x_preferred": [
+      "Trojany"
     ],
-    "name:swa_x_preferred":[
-        "Trojany"
+    "name:swa_x_preferred": [
+      "Trojany"
     ],
-    "name:swe_x_preferred":[
-        "Trojany"
+    "name:swe_x_preferred": [
+      "Trojany"
     ],
-    "name:szl_x_preferred":[
-        "Trojany"
+    "name:szl_x_preferred": [
+      "Trojany"
     ],
-    "name:tah_x_preferred":[
-        "Trojany"
+    "name:tah_x_preferred": [
+      "Trojany"
     ],
-    "name:tet_x_preferred":[
-        "Trojany"
+    "name:tet_x_preferred": [
+      "Trojany"
     ],
-    "name:tgk_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u0438"
+    "name:tgk_x_preferred": [
+      "Трояни"
     ],
-    "name:tgl_x_preferred":[
-        "Trojany"
+    "name:tgl_x_preferred": [
+      "Trojany"
     ],
-    "name:tpi_x_preferred":[
-        "Trojany"
+    "name:tpi_x_preferred": [
+      "Trojany"
     ],
-    "name:tsn_x_preferred":[
-        "Trojany"
+    "name:tsn_x_preferred": [
+      "Trojany"
     ],
-    "name:tso_x_preferred":[
-        "Trojany"
+    "name:tso_x_preferred": [
+      "Trojany"
     ],
-    "name:tuk_x_preferred":[
-        "Trojany"
+    "name:tuk_x_preferred": [
+      "Trojany"
     ],
-    "name:tum_x_preferred":[
-        "Trojany"
+    "name:tum_x_preferred": [
+      "Trojany"
     ],
-    "name:tur_x_preferred":[
-        "Trojany"
+    "name:tur_x_preferred": [
+      "Trojany"
     ],
-    "name:twi_x_preferred":[
-        "Trojany"
+    "name:twi_x_preferred": [
+      "Trojany"
     ],
-    "name:tyv_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:tyv_x_preferred": [
+      "Трояны"
     ],
-    "name:udm_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:udm_x_preferred": [
+      "Трояны"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Трояни"
     ],
-    "name:urd_x_preferred":[
-        "\u062a\u0631\u0648\u06cc\u0627\u0646\u06cc"
+    "name:urd_x_preferred": [
+      "ترویانی"
     ],
-    "name:uzb_x_preferred":[
-        "Trojany"
+    "name:uzb_x_preferred": [
+      "Trojany"
     ],
-    "name:vec_x_preferred":[
-        "Trojany"
+    "name:vec_x_preferred": [
+      "Trojany"
     ],
-    "name:ven_x_preferred":[
-        "Trojany"
+    "name:ven_x_preferred": [
+      "Trojany"
     ],
-    "name:vep_x_preferred":[
-        "Trojani"
+    "name:vep_x_preferred": [
+      "Trojani"
     ],
-    "name:vie_x_preferred":[
-        "Trojany"
+    "name:vie_x_preferred": [
+      "Trojany"
     ],
-    "name:vls_x_preferred":[
-        "Trojany"
+    "name:vls_x_preferred": [
+      "Trojany"
     ],
-    "name:vol_x_preferred":[
-        "Trojany"
+    "name:vol_x_preferred": [
+      "Trojany"
     ],
-    "name:war_x_preferred":[
-        "Trojany"
+    "name:war_x_preferred": [
+      "Trojany"
     ],
-    "name:wln_x_preferred":[
-        "Trojany"
+    "name:wln_x_preferred": [
+      "Trojany"
     ],
-    "name:wol_x_preferred":[
-        "Trojany"
+    "name:wol_x_preferred": [
+      "Trojany"
     ],
-    "name:xal_x_preferred":[
-        "\u0422\u0440\u043e\u044f\u043d\u044b"
+    "name:xal_x_preferred": [
+      "Трояны"
     ],
-    "name:xho_x_preferred":[
-        "Trojany"
+    "name:xho_x_preferred": [
+      "Trojany"
     ],
-    "name:zea_x_preferred":[
-        "Trojany"
+    "name:zea_x_preferred": [
+      "Trojany"
     ],
-    "name:zha_x_preferred":[
-        "Trojany"
+    "name:zha_x_preferred": [
+      "Trojany"
     ],
-    "name:zho_x_preferred":[
-        "\u7279\u6d1b\u7586\u5c3c"
+    "name:zho_x_preferred": [
+      "特洛疆尼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125366323,
-        85633723,
-        102079995
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756788,
-        "wk:page":"Trojany%2C_Masovian_Voivodeship"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125366323,
+      85633723,
+      102079995
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756788,
+      "pl-gugik:jpt_kod_je": "143405_2.0020",
+      "wk:page": "Trojany%2C_Masovian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"03a0807721f54a4fe743671f9b6e38de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079995,
-            "localadmin_id":1125366323,
-            "locality_id":1209848271,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "1d6d2a01b874a3655588a35be1892bd5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079995,
+        "localadmin_id": 1125366323,
+        "locality_id": 1209848271,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1209848271,
-    "wof:lastmodified":1570020628,
-    "wof:name":"Trojany",
-    "wof:parent_id":1125366323,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209848271,
+    "wof:lastmodified": 1669727344,
+    "wof:name": "Trojany",
+    "wof:parent_id": 1125366323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.34626,
-    52.47682,
-    21.34626,
-    52.47682
-],
-  "geometry": {"coordinates":[21.34626,52.47682],"type":"Point"}
+    21.32490766901239,
+    52.45584121801616,
+    21.356227612007118,
+    52.48689041901983
+  ],
+  "geometry": {"coordinates":[[[21.324908,52.461127],[21.325315,52.463713],[21.325441,52.464575],[21.325488,52.4649],[21.325802,52.466974],[21.325815,52.467035],[21.325951,52.467849],[21.326069,52.468727],[21.326095,52.468925],[21.326104,52.468964],[21.326134,52.469168],[21.326229,52.469817],[21.326153,52.470945],[21.326119,52.471457],[21.326101,52.471754],[21.326076,52.472108],[21.326056,52.47239],[21.326031,52.472737],[21.326005,52.473123],[21.325997,52.47323],[21.32599,52.473359],[21.325961,52.473738],[21.325969,52.473789],[21.325955,52.473892],[21.325953,52.473901],[21.325872,52.475093],[21.325662,52.477922],[21.325659,52.477968],[21.325538,52.479918],[21.325417,52.481522],[21.325412,52.481579],[21.325564,52.481622],[21.325735,52.481658],[21.325822,52.481677],[21.325877,52.481688],[21.326072,52.481729],[21.326241,52.481772],[21.326473,52.481828],[21.32665,52.48187],[21.326818,52.481911],[21.326946,52.481941],[21.327067,52.48197],[21.327336,52.482035],[21.327563,52.482089],[21.327817,52.482136],[21.327927,52.482156],[21.328031,52.482175],[21.328215,52.482209],[21.328339,52.482232],[21.328592,52.482279],[21.32891,52.482337],[21.329115,52.482375],[21.329369,52.482421],[21.329472,52.48244],[21.329572,52.482459],[21.329875,52.482514],[21.330139,52.482552],[21.330338,52.48258],[21.330542,52.482612],[21.330952,52.482712],[21.331108,52.482741],[21.331293,52.482775],[21.331451,52.482804],[21.331688,52.482848],[21.331776,52.482864],[21.33195,52.482897],[21.33228,52.482958],[21.33243,52.482986],[21.332507,52.483],[21.332623,52.483022],[21.33301,52.483094],[21.333142,52.483119],[21.333257,52.48314],[21.333521,52.48319],[21.333777,52.483237],[21.333918,52.483263],[21.334175,52.483311],[21.334305,52.483336],[21.334674,52.483404],[21.334778,52.483424],[21.334882,52.483443],[21.335006,52.483472],[21.335371,52.483546],[21.335575,52.483587],[21.335777,52.483628],[21.335923,52.483657],[21.336044,52.483681],[21.336132,52.483699],[21.336344,52.483742],[21.336487,52.483771],[21.336744,52.483823],[21.337175,52.483928],[21.337272,52.483953],[21.337421,52.483993],[21.337642,52.484051],[21.337832,52.484101],[21.338161,52.484188],[21.338319,52.48423],[21.338589,52.484302],[21.33871,52.484333],[21.338784,52.484353],[21.338938,52.484386],[21.339015,52.484403],[21.339283,52.484461],[21.33955,52.484518],[21.339822,52.484577],[21.339953,52.484605],[21.340094,52.484635],[21.340645,52.484724],[21.340765,52.484743],[21.341286,52.48477],[21.341608,52.484795],[21.341766,52.484809],[21.341957,52.484844],[21.342201,52.48489],[21.342338,52.484926],[21.342601,52.484994],[21.342848,52.485058],[21.343143,52.485134],[21.343451,52.485216],[21.343876,52.485321],[21.344327,52.485416],[21.344775,52.485511],[21.344992,52.485556],[21.345224,52.485605],[21.34567,52.485697],[21.346157,52.485794],[21.346706,52.485902],[21.346979,52.485952],[21.347005,52.485957],[21.347221,52.485998],[21.347703,52.486084],[21.348164,52.486167],[21.348307,52.486193],[21.34851,52.486229],[21.348636,52.486252],[21.349077,52.486331],[21.349542,52.486399],[21.34978,52.486437],[21.350245,52.486495],[21.350535,52.486523],[21.350623,52.486534],[21.351001,52.486581],[21.351383,52.48663],[21.351717,52.486677],[21.351933,52.486708],[21.352264,52.486755],[21.352691,52.486802],[21.353101,52.486832],[21.353328,52.486847],[21.353536,52.48686],[21.353747,52.486873],[21.353953,52.486884],[21.354034,52.486889],[21.354267,52.48689],[21.354271,52.48689],[21.354413,52.486866],[21.354898,52.486793],[21.355184,52.486749],[21.355456,52.486707],[21.356228,52.486602],[21.356185,52.48658],[21.35612,52.486353],[21.356001,52.485777],[21.355895,52.4851],[21.355628,52.483607],[21.35562,52.48345],[21.355501,52.482917],[21.355393,52.482427],[21.355387,52.482408],[21.355271,52.48191],[21.355196,52.481747],[21.355155,52.481658],[21.354999,52.481317],[21.354988,52.481296],[21.354747,52.480799],[21.35516,52.480606],[21.355106,52.479996],[21.355188,52.479976],[21.354867,52.479475],[21.354825,52.479409],[21.354774,52.479314],[21.354725,52.479223],[21.354682,52.479143],[21.354623,52.47907],[21.354557,52.478991],[21.354503,52.478912],[21.354374,52.478751],[21.354243,52.478597],[21.353987,52.478297],[21.353735,52.478045],[21.353719,52.47803],[21.353579,52.477905],[21.353445,52.477798],[21.353388,52.477753],[21.353175,52.477617],[21.35283,52.477422],[21.352776,52.477391],[21.352728,52.477373],[21.352637,52.477341],[21.352333,52.477337],[21.351722,52.477334],[21.351583,52.477334],[21.350846,52.475408],[21.349716,52.472556],[21.349701,52.472518],[21.348815,52.470256],[21.348601,52.470282],[21.348501,52.470294],[21.348461,52.470298],[21.348421,52.470303],[21.348325,52.470314],[21.348222,52.470326],[21.34817,52.470333],[21.348001,52.470353],[21.347805,52.470387],[21.347629,52.470403],[21.347463,52.470418],[21.347289,52.470435],[21.347122,52.470451],[21.346332,52.468473],[21.346286,52.468365],[21.346117,52.46798],[21.346093,52.467924],[21.345836,52.467339],[21.345234,52.466589],[21.343751,52.464883],[21.343729,52.464858],[21.343262,52.46432],[21.342725,52.463702],[21.340004,52.46167],[21.33886,52.460816],[21.338233,52.460342],[21.338205,52.460321],[21.337185,52.459551],[21.336579,52.459093],[21.336037,52.458684],[21.335531,52.458302],[21.335117,52.45799],[21.335006,52.457906],[21.334602,52.457601],[21.334194,52.457292],[21.333829,52.457016],[21.33345,52.456719],[21.333305,52.456611],[21.333091,52.456452],[21.332739,52.456189],[21.332408,52.455942],[21.332273,52.455841],[21.332184,52.455904],[21.332138,52.455939],[21.330364,52.457215],[21.32971,52.457685],[21.329139,52.458096],[21.328413,52.458618],[21.32777,52.459081],[21.327741,52.459102],[21.327693,52.459136],[21.326249,52.460164],[21.326097,52.460274],[21.325912,52.460407],[21.325828,52.460467],[21.325704,52.460555],[21.324954,52.46108],[21.324908,52.461127]]],"type":"Polygon"}
 }

@@ -2,81 +2,85 @@
   "id": 1209133789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.83199,53.25646,14.83199,53.25646",
-    "geom:latitude":53.25646,
-    "geom:longitude":14.83199,
-    "gn:admin1_code":"87.0",
-    "gn:admin2_code":"3206.0",
-    "gn:admin3_code":"320607.0",
-    "gn:asciiname":"Komorowko",
-    "gn:country_code":"PL",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095384,
-    "gn:latitude":53.25646,
-    "gn:longitude":14.83199,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Komor\u00f3wko",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"14.81199,53.23646,14.85199,53.27646",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Komor\u00f3wko"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003023589467619641,
+    "geom:area_square_m": 2245883.189867513,
+    "geom:bbox": "14.814633020925573,53.24161503302158,14.840830394922794,53.264094713021464",
+    "geom:latitude": 14.829882879135122,
+    "geom:longitude": 53.2538393492235,
+    "gn:admin1_code": "87.0",
+    "gn:admin2_code": "3206.0",
+    "gn:admin3_code": "320607.0",
+    "gn:asciiname": "Komorowko",
+    "gn:country_code": "PL",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095384,
+    "gn:latitude": 53.25646,
+    "gn:longitude": 14.83199,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Komorówko",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "14.81199,53.23646,14.85199,53.27646",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Komorówko"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043c\u043e\u0440\u0443\u0432\u043a\u043e"
+    "name:ukr_x_preferred": [
+      "Коморувко"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1477751587,
-        85633723,
-        102080047
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095384,
-        "wk:page":"Komor%C3%B3wko%2C_West_Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1477751587,
+      85633723,
+      102080047
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095384,
+      "pl-gugik:jpt_kod_je": "320607_2.0011",
+      "wk:page": "Komor%C3%B3wko%2C_West_Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4cbb9a26375a360fd842bcf5968fe9e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080047,
-            "localadmin_id":1477751587,
-            "locality_id":1209133789,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "db0b041ee8f2a0888363543c870b48ee",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080047,
+        "localadmin_id": 1477751587,
+        "locality_id": 1209133789,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1209133789,
-    "wof:lastmodified":1570021430,
-    "wof:name":"Komorowko",
-    "wof:parent_id":1477751587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209133789,
+    "wof:lastmodified": 1669727328,
+    "wof:name": "Komorowko",
+    "wof:parent_id": 1477751587,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.83199,
-    53.25646,
-    14.83199,
-    53.25646
-],
-  "geometry": {"coordinates":[14.83199,53.25646],"type":"Point"}
+    14.814633020925573,
+    53.24161503302158,
+    14.840830394922794,
+    53.264094713021464
+  ],
+  "geometry": {"coordinates":[[[14.814633,53.250234],[14.814981,53.251177],[14.816338,53.251282],[14.816448,53.251288],[14.816774,53.251304],[14.817981,53.25135],[14.818791,53.251381],[14.819983,53.251427],[14.823175,53.251547],[14.823442,53.251558],[14.82368,53.251566],[14.823368,53.252173],[14.823006,53.25275],[14.822843,53.25301],[14.822376,53.25373],[14.821691,53.254784],[14.821308,53.255374],[14.821259,53.255449],[14.821095,53.255703],[14.82078,53.256165],[14.820231,53.256973],[14.81959,53.257915],[14.819519,53.258018],[14.819417,53.258168],[14.819797,53.258397],[14.821207,53.259104],[14.822111,53.259437],[14.824375,53.260886],[14.824405,53.260921],[14.824458,53.260879],[14.825056,53.260407],[14.825112,53.260429],[14.826506,53.261058],[14.826621,53.261438],[14.827513,53.261775],[14.828984,53.263259],[14.831487,53.262415],[14.840747,53.26408],[14.84083,53.264095],[14.840816,53.264033],[14.838942,53.256111],[14.838942,53.256],[14.838642,53.254716],[14.836991,53.247614],[14.835145,53.24673],[14.830733,53.244765],[14.827131,53.24316],[14.823958,53.241729],[14.823898,53.241702],[14.823706,53.241615],[14.823606,53.241658],[14.823167,53.241849],[14.822986,53.242547],[14.82343,53.249054],[14.823442,53.249229],[14.823457,53.249442],[14.823166,53.249465],[14.822662,53.249498],[14.821982,53.249542],[14.820621,53.249694],[14.819903,53.249674],[14.819286,53.249657],[14.818414,53.249546],[14.818258,53.249526],[14.817967,53.24957],[14.817051,53.249803],[14.816025,53.250127],[14.81537,53.250268],[14.814945,53.250279],[14.814633,53.250234]]],"type":"Polygon"}
 }

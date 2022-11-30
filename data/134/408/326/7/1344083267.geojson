@@ -2,83 +2,87 @@
   "id": 1344083267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.64239,52.68511,18.64239,52.68511",
-    "geom:latitude":52.68511,
-    "geom:longitude":18.64239,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"411.0",
-    "gn:admin3_code":"41103.0",
-    "gn:asciiname":"Ludwikowo",
-    "gn:country_code":"PL",
-    "gn:dem":89,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3092752,
-    "gn:latitude":52.68511,
-    "gn:longitude":18.64239,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Ludwikowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.62239,52.66511,18.66239,52.70511",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Ludwikowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00013890091956777952,
+    "geom:area_square_m": 1045295.4125183308,
+    "geom:bbox": "18.629314712998493,52.6780326840179,18.65299317900374,52.68938593902015",
+    "geom:latitude": 18.642618470406287,
+    "geom:longitude": 52.68403620670138,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "411.0",
+    "gn:admin3_code": "41103.0",
+    "gn:asciiname": "Ludwikowo",
+    "gn:country_code": "PL",
+    "gn:dem": 89,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3092752,
+    "gn:latitude": 52.68511,
+    "gn:longitude": 18.64239,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Ludwikowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.62239,52.66511,18.66239,52.70511",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Ludwikowo"
     ],
-    "name:pol_x_preferred":[
-        "Ludwikowo"
+    "name:pol_x_preferred": [
+      "Ludwikowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044e\u0434\u0432\u0456\u043a\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Людвіково"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125270779,
-        85633723,
-        102079977
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3092752
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125270779,
+      85633723,
+      102079977
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3092752,
+      "pl-gugik:jpt_kod_je": "041103_2.0015"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"329d8799524e68190c704e9fbd0d16f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079977,
-            "localadmin_id":1125270779,
-            "locality_id":1344083267,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d147e4b182456d6188cf7f299c011024",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079977,
+        "localadmin_id": 1125270779,
+        "locality_id": 1344083267,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1344083267,
-    "wof:lastmodified":1570009819,
-    "wof:name":"Ludwikowo",
-    "wof:parent_id":1125270779,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344083267,
+    "wof:lastmodified": 1669727332,
+    "wof:name": "Ludwikowo",
+    "wof:parent_id": 1125270779,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.64239,
-    52.68511,
-    18.64239,
-    52.68511
-],
-  "geometry": {"coordinates":[18.64239,52.68511],"type":"Point"}
+    18.629314712998493,
+    52.6780326840179,
+    18.65299317900374,
+    52.68938593902015
+  ],
+  "geometry": {"coordinates":[[[18.632114,52.68321],[18.634189,52.683729],[18.63447,52.683808],[18.634616,52.683877],[18.637078,52.685457],[18.637435,52.685673],[18.638865,52.686571],[18.639307,52.68685],[18.640236,52.68744],[18.641243,52.688095],[18.641542,52.688242],[18.642912,52.689151],[18.643074,52.689117],[18.644062,52.689011],[18.645231,52.688908],[18.645697,52.688809],[18.645788,52.688885],[18.645924,52.689113],[18.645969,52.689156],[18.646028,52.68918],[18.646835,52.689151],[18.647162,52.689386],[18.647608,52.689335],[18.647845,52.68927],[18.64809,52.689162],[18.648518,52.68905],[18.648732,52.689052],[18.648916,52.689095],[18.649149,52.689126],[18.649531,52.689126],[18.649786,52.689256],[18.651174,52.689057],[18.652032,52.688933],[18.652856,52.688815],[18.652993,52.688795],[18.652927,52.688688],[18.652452,52.687554],[18.651866,52.685987],[18.651606,52.68532],[18.651485,52.684883],[18.65144,52.684566],[18.651101,52.683627],[18.650952,52.68341],[18.650722,52.683258],[18.650361,52.683082],[18.649934,52.682898],[18.649826,52.682845],[18.646327,52.681175],[18.645491,52.680775],[18.644834,52.68046],[18.644389,52.680247],[18.643798,52.679963],[18.64262,52.679399],[18.639826,52.678059],[18.63977,52.678033],[18.639622,52.678096],[18.639141,52.678299],[18.638932,52.678391],[18.638247,52.678686],[18.637482,52.679003],[18.63747,52.679008],[18.636832,52.679289],[18.635896,52.679697],[18.635379,52.679922],[18.634033,52.680496],[18.633719,52.680631],[18.633333,52.680802],[18.631977,52.68137],[18.63185,52.681432],[18.631082,52.681763],[18.630071,52.682204],[18.629476,52.682462],[18.629315,52.682526],[18.632114,52.68321]]],"type":"Polygon"}
 }

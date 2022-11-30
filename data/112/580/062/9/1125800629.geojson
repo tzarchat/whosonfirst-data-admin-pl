@@ -2,226 +2,230 @@
   "id": 1125800629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.43183,53.86786,14.43183,53.86786",
-    "geom:latitude":53.86786,
-    "geom:longitude":14.43183,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":340,
-    "iso:country":"PL",
-    "lbl:bbox":"14.41183,53.84786,14.45183,53.88786",
-    "lbl:latitude":53.86786,
-    "lbl:longitude":14.43183,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bel_x_preferred":[
-        "\u041b\u044e\u0431\u0456\u043d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003918410548249908,
+    "geom:area_square_m": 2868903.1268130625,
+    "geom:bbox": "14.415493900894662,53.85507716002085,14.442546282901207,53.880230275025845",
+    "geom:latitude": 14.428884086985217,
+    "geom:longitude": 53.86816512339715,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 340,
+    "iso:country": "PL",
+    "lbl:bbox": "14.41183,53.84786,14.45183,53.88786",
+    "lbl:latitude": 53.86786,
+    "lbl:longitude": 14.43183,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred": [
+      "Любін"
     ],
-    "name:bul_x_preferred":[
-        "\u041b\u044e\u0431\u0438\u043d"
+    "name:bul_x_preferred": [
+      "Любин"
     ],
-    "name:ceb_x_preferred":[
-        "Lubin"
+    "name:ceb_x_preferred": [
+      "Lubin"
     ],
-    "name:ces_x_preferred":[
-        "Lubin"
+    "name:ces_x_preferred": [
+      "Lubin"
     ],
-    "name:crh_x_preferred":[
-        "L\u00fcbin"
+    "name:crh_x_preferred": [
+      "Lübin"
     ],
-    "name:csb_x_preferred":[
-        "Lubin"
+    "name:csb_x_preferred": [
+      "Lubin"
     ],
-    "name:deu_x_preferred":[
-        "Lubin"
+    "name:deu_x_preferred": [
+      "Lubin"
     ],
-    "name:epo_x_preferred":[
-        "Lubin"
+    "name:epo_x_preferred": [
+      "Lubin"
     ],
-    "name:eus_x_preferred":[
-        "Lubin"
+    "name:eus_x_preferred": [
+      "Lubin"
     ],
-    "name:fas_x_preferred":[
-        "\u0644\u0648\u0628\u06cc\u0646"
+    "name:fas_x_preferred": [
+      "لوبین"
     ],
-    "name:fin_x_preferred":[
-        "Lubin"
+    "name:fin_x_preferred": [
+      "Lubin"
     ],
-    "name:fra_x_preferred":[
-        "Lubin"
+    "name:fra_x_preferred": [
+      "Lubin"
     ],
-    "name:heb_x_preferred":[
-        "\u05dc\u05d5\u05d1\u05d9\u05df"
+    "name:heb_x_preferred": [
+      "לובין"
     ],
-    "name:hun_x_preferred":[
-        "Lubin"
+    "name:hun_x_preferred": [
+      "Lubin"
     ],
-    "name:hye_x_preferred":[
-        "\u053c\u0575\u0578\u0582\u0562\u056b\u0576"
+    "name:hye_x_preferred": [
+      "Լյուբին"
     ],
-    "name:ind_x_preferred":[
-        "Lubin"
+    "name:ind_x_preferred": [
+      "Lubin"
     ],
-    "name:ita_x_preferred":[
-        "Lubin"
+    "name:ita_x_preferred": [
+      "Lubin"
     ],
-    "name:jav_x_preferred":[
-        "Lubin"
+    "name:jav_x_preferred": [
+      "Lubin"
     ],
-    "name:jbo_x_preferred":[
-        "lubin"
+    "name:jbo_x_preferred": [
+      "lubin"
     ],
-    "name:jpn_x_preferred":[
-        "\u30eb\u30d3\u30f3"
+    "name:jpn_x_preferred": [
+      "ルビン"
     ],
-    "name:kor_x_preferred":[
-        "\ub8e8\ube48"
+    "name:kor_x_preferred": [
+      "루빈"
     ],
-    "name:lav_x_preferred":[
-        "Lubina"
+    "name:lav_x_preferred": [
+      "Lubina"
     ],
-    "name:lit_x_preferred":[
-        "Liubinas"
+    "name:lit_x_preferred": [
+      "Liubinas"
     ],
-    "name:mar_x_preferred":[
-        "\u0932\u094d\u092f\u0941\u092c\u093f\u0928"
+    "name:mar_x_preferred": [
+      "ल्युबिन"
     ],
-    "name:msa_x_preferred":[
-        "Lubin"
+    "name:msa_x_preferred": [
+      "Lubin"
     ],
-    "name:new_x_preferred":[
-        "\u0932\u0941\u092c\u093f\u0928"
+    "name:new_x_preferred": [
+      "लुबिन"
     ],
-    "name:nld_x_preferred":[
-        "Lubin"
+    "name:nld_x_preferred": [
+      "Lubin"
     ],
-    "name:nor_x_preferred":[
-        "Lubin"
+    "name:nor_x_preferred": [
+      "Lubin"
     ],
-    "name:pol_x_preferred":[
-        "Lubin"
+    "name:pol_x_preferred": [
+      "Lubin"
     ],
-    "name:por_x_preferred":[
-        "Lubin"
+    "name:por_x_preferred": [
+      "Lubin"
     ],
-    "name:que_x_preferred":[
-        "Lubin"
+    "name:que_x_preferred": [
+      "Lubin"
     ],
-    "name:ron_x_preferred":[
-        "Lubin"
+    "name:ron_x_preferred": [
+      "Lubin"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u044e\u0431\u0438\u043d"
+    "name:rus_x_preferred": [
+      "Любин"
     ],
-    "name:slk_x_preferred":[
-        "Lubin"
+    "name:slk_x_preferred": [
+      "Lubin"
     ],
-    "name:spa_x_preferred":[
-        "Lubin"
+    "name:spa_x_preferred": [
+      "Lubin"
     ],
-    "name:srp_x_preferred":[
-        "\u041b\u0443\u0431\u0438\u043d"
+    "name:srp_x_preferred": [
+      "Лубин"
     ],
-    "name:swe_x_preferred":[
-        "Lubin"
+    "name:swe_x_preferred": [
+      "Lubin"
     ],
-    "name:szl_x_preferred":[
-        "Lubin"
+    "name:szl_x_preferred": [
+      "Lubin"
     ],
-    "name:tat_x_preferred":[
-        "\u041b\u044e\u0431\u0438\u043d"
+    "name:tat_x_preferred": [
+      "Любин"
     ],
-    "name:tur_x_preferred":[
-        "Lubin"
+    "name:tur_x_preferred": [
+      "Lubin"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044e\u0431\u0456\u043d"
+    "name:ukr_x_preferred": [
+      "Любін"
     ],
-    "name:und_x_variant":[
-        "Lebbin"
+    "name:und_x_variant": [
+      "Lebbin"
     ],
-    "name:vie_x_preferred":[
-        "Lubin"
+    "name:vie_x_preferred": [
+      "Lubin"
     ],
-    "name:war_x_preferred":[
-        "Lubin"
+    "name:war_x_preferred": [
+      "Lubin"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3092925,
-    "qs_pg:gn_pop":340,
-    "qs_pg:name":"Lubin",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":195960,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":505449,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125290287,
-        85633723,
-        102080153
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3092925,
+    "qs_pg:gn_pop": 340,
+    "qs_pg:name": "Lubin",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 195960,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 505449,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3092925,
-        "gp:id":505449,
-        "qs_pg:id":195960
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125290287,
+      85633723,
+      102080153
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3092925,
+      "gp:id": 505449,
+      "pl-gugik:jpt_kod_je": "320704_5.0024",
+      "qs_pg:id": 195960
     },
-    "wof:country":"PL",
-    "wof:created":1497291244,
-    "wof:geomhash":"00b2f034610d9437674023444d422497",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080153,
-            "localadmin_id":1125290287,
-            "locality_id":1125800629,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497291244,
+    "wof:geomhash": "717c4737cd1460227573d68036d444cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080153,
+        "localadmin_id": 1125290287,
+        "locality_id": 1125800629,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125800629,
-    "wof:lastmodified":1570037656,
-    "wof:name":"Lubin",
-    "wof:parent_id":1125290287,
-    "wof:placetype":"locality",
-    "wof:population":340,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125800629,
+    "wof:lastmodified": 1669727330,
+    "wof:name": "Lubin",
+    "wof:parent_id": 1125290287,
+    "wof:placetype": "locality",
+    "wof:population": 340,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.43183,
-    53.86786,
-    14.43183,
-    53.86786
-],
-  "geometry": {"coordinates":[14.43183,53.86786],"type":"Point"}
+    14.415493900894662,
+    53.85507716002085,
+    14.442546282901207,
+    53.880230275025845
+  ],
+  "geometry": {"coordinates":[[[14.441656,53.876383],[14.44203,53.876232],[14.441728,53.875144],[14.441894,53.874605],[14.441701,53.873903],[14.441573,53.873694],[14.441067,53.872869],[14.440444,53.87228],[14.439812,53.872106],[14.438468,53.872065],[14.438002,53.87226],[14.43763,53.872362],[14.43718,53.872313],[14.437275,53.872254],[14.437643,53.872026],[14.436156,53.870761],[14.435387,53.870079],[14.43526,53.869966],[14.435976,53.86951],[14.436367,53.869324],[14.436495,53.869263],[14.438475,53.86896],[14.43863,53.868936],[14.438731,53.86892],[14.439068,53.868764],[14.439958,53.868349],[14.440015,53.868336],[14.441525,53.867996],[14.440832,53.867343],[14.44133,53.867167],[14.442021,53.866906],[14.442304,53.867134],[14.442317,53.867081],[14.442431,53.866609],[14.442546,53.866114],[14.442079,53.865889],[14.441144,53.865442],[14.441117,53.865391],[14.441202,53.864679],[14.440695,53.864566],[14.441038,53.86435],[14.441135,53.863928],[14.441154,53.86372],[14.441284,53.86317],[14.441341,53.86298],[14.441352,53.862943],[14.422379,53.855077],[14.420582,53.863036],[14.420368,53.863983],[14.417951,53.869884],[14.417893,53.870024],[14.415494,53.875878],[14.421039,53.876782],[14.42522,53.877464],[14.425571,53.877386],[14.426125,53.877273],[14.427609,53.876954],[14.427612,53.876952],[14.427737,53.876926],[14.427912,53.876888],[14.42821,53.876884],[14.428627,53.877209],[14.429282,53.878409],[14.429213,53.87911],[14.429326,53.87951],[14.430085,53.880082],[14.430781,53.88023],[14.430791,53.879926],[14.430958,53.878388],[14.431005,53.877929],[14.431003,53.877726],[14.431002,53.877654],[14.431,53.877492],[14.430996,53.877133],[14.431892,53.877087],[14.43218,53.877073],[14.432483,53.877058],[14.432765,53.877043],[14.432804,53.877042],[14.432841,53.877039],[14.433061,53.877028],[14.435373,53.876911],[14.435568,53.876559],[14.435694,53.876331],[14.438614,53.875471],[14.439276,53.875562],[14.439787,53.875724],[14.44042,53.876043],[14.440859,53.876371],[14.44145,53.876831],[14.44152,53.876984],[14.441835,53.876947],[14.441656,53.876383]]],"type":"Polygon"}
 }

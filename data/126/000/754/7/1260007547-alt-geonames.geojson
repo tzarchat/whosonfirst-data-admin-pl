@@ -1,0 +1,18 @@
+{
+  "id": 1260007547,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label": "geonames",
+    "src:geom": "geonames",
+    "wof:geomhash": "210a3e226ca042cfb5a0119ca5d6da2f",
+    "wof:id": 1260007547,
+    "wof:repo": "whosonfirst-data-admin-pl"
+  },
+  "bbox": [
+    19.05522,
+    50.87371,
+    19.05522,
+    50.87371
+  ],
+  "geometry": {"coordinates":[19.05522,50.87371],"type":"Point"}
+}

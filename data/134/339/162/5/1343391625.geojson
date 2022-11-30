@@ -2,84 +2,88 @@
   "id": 1343391625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.59581,52.67831,14.59581,52.67831",
-    "geom:latitude":52.67831,
-    "geom:longitude":14.59581,
-    "gn:admin1_code":"87.0",
-    "gn:admin2_code":"3210.0",
-    "gn:admin3_code":"321002.0",
-    "gn:asciiname":"Reczyce",
-    "gn:country_code":"PL",
-    "gn:dem":23,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535446,
-    "gn:latitude":52.67831,
-    "gn:longitude":14.59581,
-    "gn:modification_date":"2010-09-14",
-    "gn:name":"Reczyce",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"14.57581,52.65831,14.61581,52.69831",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Reczyce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00006139083510205693,
+    "geom:area_square_m": 462066.5980245598,
+    "geom:bbox": "14.592491065900532,52.67347366201511,14.606135064901965,52.680475333019686",
+    "geom:latitude": 14.599032322659882,
+    "geom:longitude": 52.677241186144705,
+    "gn:admin1_code": "87.0",
+    "gn:admin2_code": "3210.0",
+    "gn:admin3_code": "321002.0",
+    "gn:asciiname": "Reczyce",
+    "gn:country_code": "PL",
+    "gn:dem": 23,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535446,
+    "gn:latitude": 52.67831,
+    "gn:longitude": 14.59581,
+    "gn:modification_date": "2010-09-14",
+    "gn:name": "Reczyce",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "14.57581,52.65831,14.61581,52.69831",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Reczyce"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u0435\u0447\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Речице"
     ],
-    "name:vie_x_preferred":[
-        "Reczyce"
+    "name:vie_x_preferred": [
+      "Reczyce"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125400177,
-        85633723,
-        102080005
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535446,
-        "wk:page":"Reczyce%2C_West_Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125400177,
+      85633723,
+      102080005
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535446,
+      "pl-gugik:jpt_kod_je": "321002_2.0007",
+      "wk:page": "Reczyce%2C_West_Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"09b5c7a0c14f9dcb0057a2392bb61b89",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080005,
-            "localadmin_id":1125400177,
-            "locality_id":1343391625,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "4cadf9bcd35d1f6a18209ddb8ab50ac2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080005,
+        "localadmin_id": 1125400177,
+        "locality_id": 1343391625,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1343391625,
-    "wof:lastmodified":1570009268,
-    "wof:name":"Reczyce",
-    "wof:parent_id":1125400177,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343391625,
+    "wof:lastmodified": 1669727330,
+    "wof:name": "Reczyce",
+    "wof:parent_id": 1125400177,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.59581,
-    52.67831,
-    14.59581,
-    52.67831
-],
-  "geometry": {"coordinates":[14.59581,52.67831],"type":"Point"}
+    14.592491065900532,
+    52.67347366201511,
+    14.606135064901965,
+    52.680475333019686
+  ],
+  "geometry": {"coordinates":[[[14.592491,52.677901],[14.593365,52.678187],[14.593205,52.678379],[14.593969,52.678498],[14.595231,52.678655],[14.595087,52.679199],[14.594692,52.678964],[14.594617,52.678968],[14.594533,52.678974],[14.594467,52.678978],[14.594427,52.67898],[14.59438,52.678983],[14.594353,52.678985],[14.594319,52.678987],[14.594281,52.67899],[14.594232,52.678993],[14.594192,52.678995],[14.594142,52.678998],[14.59408,52.679002],[14.594021,52.679006],[14.593955,52.67901],[14.59391,52.679013],[14.593858,52.679016],[14.593808,52.679019],[14.593754,52.679023],[14.593092,52.679064],[14.592993,52.679172],[14.593877,52.679714],[14.595062,52.67991],[14.597676,52.680475],[14.597782,52.680474],[14.598457,52.680306],[14.599612,52.679863],[14.600492,52.679463],[14.601673,52.679383],[14.603325,52.679484],[14.60354,52.679635],[14.603728,52.679968],[14.603775,52.680035],[14.603998,52.680228],[14.605078,52.680466],[14.606135,52.679766],[14.605721,52.679804],[14.605667,52.679869],[14.605567,52.679846],[14.605158,52.679116],[14.6051,52.679012],[14.604929,52.678727],[14.604995,52.677652],[14.605007,52.677302],[14.605014,52.677159],[14.605048,52.676423],[14.605055,52.676261],[14.604613,52.676064],[14.604021,52.675799],[14.603464,52.675552],[14.603087,52.675383],[14.603021,52.675354],[14.602399,52.675077],[14.601892,52.674836],[14.600412,52.674131],[14.600015,52.674068],[14.598022,52.673753],[14.597614,52.673688],[14.597571,52.673681],[14.59646,52.673506],[14.596296,52.673474],[14.595945,52.673951],[14.595396,52.674789],[14.594515,52.675696],[14.593696,52.676097],[14.593529,52.676193],[14.593144,52.675922],[14.592815,52.676213],[14.592786,52.676711],[14.592784,52.676776],[14.592775,52.676855],[14.592771,52.676943],[14.592769,52.677002],[14.592966,52.677215],[14.592996,52.677467],[14.59277,52.677742],[14.592491,52.677901]]],"type":"Polygon"}
 }

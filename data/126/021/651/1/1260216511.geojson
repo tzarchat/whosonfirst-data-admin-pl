@@ -2,92 +2,96 @@
   "id": 1260216511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.26609,53.69953,22.26609,53.69953",
-    "geom:latitude":53.69953,
-    "geom:longitude":22.26609,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280504.0",
-    "gn:asciiname":"Nowaki",
-    "gn:country_code":"PL",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":763773,
-    "gn:latitude":53.69953,
-    "gn:longitude":22.26609,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Nowaki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.24609,53.67953,22.28609,53.71953",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Nowaki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00038605535151568175,
+    "geom:area_square_m": 2837793.5196963362,
+    "geom:bbox": "22.256176352026575,53.68934084801999,22.28729079202388,53.71124049801797",
+    "geom:latitude": 22.269480513508785,
+    "geom:longitude": 53.701039706375,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280504.0",
+    "gn:asciiname": "Nowaki",
+    "gn:country_code": "PL",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 763773,
+    "gn:latitude": 53.69953,
+    "gn:longitude": 22.26609,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Nowaki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.24609,53.67953,22.28609,53.71953",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Nowaki"
     ],
-    "name:fra_x_preferred":[
-        "Nowaki"
+    "name:fra_x_preferred": [
+      "Nowaki"
     ],
-    "name:pol_x_preferred":[
-        "Nowaki"
+    "name:pol_x_preferred": [
+      "Nowaki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041d\u043e\u0432\u0430\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Новакі"
     ],
-    "name:und_x_variant":[
-        "Br\u00fcderfelde",
-        "Nowacken",
-        "Nowaken"
+    "name:und_x_variant": [
+      "Brüderfelde",
+      "Nowacken",
+      "Nowaken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751887,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":763773,
-        "wk:page":"Nowaki%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751887,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 763773,
+      "pl-gugik:jpt_kod_je": "280504_2.0027",
+      "wk:page": "Nowaki%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"329c376ae6461c02b69e388370cd9593",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477751887,
-            "locality_id":1260216511,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "5dbecf5426001a3dbed9b17e1f744707",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477751887,
+        "locality_id": 1260216511,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1260216511,
-    "wof:lastmodified":1570025724,
-    "wof:name":"Nowaki",
-    "wof:parent_id":1477751887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260216511,
+    "wof:lastmodified": 1669727337,
+    "wof:name": "Nowaki",
+    "wof:parent_id": 1477751887,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.26609,
-    53.69953,
-    22.26609,
-    53.69953
-],
-  "geometry": {"coordinates":[22.26609,53.69953],"type":"Point"}
+    22.256176352026575,
+    53.68934084801999,
+    22.28729079202388,
+    53.71124049801797
+  ],
+  "geometry": {"coordinates":[[[22.256578,53.70545],[22.256975,53.705603],[22.257027,53.705621],[22.261068,53.707007],[22.265782,53.708672],[22.266829,53.70916],[22.268205,53.709658],[22.268606,53.709795],[22.269396,53.710256],[22.270871,53.711115],[22.271088,53.71124],[22.272882,53.710426],[22.274017,53.709911],[22.275524,53.709219],[22.275667,53.709153],[22.276398,53.70882],[22.276959,53.708571],[22.27793,53.708227],[22.279813,53.707568],[22.282,53.706785],[22.285467,53.705565],[22.287291,53.704917],[22.285632,53.703968],[22.285538,53.703918],[22.283459,53.702718],[22.283522,53.701418],[22.283507,53.701303],[22.283422,53.700643],[22.283444,53.700231],[22.283383,53.700229],[22.283292,53.700009],[22.282656,53.699153],[22.282602,53.699081],[22.282383,53.698804],[22.282208,53.698658],[22.282125,53.698589],[22.281884,53.698444],[22.281251,53.697922],[22.281055,53.697761],[22.280787,53.697569],[22.27982,53.697356],[22.279344,53.697177],[22.278808,53.69707],[22.278451,53.69693],[22.278166,53.69689],[22.277745,53.696776],[22.277195,53.696603],[22.277106,53.696565],[22.276672,53.696418],[22.276249,53.696305],[22.276024,53.696208],[22.275233,53.695982],[22.274615,53.695666],[22.274537,53.695519],[22.274126,53.695291],[22.273713,53.695079],[22.27353,53.694961],[22.273483,53.694935],[22.273266,53.69481],[22.271794,53.693968],[22.271628,53.693872],[22.270821,53.693447],[22.269918,53.693052],[22.268947,53.692628],[22.267019,53.691248],[22.266,53.690519],[22.264677,53.689549],[22.264305,53.689341],[22.263357,53.689866],[22.26275,53.690239],[22.2598,53.691619],[22.25864,53.69211],[22.258516,53.692131],[22.258462,53.692421],[22.258442,53.692529],[22.258088,53.694423],[22.257845,53.696557],[22.257577,53.698455],[22.257566,53.698536],[22.257341,53.699929],[22.257393,53.701044],[22.256838,53.703336],[22.256176,53.705203],[22.256466,53.705344],[22.256578,53.70545]]],"type":"Polygon"}
 }

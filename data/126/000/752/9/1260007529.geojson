@@ -2,134 +2,138 @@
   "id": 1260007529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.50934,51.71483,18.50934,51.71483",
-    "geom:latitude":51.71483,
-    "geom:longitude":18.50934,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1014.0",
-    "gn:admin3_code":"101409.0",
-    "gn:asciiname":"Gora",
-    "gn:country_code":"PL",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3098897,
-    "gn:latitude":51.71483,
-    "gn:longitude":18.50934,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"G\u00f3ra",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.48934,51.69483,18.52934,51.73483",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bos_x_preferred":[
-        "Gora"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002521811419050059,
+    "geom:area_square_m": 1939154.4364364478,
+    "geom:bbox": "18.501102528005994,51.7088789250148,18.527811353002896,51.72235818101198",
+    "geom:latitude": 18.514507341539634,
+    "geom:longitude": 51.715815209982075,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1014.0",
+    "gn:admin3_code": "101409.0",
+    "gn:asciiname": "Gora",
+    "gn:country_code": "PL",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3098897,
+    "gn:latitude": 51.71483,
+    "gn:longitude": 18.50934,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Góra",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.48934,51.69483,18.52934,51.73483",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:bos_x_preferred": [
+      "Gora"
     ],
-    "name:bul_x_preferred":[
-        "\u0413\u043e\u0440\u0430"
+    "name:bul_x_preferred": [
+      "Гора"
     ],
-    "name:ceb_x_preferred":[
-        "Gora"
+    "name:ceb_x_preferred": [
+      "Gora"
     ],
-    "name:deu_x_preferred":[
-        "Gora"
+    "name:deu_x_preferred": [
+      "Gora"
     ],
-    "name:fin_x_preferred":[
-        "Gora"
+    "name:fin_x_preferred": [
+      "Gora"
     ],
-    "name:fra_x_preferred":[
-        "Gora"
+    "name:fra_x_preferred": [
+      "Gora"
     ],
-    "name:heb_x_preferred":[
-        "\u05d2\u05d5\u05e8\u05d4"
+    "name:heb_x_preferred": [
+      "גורה"
     ],
-    "name:hrv_x_preferred":[
-        "Gora"
+    "name:hrv_x_preferred": [
+      "Gora"
     ],
-    "name:hun_x_preferred":[
-        "Gora"
+    "name:hun_x_preferred": [
+      "Gora"
     ],
-    "name:ind_x_preferred":[
-        "Gora"
+    "name:ind_x_preferred": [
+      "Gora"
     ],
-    "name:ita_x_preferred":[
-        "Gora"
+    "name:ita_x_preferred": [
+      "Gora"
     ],
-    "name:nld_x_preferred":[
-        "Gora"
+    "name:nld_x_preferred": [
+      "Gora"
     ],
-    "name:rue_x_preferred":[
-        "\u0413\u043e\u0440\u0430"
+    "name:rue_x_preferred": [
+      "Гора"
     ],
-    "name:rus_x_preferred":[
-        "\u0413\u043e\u0440\u0430"
+    "name:rus_x_preferred": [
+      "Гора"
     ],
-    "name:slv_x_preferred":[
-        "Gora"
+    "name:slv_x_preferred": [
+      "Gora"
     ],
-    "name:sna_x_preferred":[
-        "Gora"
+    "name:sna_x_preferred": [
+      "Gora"
     ],
-    "name:srp_x_preferred":[
-        "\u0413\u043e\u0440\u0430"
+    "name:srp_x_preferred": [
+      "Гора"
     ],
-    "name:swe_x_preferred":[
-        "Gora"
+    "name:swe_x_preferred": [
+      "Gora"
     ],
-    "name:tur_x_preferred":[
-        "Gora"
+    "name:tur_x_preferred": [
+      "Gora"
     ],
-    "name:ukr_x_preferred":[
-        "\u0413\u043e\u0440\u0430"
+    "name:ukr_x_preferred": [
+      "Гора"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125272473,
-        85633723,
-        102079819
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3098897
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125272473,
+      85633723,
+      102079819
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3098897,
+      "pl-gugik:jpt_kod_je": "101409_5.0011"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"2d86b1620b10710391075ca424b06523",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079819,
-            "localadmin_id":1125272473,
-            "locality_id":1260007529,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "c9d7ffe4d1c94dfdca6feb596003a0fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079819,
+        "localadmin_id": 1125272473,
+        "locality_id": 1260007529,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1260007529,
-    "wof:lastmodified":1570024671,
-    "wof:name":"Gora",
-    "wof:parent_id":1125272473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260007529,
+    "wof:lastmodified": 1669727307,
+    "wof:name": "Gora",
+    "wof:parent_id": 1125272473,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.50934,
-    51.71483,
-    18.50934,
-    51.71483
-],
-  "geometry": {"coordinates":[18.50934,51.71483],"type":"Point"}
+    18.501102528005994,
+    51.7088789250148,
+    18.527811353002896,
+    51.72235818101198
+  ],
+  "geometry": {"coordinates":[[[18.501103,51.71984],[18.501704,51.720739],[18.501787,51.720868],[18.501741,51.720965],[18.501304,51.721805],[18.501281,51.72185],[18.501132,51.722171],[18.501204,51.722181],[18.501807,51.722267],[18.501821,51.722269],[18.501893,51.722267],[18.501906,51.722267],[18.502974,51.722313],[18.503052,51.722317],[18.504013,51.722358],[18.505379,51.722259],[18.505876,51.722266],[18.506823,51.722279],[18.507564,51.722249],[18.508092,51.722228],[18.508204,51.722221],[18.508283,51.722216],[18.509595,51.722079],[18.510712,51.721938],[18.511076,51.721927],[18.511535,51.721984],[18.51197,51.722062],[18.51225,51.722097],[18.512252,51.72209],[18.513785,51.722228],[18.514058,51.722253],[18.515504,51.721758],[18.516265,51.721498],[18.517809,51.72097],[18.519154,51.720512],[18.519165,51.720508],[18.520043,51.720181],[18.522811,51.719264],[18.522815,51.719263],[18.52292,51.719232],[18.522924,51.719231],[18.522939,51.719196],[18.52332,51.719108],[18.523404,51.719089],[18.523731,51.717884],[18.52383,51.717839],[18.524336,51.717811],[18.526049,51.717871],[18.52632,51.717881],[18.52639,51.717883],[18.526465,51.717348],[18.526631,51.71656],[18.527011,51.715813],[18.527556,51.714746],[18.527811,51.713648],[18.527806,51.7136],[18.526285,51.713554],[18.526427,51.712306],[18.526388,51.712222],[18.526187,51.71177],[18.525911,51.711246],[18.525833,51.711097],[18.525492,51.71045],[18.525587,51.709928],[18.525591,51.70991],[18.524835,51.709905],[18.522785,51.709893],[18.520055,51.709865],[18.518103,51.70984],[18.51796,51.709838],[18.518513,51.709339],[18.518993,51.708906],[18.519023,51.708879],[18.512139,51.709017],[18.512022,51.709019],[18.51108,51.709038],[18.511045,51.709039],[18.509612,51.710274],[18.509505,51.710389],[18.509394,51.710566],[18.509225,51.710718],[18.508267,51.711401],[18.507892,51.711854],[18.507885,51.711863],[18.507853,51.711853],[18.507845,51.711847],[18.507459,51.711529],[18.50742,51.711497],[18.504721,51.714842],[18.504684,51.714896],[18.504629,51.714975],[18.504654,51.715118],[18.504775,51.715819],[18.503522,51.717441],[18.501511,51.718572],[18.501482,51.718552],[18.501379,51.718677],[18.501282,51.719037],[18.501103,51.71984]]],"type":"Polygon"}
 }

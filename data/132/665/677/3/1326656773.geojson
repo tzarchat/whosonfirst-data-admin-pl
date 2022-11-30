@@ -2,150 +2,154 @@
   "id": 1326656773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.57204,51.8166,20.57204,51.8166",
-    "geom:latitude":51.8166,
-    "geom:longitude":20.57204,
-    "gn:admin1_code":"74.0",
-    "gn:asciiname":"Annopol",
-    "gn:country_code":"PL",
-    "gn:dem":188,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":776673,
-    "gn:latitude":51.8166,
-    "gn:longitude":20.57204,
-    "gn:modification_date":"2011-06-06",
-    "gn:name":"Annopol",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.55204,51.7966,20.59204,51.8366",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Annopol"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00029333205017853786,
+    "geom:area_square_m": 2250646.402382415,
+    "geom:bbox": "20.55738686900357,51.80981713001195,20.59338629700371,51.821294715015334",
+    "geom:latitude": 20.575230922779753,
+    "geom:longitude": 51.81585742385279,
+    "gn:admin1_code": "74.0",
+    "gn:asciiname": "Annopol",
+    "gn:country_code": "PL",
+    "gn:dem": 188,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 776673,
+    "gn:latitude": 51.8166,
+    "gn:longitude": 20.57204,
+    "gn:modification_date": "2011-06-06",
+    "gn:name": "Annopol",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.55204,51.7966,20.59204,51.8366",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Annopol"
     ],
-    "name:ces_x_preferred":[
-        "Annopol"
+    "name:ces_x_preferred": [
+      "Annopol"
     ],
-    "name:che_x_preferred":[
-        "\u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
+    "name:che_x_preferred": [
+      "Аннополь"
     ],
-    "name:deu_x_preferred":[
-        "Annopol"
+    "name:deu_x_preferred": [
+      "Annopol"
     ],
-    "name:dsb_x_preferred":[
-        "Annopol"
+    "name:dsb_x_preferred": [
+      "Annopol"
     ],
-    "name:epo_x_preferred":[
-        "Annopol"
+    "name:epo_x_preferred": [
+      "Annopol"
     ],
-    "name:est_x_preferred":[
-        "Annopol"
+    "name:est_x_preferred": [
+      "Annopol"
     ],
-    "name:fra_x_preferred":[
-        "Annopol"
+    "name:fra_x_preferred": [
+      "Annopol"
     ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05e0\u05d5\u05e4\u05d5\u05dc"
+    "name:heb_x_preferred": [
+      "אנופול"
     ],
-    "name:hrv_x_preferred":[
-        "Annopol"
+    "name:hrv_x_preferred": [
+      "Annopol"
     ],
-    "name:ind_x_preferred":[
-        "Annopol"
+    "name:ind_x_preferred": [
+      "Annopol"
     ],
-    "name:ita_x_preferred":[
-        "Annopol"
+    "name:ita_x_preferred": [
+      "Annopol"
     ],
-    "name:jav_x_preferred":[
-        "Annopol"
+    "name:jav_x_preferred": [
+      "Annopol"
     ],
-    "name:lav_x_preferred":[
-        "Annopole"
+    "name:lav_x_preferred": [
+      "Annopole"
     ],
-    "name:msa_x_preferred":[
-        "Annopol"
+    "name:msa_x_preferred": [
+      "Annopol"
     ],
-    "name:nld_x_preferred":[
-        "Annopol"
+    "name:nld_x_preferred": [
+      "Annopol"
     ],
-    "name:pol_x_preferred":[
-        "Annopol"
+    "name:pol_x_preferred": [
+      "Annopol"
     ],
-    "name:por_x_preferred":[
-        "Annopol"
+    "name:por_x_preferred": [
+      "Annopol"
     ],
-    "name:ron_x_preferred":[
-        "Annopol"
+    "name:ron_x_preferred": [
+      "Annopol"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
+    "name:rus_x_preferred": [
+      "Аннополь"
     ],
-    "name:slk_x_preferred":[
-        "Annopol"
+    "name:slk_x_preferred": [
+      "Annopol"
     ],
-    "name:srp_x_preferred":[
-        "\u0410\u043d\u043e\u043f\u043e\u043b"
+    "name:srp_x_preferred": [
+      "Анопол"
     ],
-    "name:swe_x_preferred":[
-        "Annopol"
+    "name:swe_x_preferred": [
+      "Annopol"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
+    "name:ukr_x_preferred": [
+      "Аннополь"
     ],
-    "name:vie_x_preferred":[
-        "Annopol"
+    "name:vie_x_preferred": [
+      "Annopol"
     ],
-    "name:zho_x_preferred":[
-        "\u5b89\u8afe\u6ce2\u723e"
+    "name:zho_x_preferred": [
+      "安諾波爾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751387,
-        85633723,
-        102079877
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":776673
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751387,
+      85633723,
+      102079877
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 776673,
+      "pl-gugik:jpt_kod_je": "140602_2.0001"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"c89e6bd89b809af222e8c1ce8bca138e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079877,
-            "localadmin_id":1477751387,
-            "locality_id":1326656773,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "10b149c5255a16f02c6f6089ecb520f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079877,
+        "localadmin_id": 1477751387,
+        "locality_id": 1326656773,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1326656773,
-    "wof:lastmodified":1570008001,
-    "wof:name":"Annopol",
-    "wof:parent_id":1477751387,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326656773,
+    "wof:lastmodified": 1669727312,
+    "wof:name": "Annopol",
+    "wof:parent_id": 1477751387,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.57204,
-    51.8166,
-    20.57204,
-    51.8166
-],
-  "geometry": {"coordinates":[20.57204,51.8166],"type":"Point"}
+    20.55738686900357,
+    51.80981713001195,
+    20.59338629700371,
+    51.821294715015334
+  ],
+  "geometry": {"coordinates":[[[20.590448,51.809817],[20.590164,51.809858],[20.590073,51.809872],[20.584564,51.810673],[20.582139,51.811026],[20.582073,51.81101],[20.58212,51.811114],[20.58203,51.811118],[20.581577,51.811143],[20.580579,51.811196],[20.579571,51.811249],[20.578895,51.811285],[20.578242,51.81132],[20.577413,51.811364],[20.576832,51.811395],[20.576365,51.81142],[20.576096,51.811434],[20.576,51.81144],[20.575672,51.811457],[20.575305,51.811477],[20.575078,51.811489],[20.574841,51.811501],[20.574241,51.811533],[20.574037,51.811544],[20.573857,51.811554],[20.573564,51.811569],[20.573431,51.811576],[20.572885,51.811605],[20.572748,51.811612],[20.571823,51.81166],[20.571543,51.811675],[20.570873,51.81171],[20.570425,51.811733],[20.570284,51.81174],[20.569276,51.811793],[20.568758,51.81182],[20.568127,51.811853],[20.567017,51.81191],[20.56687,51.811918],[20.566782,51.811922],[20.566737,51.811924],[20.565741,51.811973],[20.565137,51.812006],[20.564551,51.812037],[20.560246,51.81225],[20.560105,51.812687],[20.559896,51.813335],[20.559888,51.813359],[20.559914,51.813774],[20.559847,51.813908],[20.559682,51.814207],[20.559289,51.81492],[20.558992,51.815466],[20.558918,51.81555],[20.558454,51.816067],[20.558379,51.816191],[20.557707,51.817332],[20.557669,51.817397],[20.557507,51.81765],[20.557477,51.817724],[20.557407,51.81801],[20.557387,51.818192],[20.557394,51.818406],[20.557404,51.818481],[20.557544,51.818814],[20.557728,51.818998],[20.557848,51.819119],[20.558375,51.819328],[20.558495,51.819383],[20.55926,51.81973],[20.560025,51.820384],[20.560063,51.8204],[20.560403,51.820536],[20.561043,51.820791],[20.561156,51.820831],[20.561288,51.820877],[20.561672,51.821006],[20.561824,51.821023],[20.562352,51.821097],[20.562858,51.821176],[20.563434,51.821207],[20.563945,51.821215],[20.564031,51.821216],[20.564294,51.82122],[20.564591,51.821214],[20.565323,51.821201],[20.565947,51.821295],[20.566881,51.821159],[20.567342,51.821092],[20.567428,51.821095],[20.567544,51.821098],[20.568192,51.821086],[20.568385,51.821082],[20.568969,51.821071],[20.568998,51.82107],[20.569934,51.821052],[20.571897,51.821015],[20.573805,51.821002],[20.574081,51.821],[20.574371,51.820998],[20.575153,51.820993],[20.576032,51.820987],[20.576141,51.820986],[20.576136,51.819872],[20.576702,51.819839],[20.577526,51.81979],[20.578119,51.819754],[20.579872,51.81965],[20.580984,51.819583],[20.582543,51.819405],[20.583054,51.819389],[20.583692,51.819436],[20.584381,51.819487],[20.584832,51.819437],[20.584863,51.819434],[20.584951,51.819418],[20.584997,51.819409],[20.589706,51.81856],[20.591241,51.81832],[20.593386,51.818022],[20.593206,51.817471],[20.593108,51.817199],[20.59306,51.817068],[20.592988,51.81687],[20.592733,51.816166],[20.592619,51.815851],[20.592604,51.815811],[20.592508,51.815544],[20.592462,51.815418],[20.592155,51.814571],[20.592079,51.814362],[20.592038,51.814246],[20.59203,51.814227],[20.59183,51.813678],[20.591776,51.813524],[20.591694,51.813298],[20.591632,51.813124],[20.591556,51.812917],[20.591491,51.812748],[20.591452,51.812649],[20.591428,51.812587],[20.591427,51.812551],[20.59139,51.812448],[20.591352,51.812343],[20.591333,51.812289],[20.591311,51.812227],[20.591276,51.812131],[20.591244,51.81204],[20.591209,51.811941],[20.591172,51.811839],[20.591132,51.811729],[20.591065,51.811541],[20.591034,51.811453],[20.590979,51.811301],[20.590896,51.811069],[20.59085,51.810939],[20.590766,51.810705],[20.590705,51.810535],[20.590687,51.810483],[20.590646,51.810369],[20.590606,51.810258],[20.59057,51.810157],[20.590537,51.810064],[20.590448,51.809817]]],"type":"Polygon"}
 }

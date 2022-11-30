@@ -2,133 +2,137 @@
   "id": 1125915673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.33797,54.68256,17.33797,54.68256",
-    "geom:latitude":54.68256,
-    "geom:longitude":17.33797,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":90,
-    "iso:country":"PL",
-    "lbl:bbox":"17.31797,54.66256,17.35797,54.70256",
-    "lbl:latitude":54.68256,
-    "lbl:longitude":17.33797,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Kluki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0005155229124603854,
+    "geom:area_square_m": 3701798.326497432,
+    "geom:bbox": "17.32567487300107,54.662609162015684,17.361506589002982,54.69101623501989",
+    "geom:latitude": 17.3400287039244,
+    "geom:longitude": 54.67765723040217,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 90,
+    "iso:country": "PL",
+    "lbl:bbox": "17.31797,54.66256,17.35797,54.70256",
+    "lbl:latitude": 54.68256,
+    "lbl:longitude": 17.33797,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Kluki"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0644\u0648\u06a9\u06cc"
+    "name:azb_x_preferred": [
+      "کلوکی"
     ],
-    "name:csb_x_preferred":[
-        "Kl\u00ebczi"
+    "name:csb_x_preferred": [
+      "Klëczi"
     ],
-    "name:deu_x_preferred":[
-        "Kluki"
+    "name:deu_x_preferred": [
+      "Kluki"
     ],
-    "name:eng_x_preferred":[
-        "Kluki"
+    "name:eng_x_preferred": [
+      "Kluki"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0644\u0648\u06a9\u06cc"
+    "name:fas_x_preferred": [
+      "کلوکی"
     ],
-    "name:fra_x_preferred":[
-        "Kluki"
+    "name:fra_x_preferred": [
+      "Kluki"
     ],
-    "name:nds_x_preferred":[
-        "Klucken"
+    "name:nds_x_preferred": [
+      "Klucken"
     ],
-    "name:nld_x_preferred":[
-        "Kluki"
+    "name:nld_x_preferred": [
+      "Kluki"
     ],
-    "name:pol_x_preferred":[
-        "Kluki"
+    "name:pol_x_preferred": [
+      "Kluki"
     ],
-    "name:rus_x_preferred":[
-        "\u041a\u043b\u044e\u043a\u0438"
+    "name:rus_x_preferred": [
+      "Клюки"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043b\u044e\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Клюкі"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3095987,
-    "qs_pg:gn_pop":90,
-    "qs_pg:name":"Kluki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Pomorskie",
-    "qs_pg:photos":90,
-    "qs_pg:photos_1k":18,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":3,
-    "qs_pg:photos_all":90,
-    "qs_pg:photos_sr":3,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1329989,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":499680,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125324353,
-        85633723,
-        102080255
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3095987,
+    "qs_pg:gn_pop": 90,
+    "qs_pg:name": "Kluki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Pomorskie",
+    "qs_pg:photos": 90,
+    "qs_pg:photos_1k": 18,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 3,
+    "qs_pg:photos_all": 90,
+    "qs_pg:photos_sr": 3,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1329989,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 499680,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095987,
-        "gp:id":499680,
-        "qs_pg:id":1329989,
-        "wd:id":"Q493905"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125324353,
+      85633723,
+      102080255
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095987,
+      "gp:id": 499680,
+      "pl-gugik:jpt_kod_je": "221209_2.0010",
+      "qs_pg:id": 1329989,
+      "wd:id": "Q493905"
     },
-    "wof:country":"PL",
-    "wof:created":1497296308,
-    "wof:geomhash":"a9811d8e0a890325985418121c07da0e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080255,
-            "localadmin_id":1125324353,
-            "locality_id":1125915673,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:created": 1497296308,
+    "wof:geomhash": "1516879e2f757560f3fcdf7c91ab98de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080255,
+        "localadmin_id": 1125324353,
+        "locality_id": 1125915673,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1125915673,
-    "wof:lastmodified":1570038061,
-    "wof:name":"Kluki",
-    "wof:parent_id":1125324353,
-    "wof:placetype":"locality",
-    "wof:population":90,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125915673,
+    "wof:lastmodified": 1669727328,
+    "wof:name": "Kluki",
+    "wof:parent_id": 1125324353,
+    "wof:placetype": "locality",
+    "wof:population": 90,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.33797,
-    54.68256,
-    17.33797,
-    54.68256
-],
-  "geometry": {"coordinates":[17.33797,54.68256],"type":"Point"}
+    17.32567487300107,
+    54.662609162015684,
+    17.361506589002982,
+    54.69101623501989
+  ],
+  "geometry": {"coordinates":[[[17.325675,54.682118],[17.325731,54.68228],[17.326229,54.68335],[17.326647,54.684064],[17.326521,54.684039],[17.326569,54.684184],[17.326694,54.684559],[17.326728,54.684583],[17.32803,54.685423],[17.329227,54.68624],[17.330069,54.686782],[17.331722,54.687907],[17.331774,54.687926],[17.333874,54.688735],[17.333941,54.688767],[17.335714,54.689456],[17.337222,54.690032],[17.337443,54.690116],[17.338347,54.69047],[17.338418,54.6905],[17.339228,54.690809],[17.339287,54.69083],[17.339318,54.690843],[17.339347,54.690853],[17.339826,54.691016],[17.341181,54.689639],[17.342166,54.688453],[17.34219,54.688011],[17.342944,54.68729],[17.344935,54.686477],[17.345661,54.686546],[17.346672,54.685968],[17.347275,54.685754],[17.3483,54.685554],[17.349552,54.68533],[17.351289,54.684819],[17.353656,54.684402],[17.354166,54.683857],[17.354976,54.683963],[17.355442,54.682737],[17.356984,54.683025],[17.35716,54.683018],[17.357239,54.683035],[17.357247,54.683001],[17.35729,54.682912],[17.357587,54.682266],[17.360634,54.682213],[17.361009,54.682188],[17.361147,54.682265],[17.361309,54.682296],[17.361507,54.682084],[17.361372,54.681875],[17.360727,54.681555],[17.360078,54.68137],[17.35974,54.68131],[17.359078,54.681244],[17.358542,54.681188],[17.357428,54.680909],[17.35597,54.680538],[17.353597,54.67884],[17.351787,54.678151],[17.351612,54.678016],[17.351508,54.677775],[17.351529,54.677522],[17.351649,54.677122],[17.351743,54.67684],[17.351712,54.676572],[17.349798,54.675204],[17.349215,54.67474],[17.349011,54.674598],[17.348851,54.674365],[17.3489,54.674099],[17.350889,54.673343],[17.350975,54.672853],[17.350341,54.672128],[17.350795,54.671572],[17.350827,54.671409],[17.34974,54.670274],[17.349063,54.669998],[17.348796,54.669699],[17.348632,54.668972],[17.348503,54.668276],[17.348383,54.668073],[17.347549,54.667912],[17.347085,54.667614],[17.345724,54.667393],[17.343958,54.666755],[17.343661,54.666648],[17.342898,54.665871],[17.342322,54.664956],[17.341682,54.664479],[17.34095,54.664328],[17.34033,54.664244],[17.339879,54.66413],[17.338486,54.663383],[17.337842,54.663127],[17.336301,54.662609],[17.336243,54.662692],[17.336217,54.66273],[17.335926,54.663148],[17.335588,54.663634],[17.335197,54.664076],[17.334417,54.664968],[17.333965,54.665576],[17.333701,54.665999],[17.333186,54.666836],[17.33284,54.667498],[17.332735,54.667493],[17.332026,54.668711],[17.331397,54.669695],[17.330731,54.670813],[17.330096,54.671716],[17.32891,54.672485],[17.328676,54.673433],[17.332001,54.67365],[17.33198,54.673736],[17.331978,54.673773],[17.328641,54.673577],[17.328271,54.674872],[17.327597,54.677284],[17.327078,54.679096],[17.327039,54.679215],[17.326657,54.680527],[17.326385,54.681502],[17.32635,54.681642],[17.326599,54.681638],[17.326625,54.682111],[17.325717,54.682118],[17.325675,54.682118]]],"type":"Polygon"}
 }

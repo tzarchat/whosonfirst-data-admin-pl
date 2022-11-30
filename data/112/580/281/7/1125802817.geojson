@@ -2,114 +2,118 @@
   "id": 1125802817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.2227,52.17356,17.2227,52.17356",
-    "geom:latitude":52.17356,
-    "geom:longitude":17.2227,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":70,
-    "iso:country":"PL",
-    "lbl:bbox":"17.2027,52.15356,17.2427,52.19356",
-    "lbl:latitude":52.17356,
-    "lbl:longitude":17.2227,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Brzostek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021204234340572672,
+    "geom:area_square_m": 1614107.3050626474,
+    "geom:bbox": "17.20825570699226,52.165590269020136,17.235698700992245,52.18155149401233",
+    "geom:latitude": 17.222727501924986,
+    "geom:longitude": 52.17395055698428,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 70,
+    "iso:country": "PL",
+    "lbl:bbox": "17.2027,52.15356,17.2427,52.19356",
+    "lbl:latitude": 52.17356,
+    "lbl:longitude": 17.2227,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Brzostek"
     ],
-    "name:eng_x_preferred":[
-        "Brzostek"
+    "name:eng_x_preferred": [
+      "Brzostek"
     ],
-    "name:fra_x_preferred":[
-        "Brzostek"
+    "name:fra_x_preferred": [
+      "Brzostek"
     ],
-    "name:pol_x_preferred":[
-        "Brzostek"
+    "name:pol_x_preferred": [
+      "Brzostek"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0436\u043e\u0441\u0442\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Бжостек"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0631\u0632\u0648\u0633\u0679\u06cc\u06a9\u060c \u06af\u0631\u06cc\u0679\u0631 \u067e\u0648\u0644\u06cc\u0646\u0688 \u0635\u0648\u0628\u06c1"
+    "name:urd_x_preferred": [
+      "برزوسٹیک، گریٹر پولینڈ صوبہ"
     ],
-    "name:urd_x_variant":[
-        "\u0628\u0631\u0632\u0648\u0633\u0679\u06cc\u06a9"
+    "name:urd_x_variant": [
+      "برزوسٹیک"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3102333,
-    "qs_pg:gn_pop":70,
-    "qs_pg:name":"Brzostek",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1214009,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":488157,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125417997,
-        85633723,
-        102079893
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3102333,
+    "qs_pg:gn_pop": 70,
+    "qs_pg:name": "Brzostek",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1214009,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 488157,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102333,
-        "gp:id":488157,
-        "qs_pg:id":1214009,
-        "wd:id":"Q4981535"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125417997,
+      85633723,
+      102079893
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102333,
+      "gp:id": 488157,
+      "pl-gugik:jpt_kod_je": "302505_2.0002",
+      "qs_pg:id": 1214009,
+      "wd:id": "Q4981535"
     },
-    "wof:country":"PL",
-    "wof:created":1497291339,
-    "wof:geomhash":"a1ca5257392db8796bcba18bed6db751",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079893,
-            "localadmin_id":1125417997,
-            "locality_id":1125802817,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497291339,
+    "wof:geomhash": "339f8de3f3d48d2bf632b58694f64425",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079893,
+        "localadmin_id": 1125417997,
+        "locality_id": 1125802817,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1125802817,
-    "wof:lastmodified":1570037651,
-    "wof:name":"Brzostek",
-    "wof:parent_id":1125417997,
-    "wof:placetype":"locality",
-    "wof:population":70,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125802817,
+    "wof:lastmodified": 1669727327,
+    "wof:name": "Brzostek",
+    "wof:parent_id": 1125417997,
+    "wof:placetype": "locality",
+    "wof:population": 70,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.2227,
-    52.17356,
-    17.2227,
-    52.17356
-],
-  "geometry": {"coordinates":[17.2227,52.17356],"type":"Point"}
+    17.20825570699226,
+    52.165590269020136,
+    17.235698700992245,
+    52.18155149401233
+  ],
+  "geometry": {"coordinates":[[[17.208256,52.17399],[17.208287,52.174004],[17.208782,52.174217],[17.20964,52.174605],[17.210483,52.175061],[17.211677,52.175571],[17.213924,52.176645],[17.215672,52.177454],[17.215837,52.177513],[17.216473,52.177815],[17.216594,52.177872],[17.217571,52.178339],[17.218206,52.178642],[17.218436,52.178753],[17.21964,52.179325],[17.220523,52.179743],[17.220534,52.179748],[17.220847,52.179892],[17.222831,52.180843],[17.2237,52.181256],[17.224284,52.181524],[17.224313,52.181538],[17.224341,52.181551],[17.224591,52.181421],[17.224562,52.181407],[17.225384,52.181061],[17.226398,52.180632],[17.226944,52.180401],[17.227035,52.180349],[17.227811,52.179309],[17.227924,52.179159],[17.228887,52.178622],[17.229281,52.178335],[17.229852,52.177919],[17.230794,52.177467],[17.231973,52.176901],[17.23238,52.176721],[17.232853,52.176511],[17.233815,52.176092],[17.233908,52.176068],[17.234652,52.175882],[17.23497,52.175818],[17.235321,52.17576],[17.235653,52.175722],[17.235699,52.175716],[17.235246,52.175171],[17.2347,52.174364],[17.234571,52.174205],[17.234341,52.173975],[17.233736,52.173416],[17.233686,52.173371],[17.233032,52.172767],[17.232874,52.172636],[17.232819,52.172591],[17.232654,52.172481],[17.232152,52.172207],[17.231775,52.171928],[17.231396,52.171661],[17.23135,52.171629],[17.231095,52.171483],[17.230591,52.171226],[17.230415,52.171083],[17.229797,52.170451],[17.229383,52.170079],[17.229252,52.169943],[17.229055,52.169738],[17.228738,52.169474],[17.228515,52.169307],[17.228232,52.169115],[17.228028,52.168993],[17.22778,52.168875],[17.227535,52.168789],[17.227491,52.168692],[17.22698,52.168229],[17.22594,52.16731],[17.225475,52.166912],[17.225135,52.166591],[17.224561,52.16601],[17.224106,52.165611],[17.224083,52.16559],[17.223831,52.165746],[17.223247,52.166252],[17.222004,52.167322],[17.221902,52.167387],[17.221939,52.167402],[17.221833,52.167499],[17.221796,52.167484],[17.221601,52.16756],[17.221052,52.167839],[17.22077,52.167982],[17.219788,52.168481],[17.219241,52.168757],[17.218952,52.168867],[17.21798,52.169165],[17.216477,52.169245],[17.215255,52.169819],[17.214519,52.170165],[17.214052,52.170869],[17.213663,52.171458],[17.21338,52.172163],[17.21288,52.172512],[17.212204,52.172616],[17.212198,52.172616],[17.211107,52.172636],[17.209503,52.173405],[17.208547,52.173858],[17.208506,52.173832],[17.208256,52.17399]]],"type":"Polygon"}
 }

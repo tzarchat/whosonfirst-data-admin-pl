@@ -2,87 +2,91 @@
   "id": 1310534009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.0587,52.56398,21.0587,52.56398",
-    "geom:latitude":52.56398,
-    "geom:longitude":21.0587,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1424.0",
-    "gn:admin3_code":"142403.0",
-    "gn:asciiname":"Murowanka",
-    "gn:country_code":"PL",
-    "gn:dem":98,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":764249,
-    "gn:latitude":52.56398,
-    "gn:longitude":21.0587,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Murowanka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.0387,52.54398,21.0787,52.58398",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Murowanka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00024385489639449704,
+    "geom:area_square_m": 1839952.028141411,
+    "geom:bbox": "21.03886887999759,52.56082769201212,21.069939218001704,52.575014058020635",
+    "geom:latitude": 21.053005706670774,
+    "geom:longitude": 52.56791152155313,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1424.0",
+    "gn:admin3_code": "142403.0",
+    "gn:asciiname": "Murowanka",
+    "gn:country_code": "PL",
+    "gn:dem": 98,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 764249,
+    "gn:latitude": 52.56398,
+    "gn:longitude": 21.0587,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Murowanka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.0387,52.54398,21.0787,52.58398",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Murowanka"
     ],
-    "name:fra_x_preferred":[
-        "Murowanka"
+    "name:fra_x_preferred": [
+      "Murowanka"
     ],
-    "name:pol_x_preferred":[
-        "Murowanka"
+    "name:pol_x_preferred": [
+      "Murowanka"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Мурованка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125294941,
-        85633723,
-        102080027
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":764249,
-        "wk:page":"Murowanka%2C_Pu%C5%82tusk_County"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125294941,
+      85633723,
+      102080027
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 764249,
+      "pl-gugik:jpt_kod_je": "142403_2.0018",
+      "wk:page": "Murowanka%2C_Pu%C5%82tusk_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"c6169141ae9c3d556b69632eb3ec8bd1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080027,
-            "localadmin_id":1125294941,
-            "locality_id":1310534009,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f8ec9fde53e5c753a2f6ba988d3fc34f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080027,
+        "localadmin_id": 1125294941,
+        "locality_id": 1310534009,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1310534009,
-    "wof:lastmodified":1570027143,
-    "wof:name":"Murowanka",
-    "wof:parent_id":1125294941,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310534009,
+    "wof:lastmodified": 1669727348,
+    "wof:name": "Murowanka",
+    "wof:parent_id": 1125294941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.0587,
-    52.56398000000001,
-    21.0587,
-    52.56398000000001
-],
-  "geometry": {"coordinates":[21.0587,52.56398000000001],"type":"Point"}
+    21.03886887999759,
+    52.56082769201212,
+    21.069939218001704,
+    52.575014058020635
+  ],
+  "geometry": {"coordinates":[[[21.059739,52.560828],[21.057405,52.56124],[21.05723,52.561278],[21.056243,52.561497],[21.056782,52.56217],[21.055634,52.562459],[21.05561,52.562465],[21.05362,52.562533],[21.050081,52.562692],[21.049985,52.562752],[21.048616,52.563157],[21.048028,52.563331],[21.046014,52.563925],[21.045435,52.564088],[21.045212,52.564153],[21.043177,52.564754],[21.040246,52.565605],[21.0401,52.565656],[21.040106,52.565683],[21.040282,52.566541],[21.040383,52.56703],[21.040533,52.567759],[21.040649,52.568289],[21.040819,52.569065],[21.041017,52.569969],[21.041121,52.570444],[21.038869,52.570625],[21.038903,52.570701],[21.039642,52.572378],[21.039583,52.572418],[21.039527,52.572457],[21.039844,52.572418],[21.041517,52.572209],[21.041888,52.573936],[21.042064,52.573924],[21.043777,52.573784],[21.045163,52.573673],[21.045782,52.573624],[21.046117,52.573598],[21.046367,52.573578],[21.047189,52.573512],[21.047726,52.57347],[21.049825,52.575014],[21.050428,52.574704],[21.050784,52.574522],[21.051084,52.574368],[21.051534,52.574138],[21.052064,52.573867],[21.052731,52.573525],[21.053303,52.573231],[21.055056,52.573043],[21.055204,52.573026],[21.05527,52.572787],[21.055451,52.572572],[21.055989,52.572365],[21.056534,52.572251],[21.05703,52.571866],[21.057046,52.571845],[21.057287,52.571511],[21.05732,52.571059],[21.057332,52.570904],[21.057427,52.570512],[21.05751,52.570257],[21.057508,52.570181],[21.060207,52.570209],[21.062316,52.570258],[21.062525,52.570248],[21.066425,52.56961],[21.069939,52.569037],[21.069626,52.568685],[21.069299,52.568317],[21.068998,52.567978],[21.068623,52.567556],[21.068526,52.567447],[21.067493,52.566284],[21.066831,52.565539],[21.066762,52.565459],[21.065328,52.563848],[21.06393,52.564308],[21.062149,52.563556],[21.062003,52.563389],[21.061798,52.563402],[21.060232,52.563538],[21.059402,52.563007],[21.059727,52.562729],[21.059607,52.562537],[21.060173,52.562404],[21.060157,52.561952],[21.060097,52.561791],[21.059959,52.561421],[21.059739,52.560828]]],"type":"Polygon"}
 }

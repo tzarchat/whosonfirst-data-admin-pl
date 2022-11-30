@@ -2,87 +2,91 @@
   "id": 1310032213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.44073,52.268,19.44073,52.268",
-    "geom:latitude":52.268,
-    "geom:longitude":19.44073,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1002.0",
-    "gn:admin3_code":"100210.0",
-    "gn:asciiname":"Janiszew",
-    "gn:country_code":"PL",
-    "gn:dem":114,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3097680,
-    "gn:latitude":52.268,
-    "gn:longitude":19.44073,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Janiszew",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.42073,52.248,19.46073,52.288",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Janiszew"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00009260481217072534,
+    "geom:area_square_m": 703456.8039643839,
+    "geom:bbox": "19.429402920001728,52.261936208020025,19.447263619996146,52.27473493102044",
+    "geom:latitude": 19.43932948417105,
+    "geom:longitude": 52.2675330124814,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1002.0",
+    "gn:admin3_code": "100210.0",
+    "gn:asciiname": "Janiszew",
+    "gn:country_code": "PL",
+    "gn:dem": 114,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3097680,
+    "gn:latitude": 52.268,
+    "gn:longitude": 19.44073,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Janiszew",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.42073,52.248,19.46073,52.288",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Janiszew"
     ],
-    "name:pol_x_preferred":[
-        "Janiszew"
+    "name:pol_x_preferred": [
+      "Janiszew"
     ],
-    "name:ukr_x_preferred":[
-        "\u042f\u043d\u0456\u0448\u0435\u0432"
+    "name:ukr_x_preferred": [
+      "Янішев"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0646\u0633\u0632\u06cc\u0648"
+    "name:urd_x_preferred": [
+      "جنسزیو"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125320527,
-        85633723,
-        102079929
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097680,
-        "wk:page":"Janiszew%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125320527,
+      85633723,
+      102079929
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097680,
+      "pl-gugik:jpt_kod_je": "100210_2.0008",
+      "wk:page": "Janiszew%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"1e3a0bee8b29b0307a1b2f88acbba76c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079929,
-            "localadmin_id":1125320527,
-            "locality_id":1310032213,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "76cf38b436df0a108aab2a3565013c43",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079929,
+        "localadmin_id": 1125320527,
+        "locality_id": 1310032213,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1310032213,
-    "wof:lastmodified":1570028117,
-    "wof:name":"Janiszew",
-    "wof:parent_id":1125320527,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310032213,
+    "wof:lastmodified": 1669727311,
+    "wof:name": "Janiszew",
+    "wof:parent_id": 1125320527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.44073,
-    52.268,
-    19.44073,
-    52.268
-],
-  "geometry": {"coordinates":[19.44073,52.268],"type":"Point"}
+    19.429402920001728,
+    52.261936208020025,
+    19.447263619996146,
+    52.27473493102044
+  ],
+  "geometry": {"coordinates":[[[19.440315,52.261936],[19.440275,52.261946],[19.439158,52.262322],[19.438308,52.262413],[19.438062,52.262437],[19.437995,52.262445],[19.43695,52.262712],[19.43649,52.262828],[19.436321,52.262817],[19.436,52.262868],[19.435738,52.262884],[19.434961,52.262931],[19.4349,52.262935],[19.433924,52.262962],[19.433664,52.262969],[19.433349,52.262978],[19.433243,52.26298],[19.43292,52.262989],[19.431914,52.263026],[19.431495,52.263042],[19.431322,52.263058],[19.430948,52.263125],[19.429403,52.263546],[19.431087,52.264807],[19.431301,52.264968],[19.431794,52.265337],[19.432137,52.265594],[19.432262,52.265688],[19.432436,52.265818],[19.432927,52.266185],[19.433542,52.266647],[19.433638,52.266701],[19.433948,52.266934],[19.434791,52.267567],[19.435857,52.268368],[19.437327,52.269472],[19.437885,52.269937],[19.438692,52.27055],[19.439134,52.270886],[19.440528,52.271905],[19.441468,52.272627],[19.441744,52.272872],[19.442593,52.273527],[19.443718,52.274399],[19.444043,52.274651],[19.444146,52.274735],[19.444197,52.274643],[19.444295,52.274576],[19.44451,52.274443],[19.444653,52.274352],[19.444847,52.274228],[19.445246,52.273936],[19.445509,52.273731],[19.445696,52.273561],[19.445805,52.273468],[19.446302,52.272883],[19.446447,52.272779],[19.446383,52.272705],[19.44669,52.272314],[19.447264,52.272237],[19.446452,52.27127],[19.446334,52.271138],[19.446024,52.270732],[19.445609,52.270188],[19.444755,52.269005],[19.443972,52.267901],[19.442857,52.266274],[19.442728,52.266085],[19.442057,52.265153],[19.4415,52.26441],[19.44129,52.264142],[19.441116,52.263927],[19.440895,52.263635],[19.440831,52.263431],[19.440616,52.26274],[19.440315,52.261936]]],"type":"Polygon"}
 }

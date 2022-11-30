@@ -2,630 +2,632 @@
   "id": 101864679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.993166,51.339416,21.993166,51.339416",
-    "geom:latitude":51.339416,
-    "geom:longitude":21.993166,
-    "iso:country":"PL",
-    "lbl:bbox":"21.973166,51.319416,22.013166,51.359416",
-    "lbl:latitude":51.339416,
-    "lbl:longitude":21.993166,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mps:latitude":51.339416,
-    "mps:longitude":21.993166,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "name:abk_x_preferred":[
-        "\u0412\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0013464898212833265,
+    "geom:area_square_m": 10439123.589458246,
+    "geom:bbox": "21.96829353402426,51.319058592018656,22.02942980302476,51.360577077018995",
+    "geom:latitude": 22.000063616535215,
+    "geom:longitude": 51.33859777998511,
+    "iso:country": "PL",
+    "lbl:bbox": "21.973166,51.319416,22.013166,51.359416",
+    "lbl:latitude": 51.339416,
+    "lbl:longitude": 21.993166,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mps:latitude": 51.339416,
+    "mps:longitude": 21.993166,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:abk_x_preferred": [
+      "Вохотница"
     ],
-    "name:afr_x_preferred":[
-        "Bochotnica"
+    "name:afr_x_preferred": [
+      "Bochotnica"
     ],
-    "name:als_x_preferred":[
-        "Bochotnica"
+    "name:als_x_preferred": [
+      "Bochotnica"
     ],
-    "name:amh_x_preferred":[
-        "\u1266\u12be\u1275\u1292\u133b"
+    "name:amh_x_preferred": [
+      "ቦኾትኒጻ"
     ],
-    "name:ang_x_preferred":[
-        "Bochotnica"
+    "name:ang_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ara_x_preferred":[
-        "\u0628\u0648\u062e\u0648\u062a\u0646\u064a\u062a\u0633\u0627"
+    "name:ara_x_preferred": [
+      "بوخوتنيتسا"
     ],
-    "name:arg_x_preferred":[
-        "Bochotnica"
+    "name:arg_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ast_x_preferred":[
-        "Bochotnica"
+    "name:ast_x_preferred": [
+      "Bochotnica"
     ],
-    "name:aym_x_preferred":[
-        "Bochotnica"
+    "name:aym_x_preferred": [
+      "Bochotnica"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u0648\u062e\u0648\u062a\u0646\u06cc\u062a\u0633\u0627"
+    "name:azb_x_preferred": [
+      "بوخوتنیتسا"
     ],
-    "name:aze_x_preferred":[
-        "Bochotnica"
+    "name:aze_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bak_x_preferred":[
-        "\u0412\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:bak_x_preferred": [
+      "Вохотница"
     ],
-    "name:bam_x_preferred":[
-        "Bochotnica"
+    "name:bam_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bar_x_preferred":[
-        "Bochotnica"
+    "name:bar_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bcl_x_preferred":[
-        "Bochotnica"
+    "name:bcl_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bel_x_preferred":[
-        "\u0412\u0451\u0441\u043a\u0430 \u0411\u0430\u0445\u0430\u0442\u043d\u0456\u0446\u0430"
+    "name:bel_x_preferred": [
+      "Вёска Бахатніца"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0445\u0430\u0442\u043d\u0456\u0446\u0430"
+    "name:bel_x_variant": [
+      "Бахатніца"
     ],
-    "name:bis_x_preferred":[
-        "Bochotnica"
+    "name:bis_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bre_x_preferred":[
-        "Bochotnica"
+    "name:bre_x_preferred": [
+      "Bochotnica"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:bul_x_preferred": [
+      "Бохотница"
     ],
-    "name:bul_x_variant":[
-        "\u0412\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:bul_x_variant": [
+      "Вохотница"
     ],
-    "name:cat_x_preferred":[
-        "Bochotnica"
+    "name:cat_x_preferred": [
+      "Bochotnica"
     ],
-    "name:cbk_zam_x_preferred":[
-        "Bochotnica"
+    "name:cbk_zam_x_preferred": [
+      "Bochotnica"
     ],
-    "name:cdo_x_preferred":[
-        "Bochotnica"
+    "name:cdo_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ceb_x_preferred":[
-        "Bochotnica"
+    "name:ceb_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ces_x_preferred":[
-        "Bochotnica"
+    "name:ces_x_preferred": [
+      "Bochotnica"
     ],
-    "name:che_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:che_x_preferred": [
+      "Бохотница"
     ],
-    "name:chu_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u044c\u043d\u0438\u0446\u0430"
+    "name:chu_x_preferred": [
+      "Бохотьница"
     ],
-    "name:chv_x_preferred":[
-        "\u0412\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:chv_x_preferred": [
+      "Вохотница"
     ],
-    "name:cor_x_preferred":[
-        "Bochotnica"
+    "name:cor_x_preferred": [
+      "Bochotnica"
     ],
-    "name:cos_x_preferred":[
-        "Bochotnica"
+    "name:cos_x_preferred": [
+      "Bochotnica"
     ],
-    "name:crh_x_preferred":[
-        "Bohotnitsa"
+    "name:crh_x_preferred": [
+      "Bohotnitsa"
     ],
-    "name:csb_x_preferred":[
-        "Bochotnica"
+    "name:csb_x_preferred": [
+      "Bochotnica"
     ],
-    "name:cym_x_preferred":[
-        "Bochotnica"
+    "name:cym_x_preferred": [
+      "Bochotnica"
     ],
-    "name:dan_x_preferred":[
-        "Bochotnica"
+    "name:dan_x_preferred": [
+      "Bochotnica"
     ],
-    "name:deu_x_preferred":[
-        "Bochotnica"
+    "name:deu_x_preferred": [
+      "Bochotnica"
     ],
-    "name:diq_x_preferred":[
-        "Bochotnica"
+    "name:diq_x_preferred": [
+      "Bochotnica"
     ],
-    "name:dsb_x_preferred":[
-        "Bochotnica"
+    "name:dsb_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c7\u03cc\u03c4\u03bd\u03b9\u03c4\u03c3\u03b1"
+    "name:ell_x_preferred": [
+      "Μποχότνιτσα"
     ],
-    "name:eml_x_preferred":[
-        "Bochotnica"
+    "name:eml_x_preferred": [
+      "Bochotnica"
     ],
-    "name:eng_x_preferred":[
-        "Bochotnica"
+    "name:eng_x_preferred": [
+      "Bochotnica"
     ],
-    "name:epo_x_preferred":[
-        "Bochotnica"
+    "name:epo_x_preferred": [
+      "Bochotnica"
     ],
-    "name:est_x_preferred":[
-        "Bochotnica"
+    "name:est_x_preferred": [
+      "Bochotnica"
     ],
-    "name:eus_x_preferred":[
-        "Bochotnica"
+    "name:eus_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ewe_x_preferred":[
-        "B\u0254h\u0254tn\u00edsa"
+    "name:ewe_x_preferred": [
+      "Bɔhɔtnísa"
     ],
-    "name:ext_x_preferred":[
-        "Bochotnica"
+    "name:ext_x_preferred": [
+      "Bochotnica"
     ],
-    "name:fao_x_preferred":[
-        "Bochotnica"
+    "name:fao_x_preferred": [
+      "Bochotnica"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0648\u062e\u0648\u062a\u0646\u06cc\u062a\u0633\u0627"
+    "name:fas_x_preferred": [
+      "بوخوتنیتسا"
     ],
-    "name:fin_x_preferred":[
-        "Bochotnica"
+    "name:fin_x_preferred": [
+      "Bochotnica"
     ],
-    "name:fra_x_preferred":[
-        "Bochotnica"
+    "name:fra_x_preferred": [
+      "Bochotnica"
     ],
-    "name:frp_x_preferred":[
-        "Bochotnica"
+    "name:frp_x_preferred": [
+      "Bochotnica"
     ],
-    "name:fry_x_preferred":[
-        "Bochotnica"
+    "name:fry_x_preferred": [
+      "Bochotnica"
     ],
-    "name:fur_x_preferred":[
-        "Bochotnica"
+    "name:fur_x_preferred": [
+      "Bochotnica"
     ],
-    "name:gla_x_preferred":[
-        "Bochotnica"
+    "name:gla_x_preferred": [
+      "Bochotnica"
     ],
-    "name:gle_x_preferred":[
-        "Bochotnica"
+    "name:gle_x_preferred": [
+      "Bochotnica"
     ],
-    "name:glg_x_preferred":[
-        "Bochotnica"
+    "name:glg_x_preferred": [
+      "Bochotnica"
     ],
-    "name:glv_x_preferred":[
-        "Bochotnica"
+    "name:glv_x_preferred": [
+      "Bochotnica"
     ],
-    "name:grn_x_preferred":[
-        "Bochotnica"
+    "name:grn_x_preferred": [
+      "Bochotnica"
     ],
-    "name:gsw_x_preferred":[
-        "Bochotnica"
+    "name:gsw_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hak_x_preferred":[
-        "Bochotnica"
+    "name:hak_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hat_x_preferred":[
-        "Bochotnica"
+    "name:hat_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hau_x_preferred":[
-        "Bochotnica"
+    "name:hau_x_preferred": [
+      "Bochotnica"
     ],
-    "name:haw_x_preferred":[
-        "Bochotnica"
+    "name:haw_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hbs_x_preferred":[
-        "Bochotnica"
+    "name:hbs_x_preferred": [
+      "Bochotnica"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d5\u05db\u05d5\u05d8\u05e0\u05d9\u05e6\u05d4"
+    "name:heb_x_preferred": [
+      "בוכוטניצה"
     ],
-    "name:hif_x_preferred":[
-        "Bochotnica"
+    "name:hif_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hrv_x_preferred":[
-        "Bochotnica"
+    "name:hrv_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hsb_x_preferred":[
-        "Bochotnica"
+    "name:hsb_x_preferred": [
+      "Bochotnica"
     ],
-    "name:hun_x_preferred":[
-        "Bochotnica"
+    "name:hun_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ibo_x_preferred":[
-        "Bochotnica"
+    "name:ibo_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ido_x_preferred":[
-        "Bochotnica"
+    "name:ido_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ile_x_preferred":[
-        "Bochotnica"
+    "name:ile_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ilo_x_preferred":[
-        "Bochotnica"
+    "name:ilo_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ina_x_preferred":[
-        "Bochotnica"
+    "name:ina_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ind_x_preferred":[
-        "Bochotnica"
+    "name:ind_x_preferred": [
+      "Bochotnica"
     ],
-    "name:isl_x_preferred":[
-        "Bochotnica"
+    "name:isl_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ita_x_preferred":[
-        "Bochotnica"
+    "name:ita_x_preferred": [
+      "Bochotnica"
     ],
-    "name:jav_x_preferred":[
-        "Bochotnica"
+    "name:jav_x_preferred": [
+      "Bochotnica"
     ],
-    "name:jbo_x_preferred":[
-        "bochotnica"
+    "name:jbo_x_preferred": [
+      "bochotnica"
     ],
-    "name:jpn_x_preferred":[
-        "\u30dc\u30db\u30c8\u30cb\u30c4\u30a1"
+    "name:jpn_x_preferred": [
+      "ボホトニツァ"
     ],
-    "name:kab_x_preferred":[
-        "Bochotnica"
+    "name:kab_x_preferred": [
+      "Bochotnica"
     ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10dd\u10ee\u10dd\u10e2\u10dc\u10d8\u10ea\u10d0"
+    "name:kat_x_preferred": [
+      "ბოხოტნიცა"
     ],
-    "name:kom_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:kom_x_preferred": [
+      "Бохотница"
     ],
-    "name:kon_x_preferred":[
-        "Bochotnica"
+    "name:kon_x_preferred": [
+      "Bochotnica"
     ],
-    "name:kor_x_preferred":[
-        "\ubcf4\ud638\ud2b8\ub2c8\ucc28"
+    "name:kor_x_preferred": [
+      "보호트니차"
     ],
-    "name:ksh_x_preferred":[
-        "Bochotnica"
+    "name:ksh_x_preferred": [
+      "Bochotnica"
     ],
-    "name:kur_x_preferred":[
-        "Bochotnica"
+    "name:kur_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lad_x_preferred":[
-        "Bochotnica"
+    "name:lad_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lat_x_preferred":[
-        "Bochotnica"
+    "name:lat_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lav_x_preferred":[
-        "Bohot\u0146ica"
+    "name:lav_x_preferred": [
+      "Bohotņica"
     ],
-    "name:lij_x_preferred":[
-        "Bochotnica"
+    "name:lij_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lim_x_preferred":[
-        "Bochotnica"
+    "name:lim_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lin_x_preferred":[
-        "Bochotnica"
+    "name:lin_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lit_x_preferred":[
-        "Bochotnica"
+    "name:lit_x_preferred": [
+      "Bochotnica"
     ],
-    "name:lmo_x_preferred":[
-        "Bochotnica"
+    "name:lmo_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ltz_x_preferred":[
-        "Bochotnica"
+    "name:ltz_x_preferred": [
+      "Bochotnica"
     ],
-    "name:mdf_x_preferred":[
-        "Bochotnica"
+    "name:mdf_x_preferred": [
+      "Bochotnica"
     ],
-    "name:mkd_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:mkd_x_preferred": [
+      "Бохотница"
     ],
-    "name:mlg_x_preferred":[
-        "Bochotnica"
+    "name:mlg_x_preferred": [
+      "Bochotnica"
     ],
-    "name:mlt_x_preferred":[
-        "Bochotnica"
+    "name:mlt_x_preferred": [
+      "Bochotnica"
     ],
-    "name:mri_x_preferred":[
-        "Bochotnica"
+    "name:mri_x_preferred": [
+      "Bochotnica"
     ],
-    "name:msa_x_preferred":[
-        "Bochotnica"
+    "name:msa_x_preferred": [
+      "Bochotnica"
     ],
-    "name:myv_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:myv_x_preferred": [
+      "Бохотница"
     ],
-    "name:nah_x_preferred":[
-        "Bochotnica"
+    "name:nah_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nan_x_preferred":[
-        "Bochotnica"
+    "name:nan_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nap_x_preferred":[
-        "Bochotnica"
+    "name:nap_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nau_x_preferred":[
-        "Bochotnica"
+    "name:nau_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nds_nld_x_preferred":[
-        "Bochotnica"
+    "name:nds_nld_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nds_x_preferred":[
-        "Bochotnica"
+    "name:nds_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nep_x_preferred":[
-        "\u092c\u094b\u0915\u094b\u091f\u094d\u0928\u093f\u0915\u093e"
+    "name:nep_x_preferred": [
+      "बोकोट्निका"
     ],
-    "name:nld_x_preferred":[
-        "Bochotnica"
+    "name:nld_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nno_x_preferred":[
-        "Bochotnica"
+    "name:nno_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nob_x_preferred":[
-        "Bochotnica"
+    "name:nob_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nor_x_preferred":[
-        "Bochotnica"
+    "name:nor_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nov_x_preferred":[
-        "Bochotnica"
+    "name:nov_x_preferred": [
+      "Bochotnica"
     ],
-    "name:nrm_x_preferred":[
-        "Bochotnica"
+    "name:nrm_x_preferred": [
+      "Bochotnica"
     ],
-    "name:oci_x_preferred":[
-        "Bochotnica"
+    "name:oci_x_preferred": [
+      "Bochotnica"
     ],
-    "name:oss_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u00e6"
+    "name:oss_x_preferred": [
+      "Бохотницæ"
     ],
-    "name:pag_x_preferred":[
-        "Bochotnica"
+    "name:pag_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pam_x_preferred":[
-        "Bochotnica"
+    "name:pam_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pap_x_preferred":[
-        "Bochotnica"
+    "name:pap_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pdc_x_preferred":[
-        "Bochotnica"
+    "name:pdc_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pih_x_preferred":[
-        "Bochotnica"
+    "name:pih_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pms_x_preferred":[
-        "Bochotnica"
+    "name:pms_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pol_x_preferred":[
-        "Bochotnica"
+    "name:pol_x_preferred": [
+      "Bochotnica"
     ],
-    "name:por_x_preferred":[
-        "Bochotnica"
+    "name:por_x_preferred": [
+      "Bochotnica"
     ],
-    "name:pus_x_preferred":[
-        "\u0628\u0648\u069a\u0648\u062a\u0646\u064a\u06a9\u0627"
+    "name:pus_x_preferred": [
+      "بوښوتنيکا"
     ],
-    "name:que_x_preferred":[
-        "Bochotnica"
+    "name:que_x_preferred": [
+      "Bochotnica"
     ],
-    "name:rmy_x_preferred":[
-        "Bochotnica"
+    "name:rmy_x_preferred": [
+      "Bochotnica"
     ],
-    "name:roh_x_preferred":[
-        "Bochotnica"
+    "name:roh_x_preferred": [
+      "Bochotnica"
     ],
-    "name:ron_x_preferred":[
-        "Bochotnica"
+    "name:ron_x_preferred": [
+      "Bochotnica"
     ],
-    "name:rup_x_preferred":[
-        "Bochotnica"
+    "name:rup_x_preferred": [
+      "Bochotnica"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:rus_x_preferred": [
+      "Бохотница"
     ],
-    "name:sah_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:sah_x_preferred": [
+      "Бохотница"
     ],
-    "name:scn_x_preferred":[
-        "Bochotnica"
+    "name:scn_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sco_x_preferred":[
-        "Bochotnica"
+    "name:sco_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sgs_x_preferred":[
-        "Bochotnica"
+    "name:sgs_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sin_x_preferred":[
-        "Bochotnica"
+    "name:sin_x_preferred": [
+      "Bochotnica"
     ],
-    "name:slk_x_preferred":[
-        "Bochotnica"
+    "name:slk_x_preferred": [
+      "Bochotnica"
     ],
-    "name:slv_x_preferred":[
-        "Bochotnica"
+    "name:slv_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sme_x_preferred":[
-        "Bochotnica"
+    "name:sme_x_preferred": [
+      "Bochotnica"
     ],
-    "name:som_x_preferred":[
-        "Bochotnica"
+    "name:som_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sot_x_preferred":[
-        "Bochotnica"
+    "name:sot_x_preferred": [
+      "Bochotnica"
     ],
-    "name:spa_x_preferred":[
-        "Bochotnica"
+    "name:spa_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sqi_x_preferred":[
-        "Bochotnica"
+    "name:sqi_x_preferred": [
+      "Bochotnica"
     ],
-    "name:srd_x_preferred":[
-        "Bochotnica"
+    "name:srd_x_preferred": [
+      "Bochotnica"
     ],
-    "name:srn_x_preferred":[
-        "Bochotnica"
+    "name:srn_x_preferred": [
+      "Bochotnica"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u045a\u0438\u0446\u0430"
+    "name:srp_x_preferred": [
+      "Бохотњица"
     ],
-    "name:stq_x_preferred":[
-        "Bochotnica"
+    "name:stq_x_preferred": [
+      "Bochotnica"
     ],
-    "name:sun_x_preferred":[
-        "Bochotnica"
+    "name:sun_x_preferred": [
+      "Bochotnica"
     ],
-    "name:swa_x_preferred":[
-        "Bochotnica"
+    "name:swa_x_preferred": [
+      "Bochotnica"
     ],
-    "name:swe_x_preferred":[
-        "Bochotnica"
+    "name:swe_x_preferred": [
+      "Bochotnica"
     ],
-    "name:szl_x_preferred":[
-        "Bochot\u0144ica"
+    "name:szl_x_preferred": [
+      "Bochotńica"
     ],
-    "name:tah_x_preferred":[
-        "Bochotnica"
+    "name:tah_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tet_x_preferred":[
-        "Bochotnica"
+    "name:tet_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tgk_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0442\u0441\u0430"
+    "name:tgk_x_preferred": [
+      "Бохотнитса"
     ],
-    "name:tgl_x_preferred":[
-        "Bochotnica"
+    "name:tgl_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tha_x_preferred":[
-        "Bochotnica"
+    "name:tha_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tpi_x_preferred":[
-        "Bochotnica"
+    "name:tpi_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tuk_x_preferred":[
-        "Bochotnica"
+    "name:tuk_x_preferred": [
+      "Bochotnica"
     ],
-    "name:tur_x_preferred":[
-        "Bochotnica"
+    "name:tur_x_preferred": [
+      "Bochotnica"
     ],
-    "name:udm_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:udm_x_preferred": [
+      "Бохотница"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0456\u0446\u0430"
+    "name:ukr_x_preferred": [
+      "Бохотніца"
     ],
-    "name:vec_x_preferred":[
-        "Bochotnica"
+    "name:vec_x_preferred": [
+      "Bochotnica"
     ],
-    "name:vie_x_preferred":[
-        "Bochotnica"
+    "name:vie_x_preferred": [
+      "Bochotnica"
     ],
-    "name:vls_x_preferred":[
-        "Bochotnica"
+    "name:vls_x_preferred": [
+      "Bochotnica"
     ],
-    "name:vol_x_preferred":[
-        "Bochotnica"
+    "name:vol_x_preferred": [
+      "Bochotnica"
     ],
-    "name:vro_x_preferred":[
-        "Bochotnica"
+    "name:vro_x_preferred": [
+      "Bochotnica"
     ],
-    "name:wln_x_preferred":[
-        "Bochotnica"
+    "name:wln_x_preferred": [
+      "Bochotnica"
     ],
-    "name:wol_x_preferred":[
-        "Bochotnica"
+    "name:wol_x_preferred": [
+      "Bochotnica"
     ],
-    "name:wuu_x_preferred":[
-        "Bochotnica"
+    "name:wuu_x_preferred": [
+      "Bochotnica"
     ],
-    "name:xal_x_preferred":[
-        "\u0411\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430"
+    "name:xal_x_preferred": [
+      "Бохотница"
     ],
-    "name:xho_x_preferred":[
-        "Bochotnica"
+    "name:xho_x_preferred": [
+      "Bochotnica"
     ],
-    "name:yid_x_preferred":[
-        "\u05d1\u05d0\u05db\u05d0\u05d8\u05e0\u05d9\u05e5"
+    "name:yid_x_preferred": [
+      "באכאטניץ"
     ],
-    "name:yor_x_preferred":[
-        "Bochotnica"
+    "name:yor_x_preferred": [
+      "Bochotnica"
     ],
-    "name:yue_x_preferred":[
-        "\u6ce2\u845b\u5217\u67e5"
+    "name:yue_x_preferred": [
+      "波葛列查"
     ],
-    "name:zea_x_preferred":[
-        "Bochotnica"
+    "name:zea_x_preferred": [
+      "Bochotnica"
     ],
-    "name:zho_min_nan_x_preferred":[
-        "Bochotnica"
+    "name:zho_min_nan_x_preferred": [
+      "Bochotnica"
     ],
-    "name:zho_x_preferred":[
-        "\u6ce2\u845b\u5217\u67e5"
+    "name:zho_x_preferred": [
+      "波葛列查"
     ],
-    "name:zho_yue_x_preferred":[
-        "\u6ce2\u845b\u5217\u67e5"
+    "name:zho_yue_x_preferred": [
+      "波葛列查"
     ],
-    "qs:a0":"Rzeczpospolita Polska",
-    "qs:a1":"*Lubelskie",
-    "qs:a1r":"0",
-    "qs:a2":"Pulawski",
-    "qs:adm0":"Rzeczpospolita Polska",
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Bochotnica",
-    "qs:loc_alt":"Bochotnica",
-    "qs:pop":0,
-    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
-    "qs:type":"buffered point",
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "qs:a0": "Rzeczpospolita Polska",
+    "qs:a1": "*Lubelskie",
+    "qs:a1r": "0",
+    "qs:a2": "Pulawski",
+    "qs:adm0": "Rzeczpospolita Polska",
+    "qs:la_lc": "*",
+    "qs:level": "locality",
+    "qs:loc": "Bochotnica",
+    "qs:loc_alt": "Bochotnica",
+    "qs:pop": 0,
+    "qs:source": "LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type": "buffered point",
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes",
+      "whosonfirst"
     ],
-    "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":555,
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125339125,
-        85633723,
-        102079833
+    "src:geom_via": "quattroshapes",
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 555,
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125339125,
+      85633723,
+      102079833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775756,
-        "gp:id":486791,
-        "qs_pg:id":266398,
-        "wd:id":"Q2386011",
-        "wk:page":"Bochotnica"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775756,
+      "gp:id": 486791,
+      "pl-gugik:jpt_kod_je": "061404_5.0001",
+      "qs_pg:id": 266398,
+      "wd:id": "Q2386011",
+      "wk:page": "Bochotnica"
     },
-    "wof:country":"PL",
-    "wof:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+    "wof:country": "PL",
+    "wof:geom_alt": [
+      "quattroshapes_pg",
+      "quattroshapes"
     ],
-    "wof:geomhash":"30f30d89f93d94fe4ac5908f747b2d85",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079833,
-            "localadmin_id":1125339125,
-            "locality_id":101864679,
-            "region_id":85687309
-        }
+    "wof:geomhash": "d5ba23bf6735e79b0d849cb573ad7b72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079833,
+        "localadmin_id": 1125339125,
+        "locality_id": 101864679,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":101864679,
-    "wof:lastmodified":1582357643,
-    "wof:name":"Bochotnica",
-    "wof:parent_id":1125339125,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 101864679,
+    "wof:lastmodified": 1669727346,
+    "wof:name": "Bochotnica",
+    "wof:parent_id": 1125339125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.993166,
-    51.339416,
-    21.993166,
-    51.339416
-],
-  "geometry": {"coordinates":[21.993166,51.339416],"type":"Point"}
+    21.96829353402426,
+    51.319058592018656,
+    22.02942980302476,
+    51.360577077018995
+  ],
+  "geometry": {"coordinates":[[[21.968294,51.344162],[21.969216,51.344379],[21.969982,51.344547],[21.970818,51.344781],[21.97151,51.344986],[21.972407,51.345308],[21.973137,51.34556],[21.97394,51.345899],[21.975004,51.346343],[21.975735,51.346695],[21.977172,51.347475],[21.978392,51.348212],[21.979513,51.349021],[21.9804,51.349751],[21.981164,51.350501],[21.981751,51.351171],[21.982191,51.351617],[21.982899,51.352583],[21.983756,51.353853],[21.984161,51.354749],[21.984614,51.355878],[21.984892,51.356892],[21.984932,51.35744],[21.985038,51.358491],[21.985058,51.35948],[21.984961,51.360406],[21.986268,51.360462],[21.98897,51.360577],[21.990417,51.360322],[21.991884,51.360062],[21.991974,51.360045],[21.992062,51.360027],[21.992256,51.359989],[21.992418,51.359957],[21.992552,51.35993],[21.992708,51.359899],[21.993399,51.359759],[21.994658,51.359505],[21.996989,51.359051],[21.997274,51.359021],[21.997314,51.359016],[21.997918,51.35894],[21.998159,51.358848],[21.998338,51.358752],[21.999015,51.358595],[21.999252,51.358515],[21.999468,51.358492],[21.999609,51.358415],[21.999887,51.358265],[22.00004,51.358182],[22.000412,51.358165],[22.000755,51.35815],[22.000926,51.358096],[22.001124,51.358034],[22.00115,51.358026],[22.001579,51.358055],[22.001708,51.358063],[22.001822,51.358147],[22.00198,51.358196],[22.002307,51.358182],[22.002464,51.358149],[22.002558,51.358128],[22.002665,51.358075],[22.002691,51.357989],[22.002606,51.357744],[22.002721,51.357643],[22.002826,51.357636],[22.00285,51.357499],[22.002876,51.357351],[22.003177,51.357162],[22.003345,51.357147],[22.003626,51.357122],[22.00368,51.357117],[22.003772,51.357071],[22.003825,51.357044],[22.003971,51.357018],[22.004275,51.35706],[22.004508,51.35692],[22.004611,51.356813],[22.004762,51.356592],[22.004544,51.356261],[22.004095,51.356068],[22.004008,51.355973],[22.003615,51.355549],[22.003649,51.355491],[22.003865,51.355108],[22.003962,51.355027],[22.004125,51.354892],[22.00421,51.354822],[22.004256,51.354801],[22.004703,51.354599],[22.004797,51.35448],[22.004892,51.35436],[22.005183,51.353992],[22.005535,51.353472],[22.005633,51.353362],[22.00604,51.352867],[22.006499,51.352528],[22.006843,51.352407],[22.007425,51.352035],[22.007378,51.352009],[22.007269,51.351948],[22.006973,51.351555],[22.006677,51.351018],[22.006485,51.350353],[22.006219,51.350113],[22.006107,51.349939],[22.006087,51.349717],[22.006077,51.349601],[22.00597,51.349092],[22.005873,51.348812],[22.005818,51.348701],[22.00557,51.348306],[22.005545,51.348283],[22.005571,51.348275],[22.005452,51.348161],[22.005415,51.347722],[22.005075,51.347195],[22.004807,51.346945],[22.004543,51.346709],[22.004187,51.346391],[22.004195,51.346381],[22.004264,51.346285],[22.004435,51.346071],[22.004539,51.345938],[22.004562,51.345909],[22.004589,51.345873],[22.004611,51.345848],[22.004644,51.345802],[22.004708,51.34572],[22.004922,51.345527],[22.005281,51.345232],[22.005846,51.344951],[22.006078,51.344845],[22.006118,51.344838],[22.006305,51.344803],[22.006513,51.344679],[22.006714,51.344652],[22.007038,51.344605],[22.007354,51.344584],[22.007637,51.344528],[22.007711,51.344513],[22.00798,51.344566],[22.008296,51.344545],[22.008603,51.344589],[22.009276,51.344648],[22.009315,51.34464],[22.009757,51.344556],[22.009816,51.344573],[22.010262,51.344697],[22.010575,51.34472],[22.010719,51.344731],[22.011869,51.344464],[22.012576,51.344191],[22.012618,51.344175],[22.013251,51.344202],[22.013724,51.344094],[22.01376,51.344087],[22.01393,51.34389],[22.01396,51.343857],[22.014663,51.343703],[22.014766,51.343681],[22.014921,51.343501],[22.015115,51.343425],[22.015227,51.343382],[22.015425,51.343304],[22.015531,51.34322],[22.015674,51.343106],[22.015714,51.343074],[22.015822,51.342988],[22.015889,51.342886],[22.015981,51.342743],[22.016315,51.342536],[22.016526,51.342305],[22.01656,51.342267],[22.016876,51.342161],[22.016908,51.34215],[22.017158,51.341944],[22.017349,51.341788],[22.017408,51.341749],[22.017642,51.341586],[22.018022,51.341293],[22.018725,51.34115],[22.019001,51.341092],[22.019136,51.341064],[22.019309,51.341051],[22.019666,51.341025],[22.020069,51.34098],[22.020208,51.340964],[22.020262,51.340958],[22.020299,51.340954],[22.020626,51.340917],[22.021428,51.340935],[22.021608,51.340842],[22.021637,51.340628],[22.02147,51.340464],[22.021492,51.340152],[22.021493,51.34014],[22.021532,51.340149],[22.021612,51.340166],[22.021981,51.340249],[22.022233,51.340376],[22.022341,51.340532],[22.022088,51.340778],[22.022188,51.340985],[22.022087,51.341079],[22.021722,51.341417],[22.021747,51.341545],[22.021758,51.341597],[22.022078,51.341678],[22.022046,51.341839],[22.022097,51.341856],[22.022195,51.341888],[22.022207,51.341892],[22.022434,51.341968],[22.022562,51.341947],[22.022885,51.34189],[22.023108,51.341852],[22.023353,51.341953],[22.023585,51.342049],[22.023569,51.342148],[22.023557,51.342224],[22.023781,51.342324],[22.02408,51.342459],[22.02443,51.342454],[22.024519,51.342452],[22.024801,51.342448],[22.024956,51.342446],[22.025123,51.342444],[22.025227,51.342464],[22.02554,51.342507],[22.025854,51.34255],[22.026185,51.342567],[22.026273,51.342571],[22.026479,51.342581],[22.026534,51.342584],[22.027079,51.342611],[22.027139,51.342621],[22.027474,51.342677],[22.027756,51.342725],[22.028039,51.342773],[22.028267,51.342807],[22.028329,51.342646],[22.029057,51.34146],[22.029273,51.341492],[22.029275,51.341471],[22.02935,51.340741],[22.029397,51.340509],[22.02943,51.340348],[22.02889,51.340345],[22.028772,51.340435],[22.028571,51.340515],[22.028492,51.340554],[22.028242,51.340652],[22.027885,51.34075],[22.027768,51.340783],[22.027984,51.340198],[22.02851,51.339596],[22.02836,51.339574],[22.028088,51.339535],[22.027927,51.339512],[22.027633,51.339469],[22.027531,51.339454],[22.027486,51.339448],[22.02733,51.339425],[22.027375,51.339067],[22.027454,51.338157],[22.027461,51.338123],[22.027506,51.337792],[22.027509,51.33777],[22.027732,51.337162],[22.028051,51.336047],[22.027408,51.336095],[22.027302,51.336099],[22.02726,51.336101],[22.027227,51.336102],[22.027197,51.336104],[22.027091,51.336108],[22.02695,51.336113],[22.0268,51.336119],[22.026553,51.336128],[22.026503,51.33613],[22.026215,51.33614],[22.026077,51.336145],[22.025939,51.336147],[22.025693,51.336151],[22.025486,51.336153],[22.025448,51.336096],[22.02543,51.336069],[22.025312,51.33589],[22.025178,51.335689],[22.025049,51.335384],[22.02471,51.334582],[22.02464,51.334433],[22.02456,51.334241],[22.024511,51.334123],[22.024433,51.333937],[22.024294,51.333603],[22.024288,51.333587],[22.02434,51.333495],[22.024442,51.333317],[22.024648,51.333155],[22.024708,51.333106],[22.024748,51.333083],[22.024786,51.333065],[22.025034,51.332949],[22.025114,51.332912],[22.025232,51.332856],[22.025293,51.332828],[22.0254,51.332778],[22.025413,51.332772],[22.025426,51.332766],[22.025678,51.332649],[22.025686,51.332645],[22.025739,51.332619],[22.02582,51.332582],[22.025901,51.33235],[22.025962,51.332177],[22.025962,51.332172],[22.025946,51.332005],[22.025943,51.33197],[22.025881,51.331295],[22.026,51.330791],[22.026054,51.330565],[22.026057,51.330553],[22.026075,51.330483],[22.026076,51.330428],[22.026077,51.330289],[22.026079,51.330112],[22.026082,51.32984],[22.026083,51.329638],[22.026106,51.329585],[22.026625,51.32836],[22.026564,51.328066],[22.026452,51.327664],[22.026521,51.327466],[22.026545,51.327191],[22.026493,51.327111],[22.026306,51.326721],[22.026227,51.326632],[22.026046,51.326437],[22.025966,51.326345],[22.025947,51.32627],[22.024961,51.325824],[22.024729,51.325664],[22.024469,51.325328],[22.024149,51.325165],[22.023985,51.325015],[22.023526,51.324863],[22.023297,51.324674],[22.022736,51.324413],[22.022598,51.324267],[22.022156,51.323937],[22.021528,51.323284],[22.021517,51.323273],[22.021535,51.323214],[22.021669,51.322747],[22.021711,51.322553],[22.021759,51.322331],[22.021717,51.321995],[22.021698,51.321846],[22.021477,51.321641],[22.02114,51.321331],[22.021151,51.321274],[22.021176,51.321145],[22.021265,51.320652],[22.021269,51.320631],[22.020932,51.320632],[22.020444,51.32063],[22.020304,51.320586],[22.020034,51.320595],[22.01987,51.320583],[22.019201,51.320562],[22.018357,51.320501],[22.018205,51.320488],[22.017452,51.320426],[22.016893,51.320385],[22.016547,51.320359],[22.016391,51.320331],[22.016151,51.32029],[22.016066,51.320274],[22.015954,51.320253],[22.015829,51.320271],[22.015554,51.320373],[22.015521,51.320385],[22.015457,51.320409],[22.01531,51.320282],[22.015219,51.320204],[22.015152,51.320109],[22.015106,51.320044],[22.01507,51.319884],[22.01506,51.319841],[22.015026,51.319693],[22.015044,51.319154],[22.015004,51.319142],[22.014721,51.319059],[22.014626,51.319114],[22.013887,51.31931],[22.013582,51.319388],[22.013484,51.319413],[22.012523,51.319698],[22.012054,51.319831],[22.012014,51.319842],[22.011961,51.319857],[22.010942,51.320281],[22.010934,51.320301],[22.010603,51.320416],[22.01058,51.320454],[22.010374,51.320506],[22.010069,51.320584],[22.00992,51.320573],[22.009689,51.320556],[22.009176,51.320514],[22.008811,51.320633],[22.008315,51.320946],[22.008278,51.321038],[22.008023,51.321674],[22.007888,51.321824],[22.007052,51.322747],[22.006583,51.323071],[22.00627,51.322914],[22.00563,51.322899],[22.00431,51.322643],[22.003973,51.322577],[22.003913,51.322589],[22.003183,51.322734],[22.002276,51.322875],[22.001888,51.322858],[22.001648,51.322884],[22.00123,51.322895],[22.00022,51.323019],[21.999366,51.323086],[21.99937,51.323107],[21.999253,51.323129],[21.999227,51.32313],[21.999154,51.32313],[21.999124,51.32313],[21.99901,51.323175],[21.998356,51.323338],[21.997901,51.323434],[21.997114,51.323558],[21.996907,51.323624],[21.996541,51.323727],[21.99638,51.323772],[21.996175,51.32379],[21.996125,51.323779],[21.995932,51.323737],[21.995351,51.323599],[21.994911,51.323489],[21.993985,51.32351],[21.993592,51.323538],[21.99311,51.323592],[21.992276,51.323621],[21.992301,51.323701],[21.992341,51.323827],[21.992356,51.323867],[21.992412,51.324017],[21.992466,51.324082],[21.992509,51.32417],[21.992721,51.324239],[21.992584,51.324365],[21.992624,51.32439],[21.992669,51.324417],[21.992605,51.32451],[21.992596,51.324573],[21.992652,51.324643],[21.992613,51.324774],[21.992639,51.324903],[21.992642,51.324939],[21.992647,51.324996],[21.992649,51.325026],[21.992416,51.325049],[21.992361,51.325051],[21.991964,51.325066],[21.991664,51.325107],[21.991452,51.325165],[21.99138,51.325172],[21.991353,51.325172],[21.991189,51.325173],[21.990962,51.325173],[21.990937,51.325173],[21.990532,51.325166],[21.990208,51.32516],[21.989974,51.325156],[21.989553,51.325149],[21.989445,51.325147],[21.98923,51.32515],[21.989019,51.325171],[21.988913,51.325182],[21.98853,51.325207],[21.988515,51.325208],[21.988444,51.325213],[21.988423,51.325215],[21.98832,51.325252],[21.988171,51.325308],[21.988095,51.325335],[21.987921,51.3254],[21.987765,51.325457],[21.98768,51.325489],[21.987475,51.32563],[21.987401,51.325682],[21.98717,51.325842],[21.986933,51.325972],[21.986847,51.326019],[21.986524,51.326213],[21.986233,51.326387],[21.985354,51.326647],[21.985142,51.326702],[21.984954,51.326751],[21.984733,51.326849],[21.984147,51.327181],[21.984114,51.327219],[21.984,51.327348],[21.983739,51.327645],[21.983513,51.327949],[21.983403,51.328036],[21.98337,51.328061],[21.98306,51.328419],[21.98273,51.328824],[21.982597,51.329008],[21.982379,51.329311],[21.982084,51.329777],[21.981791,51.33015],[21.981642,51.330337],[21.981596,51.330426],[21.981581,51.330455],[21.98155,51.330517],[21.98158,51.33053],[21.981627,51.330685],[21.981671,51.330831],[21.981716,51.330921],[21.981952,51.331479],[21.981861,51.331631],[21.981788,51.331842],[21.981783,51.33195],[21.981816,51.332175],[21.981791,51.332214],[21.981629,51.33246],[21.981583,51.332529],[21.981505,51.332647],[21.981545,51.33285],[21.981821,51.333071],[21.981274,51.333374],[21.9807,51.33365],[21.980595,51.33379],[21.980661,51.334184],[21.980869,51.334302],[21.981059,51.334703],[21.98145,51.33498],[21.981462,51.335072],[21.98151,51.335429],[21.981401,51.33569],[21.981375,51.335753],[21.981326,51.335871],[21.980998,51.336102],[21.980993,51.336112],[21.980914,51.336487],[21.980894,51.336567],[21.980577,51.336762],[21.980374,51.33707],[21.980116,51.337283],[21.979922,51.337577],[21.979535,51.337724],[21.979089,51.338039],[21.978262,51.338205],[21.977846,51.338353],[21.977266,51.338381],[21.977235,51.338384],[21.977035,51.338517],[21.976843,51.338625],[21.976802,51.338647],[21.976525,51.338694],[21.976366,51.338802],[21.976315,51.338845],[21.976194,51.338946],[21.976135,51.338995],[21.975624,51.338973],[21.975252,51.339045],[21.975186,51.339131],[21.974302,51.340276],[21.974252,51.340308],[21.968294,51.344162]]],"type":"Polygon"}
 }

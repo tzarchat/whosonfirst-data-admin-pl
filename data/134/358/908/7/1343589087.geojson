@@ -2,137 +2,141 @@
   "id": 1343589087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-09-30",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.74995,50.87605,15.74995,50.87605",
-    "geom:latitude":50.87605,
-    "geom:longitude":15.74995,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"261.0",
-    "gn:admin3_code":"26101.0",
-    "gn:asciiname":"Czarne",
-    "gn:country_code":"PL",
-    "gn:dem":356,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3101163,
-    "gn:latitude":50.87605,
-    "gn:longitude":15.74995,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Czarne",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"15.72995,50.85605,15.76995,50.89605",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0686\u0627\u0631\u0646\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:deprecated": "2019-09-30",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00009923135503181176,
+    "geom:area_square_m": 777038.1395912019,
+    "geom:bbox": "15.758995112966126,50.86604632401344,15.777527743971675,50.881278885015696",
+    "geom:latitude": 15.766712575194049,
+    "geom:longitude": 50.872581829417804,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "261.0",
+    "gn:admin3_code": "26101.0",
+    "gn:asciiname": "Czarne",
+    "gn:country_code": "PL",
+    "gn:dem": 356,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3101163,
+    "gn:latitude": 50.87605,
+    "gn:longitude": 15.74995,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Czarne",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "15.72995,50.85605,15.76995,50.89605",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "چارنه"
     ],
-    "name:csb_x_preferred":[
-        "Cz\u00f4rn\u00e9"
+    "name:csb_x_preferred": [
+      "Czôrné"
     ],
-    "name:deu_x_preferred":[
-        "Czarne"
+    "name:deu_x_preferred": [
+      "Czarne"
     ],
-    "name:epo_x_preferred":[
-        "Czarne"
+    "name:epo_x_preferred": [
+      "Czarne"
     ],
-    "name:fas_x_preferred":[
-        "\u0686\u0627\u0631\u0646\u0647"
+    "name:fas_x_preferred": [
+      "چارنه"
     ],
-    "name:fra_x_preferred":[
-        "Czarne"
+    "name:fra_x_preferred": [
+      "Czarne"
     ],
-    "name:jav_x_preferred":[
-        "Czarne"
+    "name:jav_x_preferred": [
+      "Czarne"
     ],
-    "name:lav_x_preferred":[
-        "\u010carne"
+    "name:lav_x_preferred": [
+      "Čarne"
     ],
-    "name:msa_x_preferred":[
-        "Czarne"
+    "name:msa_x_preferred": [
+      "Czarne"
     ],
-    "name:nau_x_preferred":[
-        "Czarne"
+    "name:nau_x_preferred": [
+      "Czarne"
     ],
-    "name:nld_x_preferred":[
-        "Czarne"
+    "name:nld_x_preferred": [
+      "Czarne"
     ],
-    "name:pol_x_preferred":[
-        "Czarne"
+    "name:pol_x_preferred": [
+      "Czarne"
     ],
-    "name:por_x_preferred":[
-        "Czarne"
+    "name:por_x_preferred": [
+      "Czarne"
     ],
-    "name:ron_x_preferred":[
-        "Czarne"
+    "name:ron_x_preferred": [
+      "Czarne"
     ],
-    "name:rus_x_preferred":[
-        "\u0427\u0430\u0440\u043d\u0435"
+    "name:rus_x_preferred": [
+      "Чарне"
     ],
-    "name:slk_x_preferred":[
-        "Czarne"
+    "name:slk_x_preferred": [
+      "Czarne"
     ],
-    "name:srp_x_preferred":[
-        "\u0427\u0430\u0440\u043d\u0435"
+    "name:srp_x_preferred": [
+      "Чарне"
     ],
-    "name:ukr_x_preferred":[
-        "\u0427\u0430\u0440\u043d\u0435"
+    "name:ukr_x_preferred": [
+      "Чарне"
     ],
-    "name:vie_x_preferred":[
-        "Czarne"
+    "name:vie_x_preferred": [
+      "Czarne"
     ],
-    "name:zho_x_preferred":[
-        "\u6070\u5c14\u5185"
+    "name:zho_x_preferred": [
+      "恰尔内"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125415081,
-        85633723,
-        102079603
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101163
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125415081,
+      85633723,
+      102079603
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101163,
+      "pl-gugik:jpt_kod_je": "026101_1.0029"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"e08f3b8a5ee73f7aa55a1fb25bfe84d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079603,
-            "localadmin_id":1125415081,
-            "locality_id":1343589087,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "20d13d305f5c5b29c71f6c17d3a77924",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079603,
+        "localadmin_id": 1125415081,
+        "locality_id": 1343589087,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1343589087,
-    "wof:lastmodified":1569885070,
-    "wof:name":"Czarne",
-    "wof:parent_id":1125415081,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[
-        1495004289
+    "wof:id": 1343589087,
+    "wof:lastmodified": 1669727321,
+    "wof:name": "Czarne",
+    "wof:parent_id": 1125415081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [
+      1495004289
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.74995,
-    50.87605,
-    15.74995,
-    50.87605
-],
-  "geometry": {"coordinates":[15.74995,50.87605],"type":"Point"}
+    15.758995112966126,
+    50.86604632401344,
+    15.777527743971675,
+    50.881278885015696
+  ],
+  "geometry": {"coordinates":[[[15.758995,50.877735],[15.759065,50.877991],[15.759114,50.878187],[15.759133,50.878914],[15.759305,50.879859],[15.761329,50.880158],[15.761675,50.880291],[15.762103,50.880503],[15.76339,50.881168],[15.763656,50.881279],[15.763552,50.880386],[15.763442,50.879491],[15.76333,50.878597],[15.763521,50.878046],[15.763572,50.877956],[15.76371,50.877716],[15.763775,50.877446],[15.764113,50.876932],[15.764639,50.876297],[15.765074,50.875771],[15.765112,50.875723],[15.76687,50.874244],[15.767797,50.874287],[15.76818,50.874099],[15.768649,50.87384],[15.76887,50.873703],[15.768984,50.873646],[15.769268,50.873541],[15.769879,50.873198],[15.770362,50.872898],[15.771372,50.872344],[15.771775,50.872122],[15.772104,50.871843],[15.772209,50.87174],[15.772385,50.871592],[15.77246,50.871537],[15.772949,50.871231],[15.773003,50.871206],[15.773379,50.870979],[15.773748,50.870747],[15.773989,50.870596],[15.774441,50.870332],[15.774633,50.870217],[15.775426,50.869715],[15.776085,50.86925],[15.776978,50.868603],[15.777188,50.868464],[15.777236,50.868421],[15.777528,50.868214],[15.777322,50.868053],[15.777164,50.867951],[15.777078,50.867748],[15.776958,50.86766],[15.776752,50.867562],[15.776618,50.867498],[15.776268,50.867443],[15.776116,50.8674],[15.775983,50.867311],[15.775867,50.867406],[15.775589,50.867602],[15.774166,50.867638],[15.774073,50.86764],[15.773602,50.867652],[15.773345,50.867658],[15.772404,50.867054],[15.771575,50.866522],[15.771528,50.866491],[15.771494,50.86647],[15.770884,50.866078],[15.770834,50.866046],[15.770684,50.866116],[15.770403,50.866217],[15.769744,50.866371],[15.769283,50.866451],[15.768565,50.86662],[15.768526,50.866637],[15.768406,50.866687],[15.76827,50.866745],[15.768104,50.866816],[15.76791,50.8669],[15.767781,50.867003],[15.767682,50.867099],[15.767599,50.867216],[15.767385,50.867517],[15.76718,50.86786],[15.766815,50.868531],[15.766792,50.868573],[15.766727,50.868693],[15.766704,50.868735],[15.766561,50.868997],[15.766436,50.869199],[15.766383,50.869278],[15.766194,50.869563],[15.765996,50.869734],[15.765769,50.869915],[15.765564,50.870077],[15.765397,50.870225],[15.765062,50.870425],[15.764588,50.870708],[15.763772,50.87118],[15.763447,50.871379],[15.763143,50.871561],[15.762728,50.871825],[15.762494,50.871997],[15.762359,50.872126],[15.762103,50.872371],[15.761968,50.872528],[15.761462,50.873119],[15.760684,50.873522],[15.759841,50.873937],[15.75954,50.874303],[15.759534,50.874324],[15.759479,50.874505],[15.759389,50.874704],[15.75928,50.875188],[15.759263,50.87528],[15.759136,50.876148],[15.759068,50.876628],[15.759015,50.877083],[15.758997,50.877547],[15.758995,50.877735]]],"type":"Polygon"}
 }

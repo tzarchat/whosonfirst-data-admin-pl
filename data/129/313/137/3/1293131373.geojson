@@ -2,95 +2,99 @@
   "id": 1293131373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.99667,52.06464,21.99667,52.06464",
-    "geom:latitude":52.06464,
-    "geom:longitude":21.99667,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1426.0",
-    "gn:admin3_code":"142612.0",
-    "gn:asciiname":"Kaczory",
-    "gn:country_code":"PL",
-    "gn:dem":171,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":769863,
-    "gn:latitude":52.06464,
-    "gn:longitude":21.99667,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kaczory",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.97667,52.04464,22.01667,52.08464",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Kaczory"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00008326896954844578,
+    "geom:area_square_m": 635403.250007954,
+    "geom:bbox": "21.991778374021933,52.056139599015246,22.001801725011017,52.07069953201599",
+    "geom:latitude": 21.996923949827796,
+    "geom:longitude": 52.0643801343867,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1426.0",
+    "gn:admin3_code": "142612.0",
+    "gn:asciiname": "Kaczory",
+    "gn:country_code": "PL",
+    "gn:dem": 171,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 769863,
+    "gn:latitude": 52.06464,
+    "gn:longitude": 21.99667,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kaczory",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.97667,52.04464,22.01667,52.08464",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Kaczory"
     ],
-    "name:deu_x_preferred":[
-        "Kaczory"
+    "name:deu_x_preferred": [
+      "Kaczory"
     ],
-    "name:fra_x_preferred":[
-        "Kaczory"
+    "name:fra_x_preferred": [
+      "Kaczory"
     ],
-    "name:nld_x_preferred":[
-        "Kaczory"
+    "name:nld_x_preferred": [
+      "Kaczory"
     ],
-    "name:pol_x_preferred":[
-        "Kaczory"
+    "name:pol_x_preferred": [
+      "Kaczory"
     ],
-    "name:spa_x_preferred":[
-        "Kaczory"
+    "name:spa_x_preferred": [
+      "Kaczory"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0430\u0447\u043e\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Качори"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125289049,
-        85633723,
-        102079979
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":769863
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125289049,
+      85633723,
+      102079979
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 769863,
+      "pl-gugik:jpt_kod_je": "142612_2.0007"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"d7fe423037d4ed38a5227c8b14f10df9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079979,
-            "localadmin_id":1125289049,
-            "locality_id":1293131373,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f0083d499d28046a71af72b0eda1a357",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079979,
+        "localadmin_id": 1125289049,
+        "locality_id": 1293131373,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1293131373,
-    "wof:lastmodified":1570014386,
-    "wof:name":"Kaczory",
-    "wof:parent_id":1125289049,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293131373,
+    "wof:lastmodified": 1669727345,
+    "wof:name": "Kaczory",
+    "wof:parent_id": 1125289049,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.99667,
-    52.06464,
-    21.99667,
-    52.06464
-],
-  "geometry": {"coordinates":[21.99667,52.06464],"type":"Point"}
+    21.991778374021933,
+    52.056139599015246,
+    22.001801725011017,
+    52.07069953201599
+  ],
+  "geometry": {"coordinates":[[[21.991778,52.057002],[21.993006,52.058787],[21.993166,52.059033],[21.993192,52.059295],[21.993288,52.059919],[21.993687,52.060969],[21.993727,52.061223],[21.993728,52.061504],[21.993783,52.062087],[21.994133,52.062963],[21.994483,52.063974],[21.994776,52.064686],[21.994839,52.065145],[21.99479,52.06578],[21.994344,52.067115],[21.994287,52.067252],[21.994158,52.067492],[21.994008,52.067748],[21.993803,52.067996],[21.9935,52.068271],[21.993043,52.068648],[21.99311,52.068667],[21.993054,52.068744],[21.993294,52.070187],[21.993394,52.070209],[21.993893,52.070174],[21.995076,52.07009],[21.995753,52.070043],[21.996475,52.070653],[21.997874,52.070667],[21.998992,52.070694],[22.001186,52.0707],[22.001802,52.070696],[22.001799,52.070683],[22.001798,52.070681],[22.00126,52.068488],[22.000752,52.06643],[22.000363,52.064856],[22.00024,52.064358],[22.000219,52.064275],[22.00032,52.06426],[22.000563,52.064223],[21.999936,52.061674],[21.999447,52.059684],[21.999433,52.059628],[21.998905,52.059801],[21.998678,52.059876],[21.998469,52.059945],[21.998249,52.060018],[21.998033,52.060089],[21.997822,52.060158],[21.996496,52.058215],[21.995126,52.056189],[21.995092,52.05614],[21.995037,52.056154],[21.994885,52.056193],[21.994677,52.056247],[21.994473,52.0563],[21.994238,52.056361],[21.9941,52.056397],[21.993965,52.056432],[21.993851,52.056462],[21.993699,52.056501],[21.992712,52.056757],[21.992597,52.056787],[21.992538,52.056803],[21.992477,52.056818],[21.992302,52.056864],[21.992121,52.056911],[21.991812,52.056991],[21.991778,52.057002]]],"type":"Polygon"}
 }
