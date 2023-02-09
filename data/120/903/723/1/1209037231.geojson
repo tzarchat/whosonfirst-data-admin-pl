@@ -2,84 +2,88 @@
   "id": 1209037231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.42067,54.554,17.42067,54.554",
-    "geom:latitude":54.554,
-    "geom:longitude":17.42067,
-    "gn:admin1_code":"82.0",
-    "gn:admin2_code":"2212.0",
-    "gn:admin3_code":"221204.0",
-    "gn:asciiname":"Gorzyslaw",
-    "gn:country_code":"PL",
-    "gn:dem":84,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3098689,
-    "gn:latitude":54.554,
-    "gn:longitude":17.42067,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Gorzys\u0142aw",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.40067,54.534,17.44067,54.574",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:csb_x_preferred":[
-        "G\u00f2rz\u00ebs\u0142\u00f4w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00019594625060283095,
+    "geom:area_square_m": 1411249.3512066407,
+    "geom:bbox": "17.404467237002336,54.5491384400225,17.43188477600047,54.56052528301812",
+    "geom:latitude": 17.418413485240574,
+    "geom:longitude": 54.55447324034392,
+    "gn:admin1_code": "82.0",
+    "gn:admin2_code": "2212.0",
+    "gn:admin3_code": "221204.0",
+    "gn:asciiname": "Gorzyslaw",
+    "gn:country_code": "PL",
+    "gn:dem": 84,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3098689,
+    "gn:latitude": 54.554,
+    "gn:longitude": 17.42067,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Gorzysław",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.40067,54.534,17.44067,54.574",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:csb_x_preferred": [
+      "Gòrzësłôw"
     ],
-    "name:pol_x_preferred":[
-        "Gorzys\u0142aw"
+    "name:pol_x_preferred": [
+      "Gorzysław"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043e\u0436\u0438\u0441\u043b\u0430\u0432"
+    "name:ukr_x_preferred": [
+      "Ґожислав"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125376943,
-        85633723,
-        102080255
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3098689,
-        "wk:page":"Gorzys%C5%82aw%2C_Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125376943,
+      85633723,
+      102080255
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3098689,
+      "pl-gugik:jpt_kod_je": "221204_2.0010",
+      "wk:page": "Gorzys%C5%82aw%2C_Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"f137fe719b6ce51622f6a48301f8ba0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080255,
-            "localadmin_id":1125376943,
-            "locality_id":1209037231,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "65a86d16dd2dab551cac1dd41ce739bc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080255,
+        "localadmin_id": 1125376943,
+        "locality_id": 1209037231,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1209037231,
-    "wof:lastmodified":1570021823,
-    "wof:name":"Gorzyslaw",
-    "wof:parent_id":1125376943,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209037231,
+    "wof:lastmodified": 1675952156,
+    "wof:name": "Gorzyslaw",
+    "wof:parent_id": 1125376943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.42067,
-    54.554,
-    17.42067,
-    54.554
-],
-  "geometry": {"coordinates":[17.42067,54.554],"type":"Point"}
+    17.404467237002336,
+    54.5491384400225,
+    17.43188477600047,
+    54.56052528301812
+  ],
+  "geometry": {"coordinates":[[[17.404467,54.555752],[17.404503,54.555827],[17.404559,54.555934],[17.40516,54.557174],[17.405671,54.558229],[17.406093,54.559106],[17.406109,54.559141],[17.406775,54.560525],[17.413833,54.558289],[17.413762,54.557815],[17.413958,54.557819],[17.415144,54.557895],[17.418168,54.558053],[17.41833,54.558061],[17.419496,54.558111],[17.420895,54.558172],[17.420971,54.558177],[17.423837,54.558334],[17.425589,54.558419],[17.429529,54.558614],[17.428584,54.556353],[17.427737,54.554253],[17.431885,54.554876],[17.431879,54.554788],[17.431762,54.552428],[17.431713,54.550505],[17.430354,54.550708],[17.429275,54.550784],[17.429097,54.549648],[17.42723,54.549824],[17.426774,54.549846],[17.424278,54.549967],[17.423764,54.55],[17.421151,54.550168],[17.419697,54.550262],[17.418259,54.550061],[17.417052,54.549893],[17.413343,54.549447],[17.412823,54.549218],[17.412686,54.549138],[17.412296,54.550689],[17.411342,54.551306],[17.404467,54.555752]]],"type":"Polygon"}
 }

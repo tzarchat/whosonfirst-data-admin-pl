@@ -2,87 +2,91 @@
   "id": 1226270625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.24715,54.25715,20.24715,54.25715",
-    "geom:latitude":54.25715,
-    "geom:longitude":20.24715,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2802.0",
-    "gn:admin3_code":"280205.0",
-    "gn:asciiname":"Pelty",
-    "gn:country_code":"PL",
-    "gn:dem":82,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":762478,
-    "gn:latitude":54.25715,
-    "gn:longitude":20.24715,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Pe\u0142ty",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.22715,54.23715,20.26715,54.27715",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Pe\u0142ty"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00034314680962439363,
+    "geom:area_square_m": 2489107.5111976527,
+    "geom:bbox": "20.234605683994435,54.250643102020184,20.261341601006674,54.270853969020216",
+    "geom:latitude": 20.248985431351638,
+    "geom:longitude": 54.25945182090351,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2802.0",
+    "gn:admin3_code": "280205.0",
+    "gn:asciiname": "Pelty",
+    "gn:country_code": "PL",
+    "gn:dem": 82,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 762478,
+    "gn:latitude": 54.25715,
+    "gn:longitude": 20.24715,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Pełty",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.22715,54.23715,20.26715,54.27715",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Pełty"
     ],
-    "name:pol_x_preferred":[
-        "Pe\u0142ty"
+    "name:pol_x_preferred": [
+      "Pełty"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0435\u043b\u0442\u0438"
+    "name:ukr_x_preferred": [
+      "Пелти"
     ],
-    "name:und_x_variant":[
-        "Steinbotten"
+    "name:und_x_variant": [
+      "Steinbotten"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125388659,
-        85633723,
-        102080237
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762478,
-        "wk:page":"Pe%C5%82ty%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125388659,
+      85633723,
+      102080237
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762478,
+      "pl-gugik:jpt_kod_je": "280205_5.0021",
+      "wk:page": "Pe%C5%82ty%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"51d74eb414d47a5057d45d162cec3de5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080237,
-            "localadmin_id":1125388659,
-            "locality_id":1226270625,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "8f9e44e5e3e883769a7d63a249539df3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080237,
+        "localadmin_id": 1125388659,
+        "locality_id": 1226270625,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1226270625,
-    "wof:lastmodified":1570048883,
-    "wof:name":"Pelty",
-    "wof:parent_id":1125388659,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226270625,
+    "wof:lastmodified": 1675952162,
+    "wof:name": "Pelty",
+    "wof:parent_id": 1125388659,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.24715,
-    54.25715,
-    20.24715,
-    54.25715
-],
-  "geometry": {"coordinates":[20.24715,54.25715],"type":"Point"}
+    20.234605683994435,
+    54.250643102020184,
+    20.261341601006674,
+    54.270853969020216
+  ],
+  "geometry": {"coordinates":[[[20.236162,54.263557],[20.23674,54.263606],[20.237841,54.2637],[20.238155,54.263727],[20.238526,54.263766],[20.240658,54.264052],[20.24211,54.264498],[20.242837,54.264716],[20.246982,54.265995],[20.248926,54.266483],[20.249217,54.266556],[20.248319,54.26824],[20.246915,54.270854],[20.249544,54.270316],[20.254852,54.269231],[20.255134,54.2683],[20.255819,54.266494],[20.256077,54.265786],[20.256291,54.265201],[20.256407,54.264883],[20.257,54.264975],[20.259143,54.265326],[20.25986,54.26338],[20.26011,54.262674],[20.26027,54.262188],[20.26029,54.262152],[20.260411,54.261935],[20.260492,54.2617],[20.260907,54.260498],[20.261287,54.259397],[20.261342,54.25922],[20.261266,54.259196],[20.260337,54.258901],[20.259372,54.258596],[20.260007,54.25669],[20.260075,54.256492],[20.260676,54.254729],[20.260118,54.254498],[20.260444,54.25349],[20.260451,54.253468],[20.260763,54.252504],[20.258283,54.252211],[20.256508,54.252001],[20.255893,54.251927],[20.253287,54.251613],[20.253182,54.251601],[20.25238,54.251503],[20.251432,54.251388],[20.251304,54.251372],[20.249767,54.251175],[20.24841,54.251001],[20.248303,54.25099],[20.2469,54.250841],[20.245511,54.250695],[20.244985,54.250643],[20.24497,54.250683],[20.244736,54.251333],[20.243632,54.252111],[20.243456,54.252943],[20.241716,54.253455],[20.241268,54.253369],[20.240421,54.253239],[20.239744,54.253177],[20.239112,54.253155],[20.237949,54.253186],[20.237909,54.25332],[20.237591,54.254267],[20.237481,54.254612],[20.237195,54.255516],[20.23716,54.255622],[20.237111,54.255771],[20.236518,54.257583],[20.236113,54.258865],[20.235761,54.259981],[20.235522,54.260548],[20.235507,54.260583],[20.235171,54.261763],[20.234606,54.263351],[20.236162,54.263557]]],"type":"Polygon"}
 }

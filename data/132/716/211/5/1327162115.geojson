@@ -2,96 +2,100 @@
   "id": 1327162115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.24081,51.79428,17.24081,51.79428",
-    "geom:latitude":51.79428,
-    "geom:longitude":17.24081,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3004.0",
-    "gn:admin3_code":"300406.0",
-    "gn:asciiname":"Lukaszew",
-    "gn:country_code":"PL",
-    "gn:dem":122,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535727,
-    "gn:latitude":51.79428,
-    "gn:longitude":17.24081,
-    "gn:modification_date":"2010-09-23",
-    "gn:name":"\u0141ukaszew",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.22081,51.77428,17.26081,51.81428",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0648\u0648\u06a9\u0627\u0634\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002564110953439072,
+    "geom:area_square_m": 1968519.578093822,
+    "geom:bbox": "17.22614604500335,51.78241051201438,17.258082756993804,51.7963418740186",
+    "geom:latitude": 17.240738922872787,
+    "geom:longitude": 51.78918703564319,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3004.0",
+    "gn:admin3_code": "300406.0",
+    "gn:asciiname": "Lukaszew",
+    "gn:country_code": "PL",
+    "gn:dem": 122,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535727,
+    "gn:latitude": 51.79428,
+    "gn:longitude": 17.24081,
+    "gn:modification_date": "2010-09-23",
+    "gn:name": "Łukaszew",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.22081,51.77428,17.26081,51.81428",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "ووکاشو"
     ],
-    "name:deu_x_preferred":[
-        "\u0141ukaszew"
+    "name:deu_x_preferred": [
+      "Łukaszew"
     ],
-    "name:fas_x_preferred":[
-        "\u0648\u0648\u06a9\u0627\u0634\u0648"
+    "name:fas_x_preferred": [
+      "ووکاشو"
     ],
-    "name:fra_x_preferred":[
-        "\u0141ukaszew"
+    "name:fra_x_preferred": [
+      "Łukaszew"
     ],
-    "name:pol_x_preferred":[
-        "\u0141ukaszew"
+    "name:pol_x_preferred": [
+      "Łukaszew"
     ],
-    "name:szl_x_preferred":[
-        "\u0141ukaszew"
+    "name:szl_x_preferred": [
+      "Łukaszew"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0443\u043a\u0430\u0448\u0435\u0432"
+    "name:ukr_x_preferred": [
+      "Лукашев"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125410531,
-        85633723,
-        102079829
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535727,
-        "wk:page":"%C5%81ukaszew"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125410531,
+      85633723,
+      102079829
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535727,
+      "pl-gugik:jpt_kod_je": "300406_5.0008",
+      "wk:page": "%C5%81ukaszew"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"ec600a22b875ea53175c2a47ae8e85c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079829,
-            "localadmin_id":1125410531,
-            "locality_id":1327162115,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "c3bda94d07904fe54767e57616c83624",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079829,
+        "localadmin_id": 1125410531,
+        "locality_id": 1327162115,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1327162115,
-    "wof:lastmodified":1570008427,
-    "wof:name":"Lukaszew",
-    "wof:parent_id":1125410531,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327162115,
+    "wof:lastmodified": 1675952153,
+    "wof:name": "Lukaszew",
+    "wof:parent_id": 1125410531,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.24081,
-    51.79428,
-    17.24081,
-    51.79428
-],
-  "geometry": {"coordinates":[17.24081,51.79428],"type":"Point"}
+    17.22614604500335,
+    51.78241051201438,
+    17.258082756993804,
+    51.7963418740186
+  ],
+  "geometry": {"coordinates":[[[17.226146,51.785461],[17.22648,51.786057],[17.22668,51.786414],[17.226874,51.78676],[17.226978,51.786945],[17.227154,51.787259],[17.227373,51.78765],[17.227425,51.787749],[17.228195,51.789489],[17.229076,51.791135],[17.229322,51.791555],[17.229368,51.791609],[17.230436,51.793126],[17.231466,51.794725],[17.231489,51.79476],[17.232508,51.796342],[17.232696,51.79629],[17.232804,51.796258],[17.241223,51.794305],[17.241242,51.794338],[17.241281,51.794333],[17.241512,51.79472],[17.241849,51.795242],[17.242031,51.795241],[17.242051,51.795237],[17.242064,51.79527],[17.243541,51.794683],[17.244899,51.794136],[17.246089,51.793659],[17.247278,51.793177],[17.248492,51.792688],[17.249672,51.792215],[17.250618,51.791824],[17.250502,51.79163],[17.250546,51.791618],[17.250093,51.791475],[17.250567,51.790927],[17.25086,51.790796],[17.251395,51.790615],[17.251946,51.790424],[17.252722,51.790538],[17.253558,51.79068],[17.25331,51.791051],[17.253386,51.791059],[17.25724,51.791449],[17.25726,51.79142],[17.257892,51.79015],[17.257995,51.790136],[17.258064,51.790121],[17.257989,51.789987],[17.257793,51.789619],[17.257777,51.789217],[17.257788,51.788825],[17.257502,51.788533],[17.258083,51.788646],[17.257883,51.788412],[17.257854,51.787535],[17.257844,51.787198],[17.25767,51.787178],[17.256974,51.787099],[17.254829,51.786899],[17.253756,51.786788],[17.251842,51.78648],[17.249192,51.786072],[17.249024,51.786033],[17.245962,51.785344],[17.246166,51.784878],[17.245872,51.784245],[17.245841,51.78418],[17.245757,51.784],[17.245737,51.783956],[17.245365,51.783317],[17.245345,51.783284],[17.245033,51.782473],[17.245047,51.782448],[17.245067,51.782413],[17.245046,51.782411],[17.241346,51.782988],[17.24083,51.783073],[17.240704,51.783111],[17.239376,51.783441],[17.238035,51.783775],[17.23767,51.783871],[17.237539,51.783903],[17.235871,51.784142],[17.233689,51.784454],[17.228938,51.785028],[17.226323,51.785437],[17.226146,51.785461]]],"type":"Polygon"}
 }

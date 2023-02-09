@@ -2,78 +2,82 @@
   "id": 1209031221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.79123,53.59434,16.79123,53.59434",
-    "geom:latitude":53.59434,
-    "geom:longitude":16.79123,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3031.0",
-    "gn:admin3_code":"303105.0",
-    "gn:asciiname":"Przybyslaw",
-    "gn:country_code":"PL",
-    "gn:dem":154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7535385,
-    "gn:latitude":53.59434,
-    "gn:longitude":16.79123,
-    "gn:modification_date":"2010-09-14",
-    "gn:name":"Przybys\u0142aw",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.77123,53.57434,16.81123,53.61434",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Przybys\u0142aw"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00032538620572163324,
+    "geom:area_square_m": 2398168.9382773773,
+    "geom:bbox": "16.77824733400015,53.58028335801777,16.808117039995828,53.598570496022184",
+    "geom:latitude": 16.79146408557503,
+    "geom:longitude": 53.58839501608878,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3031.0",
+    "gn:admin3_code": "303105.0",
+    "gn:asciiname": "Przybyslaw",
+    "gn:country_code": "PL",
+    "gn:dem": 154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7535385,
+    "gn:latitude": 53.59434,
+    "gn:longitude": 16.79123,
+    "gn:modification_date": "2010-09-14",
+    "gn:name": "Przybysław",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.77123,53.57434,16.81123,53.61434",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Przybysław"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125299261,
-        85633723,
-        102080109
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7535385,
-        "wk:page":"Przybys%C5%82aw%2C_Z%C5%82ot%C3%B3w_County"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125299261,
+      85633723,
+      102080109
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7535385,
+      "pl-gugik:jpt_kod_je": "303105_5.0129",
+      "wk:page": "Przybys%C5%82aw%2C_Z%C5%82ot%C3%B3w_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"eb248b94899133bac3b6946223c92af4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080109,
-            "localadmin_id":1125299261,
-            "locality_id":1209031221,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "0c0ac9a06991fd788619b17cf8da2461",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080109,
+        "localadmin_id": 1125299261,
+        "locality_id": 1209031221,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1209031221,
-    "wof:lastmodified":1570022005,
-    "wof:name":"Przybyslaw",
-    "wof:parent_id":1125299261,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209031221,
+    "wof:lastmodified": 1675952156,
+    "wof:name": "Przybyslaw",
+    "wof:parent_id": 1125299261,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.79123,
-    53.59434,
-    16.79123,
-    53.59434
-],
-  "geometry": {"coordinates":[16.79123,53.59434],"type":"Point"}
+    16.77824733400015,
+    53.58028335801777,
+    16.808117039995828,
+    53.598570496022184
+  ],
+  "geometry": {"coordinates":[[[16.778247,53.586706],[16.778507,53.587377],[16.778645,53.587732],[16.778718,53.587916],[16.779405,53.59008],[16.780042,53.591717],[16.780888,53.593519],[16.781607,53.595374],[16.78231,53.597187],[16.782349,53.597287],[16.783403,53.596428],[16.784068,53.596711],[16.784225,53.596705],[16.785537,53.596599],[16.787375,53.596199],[16.78922,53.595849],[16.792775,53.595122],[16.792948,53.595314],[16.7958,53.597795],[16.79672,53.59857],[16.796741,53.598404],[16.796738,53.596081],[16.796739,53.595094],[16.796739,53.595027],[16.796755,53.59376],[16.796802,53.591414],[16.801547,53.591382],[16.804941,53.591257],[16.804997,53.591159],[16.807366,53.586087],[16.807789,53.58518],[16.808094,53.584634],[16.808117,53.584592],[16.807256,53.583921],[16.805736,53.584053],[16.804597,53.584668],[16.802958,53.584536],[16.8029,53.583985],[16.80281,53.583954],[16.798662,53.582888],[16.798369,53.582806],[16.797342,53.582576],[16.797268,53.582559],[16.7961,53.582284],[16.796034,53.582268],[16.794457,53.581896],[16.794404,53.581884],[16.793108,53.581578],[16.793036,53.581561],[16.792223,53.58137],[16.792082,53.581336],[16.788874,53.58058],[16.788813,53.580566],[16.787615,53.580283],[16.785628,53.580606],[16.783909,53.580866],[16.782323,53.581107],[16.781128,53.581362],[16.781233,53.581735],[16.781329,53.582073],[16.781327,53.583282],[16.781366,53.583413],[16.781794,53.584867],[16.781839,53.58502],[16.781702,53.585175],[16.78155,53.585305],[16.781396,53.585388],[16.781208,53.585488],[16.779819,53.585681],[16.778982,53.585811],[16.778447,53.586193],[16.778247,53.586706]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1360018153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.24578,53.53945,23.24578,53.53945",
-    "geom:latitude":53.53945,
-    "geom:longitude":23.24578,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201109.0",
-    "gn:asciiname":"Polomin",
-    "gn:country_code":"PL",
-    "gn:dem":170,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":761581,
-    "gn:latitude":53.53945,
-    "gn:longitude":23.24578,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Po\u0142omin",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.22578,53.51945,23.26578,53.55945",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Polominas"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002728377405872305,
+    "geom:area_square_m": 2012948.6129860075,
+    "geom:bbox": "23.236477156074596,53.5363683900173,23.262591934081254,53.552549767016494",
+    "geom:latitude": 23.24830959049666,
+    "geom:longitude": 53.54431616273165,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201109.0",
+    "gn:asciiname": "Polomin",
+    "gn:country_code": "PL",
+    "gn:dem": 170,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 761581,
+    "gn:latitude": 53.53945,
+    "gn:longitude": 23.24578,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Połomin",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.22578,53.51945,23.26578,53.55945",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Polominas"
     ],
-    "name:pol_x_preferred":[
-        "Po\u0142omin"
+    "name:pol_x_preferred": [
+      "Połomin"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u043e\u043b\u043e\u043c\u0456\u043d"
+    "name:ukr_x_preferred": [
+      "Поломін"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125289651,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":761581,
-        "wk:page":"Po%C5%82omin"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125289651,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 761581,
+      "pl-gugik:jpt_kod_je": "201109_5.0039",
+      "wk:page": "Po%C5%82omin"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9449fd9241bb5c0a1d6b9c7e46ac11ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1125289651,
-            "locality_id":1360018153,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "4898848c4c4884fa55b0bbaab1326446",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1125289651,
+        "locality_id": 1360018153,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1360018153,
-    "wof:lastmodified":1570029391,
-    "wof:name":"Polomin",
-    "wof:parent_id":1125289651,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360018153,
+    "wof:lastmodified": 1675952166,
+    "wof:name": "Polomin",
+    "wof:parent_id": 1125289651,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.24578,
-    53.53945,
-    23.24578,
-    53.53945
-],
-  "geometry": {"coordinates":[23.24578,53.53945],"type":"Point"}
+    23.236477156074596,
+    53.5363683900173,
+    23.262591934081254,
+    53.552549767016494
+  ],
+  "geometry": {"coordinates":[[[23.236477,53.540679],[23.236517,53.540736],[23.236529,53.54075],[23.236532,53.540756],[23.23727,53.541797],[23.238178,53.543078],[23.238207,53.543119],[23.239511,53.544985],[23.240097,53.545825],[23.240003,53.545825],[23.239653,53.546824],[23.239327,53.547753],[23.239069,53.548461],[23.23856,53.549855],[23.238382,53.550342],[23.23796,53.551497],[23.23975,53.551594],[23.240051,53.55161],[23.240398,53.551629],[23.241413,53.551683],[23.241862,53.551707],[23.242501,53.551742],[23.243587,53.551801],[23.244661,53.551859],[23.245345,53.551898],[23.246526,53.551959],[23.246682,53.551973],[23.247356,53.552011],[23.247777,53.552035],[23.248752,53.55209],[23.249138,53.552111],[23.249574,53.552136],[23.24976,53.552145],[23.251631,53.552235],[23.25192,53.552249],[23.253046,53.552304],[23.253155,53.55231],[23.255054,53.552412],[23.256225,53.552475],[23.257621,53.55255],[23.257329,53.551511],[23.255936,53.546307],[23.255912,53.546213],[23.25536,53.544063],[23.255343,53.543998],[23.254971,53.542553],[23.254875,53.542177],[23.255348,53.541819],[23.258039,53.539779],[23.260844,53.537653],[23.26173,53.536982],[23.262592,53.536368],[23.26074,53.53641],[23.259133,53.536422],[23.257503,53.536451],[23.254905,53.536497],[23.254581,53.536512],[23.252939,53.536545],[23.252494,53.536596],[23.251798,53.536675],[23.249386,53.53695],[23.248504,53.537051],[23.245714,53.537368],[23.245536,53.537389],[23.243783,53.537589],[23.242139,53.53778],[23.242103,53.537783],[23.239002,53.538143],[23.238698,53.538178],[23.239077,53.538764],[23.239947,53.540106],[23.240059,53.540279],[23.236477,53.540679]]],"type":"Polygon"}
 }

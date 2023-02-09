@@ -2,128 +2,132 @@
   "id": 1125885679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.47165,53.69147,21.47165,53.69147",
-    "geom:latitude":53.69147,
-    "geom:longitude":21.47165,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"21.45165,53.67147,21.49165,53.71147",
-    "lbl:latitude":53.69147,
-    "lbl:longitude":21.47165,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Ga\u0142kowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017993832893819484,
+    "geom:area_square_m": 1322933.9945555693,
+    "geom:bbox": "21.45776130400139,53.68643351601627,21.479360902003624,53.69879151701537",
+    "geom:latitude": 21.467975527508738,
+    "geom:longitude": 53.69287152240307,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "21.45165,53.67147,21.49165,53.71147",
+    "lbl:latitude": 53.69147,
+    "lbl:longitude": 21.47165,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Gałkowo"
     ],
-    "name:azb_x_preferred":[
-        "\u0642\u0627\u0648\u06a9\u0648\u0648\u0648"
+    "name:azb_x_preferred": [
+      "قاوکووو"
     ],
-    "name:ceb_x_preferred":[
-        "Ga\u0142kowo"
+    "name:ceb_x_preferred": [
+      "Gałkowo"
     ],
-    "name:deu_x_preferred":[
-        "Ga\u0142kowo"
+    "name:deu_x_preferred": [
+      "Gałkowo"
     ],
-    "name:eng_x_preferred":[
-        "Ga\u0142kowo"
+    "name:eng_x_preferred": [
+      "Gałkowo"
     ],
-    "name:fas_x_preferred":[
-        "\u06af\u0627\u0648\u06a9\u0648\u0648\u0648"
+    "name:fas_x_preferred": [
+      "گاوکووو"
     ],
-    "name:fra_x_preferred":[
-        "Ga\u0142kowo"
+    "name:fra_x_preferred": [
+      "Gałkowo"
     ],
-    "name:nan_x_preferred":[
-        "Ga\u0142kowo"
+    "name:nan_x_preferred": [
+      "Gałkowo"
     ],
-    "name:nld_x_preferred":[
-        "Ga\u0142kowo"
+    "name:nld_x_preferred": [
+      "Gałkowo"
     ],
-    "name:pol_x_preferred":[
-        "Ga\u0142kowo"
+    "name:pol_x_preferred": [
+      "Gałkowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u0430\u043b\u043a\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Ґалково"
     ],
-    "name:und_x_variant":[
-        "Nickelshorst"
+    "name:und_x_variant": [
+      "Nickelshorst"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":772394,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Ga\u0142kowo",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Warminsko-Mazurskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":902310,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":493221,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Warminsko-Mazurskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125270529,
-        85633723,
-        102080195
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 772394,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Gałkowo",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Warminsko-Mazurskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 902310,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 493221,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":772394,
-        "gp:id":493221,
-        "qs_pg:id":902310,
-        "wd:id":"Q1496730"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Warminsko-Mazurskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125270529,
+      85633723,
+      102080195
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 772394,
+      "gp:id": 493221,
+      "pl-gugik:jpt_kod_je": "281604_5.0001",
+      "qs_pg:id": 902310,
+      "wd:id": "Q1496730"
     },
-    "wof:country":"PL",
-    "wof:created":1497295065,
-    "wof:geomhash":"20545cbced3e32d76c8be9835256f5f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080195,
-            "localadmin_id":1125270529,
-            "locality_id":1125885679,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295065,
+    "wof:geomhash": "81c01273214f92268ed4d3e12de3d547",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080195,
+        "localadmin_id": 1125270529,
+        "locality_id": 1125885679,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1125885679,
-    "wof:lastmodified":1570037233,
-    "wof:name":"Ga\u0142kowo",
-    "wof:parent_id":1125270529,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125885679,
+    "wof:lastmodified": 1675953128,
+    "wof:name": "Gałkowo",
+    "wof:parent_id": 1125270529,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.47165,
-    53.69147,
-    21.47165,
-    53.69147
-],
-  "geometry": {"coordinates":[21.47165,53.69147],"type":"Point"}
+    21.45776130400139,
+    53.68643351601627,
+    21.479360902003624,
+    53.69879151701537
+  ],
+  "geometry": {"coordinates":[[[21.463705,53.69851],[21.46465,53.698447],[21.465531,53.698364],[21.465574,53.69836],[21.465601,53.698358],[21.465628,53.698356],[21.466641,53.698278],[21.467581,53.698231],[21.467681,53.698207],[21.468081,53.698178],[21.470921,53.697998],[21.471063,53.697994],[21.472131,53.697915],[21.473018,53.697866],[21.474007,53.697792],[21.474307,53.697787],[21.475502,53.697615],[21.475426,53.696943],[21.475392,53.696477],[21.475343,53.696262],[21.475513,53.696125],[21.475826,53.695771],[21.475965,53.695613],[21.47643,53.695171],[21.476926,53.694821],[21.477228,53.694563],[21.477611,53.694285],[21.478328,53.693769],[21.478445,53.693681],[21.479041,53.693232],[21.479242,53.693067],[21.47935,53.692977],[21.479361,53.692938],[21.47934,53.692862],[21.479016,53.691707],[21.478731,53.690523],[21.477715,53.690607],[21.47689,53.690676],[21.476677,53.690694],[21.473946,53.690895],[21.47393,53.690836],[21.473878,53.690641],[21.473772,53.69018],[21.473744,53.690095],[21.473669,53.689859],[21.47355,53.689441],[21.473528,53.689334],[21.473457,53.689038],[21.473427,53.688922],[21.473398,53.68881],[21.473263,53.688175],[21.473138,53.687608],[21.473042,53.68748],[21.471516,53.687326],[21.470176,53.687209],[21.46947,53.687152],[21.468721,53.687091],[21.467714,53.687008],[21.467486,53.686986],[21.465087,53.686764],[21.464065,53.686669],[21.46244,53.686526],[21.462162,53.686509],[21.461528,53.686434],[21.461576,53.686516],[21.461743,53.68683],[21.461767,53.686876],[21.461802,53.686943],[21.461845,53.687024],[21.461888,53.687105],[21.462044,53.687398],[21.461222,53.688412],[21.461027,53.688656],[21.460874,53.688848],[21.460476,53.689325],[21.460347,53.689513],[21.460144,53.689882],[21.459962,53.690212],[21.459887,53.690349],[21.459972,53.690854],[21.460005,53.69119],[21.460032,53.691337],[21.46018,53.69214],[21.459819,53.692819],[21.459351,53.692956],[21.458792,53.69312],[21.457761,53.693413],[21.458101,53.693927],[21.458375,53.694369],[21.458386,53.694388],[21.458504,53.694578],[21.458615,53.694757],[21.459431,53.695334],[21.460001,53.69592],[21.460203,53.69628],[21.460288,53.696785],[21.460323,53.696985],[21.460383,53.697344],[21.460408,53.69749],[21.460345,53.697946],[21.460333,53.698033],[21.460246,53.698655],[21.460227,53.698792],[21.462029,53.698645],[21.463425,53.698534],[21.463705,53.69851]]],"type":"Polygon"}
 }

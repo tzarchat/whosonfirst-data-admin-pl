@@ -2,109 +2,113 @@
   "id": 1126046515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.17486,53.24827,21.17486,53.24827",
-    "geom:latitude":53.24827,
-    "geom:longitude":21.17486,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":49,
-    "iso:country":"PL",
-    "lbl:bbox":"21.15486,53.22827,21.19486,53.26827",
-    "lbl:latitude":53.24827,
-    "lbl:longitude":21.17486,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Ostr\u00f3wek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00015193574568726472,
+    "geom:area_square_m": 1128664.083922759,
+    "geom:bbox": "21.151052337997246,53.2426903290187,21.17386482999708,53.257566256020965",
+    "geom:latitude": 21.16155536216121,
+    "geom:longitude": 53.249883376739035,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 49,
+    "iso:country": "PL",
+    "lbl:bbox": "21.15486,53.22827,21.19486,53.26827",
+    "lbl:latitude": 53.24827,
+    "lbl:longitude": 21.17486,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Ostrówek"
     ],
-    "name:deu_x_preferred":[
-        "Ostr\u00f3wek"
+    "name:deu_x_preferred": [
+      "Ostrówek"
     ],
-    "name:fra_x_preferred":[
-        "Ostr\u00f3wek"
+    "name:fra_x_preferred": [
+      "Ostrówek"
     ],
-    "name:ita_x_preferred":[
-        "Ostr\u00f3wek"
+    "name:ita_x_preferred": [
+      "Ostrówek"
     ],
-    "name:lit_x_preferred":[
-        "Ostruvekas"
+    "name:lit_x_preferred": [
+      "Ostruvekas"
     ],
-    "name:nld_x_preferred":[
-        "Ostr\u00f3wek"
+    "name:nld_x_preferred": [
+      "Ostrówek"
     ],
-    "name:pol_x_preferred":[
-        "Ostr\u00f3wek"
+    "name:pol_x_preferred": [
+      "Ostrówek"
     ],
-    "name:rus_x_preferred":[
-        "\u041e\u0441\u0442\u0440\u0443\u0432\u0435\u043a"
+    "name:rus_x_preferred": [
+      "Острувек"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u0441\u0442\u0440\u0443\u0432\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Острувек"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":762870,
-    "qs_pg:gn_pop":49,
-    "qs_pg:name":"Ostr\u00f3wek",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":553084,
-    "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125399417,
-        85633723,
-        102080139
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 762870,
+    "qs_pg:gn_pop": 49,
+    "qs_pg:name": "Ostrówek",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 553084,
+    "qs_pg:qs_pg_placetype": "locality",
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762870,
-        "qs_pg:id":553084
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125399417,
+      85633723,
+      102080139
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762870,
+      "pl-gugik:jpt_kod_je": "141501_2.0025",
+      "qs_pg:id": 553084
     },
-    "wof:country":"PL",
-    "wof:created":1497302464,
-    "wof:geomhash":"11d97899c991b70fedb48ec92b59702b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080139,
-            "localadmin_id":1125399417,
-            "locality_id":1126046515,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497302464,
+    "wof:geomhash": "7cbf033cf33f11642c45300746cee3e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080139,
+        "localadmin_id": 1125399417,
+        "locality_id": 1126046515,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126046515,
-    "wof:lastmodified":1570036993,
-    "wof:name":"Ostr\u00f3wek",
-    "wof:parent_id":1125399417,
-    "wof:placetype":"locality",
-    "wof:population":49,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126046515,
+    "wof:lastmodified": 1675953133,
+    "wof:name": "Ostrówek",
+    "wof:parent_id": 1125399417,
+    "wof:placetype": "locality",
+    "wof:population": 49,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.17486,
-    53.24827,
-    21.17486,
-    53.24827
-],
-  "geometry": {"coordinates":[21.17486,53.24827],"type":"Point"}
+    21.151052337997246,
+    53.2426903290187,
+    21.17386482999708,
+    53.257566256020965
+  ],
+  "geometry": {"coordinates":[[[21.151052,53.249915],[21.151067,53.249941],[21.15261,53.252677],[21.152651,53.25275],[21.152683,53.252806],[21.154027,53.255189],[21.154276,53.255628],[21.1545,53.256023],[21.154529,53.256074],[21.154532,53.25608],[21.154841,53.256614],[21.155033,53.256954],[21.155375,53.257566],[21.156256,53.257341],[21.1563,53.257333],[21.156627,53.257247],[21.156648,53.257242],[21.160097,53.256328],[21.160423,53.255546],[21.160607,53.255109],[21.160693,53.2549],[21.160994,53.254522],[21.161128,53.254357],[21.161735,53.253596],[21.161924,53.253548],[21.161985,53.253533],[21.163059,53.253261],[21.164511,53.253278],[21.165494,53.253289],[21.166718,53.253322],[21.166992,53.253146],[21.16713,53.252843],[21.16722,53.252644],[21.167322,53.252419],[21.167409,53.252225],[21.16751,53.251998],[21.167541,53.251929],[21.167575,53.251852],[21.167655,53.251672],[21.167679,53.251618],[21.167886,53.250726],[21.167914,53.250604],[21.167922,53.250568],[21.167938,53.250498],[21.167958,53.250409],[21.168091,53.249813],[21.167992,53.248867],[21.167857,53.247766],[21.168652,53.24756],[21.169319,53.247387],[21.170553,53.246485],[21.170575,53.246478],[21.172032,53.245995],[21.17266,53.24559],[21.172719,53.245552],[21.173588,53.244991],[21.173845,53.244347],[21.173865,53.244297],[21.173341,53.244104],[21.172177,53.243674],[21.169718,53.243782],[21.168581,53.243576],[21.167775,53.24343],[21.167702,53.243416],[21.167681,53.243395],[21.16747,53.243179],[21.166988,53.24269],[21.166788,53.242873],[21.166738,53.242919],[21.166625,53.243022],[21.166614,53.243032],[21.166571,53.24305],[21.16451,53.244062],[21.164181,53.244223],[21.163795,53.244412],[21.163643,53.244488],[21.163627,53.244494],[21.163544,53.244536],[21.162361,53.245116],[21.161606,53.245486],[21.160935,53.245815],[21.160747,53.245905],[21.160032,53.246246],[21.159745,53.24638],[21.159462,53.246515],[21.158798,53.246833],[21.158709,53.246877],[21.158634,53.246913],[21.158171,53.247119],[21.157869,53.247255],[21.157586,53.247381],[21.156979,53.247651],[21.156671,53.247803],[21.156523,53.24787],[21.156081,53.248083],[21.155631,53.248299],[21.155362,53.248428],[21.154648,53.248782],[21.153867,53.249169],[21.153857,53.249174],[21.153709,53.249247],[21.152935,53.249442],[21.152754,53.249487],[21.152033,53.249668],[21.151052,53.249915]]],"type":"Polygon"}
 }

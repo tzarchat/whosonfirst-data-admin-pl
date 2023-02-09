@@ -2,88 +2,92 @@
   "id": 1243580395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.30487,54.03177,19.30487,54.03177",
-    "geom:latitude":54.03177,
-    "geom:longitude":19.30487,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2804.0",
-    "gn:admin3_code":"280404.0",
-    "gn:asciiname":"Zlotnica",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3080093,
-    "gn:latitude":54.03177,
-    "gn:longitude":19.30487,
-    "gn:modification_date":"2010-09-05",
-    "gn:name":"Z\u0142otnica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.28487,54.01177,19.32487,54.05177",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Z\u0142otnica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003606819077483346,
+    "geom:area_square_m": 2630440.6688414463,
+    "geom:bbox": "19.29295420500762,54.02476170402167,19.32006573799818,54.04698720602095",
+    "geom:latitude": 19.305067197884284,
+    "geom:longitude": 54.034278201400895,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2804.0",
+    "gn:admin3_code": "280404.0",
+    "gn:asciiname": "Zlotnica",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3080093,
+    "gn:latitude": 54.03177,
+    "gn:longitude": 19.30487,
+    "gn:modification_date": "2010-09-05",
+    "gn:name": "Złotnica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.28487,54.01177,19.32487,54.05177",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Złotnica"
     ],
-    "name:pol_x_preferred":[
-        "Z\u0142otnica"
+    "name:pol_x_preferred": [
+      "Złotnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u043b\u043e\u0442\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Злотниця"
     ],
-    "name:und_x_variant":[
-        "G\u00fcldenfelde"
+    "name:und_x_variant": [
+      "Güldenfelde"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752767,
-        85633723,
-        102080231
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3080093,
-        "wk:page":"Z%C5%82otnica%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752767,
+      85633723,
+      102080231
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3080093,
+      "pl-gugik:jpt_kod_je": "280404_2.0017",
+      "wk:page": "Z%C5%82otnica%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"961aa259f18afdfab6a831236586d2f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080231,
-            "localadmin_id":1477752767,
-            "locality_id":1243580395,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "848c334b2e89d3245f13e017694dfb3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080231,
+        "localadmin_id": 1477752767,
+        "locality_id": 1243580395,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1243580395,
-    "wof:lastmodified":1570042836,
-    "wof:name":"Zlotnica",
-    "wof:parent_id":1477752767,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243580395,
+    "wof:lastmodified": 1675952155,
+    "wof:name": "Zlotnica",
+    "wof:parent_id": 1477752767,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.30487,
-    54.03177,
-    19.30487,
-    54.03177
-],
-  "geometry": {"coordinates":[19.30487,54.03177],"type":"Point"}
+    19.29295420500762,
+    54.02476170402167,
+    19.32006573799818,
+    54.04698720602095
+  ],
+  "geometry": {"coordinates":[[[19.310391,54.041057],[19.310419,54.04107],[19.310605,54.040974],[19.312914,54.037707],[19.313366,54.03703],[19.315777,54.033514],[19.317243,54.031282],[19.317916,54.030256],[19.319877,54.027267],[19.319897,54.02727],[19.320066,54.02714],[19.319986,54.027135],[19.318989,54.026962],[19.317266,54.026742],[19.317211,54.026737],[19.317202,54.026736],[19.31522,54.026543],[19.314685,54.026506],[19.31401,54.02647],[19.312991,54.026382],[19.31293,54.026379],[19.311344,54.026241],[19.31023,54.026146],[19.309338,54.026065],[19.307942,54.025939],[19.307407,54.025897],[19.305143,54.02572],[19.303705,54.025607],[19.302318,54.025497],[19.300513,54.025363],[19.29988,54.02531],[19.299262,54.025258],[19.296172,54.025016],[19.29401,54.02485],[19.292954,54.024762],[19.293025,54.024917],[19.295583,54.028148],[19.295532,54.032642],[19.295442,54.033418],[19.295447,54.035073],[19.295489,54.035078],[19.295511,54.037079],[19.295482,54.038749],[19.295487,54.038899],[19.295597,54.040927],[19.295459,54.041324],[19.295417,54.041444],[19.295391,54.041497],[19.295311,54.041661],[19.295245,54.041689],[19.295183,54.041718],[19.295115,54.041752],[19.295514,54.042079],[19.295962,54.042245],[19.297463,54.042683],[19.297783,54.04282],[19.298025,54.04297],[19.298239,54.043252],[19.29854,54.043553],[19.298766,54.043699],[19.299016,54.043885],[19.299353,54.044055],[19.300731,54.044894],[19.301369,54.045287],[19.302177,54.04574],[19.303068,54.04598],[19.30401,54.046286],[19.304767,54.046508],[19.306263,54.04695],[19.306465,54.046987],[19.306485,54.046931],[19.30654,54.046929],[19.30667,54.046923],[19.306657,54.046867],[19.306604,54.04665],[19.306842,54.04627],[19.30818,54.044205],[19.309526,54.042259],[19.310391,54.041057]]],"type":"Polygon"}
 }

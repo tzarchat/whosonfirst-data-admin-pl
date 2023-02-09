@@ -2,119 +2,123 @@
   "id": 1126050045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.98428,52.11578,17.98428,52.11578",
-    "geom:latitude":52.11578,
-    "geom:longitude":17.98428,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":130,
-    "iso:country":"PL",
-    "lbl:bbox":"17.96428,52.09578,18.00428,52.13578",
-    "lbl:latitude":52.11578,
-    "lbl:longitude":17.98428,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bar_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00046243807103084773,
+    "geom:area_square_m": 3524900.8542978326,
+    "geom:bbox": "17.95571955799968,52.101989753016035,17.987130397002502,52.1248550060161",
+    "geom:latitude": 17.969863146343457,
+    "geom:longitude": 52.113539346893525,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 130,
+    "iso:country": "PL",
+    "lbl:bbox": "17.96428,52.09578,18.00428,52.13578",
+    "lbl:latitude": 52.11578,
+    "lbl:longitude": 17.98428,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred": [
+      "Stanisławów"
     ],
-    "name:ceb_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:ceb_x_preferred": [
+      "Stanisławów"
     ],
-    "name:deu_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:deu_x_preferred": [
+      "Stanisławów"
     ],
-    "name:fra_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:fra_x_preferred": [
+      "Stanisławów"
     ],
-    "name:nld_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:nld_x_preferred": [
+      "Stanisławów"
     ],
-    "name:pol_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:pol_x_preferred": [
+      "Stanisławów"
     ],
-    "name:por_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:por_x_preferred": [
+      "Stanisławów"
     ],
-    "name:sco_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:sco_x_preferred": [
+      "Stanisławów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Станіславув"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3085005,
-    "qs_pg:gn_pop":130,
-    "qs_pg:name":"Stanis\u0142aw\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":307688,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":519614,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125327207,
-        85633723,
-        102079941
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3085005,
+    "qs_pg:gn_pop": 130,
+    "qs_pg:name": "Stanisławów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 307688,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 519614,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3085005,
-        "gp:id":519614,
-        "qs_pg:id":307688
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125327207,
+      85633723,
+      102079941
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3085005,
+      "gp:id": 519614,
+      "pl-gugik:jpt_kod_je": "302308_5.0027",
+      "qs_pg:id": 307688
     },
-    "wof:country":"PL",
-    "wof:created":1497302671,
-    "wof:geomhash":"acbc5305a37cb6bdd33cbb3be495cf5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079941,
-            "localadmin_id":1125327207,
-            "locality_id":1126050045,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497302671,
+    "wof:geomhash": "7c041f631783775cd3e1b71888b28c96",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079941,
+        "localadmin_id": 1125327207,
+        "locality_id": 1126050045,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126050045,
-    "wof:lastmodified":1570036963,
-    "wof:name":"Stanis\u0142aw\u00f3w",
-    "wof:parent_id":1125327207,
-    "wof:placetype":"locality",
-    "wof:population":130,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126050045,
+    "wof:lastmodified": 1675953125,
+    "wof:name": "Stanisławów",
+    "wof:parent_id": 1125327207,
+    "wof:placetype": "locality",
+    "wof:population": 130,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.98428,
-    52.11578,
-    17.98428,
-    52.11578
-],
-  "geometry": {"coordinates":[17.98428,52.11578],"type":"Point"}
+    17.95571955799968,
+    52.101989753016035,
+    17.987130397002502,
+    52.1248550060161
+  ],
+  "geometry": {"coordinates":[[[17.95572,52.11309],[17.95599,52.113362],[17.956017,52.113399],[17.956352,52.113858],[17.956396,52.113919],[17.956981,52.114746],[17.957304,52.115122],[17.95748,52.115426],[17.95772,52.115917],[17.957921,52.116351],[17.958111,52.116972],[17.958121,52.117007],[17.958132,52.117046],[17.95829,52.117391],[17.958415,52.117561],[17.958541,52.117676],[17.958622,52.11776],[17.95937,52.118529],[17.959832,52.11906],[17.960477,52.12004],[17.960546,52.120128],[17.961062,52.121025],[17.961339,52.121258],[17.962108,52.121965],[17.962639,52.122457],[17.962991,52.122819],[17.963931,52.122559],[17.964935,52.123758],[17.965206,52.124147],[17.96575,52.124855],[17.969854,52.124186],[17.969846,52.124216],[17.969709,52.124735],[17.970747,52.12429],[17.977542,52.121378],[17.979249,52.120647],[17.979387,52.120588],[17.982818,52.119129],[17.983375,52.118993],[17.983529,52.118974],[17.98372,52.118951],[17.983862,52.118936],[17.984427,52.118877],[17.984731,52.118837],[17.98496,52.118826],[17.985268,52.118623],[17.985801,52.116721],[17.985821,52.116649],[17.986422,52.116794],[17.986561,52.116584],[17.986584,52.116549],[17.987119,52.115741],[17.98713,52.115724],[17.984554,52.115099],[17.984464,52.114887],[17.984435,52.114818],[17.984416,52.114772],[17.984406,52.114748],[17.984357,52.114633],[17.984306,52.114511],[17.984256,52.114393],[17.984319,52.114222],[17.984361,52.11411],[17.984396,52.114015],[17.984438,52.113901],[17.984452,52.11387],[17.984472,52.113827],[17.984486,52.113797],[17.98452,52.113711],[17.98456,52.11361],[17.984594,52.113526],[17.984667,52.113344],[17.984694,52.113276],[17.984738,52.113168],[17.984886,52.112797],[17.984917,52.11272],[17.985437,52.112391],[17.984604,52.112224],[17.98471,52.112031],[17.984823,52.111827],[17.984936,52.11162],[17.984996,52.111511],[17.985271,52.111009],[17.985376,52.110818],[17.985484,52.110621],[17.985537,52.110526],[17.985701,52.110226],[17.985804,52.110039],[17.985966,52.109744],[17.986069,52.109555],[17.986167,52.109382],[17.985633,52.10927],[17.985082,52.109157],[17.984533,52.109046],[17.984231,52.108984],[17.981605,52.10844],[17.979866,52.108086],[17.977901,52.107691],[17.976088,52.107319],[17.975975,52.107296],[17.974281,52.106933],[17.972888,52.106665],[17.971806,52.106445],[17.971122,52.106415],[17.970924,52.105272],[17.970834,52.10466],[17.970812,52.104661],[17.970542,52.10306],[17.969405,52.102827],[17.9679,52.10255],[17.966156,52.10223],[17.966112,52.102221],[17.964888,52.101997],[17.964851,52.10199],[17.963932,52.102819],[17.963973,52.102823],[17.9633,52.1034],[17.963027,52.103634],[17.962786,52.103851],[17.962712,52.103918],[17.962342,52.10379],[17.961918,52.103873],[17.957264,52.104843],[17.957169,52.104862],[17.95638,52.10503],[17.956358,52.105346],[17.956332,52.105736],[17.95632,52.105907],[17.956278,52.106519],[17.956175,52.108032],[17.95615,52.108403],[17.956134,52.108634],[17.956073,52.109534],[17.95602,52.110548],[17.955782,52.112561],[17.95572,52.11309]]],"type":"Polygon"}
 }

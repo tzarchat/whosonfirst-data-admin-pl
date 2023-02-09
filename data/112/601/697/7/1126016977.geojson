@@ -2,134 +2,138 @@
   "id": 1126016977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.85762,52.7632,19.85762,52.7632",
-    "geom:latitude":52.7632,
-    "geom:longitude":19.85762,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":142,
-    "iso:country":"PL",
-    "lbl:bbox":"19.83762,52.7432,19.87762,52.7832",
-    "lbl:latitude":52.7632,
-    "lbl:longitude":19.85762,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:csb_x_preferred":[
-        "S\u0142\u00ebpi\u00f4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00025008051363758474,
+    "geom:area_square_m": 1878744.5153163613,
+    "geom:bbox": "19.84831678300143,52.74939250802107,19.8704055539954,52.77089768402013",
+    "geom:latitude": 19.859876816178982,
+    "geom:longitude": 52.75976621607838,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 142,
+    "iso:country": "PL",
+    "lbl:bbox": "19.83762,52.7432,19.87762,52.7832",
+    "lbl:latitude": 52.7632,
+    "lbl:longitude": 19.85762,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:csb_x_preferred": [
+      "Słëpiô"
     ],
-    "name:deu_x_preferred":[
-        "S\u0142upia"
+    "name:deu_x_preferred": [
+      "Słupia"
     ],
-    "name:eng_x_preferred":[
-        "S\u0142upia"
+    "name:eng_x_preferred": [
+      "Słupia"
     ],
-    "name:fra_x_preferred":[
-        "Slupia"
+    "name:fra_x_preferred": [
+      "Slupia"
     ],
-    "name:hun_x_preferred":[
-        "S\u0142upia"
+    "name:hun_x_preferred": [
+      "Słupia"
     ],
-    "name:ita_x_preferred":[
-        "S\u0142upia"
+    "name:ita_x_preferred": [
+      "Słupia"
     ],
-    "name:nno_x_preferred":[
-        "S\u0142upia"
+    "name:nno_x_preferred": [
+      "Słupia"
     ],
-    "name:pol_x_preferred":[
-        "S\u0142upia"
+    "name:pol_x_preferred": [
+      "Słupia"
     ],
-    "name:ron_x_preferred":[
-        "R\u00e2ul S\u0142upia"
+    "name:ron_x_preferred": [
+      "Râul Słupia"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u043b\u0443\u043f\u044f"
+    "name:rus_x_preferred": [
+      "Слупя"
     ],
-    "name:spa_x_preferred":[
-        "R\u00edo S\u0142upia"
+    "name:spa_x_preferred": [
+      "Río Słupia"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u043b\u0443\u043f\u044f"
+    "name:ukr_x_preferred": [
+      "Слупя"
     ],
-    "name:vie_x_preferred":[
-        "S\u0142upia"
+    "name:vie_x_preferred": [
+      "Słupia"
     ],
-    "name:zho_x_preferred":[
-        "\u65af\u6b66\u76ae\u4e9a\u6cb3"
+    "name:zho_x_preferred": [
+      "斯武皮亚河"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3085474,
-    "qs_pg:gn_pop":142,
-    "qs_pg:name":"S\u0142upia",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":307297,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":518789,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125363471,
-        85633723,
-        102080035
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3085474,
+    "qs_pg:gn_pop": 142,
+    "qs_pg:name": "Słupia",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 307297,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 518789,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3085474,
-        "gp:id":518789,
-        "qs_pg:id":307297
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125363471,
+      85633723,
+      102080035
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3085474,
+      "gp:id": 518789,
+      "pl-gugik:jpt_kod_je": "142707_2.0036",
+      "qs_pg:id": 307297
     },
-    "wof:country":"PL",
-    "wof:created":1497300611,
-    "wof:geomhash":"fd8bc3197107e2ae9ea4cd52c44e803e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080035,
-            "localadmin_id":1125363471,
-            "locality_id":1126016977,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300611,
+    "wof:geomhash": "495910df064bce8278958d27e5bfa255",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080035,
+        "localadmin_id": 1125363471,
+        "locality_id": 1126016977,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126016977,
-    "wof:lastmodified":1570038623,
-    "wof:name":"S\u0142upia",
-    "wof:parent_id":1125363471,
-    "wof:placetype":"locality",
-    "wof:population":142,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126016977,
+    "wof:lastmodified": 1675953133,
+    "wof:name": "Słupia",
+    "wof:parent_id": 1125363471,
+    "wof:placetype": "locality",
+    "wof:population": 142,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.85762,
-    52.7632,
-    19.85762,
-    52.7632
-],
-  "geometry": {"coordinates":[19.85762,52.7632],"type":"Point"}
+    19.84831678300143,
+    52.74939250802107,
+    19.8704055539954,
+    52.77089768402013
+  ],
+  "geometry": {"coordinates":[[[19.848317,52.7582],[19.848516,52.75832],[19.848811,52.758508],[19.848985,52.758631],[19.849162,52.758773],[19.848915,52.758735],[19.851453,52.761545],[19.851881,52.762001],[19.852871,52.763369],[19.852905,52.763497],[19.854909,52.7665],[19.855099,52.76674],[19.859229,52.768988],[19.860494,52.76959],[19.860483,52.769596],[19.859478,52.770898],[19.860051,52.770802],[19.861551,52.770567],[19.861714,52.770546],[19.861762,52.77054],[19.862104,52.770497],[19.862662,52.770415],[19.862862,52.770332],[19.863064,52.770135],[19.863178,52.770023],[19.863415,52.769691],[19.863513,52.769586],[19.864474,52.768886],[19.864352,52.768811],[19.863765,52.768565],[19.863103,52.768284],[19.863064,52.768268],[19.862992,52.768224],[19.862829,52.768127],[19.862708,52.768032],[19.862423,52.767739],[19.861999,52.767288],[19.861342,52.766574],[19.861504,52.766517],[19.862361,52.766243],[19.862749,52.766133],[19.863058,52.766063],[19.863466,52.765982],[19.863481,52.765979],[19.863549,52.765963],[19.864542,52.765711],[19.864905,52.765674],[19.865392,52.765511],[19.865855,52.765419],[19.865908,52.765409],[19.866947,52.765029],[19.867005,52.765008],[19.867542,52.764867],[19.868015,52.764764],[19.868057,52.764755],[19.869075,52.764529],[19.869169,52.764508],[19.870406,52.764128],[19.870181,52.763664],[19.869986,52.763306],[19.869752,52.762933],[19.86941,52.762392],[19.869346,52.762277],[19.869308,52.762208],[19.869193,52.761989],[19.868931,52.76153],[19.868752,52.761207],[19.868649,52.761073],[19.868502,52.760883],[19.868016,52.760253],[19.867881,52.759848],[19.867743,52.759432],[19.867612,52.759038],[19.867536,52.758808],[19.867507,52.758647],[19.867436,52.758244],[19.867377,52.757913],[19.867363,52.757847],[19.867283,52.757466],[19.867107,52.756516],[19.86704,52.756158],[19.867059,52.755833],[19.867059,52.755831],[19.86707,52.755641],[19.867074,52.75558],[19.867174,52.755289],[19.867203,52.755206],[19.867163,52.754921],[19.867109,52.754578],[19.867072,52.754329],[19.867069,52.754308],[19.867047,52.754166],[19.866752,52.753487],[19.866785,52.753432],[19.86632,52.75306],[19.865977,52.75275],[19.865742,52.752579],[19.8657,52.752544],[19.865345,52.752216],[19.865056,52.75195],[19.864958,52.751902],[19.864382,52.751629],[19.863386,52.75147],[19.862216,52.750765],[19.862029,52.750712],[19.861661,52.750607],[19.861254,52.750216],[19.860996,52.749705],[19.860954,52.749589],[19.860765,52.749393],[19.859584,52.750102],[19.858842,52.750562],[19.858483,52.750771],[19.857764,52.751179],[19.857577,52.751274],[19.857372,52.751377],[19.857313,52.751416],[19.857116,52.75157],[19.856932,52.751726],[19.856625,52.751995],[19.856424,52.752221],[19.856337,52.752293],[19.856011,52.752498],[19.855825,52.752616],[19.855524,52.752853],[19.855219,52.753093],[19.854989,52.753305],[19.854746,52.753489],[19.854481,52.753734],[19.854296,52.753953],[19.854114,52.754091],[19.853741,52.754442],[19.853576,52.754618],[19.853445,52.754769],[19.853286,52.754953],[19.85299,52.755296],[19.852828,52.755414],[19.852763,52.755464],[19.852607,52.755544],[19.85228,52.755703],[19.851936,52.75584],[19.851919,52.755854],[19.851593,52.756079],[19.851307,52.756236],[19.851004,52.756373],[19.850691,52.756499],[19.850572,52.756543],[19.850414,52.756646],[19.850258,52.756775],[19.849925,52.757042],[19.849876,52.757172],[19.848317,52.7582]]],"type":"Polygon"}
 }

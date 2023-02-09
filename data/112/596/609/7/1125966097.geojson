@@ -2,138 +2,139 @@
   "id": 1125966097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.99134,50.88341,16.99134,50.88341",
-    "geom:latitude":50.88341,
-    "geom:longitude":16.99134,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":900,
-    "iso:country":"PL",
-    "lbl:bbox":"16.97134,50.86341,17.01134,50.90341",
-    "lbl:latitude":50.88341,
-    "lbl:longitude":16.99134,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Bor\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00031497131770181846,
+    "geom:area_square_m": 2465806.9457477992,
+    "geom:bbox": "16.97988166100311,50.87611290101208,17.011999539000882,50.895118020011026",
+    "geom:latitude": 16.995428114802955,
+    "geom:longitude": 50.88400685918298,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 900,
+    "iso:country": "PL",
+    "lbl:bbox": "16.97134,50.86341,17.01134,50.90341",
+    "lbl:latitude": 50.88341,
+    "lbl:longitude": 16.99134,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Borów"
     ],
-    "name:deu_x_preferred":[
-        "Bor\u00f3w"
+    "name:deu_x_preferred": [
+      "Borów"
     ],
-    "name:eng_x_preferred":[
-        "Gmina Bor\u00f3w"
+    "name:eng_x_preferred": [
+      "Gmina Borów"
     ],
-    "name:fra_x_preferred":[
-        "Bor\u00f3w"
+    "name:fra_x_preferred": [
+      "Borów"
     ],
-    "name:nld_x_preferred":[
-        "Bor\u00f3w"
+    "name:nld_x_preferred": [
+      "Borów"
     ],
-    "name:pol_x_preferred":[
-        "Bor\u00f3w"
+    "name:pol_x_preferred": [
+      "Borów"
     ],
-    "name:por_x_preferred":[
-        "Comuna de Bor\u00f3w"
+    "name:por_x_preferred": [
+      "Comuna de Borów"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u043e\u0440\u0443\u0432"
+    "name:rus_x_preferred": [
+      "Борув"
     ],
-    "name:slk_x_preferred":[
-        "Gmina Bor\u00f3w"
+    "name:slk_x_preferred": [
+      "Gmina Borów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043c\u0456\u043d\u0430 \u0411\u043e\u0440\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Ґміна Борув"
     ],
-    "name:ukr_x_variant":[
-        "\u0411\u043e\u0440\u0443\u0432"
+    "name:ukr_x_variant": [
+      "Борув"
     ],
-    "name:war_x_preferred":[
-        "Gmina Bor\u00f3w"
+    "name:war_x_preferred": [
+      "Gmina Borów"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3102866,
-    "qs_pg:gn_pop":900,
-    "qs_pg:name":"Bor\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Dolnosl\u0105skie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":508434,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24931814,
-    "src:geom":"qs_pg",
-    "src:geom_alt":[
-        "pl"
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3102866,
+    "qs_pg:gn_pop": 900,
+    "qs_pg:name": "Borów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Dolnosląskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 508434,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24931814,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "pl",
+      "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Dolnosl\u0105skie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1477751573,
-        85633723,
-        102079609
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Dolnosląskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1477751573,
+      85633723,
+      102079609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102866,
-        "gp:id":24931814,
-        "pl-gugik:jpt_kod_je":"021701_2",
-        "qs_pg:id":508434
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102866,
+      "gp:id": 24931814,
+      "pl-gugik:jpt_kod_je": "021701_2.0005",
+      "qs_pg:id": 508434
     },
-    "wof:coterminous":[
-        1477751573
+    "wof:coterminous": [
+      1477751573
     ],
-    "wof:country":"PL",
-    "wof:created":1497297983,
-    "wof:geom_alt":[
-        "pl-gugik"
+    "wof:country": "PL",
+    "wof:created": 1497297983,
+    "wof:geom_alt": [
+      "pl-gugik"
     ],
-    "wof:geomhash":"bf5990a816ba6fd6c39f3120cba08784",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079609,
-            "localadmin_id":1477751573,
-            "locality_id":1125966097,
-            "region_id":85687301
-        }
+    "wof:geomhash": "824498e346e58571fce5704f9c16803c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079609,
+        "localadmin_id": 1477751573,
+        "locality_id": 1125966097,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1125966097,
-    "wof:lastmodified":1582357984,
-    "wof:name":"Bor\u00f3w",
-    "wof:parent_id":1477751573,
-    "wof:placetype":"locality",
-    "wof:population":900,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125966097,
+    "wof:lastmodified": 1675953120,
+    "wof:name": "Borów",
+    "wof:parent_id": 1477751573,
+    "wof:placetype": "locality",
+    "wof:population": 900,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.99134,
-    50.88341,
-    16.99134,
-    50.88341
-],
-  "geometry": {"coordinates":[16.99134,50.88341],"type":"Point"}
+    16.97988166100311,
+    50.87611290101208,
+    17.011999539000882,
+    50.895118020011026
+  ],
+  "geometry": {"coordinates":[[[16.979882,50.885446],[16.980903,50.886235],[16.980951,50.886272],[16.98305,50.887894],[16.983635,50.888186],[16.985094,50.888658],[16.985124,50.888777],[16.985344,50.889565],[16.985403,50.889717],[16.985841,50.891108],[16.98638,50.892817],[16.986398,50.892872],[16.987069,50.895011],[16.987093,50.895087],[16.987104,50.895118],[16.98805,50.894524],[16.990915,50.892948],[16.990998,50.892905],[16.99302,50.891862],[16.992992,50.891839],[16.992936,50.891794],[16.99192,50.890964],[16.991979,50.890938],[16.992136,50.890902],[16.992278,50.890871],[16.994081,50.890465],[16.994313,50.890225],[16.994718,50.889873],[16.994791,50.889815],[16.994891,50.889736],[16.995006,50.889644],[16.994332,50.889279],[16.993386,50.888778],[16.992523,50.888564],[16.992244,50.888545],[16.992013,50.88853],[16.990227,50.888832],[16.991012,50.888175],[16.991091,50.888108],[16.991252,50.887973],[16.992178,50.887249],[16.992542,50.887065],[16.99279,50.886941],[16.99402,50.88641],[16.994139,50.886427],[16.995306,50.887437],[16.995887,50.887943],[16.996203,50.887958],[16.996296,50.887962],[16.997932,50.888005],[17.002406,50.888094],[17.006879,50.888182],[17.008076,50.888085],[17.010996,50.887845],[17.011536,50.887779],[17.012,50.887694],[17.011936,50.887544],[17.010813,50.884988],[17.010786,50.884929],[17.010387,50.884042],[17.00929,50.884105],[17.009018,50.884121],[17.008944,50.884126],[17.008929,50.884081],[17.008427,50.882463],[17.008415,50.882418],[17.007874,50.880994],[17.007693,50.880443],[17.007646,50.880259],[17.007521,50.879761],[17.007332,50.879011],[17.007319,50.878959],[17.007237,50.878693],[17.007216,50.878437],[17.007327,50.878252],[17.005907,50.876639],[17.005553,50.876163],[17.00552,50.876113],[17.00417,50.876361],[16.999579,50.877126],[16.998332,50.877294],[16.996783,50.877442],[16.994589,50.877736],[16.993901,50.877718],[16.991716,50.877625],[16.989825,50.877551],[16.989497,50.877561],[16.987011,50.878361],[16.986607,50.878521],[16.985182,50.879482],[16.984915,50.879748],[16.984628,50.880219],[16.984551,50.880363],[16.984419,50.880582],[16.984372,50.880788],[16.983308,50.882098],[16.982693,50.882856],[16.982308,50.883339],[16.981974,50.883565],[16.98076,50.88425],[16.980144,50.884715],[16.979882,50.885446]]],"type":"Polygon"}
 }

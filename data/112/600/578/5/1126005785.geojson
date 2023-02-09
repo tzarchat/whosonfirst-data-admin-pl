@@ -2,114 +2,118 @@
   "id": 1126005785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.83258,50.9636,16.83258,50.9636",
-    "geom:latitude":50.9636,
-    "geom:longitude":16.83258,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":149,
-    "iso:country":"PL",
-    "lbl:bbox":"16.81258,50.9436,16.85258,50.9836",
-    "lbl:latitude":50.9636,
-    "lbl:longitude":16.83258,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "G\u00f3rzyce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002437136007614053,
+    "geom:area_square_m": 1904738.986276753,
+    "geom:bbox": "16.819849100995896,50.956523640013714,16.849176680989803,50.96927388001666",
+    "geom:latitude": 16.834305096715084,
+    "geom:longitude": 50.963340280970094,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 149,
+    "iso:country": "PL",
+    "lbl:bbox": "16.81258,50.9436,16.85258,50.9836",
+    "lbl:latitude": 50.9636,
+    "lbl:longitude": 16.83258,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Górzyce"
     ],
-    "name:ceb_x_preferred":[
-        "G\u00f3rzyce"
+    "name:ceb_x_preferred": [
+      "Górzyce"
     ],
-    "name:eng_x_preferred":[
-        "G\u00f3rzyce"
+    "name:eng_x_preferred": [
+      "Górzyce"
     ],
-    "name:fra_x_preferred":[
-        "G\u00f3rzyce"
+    "name:fra_x_preferred": [
+      "Górzyce"
     ],
-    "name:nan_x_preferred":[
-        "G\u00f3rzyce"
+    "name:nan_x_preferred": [
+      "Górzyce"
     ],
-    "name:pol_x_preferred":[
-        "G\u00f3rzyce"
+    "name:pol_x_preferred": [
+      "Górzyce"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u0443\u0436\u0438\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Ґужице"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3098708,
-    "qs_pg:gn_pop":149,
-    "qs_pg:name":"G\u00f3rzyce",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Dolnosl\u0105skie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":297340,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":494585,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Dolnosl\u0105skie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125372921,
-        85633723,
-        102079685
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3098708,
+    "qs_pg:gn_pop": 149,
+    "qs_pg:name": "Górzyce",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Dolnosląskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 297340,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 494585,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3098708,
-        "gp:id":494585,
-        "qs_pg:id":297340,
-        "wd:id":"Q5626419"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Dolnosląskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125372921,
+      85633723,
+      102079685
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3098708,
+      "gp:id": 494585,
+      "pl-gugik:jpt_kod_je": "022304_5.0006",
+      "qs_pg:id": 297340,
+      "wd:id": "Q5626419"
     },
-    "wof:country":"PL",
-    "wof:created":1497299940,
-    "wof:geomhash":"f5bdc1e26277182be634e1091440b77a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079685,
-            "localadmin_id":1125372921,
-            "locality_id":1126005785,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299940,
+    "wof:geomhash": "97ff8ec83d4b4e79e6fc25abb7c3d831",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079685,
+        "localadmin_id": 1125372921,
+        "locality_id": 1126005785,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1126005785,
-    "wof:lastmodified":1570039439,
-    "wof:name":"G\u00f3rzyce",
-    "wof:parent_id":1125372921,
-    "wof:placetype":"locality",
-    "wof:population":149,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126005785,
+    "wof:lastmodified": 1675953120,
+    "wof:name": "Górzyce",
+    "wof:parent_id": 1125372921,
+    "wof:placetype": "locality",
+    "wof:population": 149,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.83258,
-    50.9636,
-    16.83258,
-    50.9636
-],
-  "geometry": {"coordinates":[16.83258,50.9636],"type":"Point"}
+    16.819849100995896,
+    50.956523640013714,
+    16.849176680989803,
+    50.96927388001666
+  ],
+  "geometry": {"coordinates":[[[16.819849,50.965053],[16.819893,50.965841],[16.819885,50.96636],[16.820024,50.967345],[16.820036,50.967419],[16.820062,50.967574],[16.820068,50.967613],[16.82013,50.967985],[16.820151,50.968109],[16.822047,50.968426],[16.822214,50.968444],[16.823508,50.968738],[16.825912,50.968965],[16.826252,50.969128],[16.826442,50.969274],[16.826767,50.969259],[16.8284,50.969028],[16.828463,50.969019],[16.830513,50.968668],[16.832391,50.968348],[16.833017,50.968476],[16.834346,50.968461],[16.835567,50.968227],[16.836052,50.967926],[16.836151,50.96785],[16.836015,50.967701],[16.838472,50.967367],[16.838584,50.967348],[16.838638,50.967339],[16.845712,50.966278],[16.849177,50.965757],[16.849135,50.965686],[16.848271,50.964284],[16.84815,50.964144],[16.847789,50.963916],[16.847437,50.963735],[16.847133,50.96356],[16.846952,50.963442],[16.846934,50.963401],[16.846588,50.962581],[16.846396,50.962157],[16.846121,50.961412],[16.846023,50.961048],[16.845971,50.960841],[16.845926,50.960483],[16.845972,50.96037],[16.845965,50.960312],[16.845951,50.960195],[16.845925,50.959989],[16.84596,50.95953],[16.845994,50.958847],[16.84618,50.957809],[16.846187,50.956796],[16.845567,50.95669],[16.845242,50.956713],[16.845226,50.956669],[16.84341,50.956594],[16.842056,50.956524],[16.839993,50.956944],[16.839437,50.957086],[16.838373,50.95736],[16.836762,50.957927],[16.836224,50.958116],[16.834762,50.958447],[16.83463,50.958477],[16.82999,50.959384],[16.829943,50.959392],[16.828997,50.95973],[16.828144,50.959462],[16.828066,50.959436],[16.827349,50.959468],[16.827288,50.95947],[16.82725,50.959472],[16.827123,50.959744],[16.826129,50.960743],[16.823461,50.960608],[16.823271,50.960649],[16.823082,50.961268],[16.823158,50.961764],[16.823158,50.962014],[16.822081,50.962855],[16.821608,50.962723],[16.82144,50.96234],[16.821344,50.962353],[16.820923,50.962609],[16.820587,50.962901],[16.820264,50.96329],[16.820052,50.963711],[16.819937,50.963941],[16.819925,50.964054],[16.819849,50.965053]]],"type":"Polygon"}
 }

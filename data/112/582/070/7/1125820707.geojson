@@ -2,108 +2,112 @@
   "id": 1125820707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.87005,51.05542,18.87005,51.05542",
-    "geom:latitude":51.05542,
-    "geom:longitude":18.87005,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"18.85005,51.03542,18.89005,51.07542",
-    "lbl:latitude":51.05542,
-    "lbl:longitude":18.87005,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Julian\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00036798285531234107,
+    "geom:area_square_m": 2870239.6870539356,
+    "geom:bbox": "18.86362057799577,51.044926336011635,18.89048845999902,51.072362493013415",
+    "geom:latitude": 18.87650626178064,
+    "geom:longitude": 51.056671495125016,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "18.85005,51.03542,18.89005,51.07542",
+    "lbl:latitude": 51.05542,
+    "lbl:longitude": 18.87005,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Julianów"
     ],
-    "name:ceb_x_preferred":[
-        "Julian\u00f3w"
+    "name:ceb_x_preferred": [
+      "Julianów"
     ],
-    "name:eng_x_preferred":[
-        "Julian\u00f3w"
+    "name:eng_x_preferred": [
+      "Julianów"
     ],
-    "name:fra_x_preferred":[
-        "Julian\u00f3w"
+    "name:fra_x_preferred": [
+      "Julianów"
     ],
-    "name:pol_x_preferred":[
-        "Julian\u00f3w"
+    "name:pol_x_preferred": [
+      "Julianów"
     ],
-    "name:und_x_variant":[
-        "Juljan\u00f3w"
+    "name:und_x_variant": [
+      "Juljanów"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3097037,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Julian\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Sl\u0105skie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":182072,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":497837,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Sl\u0105skie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687277,
-        102191581,
-        1125368503,
-        85633723,
-        102079667
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3097037,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Julianów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Sląskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 182072,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 497837,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097037,
-        "gp:id":497837,
-        "qs_pg:id":182072,
-        "wd:id":"Q6307946"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Sląskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687277,
+      102191581,
+      1125368503,
+      85633723,
+      102079667
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097037,
+      "gp:id": 497837,
+      "pl-gugik:jpt_kod_je": "240603_2.0005",
+      "qs_pg:id": 182072,
+      "wd:id": "Q6307946"
     },
-    "wof:country":"PL",
-    "wof:created":1497292052,
-    "wof:geomhash":"41350bffe64aefcc392f4029115a1ff0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079667,
-            "localadmin_id":1125368503,
-            "locality_id":1125820707,
-            "region_id":85687277
-        }
+    "wof:country": "PL",
+    "wof:created": 1497292052,
+    "wof:geomhash": "ec172f58598b4a6587c84db75747cc81",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079667,
+        "localadmin_id": 1125368503,
+        "locality_id": 1125820707,
+        "region_id": 85687277
+      }
     ],
-    "wof:id":1125820707,
-    "wof:lastmodified":1570039527,
-    "wof:name":"Julian\u00f3w",
-    "wof:parent_id":1125368503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125820707,
+    "wof:lastmodified": 1675953111,
+    "wof:name": "Julianów",
+    "wof:parent_id": 1125368503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.87005,
-    51.05542,
-    18.87005,
-    51.05542
-],
-  "geometry": {"coordinates":[18.87005,51.05542],"type":"Point"}
+    18.86362057799577,
+    51.044926336011635,
+    18.89048845999902,
+    51.072362493013415
+  ],
+  "geometry": {"coordinates":[[[18.863621,51.072362],[18.865014,51.071835],[18.866101,51.071312],[18.866154,51.071288],[18.866177,51.071278],[18.867124,51.070825],[18.869321,51.069803],[18.871266,51.068416],[18.87294,51.068069],[18.874656,51.067371],[18.875534,51.066444],[18.876713,51.065445],[18.877707,51.064738],[18.879075,51.063791],[18.879976,51.063251],[18.882039,51.061922],[18.882749,51.061374],[18.883547,51.059903],[18.883584,51.059673],[18.883407,51.059109],[18.883533,51.05898],[18.8843,51.057976],[18.884584,51.057542],[18.884718,51.057338],[18.885041,51.056846],[18.885379,51.056495],[18.886346,51.055571],[18.886683,51.055014],[18.887127,51.054457],[18.887322,51.05405],[18.88771,51.053098],[18.887963,51.052793],[18.88851,51.051982],[18.888593,51.05167],[18.888749,51.051082],[18.888854,51.050719],[18.888871,51.05066],[18.888888,51.050602],[18.889021,51.050141],[18.889409,51.047815],[18.889554,51.047486],[18.890488,51.046133],[18.890439,51.046128],[18.890131,51.046096],[18.889495,51.04603],[18.889177,51.045992],[18.888871,51.045974],[18.888234,51.045921],[18.887925,51.045897],[18.887868,51.045893],[18.887608,51.045873],[18.887291,51.045849],[18.886965,51.045824],[18.886649,51.0458],[18.886005,51.045751],[18.885684,51.045722],[18.885468,51.045703],[18.885274,51.045686],[18.88486,51.04565],[18.884447,51.045614],[18.883812,51.045558],[18.883493,51.04553],[18.883129,51.0455],[18.882878,51.04548],[18.881937,51.045404],[18.88161,51.045377],[18.880976,51.045326],[18.880502,51.045288],[18.880037,51.04525],[18.879703,51.045222],[18.879368,51.045194],[18.879087,51.045171],[18.878774,51.045145],[18.87815,51.045094],[18.877216,51.045016],[18.876567,51.044963],[18.876507,51.044958],[18.876353,51.04495],[18.875914,51.04493],[18.875256,51.044926],[18.875084,51.045213],[18.874224,51.046648],[18.874093,51.04665],[18.874075,51.046681],[18.873671,51.04738],[18.873468,51.047729],[18.873234,51.048134],[18.87309,51.048384],[18.872835,51.048817],[18.8726,51.049217],[18.872151,51.049981],[18.871338,51.051307],[18.871281,51.051399],[18.87127,51.051437],[18.871134,51.05166],[18.870955,51.051966],[18.870758,51.052303],[18.870368,51.05297],[18.870221,51.053215],[18.869844,51.053841],[18.869568,51.054298],[18.869501,51.054405],[18.868692,51.055761],[18.868671,51.055796],[18.867889,51.05711],[18.867066,51.058504],[18.866563,51.059373],[18.866388,51.059677],[18.865784,51.060731],[18.865517,51.0612],[18.865491,51.061219],[18.865863,51.061271],[18.866714,51.061297],[18.865608,51.065254],[18.86509,51.067099],[18.865037,51.067288],[18.864909,51.067748],[18.864894,51.067799],[18.863621,51.072362]]],"type":"Polygon"}
 }

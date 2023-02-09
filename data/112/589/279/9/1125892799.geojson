@@ -2,119 +2,123 @@
   "id": 1125892799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.05411,52.26141,19.05411,52.26141",
-    "geom:latitude":52.26141,
-    "geom:longitude":19.05411,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":39,
-    "iso:country":"PL",
-    "lbl:bbox":"19.03411,52.24141,19.07411,52.28141",
-    "lbl:latitude":52.26141,
-    "lbl:longitude":19.05411,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bar_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00009451058874373087,
+    "geom:area_square_m": 717980.4108313447,
+    "geom:bbox": "19.047397801000987,52.26113039002008,19.06270083100181,52.26901843501877",
+    "geom:latitude": 19.055276668559113,
+    "geom:longitude": 52.26450654787384,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 39,
+    "iso:country": "PL",
+    "lbl:bbox": "19.03411,52.24141,19.07411,52.28141",
+    "lbl:latitude": 52.26141,
+    "lbl:longitude": 19.05411,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred": [
+      "Stanisławów"
     ],
-    "name:ceb_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:ceb_x_preferred": [
+      "Stanisławów"
     ],
-    "name:deu_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:deu_x_preferred": [
+      "Stanisławów"
     ],
-    "name:fra_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:fra_x_preferred": [
+      "Stanisławów"
     ],
-    "name:nld_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:nld_x_preferred": [
+      "Stanisławów"
     ],
-    "name:pol_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:pol_x_preferred": [
+      "Stanisławów"
     ],
-    "name:por_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:por_x_preferred": [
+      "Stanisławów"
     ],
-    "name:sco_x_preferred":[
-        "Stanis\u0142aw\u00f3w"
+    "name:sco_x_preferred": [
+      "Stanisławów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Станіславув"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3085004,
-    "qs_pg:gn_pop":39,
-    "qs_pg:name":"Stanis\u0142aw\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":307686,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":519612,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125385705,
-        85633723,
-        102079927
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3085004,
+    "qs_pg:gn_pop": 39,
+    "qs_pg:name": "Stanisławów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 307686,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 519612,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3085004,
-        "gp:id":519612,
-        "qs_pg:id":307686
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125385705,
+      85633723,
+      102079927
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3085004,
+      "gp:id": 519612,
+      "pl-gugik:jpt_kod_je": "300903_2.0029",
+      "qs_pg:id": 307686
     },
-    "wof:country":"PL",
-    "wof:created":1497295400,
-    "wof:geomhash":"fe7fc662a387f6be2fa5099560cbc1d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079927,
-            "localadmin_id":1125385705,
-            "locality_id":1125892799,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295400,
+    "wof:geomhash": "e31f4d8b8a6dcde44c23574c201c620b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079927,
+        "localadmin_id": 1125385705,
+        "locality_id": 1125892799,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1125892799,
-    "wof:lastmodified":1570037569,
-    "wof:name":"Stanis\u0142aw\u00f3w",
-    "wof:parent_id":1125385705,
-    "wof:placetype":"locality",
-    "wof:population":39,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125892799,
+    "wof:lastmodified": 1675953111,
+    "wof:name": "Stanisławów",
+    "wof:parent_id": 1125385705,
+    "wof:placetype": "locality",
+    "wof:population": 39,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.05411,
-    52.26141,
-    19.05411,
-    52.26141
-],
-  "geometry": {"coordinates":[19.05411,52.26141],"type":"Point"}
+    19.047397801000987,
+    52.26113039002008,
+    19.06270083100181,
+    52.26901843501877
+  ],
+  "geometry": {"coordinates":[[[19.047398,52.261627],[19.047696,52.263541],[19.047785,52.26399],[19.04826,52.265307],[19.048769,52.26671],[19.049202,52.267981],[19.049245,52.267988],[19.049603,52.268046],[19.04993,52.268142],[19.05257,52.269018],[19.05259,52.267726],[19.052935,52.267715],[19.054069,52.267686],[19.05471,52.267669],[19.055142,52.267659],[19.05556,52.267647],[19.056922,52.267612],[19.057034,52.267609],[19.057529,52.267596],[19.058452,52.267571],[19.059494,52.267544],[19.059508,52.267543],[19.060078,52.267528],[19.060286,52.267523],[19.061131,52.267501],[19.061285,52.267497],[19.061895,52.26748],[19.062626,52.267461],[19.062637,52.265989],[19.062637,52.265936],[19.062665,52.263679],[19.062665,52.263633],[19.062666,52.26357],[19.062699,52.26123],[19.062701,52.26113],[19.057434,52.26127],[19.052557,52.261352],[19.052362,52.261393],[19.047428,52.261521],[19.047435,52.261626],[19.047398,52.261627]]],"type":"Polygon"}
 }

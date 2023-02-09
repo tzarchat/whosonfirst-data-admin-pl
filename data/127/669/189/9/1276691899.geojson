@@ -2,84 +2,88 @@
   "id": 1276691899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.61044,53.61998,22.61044,53.61998",
-    "geom:latitude":53.61998,
-    "geom:longitude":22.61044,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2004.0",
-    "gn:admin3_code":"200404.0",
-    "gn:asciiname":"Solki",
-    "gn:country_code":"PL",
-    "gn:dem":118,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":758592,
-    "gn:latitude":53.61998,
-    "gn:longitude":22.61044,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"So\u0142ki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.59044,53.59998,22.63044,53.63998",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Solkai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00039097406942561493,
+    "geom:area_square_m": 2879181.7267141924,
+    "geom:bbox": "22.5997177350404,53.611407266015355,22.62202589003777,53.63954151702238",
+    "geom:latitude": 22.609961693520397,
+    "geom:longitude": 53.62363725707153,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2004.0",
+    "gn:admin3_code": "200404.0",
+    "gn:asciiname": "Solki",
+    "gn:country_code": "PL",
+    "gn:dem": 118,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 758592,
+    "gn:latitude": 53.61998,
+    "gn:longitude": 22.61044,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Sołki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.59044,53.59998,22.63044,53.63998",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Solkai"
     ],
-    "name:pol_x_preferred":[
-        "So\u0142ki"
+    "name:pol_x_preferred": [
+      "Sołki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u043e\u043b\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Солкі"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752131,
-        85633723,
-        102080181
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":758592,
-        "wk:page":"So%C5%82ki%2C_Podlaskie_Voivodeship"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752131,
+      85633723,
+      102080181
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 758592,
+      "pl-gugik:jpt_kod_je": "200404_5.0024",
+      "wk:page": "So%C5%82ki%2C_Podlaskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4487c97b6d9654e35901248c634d8628",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080181,
-            "localadmin_id":1477752131,
-            "locality_id":1276691899,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a5d195dbaa2ddaf085792080276e0290",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080181,
+        "localadmin_id": 1477752131,
+        "locality_id": 1276691899,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1276691899,
-    "wof:lastmodified":1570016899,
-    "wof:name":"Solki",
-    "wof:parent_id":1477752131,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276691899,
+    "wof:lastmodified": 1675952165,
+    "wof:name": "Solki",
+    "wof:parent_id": 1477752131,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.61044,
-    53.61998000000001,
-    22.61044,
-    53.61998000000001
-],
-  "geometry": {"coordinates":[22.61044,53.61998000000001],"type":"Point"}
+    22.5997177350404,
+    53.611407266015355,
+    22.62202589003777,
+    53.63954151702238
+  ],
+  "geometry": {"coordinates":[[[22.607208,53.639089],[22.607353,53.639067],[22.608807,53.63885],[22.609525,53.638742],[22.611079,53.63851],[22.611709,53.638416],[22.611719,53.638396],[22.612688,53.636464],[22.612929,53.63624],[22.613067,53.636112],[22.614684,53.634615],[22.61414,53.633265],[22.613742,53.632934],[22.613105,53.632403],[22.612987,53.631332],[22.611289,53.629596],[22.611233,53.629539],[22.611147,53.629451],[22.611086,53.629389],[22.610385,53.628672],[22.611951,53.627865],[22.612191,53.627741],[22.613555,53.627037],[22.61455,53.626553],[22.617542,53.625096],[22.61977,53.624009],[22.620115,53.623841],[22.621404,53.623212],[22.622026,53.622909],[22.62183,53.621883],[22.621824,53.62185],[22.621813,53.621795],[22.621812,53.621785],[22.621569,53.620516],[22.621387,53.61956],[22.621324,53.619238],[22.620986,53.617498],[22.620846,53.616811],[22.620819,53.616677],[22.62075,53.616304],[22.620528,53.615097],[22.620234,53.613527],[22.619837,53.611407],[22.616655,53.611778],[22.616511,53.611795],[22.614475,53.612032],[22.612931,53.612382],[22.609005,53.61327],[22.608589,53.613364],[22.606295,53.613719],[22.60361,53.614134],[22.602679,53.614278],[22.601076,53.614797],[22.599718,53.615236],[22.59997,53.616872],[22.600143,53.617911],[22.60022,53.618347],[22.60039,53.619259],[22.600498,53.619836],[22.600526,53.619987],[22.600536,53.620042],[22.600697,53.6209],[22.60085,53.621773],[22.600941,53.622293],[22.601172,53.623612],[22.601186,53.623693],[22.601514,53.625572],[22.601879,53.627629],[22.601953,53.628043],[22.602415,53.630612],[22.602426,53.630682],[22.602447,53.6308],[22.602812,53.632914],[22.602878,53.633297],[22.60302,53.634123],[22.603347,53.63602],[22.603401,53.636322],[22.603606,53.637457],[22.603961,53.639339],[22.603999,53.639542],[22.607208,53.639089]]],"type":"Polygon"}
 }

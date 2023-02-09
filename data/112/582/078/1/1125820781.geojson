@@ -2,108 +2,112 @@
   "id": 1125820781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.54038,53.36484,20.54038,53.36484",
-    "geom:latitude":53.36484,
-    "geom:longitude":20.54038,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"20.52038,53.34484,20.56038,53.38484",
-    "lbl:latitude":53.36484,
-    "lbl:longitude":20.54038,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "M\u00f3d\u0142ki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0007806527216114282,
+    "geom:area_square_m": 5782110.491873956,
+    "geom:bbox": "20.51478789500258,53.36080352901989,20.562304572997157,53.39279888301986",
+    "geom:latitude": 20.540209415616744,
+    "geom:longitude": 53.37649035486774,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "20.52038,53.34484,20.56038,53.38484",
+    "lbl:latitude": 53.36484,
+    "lbl:longitude": 20.54038,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Módłki"
     ],
-    "name:eng_x_preferred":[
-        "M\u00f3d\u0142ki"
+    "name:eng_x_preferred": [
+      "Módłki"
     ],
-    "name:fra_x_preferred":[
-        "M\u00f3d\u0142ki"
+    "name:fra_x_preferred": [
+      "Módłki"
     ],
-    "name:pol_x_preferred":[
-        "M\u00f3d\u0142ki"
+    "name:pol_x_preferred": [
+      "Módłki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0443\u0434\u043b\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Мудлкі"
     ],
-    "name:und_x_variant":[
-        "Moddelkau"
+    "name:und_x_variant": [
+      "Moddelkau"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":764526,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"M\u00f3d\u0142ki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Warminsko-Mazurskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":182144,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":507984,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Warminsko-Mazurskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125396289,
-        85633723,
-        102080129
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 764526,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Módłki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Warminsko-Mazurskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 182144,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 507984,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":764526,
-        "gp:id":507984,
-        "qs_pg:id":182144,
-        "wd:id":"Q6950231"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Warminsko-Mazurskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125396289,
+      85633723,
+      102080129
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 764526,
+      "gp:id": 507984,
+      "pl-gugik:jpt_kod_je": "281104_5.0015",
+      "qs_pg:id": 182144,
+      "wd:id": "Q6950231"
     },
-    "wof:country":"PL",
-    "wof:created":1497292054,
-    "wof:geomhash":"ce17a34f1e84ad4c588d8a122b528f9d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080129,
-            "localadmin_id":1125396289,
-            "locality_id":1125820781,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:created": 1497292054,
+    "wof:geomhash": "2c26e90f343b2941e44b0bf2c81e8784",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080129,
+        "localadmin_id": 1125396289,
+        "locality_id": 1125820781,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1125820781,
-    "wof:lastmodified":1570039537,
-    "wof:name":"M\u00f3d\u0142ki",
-    "wof:parent_id":1125396289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125820781,
+    "wof:lastmodified": 1675953127,
+    "wof:name": "Módłki",
+    "wof:parent_id": 1125396289,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.54038,
-    53.36484,
-    20.54038,
-    53.36484
-],
-  "geometry": {"coordinates":[20.54038,53.36484],"type":"Point"}
+    20.51478789500258,
+    53.36080352901989,
+    20.562304572997157,
+    53.39279888301986
+  ],
+  "geometry": {"coordinates":[[[20.528791,53.361496],[20.528758,53.361732],[20.528702,53.362077],[20.528585,53.362871],[20.528515,53.363222],[20.528421,53.363784],[20.528306,53.364339],[20.528294,53.364522],[20.528278,53.36467],[20.528097,53.365865],[20.527997,53.366514],[20.527903,53.367105],[20.527856,53.36754],[20.527708,53.368857],[20.52769,53.369003],[20.527471,53.369668],[20.527446,53.369757],[20.5272,53.370709],[20.527031,53.371248],[20.528602,53.370958],[20.53425,53.372121],[20.53144,53.377309],[20.528346,53.383228],[20.522175,53.382033],[20.517769,53.38119],[20.517134,53.38157],[20.515938,53.382229],[20.514788,53.382862],[20.516128,53.383825],[20.517425,53.384391],[20.517357,53.38451],[20.516645,53.385763],[20.516109,53.386876],[20.517396,53.38715],[20.518785,53.387446],[20.521127,53.387944],[20.524691,53.388701],[20.525335,53.388832],[20.525423,53.388851],[20.527476,53.389293],[20.530593,53.389942],[20.530678,53.389958],[20.537171,53.391234],[20.540413,53.391838],[20.541142,53.391995],[20.545213,53.392799],[20.546615,53.390166],[20.546693,53.390139],[20.54696,53.389702],[20.547017,53.389608],[20.547327,53.389063],[20.548232,53.387304],[20.548829,53.386346],[20.549533,53.385003],[20.550349,53.38358],[20.551634,53.382109],[20.552201,53.381476],[20.552728,53.380878],[20.55379,53.379706],[20.555032,53.377598],[20.555708,53.37646],[20.555949,53.375903],[20.557333,53.375083],[20.557719,53.373983],[20.557214,53.372947],[20.557905,53.371523],[20.558035,53.370996],[20.558025,53.370652],[20.55822,53.370193],[20.558299,53.370077],[20.558326,53.370038],[20.559725,53.368391],[20.562305,53.365372],[20.559563,53.36506],[20.557622,53.364838],[20.556072,53.364661],[20.555562,53.364603],[20.553406,53.364416],[20.553637,53.364011],[20.55247,53.36391],[20.549817,53.363652],[20.54954,53.363625],[20.545522,53.363237],[20.545736,53.362943],[20.546664,53.362839],[20.546658,53.362794],[20.546629,53.362567],[20.54466,53.36254],[20.543841,53.362528],[20.543473,53.362523],[20.541779,53.362484],[20.541692,53.362486],[20.54155,53.36264],[20.541397,53.363078],[20.54143,53.363216],[20.539967,53.362935],[20.538297,53.362938],[20.537193,53.362941],[20.53709,53.362911],[20.537165,53.36234],[20.53659,53.362263],[20.536655,53.361948],[20.534491,53.361663],[20.53291,53.361468],[20.532772,53.360877],[20.531566,53.360872],[20.529689,53.36086],[20.529202,53.360845],[20.528803,53.360804],[20.528791,53.361496]]],"type":"Polygon"}
 }

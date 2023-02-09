@@ -2,84 +2,88 @@
   "id": 1277107247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.15125,50.97264,17.15125,50.97264",
-    "geom:latitude":50.97264,
-    "geom:longitude":17.15125,
-    "gn:admin1_code":"72.0",
-    "gn:admin2_code":"223.0",
-    "gn:admin3_code":"22309.0",
-    "gn:asciiname":"Jaroslawice",
-    "gn:country_code":"PL",
-    "gn:dem":130,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3097519,
-    "gn:latitude":50.97264,
-    "gn:longitude":17.15125,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Jaros\u0142awice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.13125,50.95264,17.17125,50.99264",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Jaros\u0142awice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00043009785090632153,
+    "geom:area_square_m": 3360712.8609272735,
+    "geom:bbox": "17.13154121199204,50.96475463401209,17.163124489000754,50.98158728501119",
+    "geom:latitude": 17.14798729922633,
+    "geom:longitude": 50.97326646892088,
+    "gn:admin1_code": "72.0",
+    "gn:admin2_code": "223.0",
+    "gn:admin3_code": "22309.0",
+    "gn:asciiname": "Jaroslawice",
+    "gn:country_code": "PL",
+    "gn:dem": 130,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3097519,
+    "gn:latitude": 50.97264,
+    "gn:longitude": 17.15125,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Jarosławice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.13125,50.95264,17.17125,50.99264",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Jarosławice"
     ],
-    "name:ukr_x_preferred":[
-        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Ярославіце"
     ],
-    "name:urd_x_preferred":[
-        "\u062c\u0627\u0631\u0648\u0633\u0648\u0627\u0648\u06a9\u06d2"
+    "name:urd_x_preferred": [
+      "جاروسواوکے"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125394733,
-        85633723,
-        102079685
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097519,
-        "wk:page":"Jaros%C5%82awice%2C_Lower_Silesian_Voivodeship"
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125394733,
+      85633723,
+      102079685
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097519,
+      "pl-gugik:jpt_kod_je": "022309_2.0006",
+      "wk:page": "Jaros%C5%82awice%2C_Lower_Silesian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"5a862e6fbea9ba44515bd3965d66d4e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079685,
-            "localadmin_id":1125394733,
-            "locality_id":1277107247,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a4a2a641d1bd4b333b5d96d9ac5215cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079685,
+        "localadmin_id": 1125394733,
+        "locality_id": 1277107247,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1277107247,
-    "wof:lastmodified":1570019631,
-    "wof:name":"Jaroslawice",
-    "wof:parent_id":1125394733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277107247,
+    "wof:lastmodified": 1675952148,
+    "wof:name": "Jaroslawice",
+    "wof:parent_id": 1125394733,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.15125,
-    50.97264000000001,
-    17.15125,
-    50.97264000000001
-],
-  "geometry": {"coordinates":[17.15125,50.97264000000001],"type":"Point"}
+    17.13154121199204,
+    50.96475463401209,
+    17.163124489000754,
+    50.98158728501119
+  ],
+  "geometry": {"coordinates":[[[17.131541,50.977594],[17.131617,50.977607],[17.136329,50.978459],[17.145899,50.980208],[17.146022,50.980229],[17.145727,50.981223],[17.147958,50.981383],[17.150593,50.981504],[17.152339,50.981587],[17.155291,50.981336],[17.159971,50.981378],[17.16192,50.981385],[17.162425,50.981364],[17.162777,50.981448],[17.162897,50.981476],[17.163078,50.981099],[17.162732,50.979907],[17.162853,50.979803],[17.162934,50.978403],[17.162938,50.978322],[17.163124,50.975083],[17.162964,50.973068],[17.162826,50.972135],[17.162818,50.971037],[17.162817,50.970989],[17.162738,50.970752],[17.162143,50.970188],[17.161063,50.969256],[17.160961,50.969287],[17.160795,50.969153],[17.160886,50.969126],[17.159974,50.968344],[17.159983,50.967813],[17.160066,50.967534],[17.153841,50.966211],[17.151079,50.965649],[17.150084,50.965513],[17.150039,50.965507],[17.149086,50.965376],[17.147012,50.96513],[17.144389,50.964755],[17.14257,50.964951],[17.141875,50.965028],[17.140415,50.965134],[17.139275,50.965148],[17.137417,50.965105],[17.136624,50.965046],[17.135594,50.964882],[17.135545,50.964872],[17.134933,50.96551],[17.134847,50.965596],[17.134504,50.966062],[17.134256,50.966556],[17.133699,50.967939],[17.133464,50.968642],[17.133295,50.969359],[17.133045,50.970711],[17.13281,50.972203],[17.132817,50.973804],[17.132836,50.973925],[17.132797,50.974431],[17.1318,50.976565],[17.13155,50.97726],[17.131541,50.977594]]],"type":"Polygon"}
 }

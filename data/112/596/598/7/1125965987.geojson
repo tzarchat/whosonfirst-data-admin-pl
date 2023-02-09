@@ -2,116 +2,120 @@
   "id": 1125965987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.63773,52.1465,20.63773,52.1465",
-    "geom:latitude":52.1465,
-    "geom:longitude":20.63773,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":51,
-    "iso:country":"PL",
-    "lbl:bbox":"20.61773,52.1265,20.65773,52.1665",
-    "lbl:latitude":52.1465,
-    "lbl:longitude":20.63773,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Adam\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010752207034951547,
+    "geom:area_square_m": 818975.9240855821,
+    "geom:bbox": "20.621833263006746,52.14164114501872,20.64819555799457,52.151463162016526",
+    "geom:latitude": 20.634124625262473,
+    "geom:longitude": 52.146635394207145,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 51,
+    "iso:country": "PL",
+    "lbl:bbox": "20.61773,52.1265,20.65773,52.1665",
+    "lbl:latitude": 52.1465,
+    "lbl:longitude": 20.63773,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Adamów"
     ],
-    "name:deu_x_preferred":[
-        "Adamow"
+    "name:deu_x_preferred": [
+      "Adamow"
     ],
-    "name:fra_x_preferred":[
-        "Adam\u00f3w"
+    "name:fra_x_preferred": [
+      "Adamów"
     ],
-    "name:ita_x_preferred":[
-        "Adam\u00f3w"
+    "name:ita_x_preferred": [
+      "Adamów"
     ],
-    "name:nld_x_preferred":[
-        "Adam\u00f3w"
+    "name:nld_x_preferred": [
+      "Adamów"
     ],
-    "name:pol_x_preferred":[
-        "Adam\u00f3w"
+    "name:pol_x_preferred": [
+      "Adamów"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u0434\u0430\u043c\u0443\u0432"
+    "name:rus_x_preferred": [
+      "Адамув"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u0434\u0430\u043c\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Адамув"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":6696248,
-    "qs_pg:gn_pop":51,
-    "qs_pg:name":"Adam\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":508296,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24931061,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751927,
-        85633723,
-        102079909
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 6696248,
+    "qs_pg:gn_pop": 51,
+    "qs_pg:name": "Adamów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 508296,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24931061,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6696248,
-        "gp:id":24931061,
-        "qs_pg:id":508296
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751927,
+      85633723,
+      102079909
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6696248,
+      "gp:id": 24931061,
+      "pl-gugik:jpt_kod_je": "140504_5.0002",
+      "qs_pg:id": 508296
     },
-    "wof:country":"PL",
-    "wof:created":1497297979,
-    "wof:geomhash":"aca7cce2759292422aa4aedea5da57f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079909,
-            "localadmin_id":1477751927,
-            "locality_id":1125965987,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497297979,
+    "wof:geomhash": "398fec462650cd13b88dcc708bc07fae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079909,
+        "localadmin_id": 1477751927,
+        "locality_id": 1125965987,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125965987,
-    "wof:lastmodified":1570038009,
-    "wof:name":"Adam\u00f3w",
-    "wof:parent_id":1477751927,
-    "wof:placetype":"locality",
-    "wof:population":51,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125965987,
+    "wof:lastmodified": 1675953133,
+    "wof:name": "Adamów",
+    "wof:parent_id": 1477751927,
+    "wof:placetype": "locality",
+    "wof:population": 51,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.63773,
-    52.1465,
-    20.63773,
-    52.1465
-],
-  "geometry": {"coordinates":[20.63773,52.1465],"type":"Point"}
+    20.621833263006746,
+    52.14164114501872,
+    20.64819555799457,
+    52.151463162016526
+  ],
+  "geometry": {"coordinates":[[[20.648196,52.141641],[20.648145,52.141644],[20.648094,52.141648],[20.648071,52.141648],[20.646279,52.141689],[20.644184,52.141737],[20.643009,52.141764],[20.641868,52.141785],[20.640905,52.141803],[20.640587,52.141809],[20.640029,52.141819],[20.63945,52.141847],[20.639242,52.141851],[20.63851,52.141866],[20.638336,52.14187],[20.638039,52.141858],[20.637568,52.141886],[20.637497,52.141888],[20.636955,52.141899],[20.636342,52.141913],[20.635729,52.141917],[20.635167,52.141931],[20.634605,52.141946],[20.634043,52.141962],[20.633481,52.141975],[20.633415,52.141976],[20.633418,52.14234],[20.633427,52.143387],[20.633481,52.143568],[20.633484,52.143639],[20.633528,52.144706],[20.633291,52.144709],[20.632986,52.1447],[20.63202,52.14474],[20.63159,52.144728],[20.631629,52.145127],[20.631754,52.145999],[20.631766,52.146044],[20.629775,52.146162],[20.627878,52.146224],[20.626025,52.146313],[20.626051,52.146329],[20.626024,52.146372],[20.625936,52.146513],[20.625946,52.146565],[20.621994,52.146039],[20.621944,52.14631],[20.621896,52.146488],[20.621833,52.146837],[20.623416,52.147341],[20.625093,52.147816],[20.625389,52.147904],[20.625457,52.14925],[20.625611,52.150755],[20.627207,52.150798],[20.628643,52.150793],[20.628608,52.151071],[20.62864,52.151208],[20.63124,52.151463],[20.633307,52.151199],[20.634431,52.151054],[20.63607,52.150843],[20.63871,52.15045],[20.63882,52.150433],[20.638803,52.150338],[20.638693,52.149694],[20.638606,52.149191],[20.638578,52.149045],[20.638559,52.148937],[20.638446,52.148297],[20.638408,52.148101],[20.638206,52.147036],[20.638192,52.146963],[20.638184,52.146814],[20.638166,52.146718],[20.638154,52.146656],[20.638107,52.146407],[20.638055,52.14613],[20.638004,52.145858],[20.637901,52.145314],[20.637818,52.144952],[20.638578,52.14475],[20.639477,52.144552],[20.639894,52.144445],[20.640613,52.144281],[20.641099,52.14418],[20.641584,52.144079],[20.641942,52.143986],[20.642302,52.143897],[20.642915,52.143742],[20.643436,52.14361],[20.644058,52.143453],[20.644895,52.143241],[20.645201,52.143167],[20.645713,52.143043],[20.64622,52.14292],[20.646766,52.142777],[20.646937,52.142703],[20.647003,52.142675],[20.647028,52.142669],[20.647115,52.142563],[20.647504,52.142309],[20.647766,52.142137],[20.647888,52.142057],[20.647923,52.142019],[20.647985,52.14195],[20.648196,52.141641]]],"type":"Polygon"}
 }

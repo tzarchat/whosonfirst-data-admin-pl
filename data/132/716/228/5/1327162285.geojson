@@ -2,96 +2,100 @@
   "id": 1327162285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.97283,50.44733,23.97283,50.44733",
-    "geom:latitude":50.44733,
-    "geom:longitude":23.97283,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"604.0",
-    "gn:admin3_code":"60402.0",
-    "gn:asciiname":"Chlopiatyn",
-    "gn:country_code":"PL",
-    "gn:dem":240,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":774531,
-    "gn:latitude":50.44733,
-    "gn:longitude":23.97283,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Ch\u0142opiatyn",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.95283,50.42733,23.99283,50.46733",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062e\u0648\u0648\u067e\u06cc\u0627\u062a\u0646"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00044122756989128486,
+    "geom:area_square_m": 3486293.112635094,
+    "geom:bbox": "23.958356781272425,50.43187411102213,23.985626900286594,50.45627663801598",
+    "geom:latitude": 23.971060480387074,
+    "geom:longitude": 50.445355092182226,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "604.0",
+    "gn:admin3_code": "60402.0",
+    "gn:asciiname": "Chlopiatyn",
+    "gn:country_code": "PL",
+    "gn:dem": 240,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 774531,
+    "gn:latitude": 50.44733,
+    "gn:longitude": 23.97283,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Chłopiatyn",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.95283,50.42733,23.99283,50.46733",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "خووپیاتن"
     ],
-    "name:ceb_x_preferred":[
-        "Ch\u0142opiatyn"
+    "name:ceb_x_preferred": [
+      "Chłopiatyn"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0648\u0648\u067e\u06cc\u0627\u062a\u0646"
+    "name:fas_x_preferred": [
+      "خووپیاتن"
     ],
-    "name:fra_x_preferred":[
-        "Ch\u0142opiatyn"
+    "name:fra_x_preferred": [
+      "Chłopiatyn"
     ],
-    "name:nld_x_preferred":[
-        "Ch\u0142opiatyn"
+    "name:nld_x_preferred": [
+      "Chłopiatyn"
     ],
-    "name:pol_x_preferred":[
-        "Ch\u0142opiatyn"
+    "name:pol_x_preferred": [
+      "Chłopiatyn"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u043b\u043e\u043f\u044f\u0442\u0438\u043d"
+    "name:ukr_x_preferred": [
+      "Хлопятин"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1477752709,
-        85633723,
-        102079743
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":774531,
-        "wk:page":"Ch%C5%82opiatyn"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1477752709,
+      85633723,
+      102079743
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 774531,
+      "pl-gugik:jpt_kod_je": "060402_2.0261",
+      "wk:page": "Ch%C5%82opiatyn"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4f92ef5db6e5f7b78bdb412d13094e52",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079743,
-            "localadmin_id":1477752709,
-            "locality_id":1327162285,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f93854ca01d16293bda6527eb59fe06b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079743,
+        "localadmin_id": 1477752709,
+        "locality_id": 1327162285,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1327162285,
-    "wof:lastmodified":1570008491,
-    "wof:name":"Chlopiatyn",
-    "wof:parent_id":1477752709,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327162285,
+    "wof:lastmodified": 1675952174,
+    "wof:name": "Chlopiatyn",
+    "wof:parent_id": 1477752709,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.97283,
-    50.44733,
-    23.97283,
-    50.44733
-],
-  "geometry": {"coordinates":[23.97283,50.44733],"type":"Point"}
+    23.958356781272425,
+    50.43187411102213,
+    23.985626900286594,
+    50.45627663801598
+  ],
+  "geometry": {"coordinates":[[[23.958357,50.436784],[23.958394,50.436894],[23.958397,50.436926],[23.958524,50.438539],[23.958589,50.43923],[23.958594,50.439284],[23.958657,50.439966],[23.95884,50.440498],[23.958932,50.441322],[23.958863,50.441563],[23.958808,50.441754],[23.958708,50.442102],[23.958642,50.442566],[23.958953,50.443809],[23.959083,50.444804],[23.958965,50.445883],[23.958901,50.446767],[23.959003,50.447404],[23.959451,50.448029],[23.959901,50.448425],[23.960231,50.448889],[23.960974,50.450411],[23.961275,50.451112],[23.962409,50.452015],[23.963335,50.452972],[23.964393,50.45366],[23.965255,50.45414],[23.966831,50.455366],[23.966872,50.455398],[23.967102,50.455576],[23.967199,50.455652],[23.967218,50.456277],[23.967379,50.456266],[23.967526,50.456256],[23.970634,50.456043],[23.972911,50.455887],[23.97617,50.454794],[23.977909,50.454627],[23.982049,50.455101],[23.982566,50.455246],[23.982629,50.455263],[23.98336,50.455468],[23.9834,50.455479],[23.983415,50.455483],[23.983462,50.455497],[23.984844,50.455884],[23.984906,50.455764],[23.985128,50.455338],[23.985137,50.455321],[23.985143,50.455308],[23.985156,50.455284],[23.985627,50.454381],[23.984667,50.453049],[23.983109,50.450518],[23.98284,50.4494],[23.982665,50.448048],[23.982137,50.445091],[23.982136,50.445081],[23.982126,50.445025],[23.982127,50.444941],[23.981856,50.442221],[23.981804,50.441777],[23.981557,50.439241],[23.981388,50.437001],[23.981384,50.436951],[23.980682,50.436999],[23.97953,50.437064],[23.977742,50.43716],[23.977372,50.437181],[23.974154,50.437366],[23.971335,50.437517],[23.971048,50.432951],[23.97141,50.432857],[23.972905,50.432656],[23.975131,50.43256],[23.976928,50.432509],[23.97841,50.432467],[23.98094,50.432013],[23.980934,50.431965],[23.980954,50.431874],[23.979914,50.43206],[23.979701,50.432099],[23.978388,50.432335],[23.975214,50.432425],[23.97513,50.432427],[23.972876,50.432522],[23.971348,50.432728],[23.970924,50.432843],[23.966693,50.434127],[23.96608,50.434322],[23.966002,50.434347],[23.963419,50.435174],[23.96233,50.435501],[23.961461,50.4358],[23.960011,50.436263],[23.959314,50.436486],[23.958632,50.436695],[23.958357,50.436784]]],"type":"Polygon"}
 }

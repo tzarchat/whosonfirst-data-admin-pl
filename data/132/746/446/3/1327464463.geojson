@@ -2,128 +2,132 @@
   "id": 1327464463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.07906,52.36794,20.07906,52.36794",
-    "geom:latitude":52.36794,
-    "geom:longitude":20.07906,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1428.0",
-    "gn:admin3_code":"142803.0",
-    "gn:asciiname":"Lady",
-    "gn:country_code":"PL",
-    "gn:dem":62,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766851,
-    "gn:latitude":52.36794,
-    "gn:longitude":20.07906,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"\u0141ady",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.05906,52.34794,20.09906,52.38794",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ara_x_preferred":[
-        "\u0644\u064a\u062f\u064a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004844559666291743,
+    "geom:area_square_m": 3671374.9874928677,
+    "geom:bbox": "20.05864636500245,52.361495510017484,20.087759080003213,52.384517311014484",
+    "geom:latitude": 20.07319744618096,
+    "geom:longitude": 52.373767604215246,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1428.0",
+    "gn:admin3_code": "142803.0",
+    "gn:asciiname": "Lady",
+    "gn:country_code": "PL",
+    "gn:dem": 62,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766851,
+    "gn:latitude": 52.36794,
+    "gn:longitude": 20.07906,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Łady",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.05906,52.34794,20.09906,52.38794",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ara_x_preferred": [
+      "ليدي"
     ],
-    "name:bre_x_preferred":[
-        "Itron"
+    "name:bre_x_preferred": [
+      "Itron"
     ],
-    "name:bul_x_preferred":[
-        "\u0414\u0430\u043c\u0430"
+    "name:bul_x_preferred": [
+      "Дама"
     ],
-    "name:deu_x_preferred":[
-        "Lady"
+    "name:deu_x_preferred": [
+      "Lady"
     ],
-    "name:diq_x_preferred":[
-        "Leydi"
+    "name:diq_x_preferred": [
+      "Leydi"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0627\u0646\u0648"
+    "name:fas_x_preferred": [
+      "بانو"
     ],
-    "name:fra_x_preferred":[
-        "Lady"
+    "name:fra_x_preferred": [
+      "Lady"
     ],
-    "name:gla_x_preferred":[
-        "Baintighearna"
+    "name:gla_x_preferred": [
+      "Baintighearna"
     ],
-    "name:heb_x_preferred":[
-        "\u05dc\u05d9\u05d9\u05d3\u05d9"
+    "name:heb_x_preferred": [
+      "ליידי"
     ],
-    "name:ita_x_preferred":[
-        "Lady"
+    "name:ita_x_preferred": [
+      "Lady"
     ],
-    "name:nno_x_preferred":[
-        "Dame"
+    "name:nno_x_preferred": [
+      "Dame"
     ],
-    "name:nor_x_preferred":[
-        "Lady"
+    "name:nor_x_preferred": [
+      "Lady"
     ],
-    "name:por_x_preferred":[
-        "Lady"
+    "name:por_x_preferred": [
+      "Lady"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u0435\u0434\u0438"
+    "name:rus_x_preferred": [
+      "Леди"
     ],
-    "name:tgl_x_preferred":[
-        "Dama"
+    "name:tgl_x_preferred": [
+      "Dama"
     ],
-    "name:tur_x_preferred":[
-        "Leydi"
+    "name:tur_x_preferred": [
+      "Leydi"
     ],
-    "name:vie_x_preferred":[
-        "Phu nh\u00e2n"
+    "name:vie_x_preferred": [
+      "Phu nhân"
     ],
-    "name:zho_x_preferred":[
-        "\u5973\u52f3\u7235"
+    "name:zho_x_preferred": [
+      "女勳爵"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125350251,
-        85633723,
-        102079945
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766851
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125350251,
+      85633723,
+      102079945
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766851,
+      "pl-gugik:jpt_kod_je": "142803_2.0027"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"15549cc2a7d8e67d256092b812bd1de2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079945,
-            "localadmin_id":1125350251,
-            "locality_id":1327464463,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "903921fa7b3c6b106cab56ef5e2ee035",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079945,
+        "localadmin_id": 1125350251,
+        "locality_id": 1327464463,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1327464463,
-    "wof:lastmodified":1570006633,
-    "wof:name":"Lady",
-    "wof:parent_id":1125350251,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327464463,
+    "wof:lastmodified": 1675952176,
+    "wof:name": "Lady",
+    "wof:parent_id": 1125350251,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.07906,
-    52.36794,
-    20.07906,
-    52.36794
-],
-  "geometry": {"coordinates":[20.07906,52.36794],"type":"Point"}
+    20.05864636500245,
+    52.361495510017484,
+    20.087759080003213,
+    52.384517311014484
+  ],
+  "geometry": {"coordinates":[[[20.082217,52.361496],[20.08098,52.361584],[20.080921,52.361584],[20.079858,52.361598],[20.079843,52.361598],[20.079799,52.361599],[20.079475,52.361606],[20.079436,52.361607],[20.073952,52.361753],[20.073832,52.361756],[20.073435,52.361767],[20.070349,52.361821],[20.070082,52.361826],[20.069937,52.361828],[20.069853,52.36183],[20.06967,52.36184],[20.069601,52.361801],[20.068778,52.361825],[20.067149,52.361882],[20.065921,52.361905],[20.065178,52.361917],[20.065183,52.361948],[20.065198,52.362044],[20.065786,52.364684],[20.065908,52.365224],[20.065917,52.365266],[20.065941,52.365412],[20.066186,52.366492],[20.066307,52.367015],[20.066347,52.36719],[20.066353,52.367226],[20.066575,52.368198],[20.066747,52.368956],[20.066807,52.369196],[20.066892,52.369552],[20.066905,52.369606],[20.067339,52.371411],[20.067117,52.371433],[20.066319,52.371509],[20.065669,52.371571],[20.065403,52.371597],[20.065332,52.371604],[20.065258,52.371611],[20.064846,52.371677],[20.064365,52.371717],[20.063913,52.371754],[20.062906,52.371836],[20.061458,52.371963],[20.0614,52.371969],[20.059993,52.372095],[20.05897,52.372187],[20.058646,52.372216],[20.058655,52.372255],[20.059529,52.37599],[20.059537,52.376025],[20.059555,52.37616],[20.059566,52.376195],[20.05967,52.376493],[20.059723,52.376663],[20.059504,52.38032],[20.059348,52.382939],[20.059287,52.383958],[20.062315,52.384295],[20.069009,52.384517],[20.084054,52.381392],[20.087759,52.380283],[20.087223,52.378164],[20.086778,52.376478],[20.086388,52.374999],[20.086343,52.374798],[20.086275,52.374491],[20.086321,52.37444],[20.086234,52.374034],[20.086108,52.373684],[20.085807,52.373084],[20.085794,52.373058],[20.085148,52.372129],[20.085059,52.372012],[20.085046,52.371996],[20.084778,52.371675],[20.084703,52.371469],[20.084679,52.371401],[20.084507,52.370935],[20.084494,52.3709],[20.084478,52.370858],[20.084465,52.370822],[20.084444,52.370759],[20.08435,52.37048],[20.084544,52.37041],[20.084402,52.369977],[20.083823,52.368623],[20.08382,52.368615],[20.082847,52.366393],[20.082818,52.36633],[20.0828,52.36629],[20.082496,52.365621],[20.08312,52.365435],[20.083119,52.365433],[20.083111,52.365404],[20.082866,52.364249],[20.082858,52.364211],[20.082725,52.363582],[20.082716,52.363541],[20.082226,52.361531],[20.082217,52.361496]]],"type":"Polygon"}
 }

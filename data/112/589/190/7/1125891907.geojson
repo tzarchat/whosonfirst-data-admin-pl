@@ -2,152 +2,156 @@
   "id": 1125891907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.54628,51.26379,23.54628,51.26379",
-    "geom:latitude":51.26379,
-    "geom:longitude":23.54628,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":140,
-    "iso:country":"PL",
-    "lbl:bbox":"23.52628,51.24379,23.56628,51.28379",
-    "lbl:latitude":51.26379,
-    "lbl:longitude":23.54628,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ces_x_preferred":[
-        "I\u0142owa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004260570996422273,
+    "geom:area_square_m": 3308169.180624076,
+    "geom:bbox": "23.52704423814874,51.2589670060159,23.565905577154716,51.275945642019195",
+    "geom:latitude": 23.547984564217078,
+    "geom:longitude": 51.26824207345828,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 140,
+    "iso:country": "PL",
+    "lbl:bbox": "23.52628,51.24379,23.56628,51.28379",
+    "lbl:latitude": 51.26379,
+    "lbl:longitude": 23.54628,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred": [
+      "Iłowa"
     ],
-    "name:deu_x_preferred":[
-        "I\u0142owa"
+    "name:deu_x_preferred": [
+      "Iłowa"
     ],
-    "name:epo_x_preferred":[
-        "I\u0142owa"
+    "name:epo_x_preferred": [
+      "Iłowa"
     ],
-    "name:fra_x_preferred":[
-        "I\u0142owa"
+    "name:fra_x_preferred": [
+      "Iłowa"
     ],
-    "name:hsb_x_preferred":[
-        "Ji\u0142wa"
+    "name:hsb_x_preferred": [
+      "Jiłwa"
     ],
-    "name:jav_x_preferred":[
-        "I\u0142owa"
+    "name:jav_x_preferred": [
+      "Iłowa"
     ],
-    "name:lav_x_preferred":[
-        "Ilova"
+    "name:lav_x_preferred": [
+      "Ilova"
     ],
-    "name:msa_x_preferred":[
-        "I\u0142owa"
+    "name:msa_x_preferred": [
+      "Iłowa"
     ],
-    "name:nld_x_preferred":[
-        "I\u0142owa"
+    "name:nld_x_preferred": [
+      "Iłowa"
     ],
-    "name:pol_x_preferred":[
-        "I\u0142owa"
+    "name:pol_x_preferred": [
+      "Iłowa"
     ],
-    "name:por_x_preferred":[
-        "I\u0142owa"
+    "name:por_x_preferred": [
+      "Iłowa"
     ],
-    "name:ron_x_preferred":[
-        "I\u0142owa"
+    "name:ron_x_preferred": [
+      "Iłowa"
     ],
-    "name:rus_x_preferred":[
-        "\u0418\u043b\u043e\u0432\u0430"
+    "name:rus_x_preferred": [
+      "Илова"
     ],
-    "name:slk_x_preferred":[
-        "I\u0142owa"
+    "name:slk_x_preferred": [
+      "Iłowa"
     ],
-    "name:srp_x_preferred":[
-        "\u0418\u043b\u043e\u0432\u0430"
+    "name:srp_x_preferred": [
+      "Илова"
     ],
-    "name:swe_x_preferred":[
-        "I\u0142owa"
+    "name:swe_x_preferred": [
+      "Iłowa"
     ],
-    "name:tha_x_preferred":[
-        "\u0e2d\u0e35\u0e27\u0e2d\u0e27\u0e32"
+    "name:tha_x_preferred": [
+      "อีวอวา"
     ],
-    "name:ukr_x_preferred":[
-        "\u0406\u043b\u043e\u0432\u0430"
+    "name:ukr_x_preferred": [
+      "Ілова"
     ],
-    "name:vie_x_preferred":[
-        "I\u0142owa"
+    "name:vie_x_preferred": [
+      "Iłowa"
     ],
-    "name:zho_x_preferred":[
-        "\u4f0a\u6c83\u74e6"
+    "name:zho_x_preferred": [
+      "伊沃瓦"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":770797,
-    "qs_pg:gn_pop":140,
-    "qs_pg:name":"I\u0142owa",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Lubelskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":297991,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":496236,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Lubelskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125400219,
-        85633723,
-        102079813
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 770797,
+    "qs_pg:gn_pop": 140,
+    "qs_pg:name": "Iłowa",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Lubelskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 297991,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 496236,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":770797,
-        "gp:id":496236,
-        "qs_pg:id":297991
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Lubelskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125400219,
+      85633723,
+      102079813
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 770797,
+      "gp:id": 496236,
+      "pl-gugik:jpt_kod_je": "060309_2.0007",
+      "qs_pg:id": 297991
     },
-    "wof:country":"PL",
-    "wof:created":1497295360,
-    "wof:geomhash":"9ed2c79ae73de7994d9ce91e3542097a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079813,
-            "localadmin_id":1125400219,
-            "locality_id":1125891907,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295360,
+    "wof:geomhash": "d0e88521ccfdfeef505e8478aab11ed5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079813,
+        "localadmin_id": 1125400219,
+        "locality_id": 1125891907,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1125891907,
-    "wof:lastmodified":1570037564,
-    "wof:name":"I\u0142owa",
-    "wof:parent_id":1125400219,
-    "wof:placetype":"locality",
-    "wof:population":140,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125891907,
+    "wof:lastmodified": 1675953131,
+    "wof:name": "Iłowa",
+    "wof:parent_id": 1125400219,
+    "wof:placetype": "locality",
+    "wof:population": 140,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.54628,
-    51.26379,
-    23.54628,
-    51.26379
-],
-  "geometry": {"coordinates":[23.54628,51.26379],"type":"Point"}
+    23.52704423814874,
+    51.2589670060159,
+    23.565905577154716,
+    51.275945642019195
+  ],
+  "geometry": {"coordinates":[[[23.527044,51.270753],[23.527103,51.270802],[23.529264,51.2729],[23.529188,51.272929],[23.528208,51.273308],[23.528347,51.273446],[23.528942,51.274133],[23.529033,51.274135],[23.529702,51.274137],[23.530954,51.274143],[23.532628,51.274153],[23.533371,51.274157],[23.534319,51.274166],[23.534669,51.274169],[23.534816,51.274171],[23.535428,51.274176],[23.53594,51.274181],[23.536675,51.274188],[23.537177,51.274193],[23.537726,51.274202],[23.538437,51.274213],[23.540471,51.274245],[23.541092,51.274761],[23.541259,51.274901],[23.54151,51.275109],[23.541537,51.275131],[23.541712,51.275276],[23.541896,51.27543],[23.541986,51.275505],[23.544627,51.275213],[23.545338,51.275134],[23.547111,51.274457],[23.547477,51.274224],[23.548104,51.274672],[23.548567,51.275003],[23.549093,51.275379],[23.549886,51.275946],[23.550019,51.275277],[23.550156,51.275279],[23.551681,51.275297],[23.552864,51.275311],[23.553969,51.275325],[23.554254,51.275328],[23.554591,51.275332],[23.555389,51.275342],[23.558249,51.275625],[23.558732,51.275669],[23.560066,51.275791],[23.560641,51.275844],[23.562024,51.272723],[23.562032,51.272703],[23.562064,51.272631],[23.562327,51.272033],[23.563512,51.269337],[23.564836,51.266377],[23.565294,51.265352],[23.565897,51.263942],[23.565906,51.263923],[23.565904,51.263908],[23.565829,51.263891],[23.564977,51.263697],[23.562464,51.263123],[23.558317,51.262194],[23.557509,51.26201],[23.555963,51.261663],[23.55581,51.261624],[23.555491,51.261554],[23.553378,51.261063],[23.552901,51.260951],[23.552883,51.260903],[23.552509,51.259919],[23.552161,51.259097],[23.552106,51.258967],[23.549843,51.259468],[23.547575,51.259669],[23.546847,51.259728],[23.545327,51.259851],[23.545105,51.259872],[23.544464,51.25993],[23.54376,51.259994],[23.542866,51.260076],[23.542445,51.26021],[23.540655,51.26078],[23.540066,51.260904],[23.539305,51.260959],[23.538387,51.261025],[23.538088,51.261046],[23.53753,51.260982],[23.537542,51.26112],[23.537557,51.261443],[23.537547,51.262744],[23.537568,51.26432],[23.537568,51.264376],[23.538217,51.264273],[23.5404,51.263929],[23.540696,51.264258],[23.539983,51.264366],[23.53911,51.264508],[23.538258,51.264651],[23.538871,51.265699],[23.53823,51.266059],[23.536596,51.266976],[23.536178,51.267211],[23.535693,51.26679],[23.535492,51.266884],[23.534962,51.267131],[23.534683,51.267261],[23.534158,51.267505],[23.531889,51.265265],[23.53184,51.265271],[23.530994,51.265374],[23.530334,51.265454],[23.530238,51.265464],[23.53166,51.266849],[23.533531,51.268672],[23.533569,51.268708],[23.533239,51.268806],[23.532854,51.26892],[23.53252,51.269019],[23.532432,51.269045],[23.532952,51.269551],[23.533349,51.269936],[23.533892,51.270467],[23.533361,51.270633],[23.531914,51.269198],[23.531872,51.269163],[23.5308,51.26812],[23.530186,51.268357],[23.529943,51.268451],[23.529391,51.268664],[23.529187,51.268743],[23.529603,51.269134],[23.529329,51.26942],[23.5297,51.269773],[23.527044,51.270753]]],"type":"Polygon"}
 }

@@ -2,93 +2,97 @@
   "id": 1209748085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.33522,54.15266,21.33522,54.15266",
-    "geom:latitude":54.15266,
-    "geom:longitude":21.33522,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2808.0",
-    "gn:admin3_code":"280802.0",
-    "gn:asciiname":"Kiemlawki Wielkie",
-    "gn:country_code":"PL",
-    "gn:dem":73,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":769228,
-    "gn:latitude":54.15266,
-    "gn:longitude":21.33522,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kiem\u0142awki Wielkie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.31522,54.13266,21.35522,54.17266",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u06a9\u06cc\u0645\u0648\u0627\u0648\u06a9\u06cc \u0648\u06cc\u0644\u06a9\u06cc\u0647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000359407648658412,
+    "geom:area_square_m": 2613552.222215402,
+    "geom:bbox": "21.315488484997147,54.14386451701611,21.348345450998337,54.164583977022666",
+    "geom:latitude": 21.33418291844774,
+    "geom:longitude": 54.15572548156859,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2808.0",
+    "gn:admin3_code": "280802.0",
+    "gn:asciiname": "Kiemlawki Wielkie",
+    "gn:country_code": "PL",
+    "gn:dem": 73,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 769228,
+    "gn:latitude": 54.15266,
+    "gn:longitude": 21.33522,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kiemławki Wielkie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.31522,54.13266,21.35522,54.17266",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "کیمواوکی ویلکیه"
     ],
-    "name:deu_x_preferred":[
-        "Kiem\u0142awki Wielkie"
+    "name:deu_x_preferred": [
+      "Kiemławki Wielkie"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u06cc\u0645\u0648\u0627\u0648\u06a9\u06cc \u0648\u06cc\u0644\u06a9\u06cc\u0647"
+    "name:fas_x_preferred": [
+      "کیمواوکی ویلکیه"
     ],
-    "name:nld_x_preferred":[
-        "Kiem\u0142awki Wielkie"
+    "name:nld_x_preferred": [
+      "Kiemławki Wielkie"
     ],
-    "name:pol_x_preferred":[
-        "Kiem\u0142awki Wielkie"
+    "name:pol_x_preferred": [
+      "Kiemławki Wielkie"
     ],
-    "name:vie_x_preferred":[
-        "Kiem\u0142awki Wielkie"
+    "name:vie_x_preferred": [
+      "Kiemławki Wielkie"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751361,
-        85633723,
-        102080249
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":769228,
-        "wk:page":"Kiem%C5%82awki_Wielkie"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751361,
+      85633723,
+      102080249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 769228,
+      "pl-gugik:jpt_kod_je": "280802_2.0021",
+      "wk:page": "Kiem%C5%82awki_Wielkie"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"0c8028fc49ab255d5de02b363e82234a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080249,
-            "localadmin_id":1477751361,
-            "locality_id":1209748085,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "63dd1eded32cd2534d93250ec36c304d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080249,
+        "localadmin_id": 1477751361,
+        "locality_id": 1209748085,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209748085,
-    "wof:lastmodified":1570022971,
-    "wof:name":"Kiemlawki Wielkie",
-    "wof:parent_id":1477751361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209748085,
+    "wof:lastmodified": 1675952166,
+    "wof:name": "Kiemlawki Wielkie",
+    "wof:parent_id": 1477751361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.33522,
-    54.15266,
-    21.33522,
-    54.15266
-],
-  "geometry": {"coordinates":[21.33522,54.15266],"type":"Point"}
+    21.315488484997147,
+    54.14386451701611,
+    21.348345450998337,
+    54.164583977022666
+  ],
+  "geometry": {"coordinates":[[[21.34634,54.163113],[21.348345,54.161789],[21.347701,54.160528],[21.347234,54.159615],[21.346462,54.158112],[21.346429,54.158033],[21.344301,54.153805],[21.344185,54.153796],[21.344154,54.153594],[21.344576,54.152072],[21.344952,54.150674],[21.344083,54.149082],[21.343435,54.147905],[21.344042,54.147745],[21.342978,54.145846],[21.342004,54.144999],[21.34127,54.143865],[21.341141,54.144178],[21.340949,54.144576],[21.340899,54.14468],[21.340758,54.144986],[21.3407,54.145266],[21.339095,54.14555],[21.338774,54.14585],[21.338168,54.146189],[21.337808,54.146214],[21.337162,54.146133],[21.336989,54.146026],[21.336368,54.146022],[21.335864,54.145967],[21.335694,54.146059],[21.335357,54.146145],[21.335148,54.146391],[21.334976,54.146545],[21.334784,54.146714],[21.33471,54.146811],[21.33476,54.146948],[21.334754,54.147138],[21.334873,54.147397],[21.335198,54.147678],[21.334853,54.148586],[21.33443,54.148642],[21.334255,54.148883],[21.33394,54.149091],[21.334166,54.149496],[21.333844,54.149595],[21.333745,54.149606],[21.333465,54.149637],[21.332334,54.149758],[21.331629,54.150104],[21.324068,54.151718],[21.322352,54.151074],[21.322178,54.151249],[21.321239,54.152328],[21.320925,54.152657],[21.320151,54.153449],[21.320039,54.153474],[21.319863,54.153514],[21.317931,54.154919],[21.31607,54.156287],[21.315488,54.156714],[21.320837,54.159249],[21.323897,54.160677],[21.324564,54.160994],[21.324731,54.161072],[21.324839,54.161123],[21.329917,54.163491],[21.332922,54.163107],[21.334855,54.162859],[21.334988,54.162842],[21.33502,54.162838],[21.33686,54.162601],[21.337638,54.161943],[21.338861,54.162373],[21.341603,54.163403],[21.344117,54.164584],[21.34634,54.163113]]],"type":"Polygon"}
 }

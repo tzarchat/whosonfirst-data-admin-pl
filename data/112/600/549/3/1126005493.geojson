@@ -2,111 +2,115 @@
   "id": 1126005493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.98728,51.72044,17.98728,51.72044",
-    "geom:latitude":51.72044,
-    "geom:longitude":17.98728,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":107,
-    "iso:country":"PL",
-    "lbl:bbox":"17.96728,51.70044,18.00728,51.74044",
-    "lbl:latitude":51.72044,
-    "lbl:longitude":17.98728,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Gniazd\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00016584544198308682,
+    "geom:area_square_m": 1275150.5888853674,
+    "geom:bbox": "17.967839360002994,51.714223621012245,17.987652258998732,51.72610682701524",
+    "geom:latitude": 17.978592653656346,
+    "geom:longitude": 51.720292875926205,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 107,
+    "iso:country": "PL",
+    "lbl:bbox": "17.96728,51.70044,18.00728,51.74044",
+    "lbl:latitude": 51.72044,
+    "lbl:longitude": 17.98728,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Gniazdów"
     ],
-    "name:ceb_x_preferred":[
-        "Gniazd\u00f3w"
+    "name:ceb_x_preferred": [
+      "Gniazdów"
     ],
-    "name:eng_x_preferred":[
-        "Gniazd\u00f3w"
+    "name:eng_x_preferred": [
+      "Gniazdów"
     ],
-    "name:fra_x_preferred":[
-        "Gniazd\u00f3w"
+    "name:fra_x_preferred": [
+      "Gniazdów"
     ],
-    "name:pol_x_preferred":[
-        "Gniazd\u00f3w"
+    "name:pol_x_preferred": [
+      "Gniazdów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0490\u043d\u044f\u0437\u0434\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Ґняздув"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3099133,
-    "qs_pg:gn_pop":107,
-    "qs_pg:name":"Gniazd\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":297072,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":493900,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125298551,
-        85633723,
-        102079789
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3099133,
+    "qs_pg:gn_pop": 107,
+    "qs_pg:name": "Gniazdów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 297072,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 493900,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3099133,
-        "gp:id":493900,
-        "qs_pg:id":297072,
-        "wd:id":"Q5574240"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125298551,
+      85633723,
+      102079789
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3099133,
+      "gp:id": 493900,
+      "pl-gugik:jpt_kod_je": "301702_5.0010",
+      "qs_pg:id": 297072,
+      "wd:id": "Q5574240"
     },
-    "wof:country":"PL",
-    "wof:created":1497299919,
-    "wof:geomhash":"c230a8bd7a84f45ad7ba9121f0b11533",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079789,
-            "localadmin_id":1125298551,
-            "locality_id":1126005493,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299919,
+    "wof:geomhash": "0d9a4a9ebef8407be3d7ec4c32c17d3d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079789,
+        "localadmin_id": 1125298551,
+        "locality_id": 1126005493,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126005493,
-    "wof:lastmodified":1570039421,
-    "wof:name":"Gniazd\u00f3w",
-    "wof:parent_id":1125298551,
-    "wof:placetype":"locality",
-    "wof:population":107,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126005493,
+    "wof:lastmodified": 1675953124,
+    "wof:name": "Gniazdów",
+    "wof:parent_id": 1125298551,
+    "wof:placetype": "locality",
+    "wof:population": 107,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.98728,
-    51.72044,
-    17.98728,
-    51.72044
-],
-  "geometry": {"coordinates":[17.98728,51.72044],"type":"Point"}
+    17.967839360002994,
+    51.714223621012245,
+    17.987652258998732,
+    51.72610682701524
+  ],
+  "geometry": {"coordinates":[[[17.967839,51.721253],[17.967847,51.721324],[17.967851,51.721362],[17.968132,51.724883],[17.970981,51.724556],[17.97264,51.724545],[17.973385,51.724528],[17.973427,51.724557],[17.973529,51.724555],[17.973722,51.724551],[17.974165,51.724542],[17.975724,51.724508],[17.975816,51.724506],[17.976817,51.724465],[17.977176,51.724538],[17.977179,51.726107],[17.977344,51.726022],[17.977856,51.725815],[17.977908,51.725793],[17.978545,51.725597],[17.978649,51.725565],[17.979255,51.725408],[17.980138,51.725279],[17.980129,51.725251],[17.980185,51.725244],[17.980602,51.725191],[17.981938,51.725053],[17.983592,51.724878],[17.984259,51.724806],[17.985191,51.724694],[17.985978,51.724516],[17.987309,51.723969],[17.987652,51.72389],[17.987443,51.723363],[17.987368,51.723157],[17.987353,51.723045],[17.987316,51.72294],[17.987192,51.722588],[17.987017,51.722094],[17.986984,51.722003],[17.986932,51.721854],[17.986908,51.721786],[17.986911,51.721665],[17.986912,51.721612],[17.986915,51.721492],[17.986923,51.721156],[17.986925,51.721085],[17.986931,51.720834],[17.986934,51.720669],[17.986945,51.720229],[17.986956,51.719771],[17.98695,51.719718],[17.986947,51.719692],[17.986944,51.719666],[17.98694,51.719629],[17.98691,51.719369],[17.987,51.719367],[17.986957,51.718841],[17.986808,51.717244],[17.986731,51.715734],[17.986654,51.714224],[17.986544,51.714241],[17.986345,51.714277],[17.986113,51.714308],[17.985868,51.714321],[17.985114,51.714316],[17.984558,51.714332],[17.98436,51.714337],[17.983967,51.714394],[17.983225,51.714465],[17.982843,51.714483],[17.982818,51.714485],[17.982691,51.714499],[17.981883,51.714599],[17.981246,51.714677],[17.981076,51.714698],[17.979789,51.714931],[17.979403,51.715025],[17.977707,51.715447],[17.977114,51.715599],[17.976454,51.715772],[17.975076,51.716196],[17.973504,51.716717],[17.972756,51.716962],[17.971966,51.717192],[17.970592,51.717527],[17.970446,51.717593],[17.97,51.718224],[17.969987,51.718373],[17.970003,51.719034],[17.969891,51.719447],[17.969881,51.71949],[17.9698,51.719787],[17.96972,51.720125],[17.969626,51.720646],[17.969471,51.720784],[17.9692,51.720901],[17.96846,51.721091],[17.967981,51.721255],[17.967888,51.721254],[17.967839,51.721253]]],"type":"Polygon"}
 }

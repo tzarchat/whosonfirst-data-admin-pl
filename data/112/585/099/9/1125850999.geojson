@@ -2,128 +2,132 @@
   "id": 1125850999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.1921,52.19161,20.1921,52.19161",
-    "geom:latitude":52.19161,
-    "geom:longitude":20.1921,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":871,
-    "iso:country":"PL",
-    "lbl:bbox":"20.1721,52.17161,20.2121,52.21161",
-    "lbl:latitude":52.19161,
-    "lbl:longitude":20.1921,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010306007205763107,
+    "geom:area_square_m": 784029.8623234183,
+    "geom:bbox": "20.188374231007145,52.1957146040141,20.21053775799861,52.20823286701318",
+    "geom:latitude": 20.197243798802113,
+    "geom:longitude": 52.2016589962379,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 871,
+    "iso:country": "PL",
+    "lbl:bbox": "20.1721,52.17161,20.2121,52.21161",
+    "lbl:latitude": 52.19161,
+    "lbl:longitude": 20.1921,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:azb_x_preferred":[
-        "\u06a9\u0648\u0632\u0648\u0648\u0641 \u0628\u06cc\u0633\u06a9\u0648\u067e\u06cc"
+    "name:azb_x_preferred": [
+      "کوزووف بیسکوپی"
     ],
-    "name:ceb_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:ceb_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:eng_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:eng_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:fas_x_preferred":[
-        "\u06a9\u0648\u0632\u0648\u0648\u0641 \u0628\u06cc\u0633\u06a9\u0648\u067e\u06cc"
+    "name:fas_x_preferred": [
+      "کوزووف بیسکوپی"
     ],
-    "name:fra_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:fra_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:nan_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:nan_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:nld_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:nld_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:pol_x_preferred":[
-        "Koz\u0142\u00f3w Biskupi"
+    "name:pol_x_preferred": [
+      "Kozłów Biskupi"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u0437\u043b\u0443\u0432-\u0411\u0456\u0441\u043a\u0443\u043f\u0456"
+    "name:ukr_x_preferred": [
+      "Козлув-Біскупі"
     ],
-    "name:und_x_variant":[
-        "Biskupi Koz\u0142\u00f3w"
+    "name:und_x_variant": [
+      "Biskupi Kozłów"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":767775,
-    "qs_pg:gn_pop":871,
-    "qs_pg:name":"Koz\u0142\u00f3w Biskupi",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":12,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1096811,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24936051,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751969,
-        85633723,
-        102079945
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 767775,
+    "qs_pg:gn_pop": 871,
+    "qs_pg:name": "Kozłów Biskupi",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 12,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1096811,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24936051,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":767775,
-        "gp:id":24936051,
-        "qs_pg:id":1096811,
-        "wd:id":"Q771029"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751969,
+      85633723,
+      102079945
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 767775,
+      "gp:id": 24936051,
+      "pl-gugik:jpt_kod_je": "142801_1.0004",
+      "qs_pg:id": 1096811,
+      "wd:id": "Q771029"
     },
-    "wof:country":"PL",
-    "wof:created":1497293403,
-    "wof:geomhash":"b00c5e19b0ef143c1481de2982cf8c14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079945,
-            "localadmin_id":1477751969,
-            "locality_id":1125850999,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497293403,
+    "wof:geomhash": "7bfd653ee6bcd2feee262088ecdb1372",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079945,
+        "localadmin_id": 1477751969,
+        "locality_id": 1125850999,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125850999,
-    "wof:lastmodified":1570039668,
-    "wof:name":"Koz\u0142\u00f3w Biskupi",
-    "wof:parent_id":1477751969,
-    "wof:placetype":"locality",
-    "wof:population":871,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125850999,
+    "wof:lastmodified": 1675953113,
+    "wof:name": "Kozłów Biskupi",
+    "wof:parent_id": 1477751969,
+    "wof:placetype": "locality",
+    "wof:population": 871,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.1921,
-    52.19161,
-    20.1921,
-    52.19161
-],
-  "geometry": {"coordinates":[20.1921,52.19161],"type":"Point"}
+    20.188374231007145,
+    52.1957146040141,
+    20.21053775799861,
+    52.20823286701318
+  ],
+  "geometry": {"coordinates":[[[[20.195488,52.195715],[20.194243,52.195754],[20.193739,52.19577],[20.193632,52.195773],[20.193016,52.195793],[20.192906,52.195797],[20.19264,52.195805],[20.192275,52.195817],[20.191482,52.195844],[20.190963,52.195864],[20.190464,52.195884],[20.189976,52.195903],[20.189343,52.195928],[20.18852,52.19596],[20.188374,52.195966],[20.188423,52.196326],[20.188508,52.196952],[20.188561,52.197116],[20.188838,52.197966],[20.188847,52.197993],[20.18916,52.198954],[20.189434,52.199808],[20.189512,52.200049],[20.189135,52.200362],[20.189007,52.200617],[20.188965,52.200699],[20.188961,52.20083],[20.188959,52.200893],[20.18903,52.201028],[20.189169,52.201124],[20.189548,52.201362],[20.189597,52.201391],[20.189646,52.201419],[20.190454,52.201886],[20.192716,52.203052],[20.194681,52.204077],[20.197267,52.205415],[20.197319,52.205424],[20.199991,52.206007],[20.200824,52.20619],[20.201384,52.206313],[20.201553,52.206351],[20.203321,52.206755],[20.203803,52.206607],[20.203873,52.206584],[20.204992,52.20623],[20.205031,52.206218],[20.204781,52.206146],[20.20449,52.206123],[20.204436,52.206036],[20.20435,52.205896],[20.204316,52.20576],[20.204273,52.205595],[20.20415,52.205215],[20.204091,52.205033],[20.203371,52.204839],[20.203062,52.204504],[20.202699,52.204108],[20.202426,52.20381],[20.202863,52.203667],[20.203309,52.20352],[20.204239,52.203214],[20.204377,52.203169],[20.204986,52.202969],[20.206342,52.202535],[20.205478,52.202206],[20.205447,52.202194],[20.205426,52.202186],[20.205176,52.202091],[20.205138,52.202077],[20.202751,52.201167],[20.202722,52.201158],[20.201545,52.200708],[20.200255,52.201308],[20.199297,52.200882],[20.197958,52.200316],[20.197511,52.200121],[20.19569,52.199372],[20.196281,52.199157],[20.195838,52.19878],[20.196292,52.19862],[20.196561,52.198526],[20.197107,52.198333],[20.19698,52.19815],[20.196095,52.196866],[20.195978,52.196646],[20.195877,52.196458],[20.195776,52.19627],[20.195647,52.196028],[20.195488,52.195715]]],[[[20.209026,52.205013],[20.208941,52.205048],[20.20776,52.205535],[20.207615,52.205595],[20.207108,52.205804],[20.206526,52.206045],[20.205436,52.206495],[20.205394,52.206512],[20.207484,52.208233],[20.207535,52.208228],[20.207743,52.20821],[20.207868,52.208173],[20.208196,52.208034],[20.208607,52.207911],[20.208988,52.207812],[20.209294,52.207756],[20.209426,52.207703],[20.20942,52.207647],[20.2094,52.207464],[20.209521,52.207149],[20.209732,52.206736],[20.209923,52.20648],[20.210086,52.20634],[20.210271,52.206199],[20.210485,52.206095],[20.210538,52.205931],[20.210482,52.205795],[20.210444,52.205705],[20.210265,52.205519],[20.210029,52.205359],[20.209762,52.205261],[20.209418,52.205151],[20.209026,52.205013]]]],"type":"MultiPolygon"}
 }

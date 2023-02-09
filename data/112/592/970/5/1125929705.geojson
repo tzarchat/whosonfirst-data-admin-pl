@@ -2,198 +2,202 @@
   "id": 1125929705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.14918,51.89055,20.14918,51.89055",
-    "geom:latitude":51.89055,
-    "geom:longitude":20.14918,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"20.12918,51.87055,20.16918,51.91055",
-    "lbl:latitude":51.89055,
-    "lbl:longitude":20.14918,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bel_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u0430\u045e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00016465436523205047,
+    "geom:area_square_m": 1261152.7647795212,
+    "geom:bbox": "20.13497750199605,51.88761180601495,20.16261352999884,51.90181256301766",
+    "geom:latitude": 20.14847630634134,
+    "geom:longitude": 51.894749153427504,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "20.12918,51.87055,20.16918,51.91055",
+    "lbl:latitude": 51.89055,
+    "lbl:longitude": 20.14918,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred": [
+      "Прушкаў"
     ],
-    "name:bul_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u043e\u0432"
+    "name:bul_x_preferred": [
+      "Прушков"
     ],
-    "name:ces_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:ces_x_preferred": [
+      "Pruszków"
     ],
-    "name:deu_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:deu_x_preferred": [
+      "Pruszków"
     ],
-    "name:epo_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:epo_x_preferred": [
+      "Pruszków"
     ],
-    "name:est_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:est_x_preferred": [
+      "Pruszków"
     ],
-    "name:eus_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:eus_x_preferred": [
+      "Pruszków"
     ],
-    "name:fas_x_preferred":[
-        "\u067e\u0631\u0648\u0634\u06a9\u0648\u0641"
+    "name:fas_x_preferred": [
+      "پروشکوف"
     ],
-    "name:fra_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:fra_x_preferred": [
+      "Pruszków"
     ],
-    "name:heb_x_preferred":[
-        "\u05e4\u05e8\u05d5\u05e9\u05e7\u05d5\u05d1"
+    "name:heb_x_preferred": [
+      "פרושקוב"
     ],
-    "name:hun_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:hun_x_preferred": [
+      "Pruszków"
     ],
-    "name:isl_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:isl_x_preferred": [
+      "Pruszków"
     ],
-    "name:ita_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:ita_x_preferred": [
+      "Pruszków"
     ],
-    "name:jav_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:jav_x_preferred": [
+      "Pruszków"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d7\u30eb\u30b7\u30e5\u30af\u30d5"
+    "name:jpn_x_preferred": [
+      "プルシュクフ"
     ],
-    "name:kor_x_preferred":[
-        "\ud504\ub8e8\uc288\ucfe0\ud504"
+    "name:kor_x_preferred": [
+      "프루슈쿠프"
     ],
-    "name:lav_x_preferred":[
-        "Pru\u0161kova"
+    "name:lav_x_preferred": [
+      "Pruškova"
     ],
-    "name:lit_x_preferred":[
-        "Pru\u0161kuvas"
+    "name:lit_x_preferred": [
+      "Pruškuvas"
     ],
-    "name:mkd_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u043e\u0432"
+    "name:mkd_x_preferred": [
+      "Прушков"
     ],
-    "name:msa_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:msa_x_preferred": [
+      "Pruszków"
     ],
-    "name:nld_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:nld_x_preferred": [
+      "Pruszków"
     ],
-    "name:pol_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:pol_x_preferred": [
+      "Pruszków"
     ],
-    "name:por_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:por_x_preferred": [
+      "Pruszków"
     ],
-    "name:ron_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:ron_x_preferred": [
+      "Pruszków"
     ],
-    "name:rus_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u043e\u0432"
+    "name:rus_x_preferred": [
+      "Прушков"
     ],
-    "name:slk_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:slk_x_preferred": [
+      "Pruszków"
     ],
-    "name:spa_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:spa_x_preferred": [
+      "Pruszków"
     ],
-    "name:srp_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u043e\u0432"
+    "name:srp_x_preferred": [
+      "Прушков"
     ],
-    "name:swe_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:swe_x_preferred": [
+      "Pruszków"
     ],
-    "name:szl_x_preferred":[
-        "Pruszk\u016fw"
+    "name:szl_x_preferred": [
+      "Pruszkůw"
     ],
-    "name:tat_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u0443\u0432"
+    "name:tat_x_preferred": [
+      "Прушкув"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0440\u0443\u0448\u043a\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Прушкув"
     ],
-    "name:vie_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:vie_x_preferred": [
+      "Pruszków"
     ],
-    "name:war_x_preferred":[
-        "Pruszk\u00f3w"
+    "name:war_x_preferred": [
+      "Pruszków"
     ],
-    "name:zho_x_preferred":[
-        "\u666e\u9b6f\u65af\u79d1\u592b"
+    "name:zho_x_preferred": [
+      "普魯斯科夫"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":761229,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Pruszk\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos":1487,
-    "qs_pg:photos_1k":301,
-    "qs_pg:photos_9k":7,
-    "qs_pg:photos_9r":7,
-    "qs_pg:photos_all":1487,
-    "qs_pg:photos_sr":12,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":216670,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":514263,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1477752377,
-        85633723,
-        102079895
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 761229,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Pruszków",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos": 1487,
+    "qs_pg:photos_1k": 301,
+    "qs_pg:photos_9k": 7,
+    "qs_pg:photos_9r": 7,
+    "qs_pg:photos_all": 1487,
+    "qs_pg:photos_sr": 12,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 216670,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 514263,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":761229,
-        "gp:id":514263,
-        "qs_pg:id":216670
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1477752377,
+      85633723,
+      102079895
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 761229,
+      "gp:id": 514263,
+      "pl-gugik:jpt_kod_je": "101508_2.0013",
+      "qs_pg:id": 216670
     },
-    "wof:country":"PL",
-    "wof:created":1497296762,
-    "wof:geomhash":"b575d5ca6f81dcad2e784cf1cf4d83df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079895,
-            "localadmin_id":1477752377,
-            "locality_id":1125929705,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:created": 1497296762,
+    "wof:geomhash": "9329ad0254cf1ee4f123e392a1edebc2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079895,
+        "localadmin_id": 1477752377,
+        "locality_id": 1125929705,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1125929705,
-    "wof:lastmodified":1570036608,
-    "wof:name":"Pruszk\u00f3w",
-    "wof:parent_id":1477752377,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125929705,
+    "wof:lastmodified": 1675953111,
+    "wof:name": "Pruszków",
+    "wof:parent_id": 1477752377,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.14918,
-    51.89055,
-    20.14918,
-    51.89055
-],
-  "geometry": {"coordinates":[20.14918,51.89055],"type":"Point"}
+    20.13497750199605,
+    51.88761180601495,
+    20.16261352999884,
+    51.90181256301766
+  ],
+  "geometry": {"coordinates":[[[20.134978,51.893782],[20.135018,51.893819],[20.135559,51.894819],[20.135887,51.894789],[20.136545,51.89473],[20.136689,51.894717],[20.136844,51.894703],[20.137715,51.894624],[20.137838,51.894613],[20.138003,51.894599],[20.139748,51.897834],[20.14029,51.8977],[20.141168,51.897482],[20.14151,51.897397],[20.141842,51.897315],[20.142237,51.897217],[20.143314,51.896968],[20.143757,51.896865],[20.144161,51.896764],[20.145016,51.896551],[20.145143,51.896517],[20.14561,51.896393],[20.14598,51.896305],[20.1468,51.896111],[20.147521,51.895981],[20.147585,51.896014],[20.148513,51.896491],[20.148827,51.896603],[20.149157,51.896741],[20.149708,51.896972],[20.149848,51.897177],[20.149838,51.897237],[20.149773,51.897621],[20.149566,51.898262],[20.149349,51.898681],[20.149292,51.898756],[20.148808,51.899388],[20.148517,51.89977],[20.147855,51.900635],[20.147669,51.901075],[20.147909,51.901618],[20.147786,51.901813],[20.147947,51.9018],[20.147972,51.901798],[20.148679,51.901587],[20.148703,51.901575],[20.149138,51.901349],[20.149464,51.90118],[20.149488,51.901167],[20.149695,51.901102],[20.149955,51.901065],[20.150382,51.901048],[20.150685,51.901003],[20.150778,51.900989],[20.151018,51.90102],[20.151504,51.901083],[20.151875,51.901061],[20.152139,51.901046],[20.152281,51.901038],[20.152999,51.900762],[20.154729,51.900431],[20.154841,51.900805],[20.154911,51.900793],[20.155775,51.900653],[20.156515,51.900532],[20.157408,51.900386],[20.158067,51.900279],[20.158909,51.900141],[20.159371,51.900066],[20.159397,51.900062],[20.160148,51.900492],[20.160328,51.900594],[20.160526,51.900343],[20.160814,51.899976],[20.161459,51.899157],[20.161492,51.899115],[20.161747,51.898805],[20.161956,51.898549],[20.161975,51.898525],[20.162392,51.898016],[20.162416,51.897984],[20.162614,51.89772],[20.161168,51.896831],[20.161024,51.897317],[20.159777,51.898065],[20.159724,51.898033],[20.158424,51.897283],[20.156852,51.896399],[20.156752,51.896404],[20.156395,51.896548],[20.15505,51.896226],[20.153081,51.895649],[20.152029,51.895341],[20.151962,51.895321],[20.152449,51.894309],[20.152722,51.893742],[20.152945,51.893277],[20.153106,51.892944],[20.153278,51.892586],[20.153477,51.892173],[20.153657,51.891797],[20.153729,51.891647],[20.153801,51.891499],[20.153869,51.891356],[20.153938,51.891214],[20.154012,51.89106],[20.154081,51.890916],[20.154155,51.890764],[20.154218,51.890632],[20.154292,51.890478],[20.154395,51.890264],[20.154575,51.88989],[20.154654,51.889726],[20.155542,51.887879],[20.155623,51.887861],[20.155982,51.887731],[20.156053,51.887706],[20.155968,51.887612],[20.155537,51.887767],[20.155078,51.887932],[20.154663,51.888081],[20.154152,51.888265],[20.154101,51.888283],[20.153572,51.888545],[20.153055,51.888801],[20.153035,51.888811],[20.152794,51.888872],[20.152483,51.88895],[20.152182,51.889026],[20.152173,51.889028],[20.151766,51.889062],[20.151352,51.889097],[20.150773,51.889145],[20.150513,51.889167],[20.149802,51.889192],[20.14962,51.88916],[20.149192,51.889084],[20.149091,51.889088],[20.14892,51.889095],[20.148443,51.889115],[20.148132,51.889128],[20.147863,51.889139],[20.147569,51.889151],[20.147274,51.889164],[20.147254,51.889164],[20.14691,51.889179],[20.146661,51.889189],[20.146617,51.889191],[20.146232,51.889207],[20.146221,51.889208],[20.145743,51.889226],[20.14564,51.889229],[20.145302,51.889217],[20.144918,51.889202],[20.144656,51.889266],[20.144631,51.889273],[20.144047,51.889484],[20.144026,51.889491],[20.143115,51.889725],[20.14283,51.889766],[20.142493,51.889814],[20.142468,51.889818],[20.141992,51.889939],[20.141549,51.890052],[20.141531,51.89006],[20.141283,51.890167],[20.140997,51.890365],[20.140615,51.890574],[20.140597,51.890588],[20.140206,51.890865],[20.139836,51.891059],[20.139713,51.891124],[20.139166,51.891292],[20.138646,51.891511],[20.138623,51.891521],[20.138363,51.891689],[20.138072,51.891876],[20.137851,51.892019],[20.137785,51.892068],[20.137527,51.892261],[20.137275,51.892449],[20.136827,51.892733],[20.136518,51.892928],[20.13649,51.892946],[20.1363,51.893104],[20.136079,51.893288],[20.136055,51.893309],[20.135646,51.893566],[20.135614,51.893586],[20.135003,51.893774],[20.134978,51.893782]]],"type":"Polygon"}
 }

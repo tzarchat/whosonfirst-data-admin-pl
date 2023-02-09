@@ -2,108 +2,112 @@
   "id": 1125844853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.08846,50.92657,17.08846,50.92657",
-    "geom:latitude":50.92657,
-    "geom:longitude":17.08846,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":43,
-    "iso:country":"PL",
-    "lbl:bbox":"17.06846,50.90657,17.10846,50.94657",
-    "lbl:latitude":50.92657,
-    "lbl:longitude":17.08846,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Rac\u0142awice Ma\u0142e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001809209687023673,
+    "geom:area_square_m": 1415089.080217666,
+    "geom:bbox": "17.083028360997737,50.91974043901017,17.11292299800303,50.932693685012495",
+    "geom:latitude": 17.097196003348156,
+    "geom:longitude": 50.92657523448396,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 43,
+    "iso:country": "PL",
+    "lbl:bbox": "17.06846,50.90657,17.10846,50.94657",
+    "lbl:latitude": 50.92657,
+    "lbl:longitude": 17.08846,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Racławice Małe"
     ],
-    "name:eng_x_preferred":[
-        "Rac\u0142awice Ma\u0142e"
+    "name:eng_x_preferred": [
+      "Racławice Małe"
     ],
-    "name:fra_x_preferred":[
-        "Rac\u0142awice Ma\u0142e"
+    "name:fra_x_preferred": [
+      "Racławice Małe"
     ],
-    "name:pol_x_preferred":[
-        "Rac\u0142awice Ma\u0142e"
+    "name:pol_x_preferred": [
+      "Racławice Małe"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u0430\u0446\u043b\u0430\u0432\u0456\u0446\u0435-\u041c\u0430\u043b\u0435"
+    "name:ukr_x_preferred": [
+      "Рацлавіце-Мале"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3087574,
-    "qs_pg:gn_pop":43,
-    "qs_pg:name":"Rac\u0142awice Ma\u0142e",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Dolnosl\u0105skie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1216662,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":515048,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Dolnosl\u0105skie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687301,
-        102191581,
-        1125394733,
-        85633723,
-        102079685
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3087574,
+    "qs_pg:gn_pop": 43,
+    "qs_pg:name": "Racławice Małe",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Dolnosląskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1216662,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 515048,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3087574,
-        "gp:id":515048,
-        "qs_pg:id":1216662,
-        "wd:id":"Q7279893"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Dolnosląskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687301,
+      102191581,
+      1125394733,
+      85633723,
+      102079685
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3087574,
+      "gp:id": 515048,
+      "pl-gugik:jpt_kod_je": "022309_2.0018",
+      "qs_pg:id": 1216662,
+      "wd:id": "Q7279893"
     },
-    "wof:country":"PL",
-    "wof:created":1497293106,
-    "wof:geomhash":"7d9f2338246ce7e39c1ffc5d09c12132",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079685,
-            "localadmin_id":1125394733,
-            "locality_id":1125844853,
-            "region_id":85687301
-        }
+    "wof:country": "PL",
+    "wof:created": 1497293106,
+    "wof:geomhash": "943bb7073a23dc28ba45c69b8651aa40",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079685,
+        "localadmin_id": 1125394733,
+        "locality_id": 1125844853,
+        "region_id": 85687301
+      }
     ],
-    "wof:id":1125844853,
-    "wof:lastmodified":1570039926,
-    "wof:name":"Rac\u0142awice Ma\u0142e",
-    "wof:parent_id":1125394733,
-    "wof:placetype":"locality",
-    "wof:population":43,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125844853,
+    "wof:lastmodified": 1675953117,
+    "wof:name": "Racławice Małe",
+    "wof:parent_id": 1125394733,
+    "wof:placetype": "locality",
+    "wof:population": 43,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.08846,
-    50.92657,
-    17.08846,
-    50.92657
-],
-  "geometry": {"coordinates":[17.08846,50.92657],"type":"Point"}
+    17.083028360997737,
+    50.91974043901017,
+    17.11292299800303,
+    50.932693685012495
+  ],
+  "geometry": {"coordinates":[[[17.083028,50.925262],[17.08316,50.925564],[17.083378,50.926021],[17.084495,50.928018],[17.084505,50.928047],[17.084669,50.928361],[17.084734,50.928465],[17.085317,50.929364],[17.086139,50.930633],[17.085854,50.930796],[17.085743,50.930876],[17.085357,50.93124],[17.085063,50.931445],[17.08491,50.931559],[17.084759,50.931739],[17.084652,50.931897],[17.084556,50.932098],[17.084355,50.932552],[17.084425,50.932625],[17.085651,50.932694],[17.08594,50.932672],[17.087637,50.932546],[17.08775,50.932538],[17.091032,50.932324],[17.091457,50.932206],[17.091598,50.932155],[17.091642,50.932186],[17.092229,50.931891],[17.092479,50.931773],[17.093213,50.931428],[17.093281,50.931396],[17.093504,50.931292],[17.093922,50.931113],[17.094491,50.930918],[17.094746,50.93083],[17.095633,50.930524],[17.095849,50.93045],[17.095988,50.930402],[17.097079,50.93002],[17.097721,50.929793],[17.098114,50.929701],[17.098238,50.929674],[17.098479,50.929607],[17.09903,50.929477],[17.099632,50.929288],[17.100144,50.929118],[17.100673,50.928946],[17.101018,50.928806],[17.101133,50.928759],[17.10165,50.928553],[17.101869,50.928504],[17.102541,50.928347],[17.102824,50.928299],[17.102931,50.928281],[17.103202,50.928236],[17.103297,50.928226],[17.103788,50.928149],[17.104368,50.927991],[17.105198,50.927773],[17.105629,50.92766],[17.106764,50.927269],[17.106953,50.927204],[17.107717,50.926974],[17.108299,50.926798],[17.108558,50.926706],[17.109435,50.926389],[17.111184,50.925662],[17.112156,50.925295],[17.112733,50.925113],[17.112786,50.925108],[17.112827,50.925061],[17.112843,50.92498],[17.112923,50.924986],[17.1129,50.924914],[17.112805,50.924622],[17.112786,50.924564],[17.112585,50.921666],[17.112484,50.921198],[17.112409,50.921221],[17.111771,50.919801],[17.111738,50.91974],[17.111474,50.919803],[17.110228,50.920277],[17.107313,50.921935],[17.106395,50.922457],[17.106128,50.922556],[17.106114,50.922821],[17.105916,50.922901],[17.10533,50.922955],[17.103883,50.923089],[17.103335,50.923133],[17.103141,50.923151],[17.101952,50.923243],[17.100414,50.923326],[17.098386,50.923481],[17.097966,50.92352],[17.097987,50.923577],[17.097907,50.923587],[17.097886,50.923531],[17.097652,50.923547],[17.096619,50.923611],[17.0926,50.923864],[17.089645,50.924138],[17.089527,50.924196],[17.087691,50.924472],[17.087641,50.92448],[17.087611,50.924485],[17.087572,50.92449],[17.085058,50.924868],[17.083028,50.925262]]],"type":"Polygon"}
 }

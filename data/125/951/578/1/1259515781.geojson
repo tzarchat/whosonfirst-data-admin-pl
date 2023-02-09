@@ -2,81 +2,85 @@
   "id": 1259515781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.18424,52.35255,19.18424,52.35255",
-    "geom:latitude":52.35255,
-    "geom:longitude":19.18424,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"418.0",
-    "gn:admin3_code":"41811.0",
-    "gn:asciiname":"Blonie",
-    "gn:country_code":"PL",
-    "gn:dem":124,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103210,
-    "gn:latitude":52.35255,
-    "gn:longitude":19.18424,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"B\u0142onie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.16424,52.33255,19.20424,52.37255",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "B\u0142onie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017301826649975,
+    "geom:area_square_m": 1311719.7127705116,
+    "geom:bbox": "19.172017710002592,52.34823546601628,19.199201710998352,52.36119184701725",
+    "geom:latitude": 19.18606765697417,
+    "geom:longitude": 52.35543341080898,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "418.0",
+    "gn:admin3_code": "41811.0",
+    "gn:asciiname": "Blonie",
+    "gn:country_code": "PL",
+    "gn:dem": 124,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103210,
+    "gn:latitude": 52.35255,
+    "gn:longitude": 19.18424,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Błonie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.16424,52.33255,19.20424,52.37255",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Błonie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043b\u043e\u043d\u0435"
+    "name:ukr_x_preferred": [
+      "Блоне"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125401039,
-        85633723,
-        102079997
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103210,
-        "wk:page":"B%C5%82onie%2C_Kuyavian-Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125401039,
+      85633723,
+      102079997
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103210,
+      "pl-gugik:jpt_kod_je": "041811_5.0006",
+      "wk:page": "B%C5%82onie%2C_Kuyavian-Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"31dd2fc20f04b68f9c1fa26f32d5a2ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079997,
-            "localadmin_id":1125401039,
-            "locality_id":1259515781,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "8f83df4c9d4de966a40200e22c1ee89b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079997,
+        "localadmin_id": 1125401039,
+        "locality_id": 1259515781,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1259515781,
-    "wof:lastmodified":1570047684,
-    "wof:name":"Blonie",
-    "wof:parent_id":1125401039,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259515781,
+    "wof:lastmodified": 1675952135,
+    "wof:name": "Blonie",
+    "wof:parent_id": 1125401039,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.18424,
-    52.35255,
-    19.18424,
-    52.35255
-],
-  "geometry": {"coordinates":[19.18424,52.35255],"type":"Point"}
+    19.172017710002592,
+    52.34823546601628,
+    19.199201710998352,
+    52.36119184701725
+  ],
+  "geometry": {"coordinates":[[[19.172328,52.358396],[19.172959,52.358633],[19.173107,52.358688],[19.173955,52.35901],[19.174031,52.359045],[19.175059,52.359426],[19.175397,52.359554],[19.175732,52.35968],[19.176139,52.359825],[19.177291,52.360254],[19.178419,52.359508],[19.179011,52.359113],[19.179658,52.358672],[19.18029,52.358253],[19.180338,52.358219],[19.180645,52.358336],[19.180864,52.358419],[19.181381,52.35861],[19.181498,52.358652],[19.181869,52.358791],[19.183146,52.359269],[19.183464,52.359048],[19.18458,52.358286],[19.185235,52.357839],[19.185846,52.357422],[19.186012,52.357309],[19.186476,52.357541],[19.187405,52.358005],[19.188318,52.358462],[19.189402,52.359005],[19.190047,52.359342],[19.190228,52.35942],[19.19023,52.360517],[19.19024,52.360576],[19.190776,52.360561],[19.193706,52.360469],[19.196037,52.360407],[19.196061,52.360392],[19.198284,52.361192],[19.198437,52.361057],[19.198582,52.360928],[19.198756,52.360706],[19.199122,52.360342],[19.199202,52.360263],[19.198674,52.359586],[19.197378,52.357966],[19.19637,52.356686],[19.196128,52.356411],[19.196073,52.356344],[19.196029,52.356299],[19.195254,52.355284],[19.195032,52.355074],[19.193264,52.353262],[19.19316,52.353131],[19.192513,52.352647],[19.191729,52.35206],[19.191367,52.351789],[19.19096,52.351484],[19.190606,52.351219],[19.190108,52.350847],[19.189651,52.350505],[19.189143,52.350125],[19.188853,52.349616],[19.188028,52.349015],[19.187601,52.348687],[19.187503,52.348611],[19.187395,52.348528],[19.187114,52.348413],[19.186566,52.348317],[19.185318,52.348235],[19.185303,52.348246],[19.180827,52.351296],[19.180952,52.351449],[19.180715,52.35161],[19.179337,52.352494],[19.175816,52.354754],[19.175868,52.35477],[19.17625,52.354937],[19.176538,52.355079],[19.174949,52.356207],[19.172018,52.358284],[19.172328,52.358396]]],"type":"Polygon"}
 }

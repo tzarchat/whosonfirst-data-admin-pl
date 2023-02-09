@@ -2,117 +2,121 @@
   "id": 1125799923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.61567,52.15034,20.61567,52.15034",
-    "geom:latitude":52.15034,
-    "geom:longitude":20.61567,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":361,
-    "iso:country":"PL",
-    "lbl:bbox":"20.59567,52.13034,20.63567,52.17034",
-    "lbl:latitude":52.15034,
-    "lbl:longitude":20.61567,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "T\u0142uste"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000166087769299178,
+    "geom:area_square_m": 1264921.8071246026,
+    "geom:bbox": "20.60332379000122,52.14318194401554,20.62312104400315,52.16029285601714",
+    "geom:latitude": 20.612120013936305,
+    "geom:longitude": 52.151565873414185,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 361,
+    "iso:country": "PL",
+    "lbl:bbox": "20.59567,52.13034,20.63567,52.17034",
+    "lbl:latitude": 52.15034,
+    "lbl:longitude": 20.61567,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Tłuste"
     ],
-    "name:azb_x_preferred":[
-        "\u062a\u0648\u0648\u0633\u062a"
+    "name:azb_x_preferred": [
+      "تووست"
     ],
-    "name:ceb_x_preferred":[
-        "T\u0142uste"
+    "name:ceb_x_preferred": [
+      "Tłuste"
     ],
-    "name:eng_x_preferred":[
-        "T\u0142uste"
+    "name:eng_x_preferred": [
+      "Tłuste"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0648\u0648\u0633\u062a"
+    "name:fas_x_preferred": [
+      "تووست"
     ],
-    "name:fra_x_preferred":[
-        "T\u0142uste"
+    "name:fra_x_preferred": [
+      "Tłuste"
     ],
-    "name:pol_x_preferred":[
-        "T\u0142uste"
+    "name:pol_x_preferred": [
+      "Tłuste"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u043b\u0443\u0441\u0442\u0435"
+    "name:ukr_x_preferred": [
+      "Тлусте"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":756920,
-    "qs_pg:gn_pop":361,
-    "qs_pg:name":"T\u0142uste",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":182267,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":522510,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751927,
-        85633723,
-        102079909
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 756920,
+    "qs_pg:gn_pop": 361,
+    "qs_pg:name": "Tłuste",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 182267,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 522510,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756920,
-        "gp:id":522510,
-        "qs_pg:id":182267,
-        "wd:id":"Q7862622"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751927,
+      85633723,
+      102079909
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756920,
+      "gp:id": 522510,
+      "pl-gugik:jpt_kod_je": "140504_5.0029",
+      "qs_pg:id": 182267,
+      "wd:id": "Q7862622"
     },
-    "wof:country":"PL",
-    "wof:created":1497291217,
-    "wof:geomhash":"245480cabff77585ce11e9d8d20d8c6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079909,
-            "localadmin_id":1477751927,
-            "locality_id":1125799923,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497291217,
+    "wof:geomhash": "2d915a0f67ffeafc1a76101d725e75c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079909,
+        "localadmin_id": 1477751927,
+        "locality_id": 1125799923,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125799923,
-    "wof:lastmodified":1570039845,
-    "wof:name":"T\u0142uste",
-    "wof:parent_id":1477751927,
-    "wof:placetype":"locality",
-    "wof:population":361,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125799923,
+    "wof:lastmodified": 1675953133,
+    "wof:name": "Tłuste",
+    "wof:parent_id": 1477751927,
+    "wof:placetype": "locality",
+    "wof:population": 361,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.61567,
-    52.15034,
-    20.61567,
-    52.15034
-],
-  "geometry": {"coordinates":[20.61567,52.15034],"type":"Point"}
+    20.60332379000122,
+    52.14318194401554,
+    20.62312104400315,
+    52.16029285601714
+  ],
+  "geometry": {"coordinates":[[[20.609143,52.143182],[20.608901,52.143823],[20.608671,52.144431],[20.608596,52.144615],[20.608425,52.14507],[20.608401,52.145152],[20.608367,52.145239],[20.60812,52.145879],[20.60774,52.146864],[20.607717,52.146906],[20.607693,52.146988],[20.607674,52.147018],[20.607537,52.147397],[20.606971,52.148865],[20.606534,52.150019],[20.606483,52.150153],[20.606133,52.151079],[20.605916,52.151639],[20.605851,52.151789],[20.605695,52.15222],[20.605605,52.152468],[20.605512,52.152724],[20.60542,52.152978],[20.60531,52.153281],[20.605107,52.153841],[20.604901,52.154406],[20.604772,52.15476],[20.604647,52.155106],[20.604558,52.155347],[20.604472,52.155583],[20.604425,52.155586],[20.603324,52.155658],[20.603469,52.157113],[20.603511,52.157539],[20.603633,52.157578],[20.603733,52.157609],[20.603752,52.157615],[20.604751,52.157927],[20.606475,52.158466],[20.606502,52.158474],[20.607797,52.158881],[20.609509,52.159419],[20.609553,52.159433],[20.612027,52.160214],[20.612269,52.160293],[20.612277,52.16014],[20.612285,52.159995],[20.612292,52.159842],[20.612333,52.159057],[20.612336,52.159003],[20.612345,52.158825],[20.61237,52.158328],[20.612385,52.158065],[20.612393,52.157895],[20.612397,52.157815],[20.612407,52.157681],[20.612415,52.15758],[20.612426,52.157426],[20.612436,52.157293],[20.612447,52.157149],[20.61246,52.15698],[20.612468,52.156875],[20.612478,52.156745],[20.612484,52.15666],[20.612499,52.156462],[20.612519,52.156196],[20.612526,52.156103],[20.612601,52.155118],[20.612603,52.155085],[20.612607,52.155032],[20.614149,52.15494],[20.614528,52.154912],[20.61459,52.15488],[20.614622,52.154818],[20.614659,52.154714],[20.614748,52.154463],[20.614884,52.154093],[20.615115,52.153987],[20.617187,52.15407],[20.617291,52.154067],[20.617386,52.154042],[20.61883,52.153576],[20.619065,52.152066],[20.619066,52.152035],[20.620203,52.15238],[20.621749,52.152563],[20.622515,52.152801],[20.62253,52.152719],[20.622544,52.152681],[20.622688,52.151904],[20.622777,52.151388],[20.623121,52.149579],[20.622379,52.149211],[20.621995,52.149021],[20.621876,52.148962],[20.621589,52.148828],[20.61893,52.148221],[20.616887,52.147747],[20.616654,52.1477],[20.616957,52.147069],[20.615591,52.14697],[20.61561,52.146944],[20.615706,52.146381],[20.615815,52.145754],[20.615863,52.145491],[20.615658,52.145129],[20.614242,52.14471],[20.613182,52.144396],[20.612535,52.144204],[20.612456,52.144181],[20.611928,52.144024],[20.61175,52.143972],[20.611603,52.143928],[20.611461,52.143883],[20.611252,52.143822],[20.611072,52.143767],[20.610836,52.143696],[20.610783,52.143678],[20.610552,52.14361],[20.610379,52.143556],[20.610223,52.143509],[20.609898,52.14341],[20.609872,52.143402],[20.609532,52.1433],[20.609341,52.143242],[20.609143,52.143182]]],"type":"Polygon"}
 }

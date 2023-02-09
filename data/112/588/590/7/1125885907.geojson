@@ -2,111 +2,115 @@
   "id": 1125885907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.93976,52.6204,19.93976,52.6204",
-    "geom:latitude":52.6204,
-    "geom:longitude":19.93976,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":140,
-    "iso:country":"PL",
-    "lbl:bbox":"19.91976,52.6004,19.95976,52.6404",
-    "lbl:latitude":52.6204,
-    "lbl:longitude":19.93976,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Opat\u00f3wiec"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00005218280235299368,
+    "geom:area_square_m": 393288.7750663012,
+    "geom:bbox": "19.938300249993777,52.61377949001562,19.9505487210019,52.62203146801691",
+    "geom:latitude": 19.945423431804745,
+    "geom:longitude": 52.61796859915319,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 140,
+    "iso:country": "PL",
+    "lbl:bbox": "19.91976,52.6004,19.95976,52.6404",
+    "lbl:latitude": 52.6204,
+    "lbl:longitude": 19.93976,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Opatówiec"
     ],
-    "name:ceb_x_preferred":[
-        "Opat\u00f3wiec"
+    "name:ceb_x_preferred": [
+      "Opatówiec"
     ],
-    "name:eng_x_preferred":[
-        "Opat\u00f3wiec"
+    "name:eng_x_preferred": [
+      "Opatówiec"
     ],
-    "name:fra_x_preferred":[
-        "Opat\u00f3wiec"
+    "name:fra_x_preferred": [
+      "Opatówiec"
     ],
-    "name:pol_x_preferred":[
-        "Opat\u00f3wiec"
+    "name:pol_x_preferred": [
+      "Opatówiec"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u043f\u0430\u0442\u0443\u0432\u0435\u0446\u044c"
+    "name:ukr_x_preferred": [
+      "Опатувець"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3090061,
-    "qs_pg:gn_pop":140,
-    "qs_pg:name":"Opat\u00f3wiec",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1216222,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":510662,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125317047,
-        85633723,
-        102080003
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3090061,
+    "qs_pg:gn_pop": 140,
+    "qs_pg:name": "Opatówiec",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1216222,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 510662,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3090061,
-        "gp:id":510662,
-        "qs_pg:id":1216222,
-        "wd:id":"Q7095638"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125317047,
+      85633723,
+      102080003
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3090061,
+      "gp:id": 510662,
+      "pl-gugik:jpt_kod_je": "141914_2.0022",
+      "qs_pg:id": 1216222,
+      "wd:id": "Q7095638"
     },
-    "wof:country":"PL",
-    "wof:created":1497295074,
-    "wof:geomhash":"d98c48cfb6ed37d53d68567c457e243d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080003,
-            "localadmin_id":1125317047,
-            "locality_id":1125885907,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295074,
+    "wof:geomhash": "dbbeff8f05c32c3f7a7df9102292f3b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080003,
+        "localadmin_id": 1125317047,
+        "locality_id": 1125885907,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1125885907,
-    "wof:lastmodified":1570037366,
-    "wof:name":"Opat\u00f3wiec",
-    "wof:parent_id":1125317047,
-    "wof:placetype":"locality",
-    "wof:population":140,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125885907,
+    "wof:lastmodified": 1675953131,
+    "wof:name": "Opatówiec",
+    "wof:parent_id": 1125317047,
+    "wof:placetype": "locality",
+    "wof:population": 140,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.93976,
-    52.6204,
-    19.93976,
-    52.6204
-],
-  "geometry": {"coordinates":[19.93976,52.6204],"type":"Point"}
+    19.938300249993777,
+    52.61377949001562,
+    19.9505487210019,
+    52.62203146801691
+  ],
+  "geometry": {"coordinates":[[[19.944798,52.613779],[19.94462,52.613781],[19.944247,52.613785],[19.944192,52.613786],[19.944087,52.613871],[19.94403,52.613917],[19.944,52.613926],[19.942461,52.614364],[19.942231,52.614429],[19.941925,52.614517],[19.942445,52.615348],[19.942607,52.615575],[19.942943,52.615948],[19.944003,52.617147],[19.942875,52.617383],[19.943055,52.617916],[19.943114,52.618091],[19.941433,52.617616],[19.940129,52.617251],[19.9383,52.61674],[19.939534,52.618369],[19.94098,52.620291],[19.9422,52.619992],[19.943685,52.619624],[19.943724,52.619729],[19.943924,52.620228],[19.944546,52.622031],[19.944905,52.621923],[19.945454,52.621776],[19.946051,52.621608],[19.946742,52.621413],[19.947538,52.621189],[19.948236,52.62099],[19.948321,52.620965],[19.949749,52.620559],[19.94972,52.619955],[19.949677,52.619791],[19.949783,52.619324],[19.949955,52.618571],[19.950061,52.618105],[19.950067,52.61808],[19.950075,52.618042],[19.950549,52.615856],[19.949508,52.615843],[19.948647,52.615813],[19.948632,52.615813],[19.94832,52.615853],[19.948072,52.615887],[19.947984,52.615909],[19.947963,52.615897],[19.947597,52.615687],[19.947438,52.615564],[19.946378,52.614743],[19.945449,52.614093],[19.944798,52.613779]]],"type":"Polygon"}
 }

@@ -2,121 +2,125 @@
   "id": 1125971997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.50894,54.75919,18.50894,54.75919",
-    "geom:latitude":54.75919,
-    "geom:longitude":18.50894,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"18.48894,54.73919,18.52894,54.77919",
-    "lbl:latitude":54.75919,
-    "lbl:longitude":18.50894,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ces_x_preferred":[
-        "Cha\u0142upy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001212032357402386,
+    "geom:area_square_m": 868826.5495342147,
+    "geom:bbox": "18.495674253993062,54.75222554102457,18.529330162996416,54.76633680301754",
+    "geom:latitude": 18.511082855647878,
+    "geom:longitude": 54.759784571444484,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "18.48894,54.73919,18.52894,54.77919",
+    "lbl:latitude": 54.75919,
+    "lbl:longitude": 18.50894,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred": [
+      "Chałupy"
     ],
-    "name:csb_x_preferred":[
-        "Cha\u0142\u00ebp\u00eb"
+    "name:csb_x_preferred": [
+      "Chałëpë"
     ],
-    "name:deu_x_preferred":[
-        "Cha\u0142upy"
+    "name:deu_x_preferred": [
+      "Chałupy"
     ],
-    "name:eng_x_preferred":[
-        "Cha\u0142upy"
+    "name:eng_x_preferred": [
+      "Chałupy"
     ],
-    "name:nan_x_preferred":[
-        "Cha\u0142upy"
+    "name:nan_x_preferred": [
+      "Chałupy"
     ],
-    "name:nld_x_preferred":[
-        "Cha\u0142upy"
+    "name:nld_x_preferred": [
+      "Chałupy"
     ],
-    "name:pol_x_preferred":[
-        "Cha\u0142upy"
+    "name:pol_x_preferred": [
+      "Chałupy"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u043b\u0443\u0491\u0430-\u0490\u043e\u0441\u043b\u0456\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Длуґа-Ґосліна"
     ],
-    "name:ukr_x_variant":[
-        "\u0425\u0430\u043b\u0443\u043f\u0438"
+    "name:ukr_x_variant": [
+      "Халупи"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3101849,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Cha\u0142upy",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Pomorskie",
-    "qs_pg:photos":1040,
-    "qs_pg:photos_1k":211,
-    "qs_pg:photos_9k":5,
-    "qs_pg:photos_9r":7,
-    "qs_pg:photos_all":1040,
-    "qs_pg:photos_sr":11,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1312860,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":489083,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125415495,
-        85633723,
-        102080269
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3101849,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Chałupy",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Pomorskie",
+    "qs_pg:photos": 1040,
+    "qs_pg:photos_1k": 211,
+    "qs_pg:photos_9k": 5,
+    "qs_pg:photos_9r": 7,
+    "qs_pg:photos_all": 1040,
+    "qs_pg:photos_sr": 11,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1312860,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 489083,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101849,
-        "gp:id":489083,
-        "qs_pg:id":1312860,
-        "wd:id":"Q3060591"
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125415495,
+      85633723,
+      102080269
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101849,
+      "gp:id": 489083,
+      "pl-gugik:jpt_kod_je": "221104_5.0001",
+      "qs_pg:id": 1312860,
+      "wd:id": "Q3060591"
     },
-    "wof:country":"PL",
-    "wof:created":1497298204,
-    "wof:geomhash":"2c46d55a876979c072e6d7c43d2bb63b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080269,
-            "localadmin_id":1125415495,
-            "locality_id":1125971997,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298204,
+    "wof:geomhash": "8a2f14d39454b0d0f2eb9bbf10ade045",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080269,
+        "localadmin_id": 1125415495,
+        "locality_id": 1125971997,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1125971997,
-    "wof:lastmodified":1570037908,
-    "wof:name":"Cha\u0142upy",
-    "wof:parent_id":1125415495,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125971997,
+    "wof:lastmodified": 1675953125,
+    "wof:name": "Chałupy",
+    "wof:parent_id": 1125415495,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.50894,
-    54.75919,
-    18.50894,
-    54.75919
-],
-  "geometry": {"coordinates":[18.50894,54.75919],"type":"Point"}
+    18.495674253993062,
+    54.75222554102457,
+    18.529330162996416,
+    54.76633680301754
+  ],
+  "geometry": {"coordinates":[[[18.523967,54.753561],[18.523679,54.754065],[18.523535,54.754248],[18.523152,54.754724],[18.522703,54.755002],[18.522649,54.755036],[18.522645,54.755032],[18.517414,54.756766],[18.517355,54.756772],[18.512757,54.757281],[18.512365,54.757359],[18.512292,54.757373],[18.511151,54.7576],[18.510639,54.757702],[18.510565,54.757715],[18.509979,54.757824],[18.509887,54.757841],[18.509874,54.757844],[18.509621,54.757903],[18.506586,54.758603],[18.506349,54.758685],[18.506288,54.758706],[18.505628,54.758934],[18.504846,54.759384],[18.50475,54.759439],[18.504468,54.759602],[18.503952,54.759895],[18.50202,54.760568],[18.502026,54.760573],[18.501081,54.760882],[18.499829,54.761101],[18.499515,54.761206],[18.499324,54.761187],[18.498923,54.761236],[18.498811,54.76129],[18.498552,54.761418],[18.498439,54.761433],[18.497694,54.761663],[18.497591,54.761679],[18.496955,54.761781],[18.496077,54.76185],[18.495674,54.76207],[18.495836,54.762305],[18.496336,54.763031],[18.496371,54.763083],[18.496495,54.763248],[18.496651,54.763471],[18.496704,54.763539],[18.496771,54.763648],[18.497123,54.764214],[18.497356,54.764591],[18.497386,54.764638],[18.497585,54.764959],[18.497858,54.765398],[18.49844,54.766337],[18.52933,54.755405],[18.52848,54.75479],[18.528195,54.754584],[18.527964,54.75442],[18.52789,54.754367],[18.527833,54.754326],[18.527798,54.754302],[18.52775,54.754264],[18.527401,54.753991],[18.527265,54.753888],[18.52707,54.753749],[18.526993,54.753695],[18.526912,54.753639],[18.525085,54.752343],[18.524985,54.752272],[18.524923,54.752226],[18.523967,54.753561]]],"type":"Polygon"}
 }

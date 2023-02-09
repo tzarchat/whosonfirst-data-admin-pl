@@ -2,161 +2,165 @@
   "id": 1293519963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.34571,53.38834,23.34571,53.38834",
-    "geom:latitude":53.38834,
-    "geom:longitude":23.34571,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2011.0",
-    "gn:admin3_code":"201108.0",
-    "gn:asciiname":"Halo",
-    "gn:country_code":"PL",
-    "gn:dem":162,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":771148,
-    "gn:latitude":53.38834,
-    "gn:longitude":23.34571,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Ha\u0142o",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.32571,53.36834,23.36571,53.40834",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ara_x_preferred":[
-        "\u0647\u0627\u0644\u0629"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000513191517800887,
+    "geom:area_square_m": 3799911.0530816196,
+    "geom:bbox": "23.324256511075564,53.378317491021726,23.356440557090433,53.40225934601952",
+    "geom:latitude": 23.339299564782774,
+    "geom:longitude": 53.38982565430699,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2011.0",
+    "gn:admin3_code": "201108.0",
+    "gn:asciiname": "Halo",
+    "gn:country_code": "PL",
+    "gn:dem": 162,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 771148,
+    "gn:latitude": 53.38834,
+    "gn:longitude": 23.34571,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Hało",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.32571,53.36834,23.36571,53.40834",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ara_x_preferred": [
+      "هالة"
     ],
-    "name:aze_x_preferred":[
-        "Halo"
+    "name:aze_x_preferred": [
+      "Halo"
     ],
-    "name:cat_x_preferred":[
-        "Halo"
+    "name:cat_x_preferred": [
+      "Halo"
     ],
-    "name:ceb_x_preferred":[
-        "Halo"
+    "name:ceb_x_preferred": [
+      "Halo"
     ],
-    "name:dan_x_preferred":[
-        "Halo"
+    "name:dan_x_preferred": [
+      "Halo"
     ],
-    "name:deu_x_preferred":[
-        "Halo"
+    "name:deu_x_preferred": [
+      "Halo"
     ],
-    "name:ell_x_preferred":[
-        "Halo"
+    "name:ell_x_preferred": [
+      "Halo"
     ],
-    "name:eus_x_preferred":[
-        "Halo"
+    "name:eus_x_preferred": [
+      "Halo"
     ],
-    "name:fin_x_preferred":[
-        "Halo"
+    "name:fin_x_preferred": [
+      "Halo"
     ],
-    "name:fra_x_preferred":[
-        "Halo"
+    "name:fra_x_preferred": [
+      "Halo"
     ],
-    "name:heb_x_preferred":[
-        "Halo"
+    "name:heb_x_preferred": [
+      "Halo"
     ],
-    "name:hrv_x_preferred":[
-        "Halo"
+    "name:hrv_x_preferred": [
+      "Halo"
     ],
-    "name:hun_x_preferred":[
-        "Halo"
+    "name:hun_x_preferred": [
+      "Halo"
     ],
-    "name:ind_x_preferred":[
-        "Halo"
+    "name:ind_x_preferred": [
+      "Halo"
     ],
-    "name:ita_x_preferred":[
-        "Halo"
+    "name:ita_x_preferred": [
+      "Halo"
     ],
-    "name:kor_x_preferred":[
-        "\ud5e4\uc77c\ub85c"
+    "name:kor_x_preferred": [
+      "헤일로"
     ],
-    "name:nld_x_preferred":[
-        "Halo"
+    "name:nld_x_preferred": [
+      "Halo"
     ],
-    "name:nno_x_preferred":[
-        "Halo"
+    "name:nno_x_preferred": [
+      "Halo"
     ],
-    "name:nor_x_preferred":[
-        "Halo"
+    "name:nor_x_preferred": [
+      "Halo"
     ],
-    "name:pol_x_preferred":[
-        "Halo"
+    "name:pol_x_preferred": [
+      "Halo"
     ],
-    "name:por_x_preferred":[
-        "Halo"
+    "name:por_x_preferred": [
+      "Halo"
     ],
-    "name:ron_x_preferred":[
-        "Halo"
+    "name:ron_x_preferred": [
+      "Halo"
     ],
-    "name:rus_x_preferred":[
-        "Halo"
+    "name:rus_x_preferred": [
+      "Halo"
     ],
-    "name:slk_x_preferred":[
-        "Halo"
+    "name:slk_x_preferred": [
+      "Halo"
     ],
-    "name:slv_x_preferred":[
-        "Halo"
+    "name:slv_x_preferred": [
+      "Halo"
     ],
-    "name:spa_x_preferred":[
-        "Halo"
+    "name:spa_x_preferred": [
+      "Halo"
     ],
-    "name:swe_x_preferred":[
-        "Halo"
+    "name:swe_x_preferred": [
+      "Halo"
     ],
-    "name:tur_x_preferred":[
-        "Halo"
+    "name:tur_x_preferred": [
+      "Halo"
     ],
-    "name:zho_x_preferred":[
-        "Halo"
+    "name:zho_x_preferred": [
+      "Halo"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125363985,
-        85633723,
-        102080189
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":771148
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125363985,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 771148,
+      "pl-gugik:jpt_kod_je": "201108_5.0012"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"435d1573a6b208ae16aced96d7ad3987",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1125363985,
-            "locality_id":1293519963,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "693c7b637afe87af71131e34ac05d7e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1125363985,
+        "locality_id": 1293519963,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1293519963,
-    "wof:lastmodified":1570015326,
-    "wof:name":"Halo",
-    "wof:parent_id":1125363985,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293519963,
+    "wof:lastmodified": 1675952165,
+    "wof:name": "Halo",
+    "wof:parent_id": 1125363985,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.34571,
-    53.38834,
-    23.34571,
-    53.38834
-],
-  "geometry": {"coordinates":[23.34571,53.38834],"type":"Point"}
+    23.324256511075564,
+    53.378317491021726,
+    23.356440557090433,
+    53.40225934601952
+  ],
+  "geometry": {"coordinates":[[[23.324257,53.386113],[23.324599,53.387385],[23.324793,53.388136],[23.324968,53.388809],[23.325122,53.38944],[23.325429,53.390692],[23.325463,53.390804],[23.325642,53.391406],[23.326824,53.391217],[23.328342,53.390974],[23.328895,53.393198],[23.32891,53.393274],[23.328922,53.393337],[23.329132,53.394199],[23.329388,53.395249],[23.329559,53.39581],[23.329682,53.396351],[23.329812,53.397285],[23.32791,53.397372],[23.326841,53.397443],[23.327097,53.398744],[23.327156,53.398837],[23.327257,53.399267],[23.327555,53.400911],[23.327603,53.401329],[23.327751,53.402009],[23.32782,53.402001],[23.330601,53.401664],[23.330663,53.401936],[23.330735,53.402252],[23.332945,53.402259],[23.333074,53.401946],[23.333105,53.401868],[23.333373,53.401217],[23.333486,53.40096],[23.334017,53.399728],[23.334234,53.39912],[23.33426,53.399055],[23.334511,53.398446],[23.335917,53.398498],[23.33651,53.398521],[23.336653,53.398525],[23.336774,53.39853],[23.337577,53.398543],[23.337794,53.398551],[23.340283,53.398657],[23.340317,53.399451],[23.340477,53.399459],[23.34099,53.399483],[23.341051,53.399486],[23.341614,53.399513],[23.341714,53.399518],[23.342078,53.399535],[23.342467,53.399554],[23.342832,53.399571],[23.342911,53.399575],[23.343049,53.399582],[23.343407,53.399599],[23.344293,53.398775],[23.345781,53.398814],[23.348046,53.398903],[23.349656,53.398947],[23.351255,53.399002],[23.351915,53.399035],[23.35283,53.399065],[23.35286,53.399066],[23.35292,53.399068],[23.353001,53.398034],[23.35309,53.397006],[23.353133,53.396509],[23.35447,53.395316],[23.354649,53.394939],[23.354452,53.394452],[23.353289,53.393721],[23.35335,53.392796],[23.353371,53.392317],[23.35341,53.391414],[23.353532,53.389875],[23.353579,53.387979],[23.353838,53.387931],[23.354144,53.387874],[23.354802,53.387751],[23.355145,53.387687],[23.355291,53.387659],[23.355564,53.387546],[23.356441,53.387184],[23.355614,53.386852],[23.355201,53.386686],[23.35438,53.386357],[23.353721,53.385455],[23.353726,53.385375],[23.353735,53.384721],[23.353806,53.383217],[23.353714,53.383198],[23.3529,53.383025],[23.351754,53.382782],[23.351734,53.382778],[23.350372,53.382489],[23.349212,53.382268],[23.349132,53.382252],[23.346294,53.381709],[23.345656,53.381588],[23.34456,53.381378],[23.343468,53.381171],[23.341361,53.380767],[23.341242,53.380745],[23.339133,53.380342],[23.337736,53.380075],[23.337554,53.380041],[23.337523,53.380035],[23.336278,53.379796],[23.332573,53.379088],[23.332034,53.378985],[23.329758,53.37855],[23.328888,53.378384],[23.328539,53.378317],[23.328883,53.379372],[23.32849,53.379415],[23.328004,53.379469],[23.327765,53.379495],[23.325278,53.379766],[23.324732,53.379828],[23.324645,53.379834],[23.324657,53.379874],[23.324985,53.380891],[23.325027,53.381033],[23.325179,53.381473],[23.325297,53.381807],[23.325636,53.382778],[23.326162,53.383752],[23.326529,53.384666],[23.326789,53.384661],[23.327038,53.385692],[23.324257,53.386113]]],"type":"Polygon"}
 }

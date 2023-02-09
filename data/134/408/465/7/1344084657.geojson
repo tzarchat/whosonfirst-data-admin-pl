@@ -2,78 +2,82 @@
   "id": 1344084657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.34967,54.17049,21.34967,54.17049",
-    "geom:latitude":54.17049,
-    "geom:longitude":21.34967,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2808.0",
-    "gn:admin3_code":"280802.0",
-    "gn:asciiname":"Platlawki",
-    "gn:country_code":"PL",
-    "gn:dem":78,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":762077,
-    "gn:latitude":54.17049,
-    "gn:longitude":21.34967,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"P\u0142at\u0142awki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.32967,54.15049,21.36967,54.19049",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Platlack",
-        "P\u0142at\u0142awki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001548604746362678,
+    "geom:area_square_m": 1125790.492791742,
+    "geom:bbox": "21.337720063007595,54.16102711101947,21.364139546009465,54.175082275018255",
+    "geom:latitude": 21.350756840636524,
+    "geom:longitude": 54.16789461202191,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2808.0",
+    "gn:admin3_code": "280802.0",
+    "gn:asciiname": "Platlawki",
+    "gn:country_code": "PL",
+    "gn:dem": 78,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 762077,
+    "gn:latitude": 54.17049,
+    "gn:longitude": 21.34967,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Płatławki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.32967,54.15049,21.36967,54.19049",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:und_x_variant": [
+      "Platlack",
+      "Płatławki"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477751361,
-        85633723,
-        102080249
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762077
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477751361,
+      85633723,
+      102080249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762077,
+      "pl-gugik:jpt_kod_je": "280802_2.0039"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"199b7881f748cd86f5784d927313bebd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080249,
-            "localadmin_id":1477751361,
-            "locality_id":1344084657,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d2ae9f9c4749862991278da1886c0010",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080249,
+        "localadmin_id": 1477751361,
+        "locality_id": 1344084657,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1344084657,
-    "wof:lastmodified":1570009547,
-    "wof:name":"Platlawki",
-    "wof:parent_id":1477751361,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344084657,
+    "wof:lastmodified": 1675952163,
+    "wof:name": "Platlawki",
+    "wof:parent_id": 1477751361,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.34967,
-    54.17049,
-    21.34967,
-    54.17049
-],
-  "geometry": {"coordinates":[21.34967,54.17049],"type":"Point"}
+    21.337720063007595,
+    54.16102711101947,
+    21.364139546009465,
+    54.175082275018255
+  ],
+  "geometry": {"coordinates":[[[21.345969,54.174186],[21.347857,54.17305],[21.348272,54.172793],[21.348905,54.172135],[21.349072,54.172305],[21.349823,54.173126],[21.351097,54.172173],[21.352088,54.171512],[21.352375,54.171316],[21.353542,54.170525],[21.35369,54.170427],[21.354924,54.169478],[21.355837,54.16967],[21.356442,54.169243],[21.359111,54.167343],[21.360729,54.165764],[21.362779,54.163808],[21.36414,54.162494],[21.363159,54.161895],[21.362231,54.162795],[21.361723,54.162534],[21.360431,54.1619],[21.359581,54.162531],[21.356154,54.161027],[21.354799,54.16193],[21.352362,54.163553],[21.350958,54.162924],[21.348631,54.16451],[21.347598,54.165212],[21.347547,54.165246],[21.347434,54.165319],[21.346611,54.165876],[21.345318,54.166725],[21.344287,54.167395],[21.344224,54.167439],[21.340844,54.169728],[21.33772,54.171855],[21.33882,54.172357],[21.338878,54.172386],[21.339982,54.172935],[21.341676,54.173745],[21.344389,54.175049],[21.344463,54.175082],[21.345969,54.174186]]],"type":"Polygon"}
 }

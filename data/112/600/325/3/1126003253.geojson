@@ -2,125 +2,129 @@
   "id": 1126003253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.4099,52.06215,17.4099,52.06215",
-    "geom:latitude":52.06215,
-    "geom:longitude":17.4099,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":297,
-    "iso:country":"PL",
-    "lbl:bbox":"17.3899,52.04215,17.4299,52.08215",
-    "lbl:latitude":52.06215,
-    "lbl:longitude":17.4099,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Aleksandr\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006617239027223895,
+    "geom:area_square_m": 5050283.882946052,
+    "geom:bbox": "17.39696714899756,52.047435442014425,17.457395690994005,52.06953605101349",
+    "geom:latitude": 17.418966206453103,
+    "geom:longitude": 52.056994756752175,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 297,
+    "iso:country": "PL",
+    "lbl:bbox": "17.3899,52.04215,17.4299,52.08215",
+    "lbl:latitude": 52.06215,
+    "lbl:longitude": 17.4099,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:deu_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:deu_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:fra_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:fra_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:hsb_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:hsb_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:ita_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:ita_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:nld_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:nld_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:pol_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:pol_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:ron_x_preferred":[
-        "Aleksandr\u00f3w"
+    "name:ron_x_preferred": [
+      "Aleksandrów"
     ],
-    "name:rus_x_preferred":[
-        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443\u0432"
+    "name:rus_x_preferred": [
+      "Александрув"
     ],
-    "name:ukr_x_preferred":[
-        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Александрув"
     ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05dc\u05e2\u05e7\u05e1\u05d0\u05e0\u05d3\u05e2\u05e8"
+    "name:yid_x_preferred": [
+      "אלעקסאנדער"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3104142,
-    "qs_pg:gn_pop":297,
-    "qs_pg:name":"Aleksandr\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":293328,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":484938,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477751827,
-        85633723,
-        102079893
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3104142,
+    "qs_pg:gn_pop": 297,
+    "qs_pg:name": "Aleksandrów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 293328,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 484938,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3104142,
-        "gp:id":484938,
-        "qs_pg:id":293328
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477751827,
+      85633723,
+      102079893
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3104142,
+      "gp:id": 484938,
+      "pl-gugik:jpt_kod_je": "302503_2.0001",
+      "qs_pg:id": 293328
     },
-    "wof:country":"PL",
-    "wof:created":1497299780,
-    "wof:geomhash":"c0b6a62eb0fd0b65137f9a224524c6ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079893,
-            "localadmin_id":1477751827,
-            "locality_id":1126003253,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299780,
+    "wof:geomhash": "97658b1998d82e1f80afbf54abb741fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079893,
+        "localadmin_id": 1477751827,
+        "locality_id": 1126003253,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126003253,
-    "wof:lastmodified":1570039134,
-    "wof:name":"Aleksandr\u00f3w",
-    "wof:parent_id":1477751827,
-    "wof:placetype":"locality",
-    "wof:population":297,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126003253,
+    "wof:lastmodified": 1675953124,
+    "wof:name": "Aleksandrów",
+    "wof:parent_id": 1477751827,
+    "wof:placetype": "locality",
+    "wof:population": 297,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.4099,
-    52.06215,
-    17.4099,
-    52.06215
-],
-  "geometry": {"coordinates":[17.4099,52.06215],"type":"Point"}
+    17.39696714899756,
+    52.047435442014425,
+    17.457395690994005,
+    52.06953605101349
+  ],
+  "geometry": {"coordinates":[[[17.396967,52.061047],[17.396986,52.061149],[17.397328,52.062483],[17.397347,52.062557],[17.39797,52.062657],[17.398042,52.063298],[17.398081,52.063454],[17.398207,52.064971],[17.398312,52.066259],[17.398323,52.066378],[17.398454,52.067797],[17.400918,52.06841],[17.403061,52.068908],[17.403548,52.068972],[17.404514,52.06908],[17.405139,52.068843],[17.407135,52.0695],[17.407231,52.069536],[17.407475,52.068946],[17.407761,52.068298],[17.408126,52.067505],[17.408162,52.067411],[17.408465,52.06736],[17.409288,52.067489],[17.409525,52.06754],[17.411901,52.068213],[17.412105,52.067863],[17.412103,52.067602],[17.41228,52.067376],[17.41253,52.06717],[17.412248,52.066832],[17.412376,52.066725],[17.41244,52.066675],[17.412573,52.066563],[17.412869,52.066111],[17.413778,52.064992],[17.414149,52.064657],[17.41498,52.06389],[17.415127,52.063882],[17.416717,52.06379],[17.420368,52.063579],[17.423741,52.063385],[17.424092,52.063364],[17.424338,52.06335],[17.424542,52.062802],[17.424843,52.062196],[17.425017,52.061938],[17.425294,52.061552],[17.425839,52.060949],[17.426438,52.060382],[17.427038,52.059828],[17.427481,52.059393],[17.427648,52.059219],[17.428213,52.058715],[17.43841,52.057566],[17.438574,52.057657],[17.43897,52.057692],[17.440813,52.057674],[17.441189,52.057625],[17.441275,52.057682],[17.441349,52.057356],[17.453264,52.06032],[17.453349,52.06028],[17.453638,52.060149],[17.455621,52.059254],[17.457033,52.058604],[17.457343,52.058378],[17.457396,52.058334],[17.456796,52.058087],[17.455911,52.057727],[17.454888,52.057311],[17.452559,52.056359],[17.452466,52.056305],[17.452338,52.056202],[17.452174,52.056092],[17.451764,52.055897],[17.451234,52.055669],[17.451026,52.055541],[17.450429,52.055062],[17.449861,52.054712],[17.449166,52.054286],[17.447416,52.053213],[17.447293,52.053139],[17.446797,52.052772],[17.444701,52.052173],[17.444374,52.052077],[17.439808,52.051328],[17.437579,52.051103],[17.436598,52.051003],[17.43654,52.050998],[17.436472,52.050991],[17.43638,52.050982],[17.436446,52.050933],[17.436202,52.050913],[17.436221,52.050966],[17.429484,52.050253],[17.427419,52.050026],[17.425396,52.049331],[17.422817,52.048434],[17.42137,52.048354],[17.419179,52.04824],[17.418343,52.048199],[17.417887,52.048177],[17.416722,52.048267],[17.414867,52.048416],[17.413944,52.048643],[17.412784,52.048919],[17.412205,52.049164],[17.410893,52.049725],[17.410708,52.049726],[17.409278,52.049732],[17.40721,52.04974],[17.405808,52.049206],[17.404044,52.04855],[17.403228,52.048241],[17.4023,52.048026],[17.401485,52.047833],[17.400413,52.047584],[17.399757,52.047435],[17.399762,52.047459],[17.399762,52.047483],[17.399714,52.049345],[17.399696,52.050459],[17.399669,52.051147],[17.399562,52.053688],[17.399453,52.054724],[17.39943,52.054857],[17.399575,52.05487],[17.399227,52.056011],[17.398425,52.057785],[17.397956,52.058829],[17.396967,52.061047]]],"type":"Polygon"}
 }

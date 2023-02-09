@@ -2,113 +2,117 @@
   "id": 1126006611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.43888,51.7912,21.43888,51.7912",
-    "geom:latitude":51.7912,
-    "geom:longitude":21.43888,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":100,
-    "iso:country":"PL",
-    "lbl:bbox":"21.41888,51.7712,21.45888,51.8112",
-    "lbl:latitude":51.7912,
-    "lbl:longitude":21.43888,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Tarn\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0008570146907955158,
+    "geom:area_square_m": 6577831.888499223,
+    "geom:bbox": "21.413193431011127,51.78376133801719,21.464839397001825,51.81761143501754",
+    "geom:latitude": 21.439189792458137,
+    "geom:longitude": 51.80044392766511,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 100,
+    "iso:country": "PL",
+    "lbl:bbox": "21.41888,51.7712,21.45888,51.8112",
+    "lbl:latitude": 51.7912,
+    "lbl:longitude": 21.43888,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Tarnów"
     ],
-    "name:eng_x_preferred":[
-        "Tarn\u00f3w"
+    "name:eng_x_preferred": [
+      "Tarnów"
     ],
-    "name:fra_x_preferred":[
-        "Tarn\u00f3w"
+    "name:fra_x_preferred": [
+      "Tarnów"
     ],
-    "name:pol_x_preferred":[
-        "Tarn\u00f3w"
+    "name:pol_x_preferred": [
+      "Tarnów"
     ],
-    "name:tgl_x_preferred":[
-        "Tarn\u00f3w"
+    "name:tgl_x_preferred": [
+      "Tarnów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Тарнув"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":757024,
-    "qs_pg:gn_pop":100,
-    "qs_pg:name":"Tarn\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":4,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1011606,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":522305,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125312807,
-        85633723,
-        102079901
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 757024,
+    "qs_pg:gn_pop": 100,
+    "qs_pg:name": "Tarnów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 4,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1011606,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 522305,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757024,
-        "gp:id":522305,
-        "qs_pg:id":1011606,
-        "wd:id":"Q3472838"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125312807,
+      85633723,
+      102079901
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757024,
+      "gp:id": 522305,
+      "pl-gugik:jpt_kod_je": "140313_2.0015",
+      "qs_pg:id": 1011606,
+      "wd:id": "Q3472838"
     },
-    "wof:country":"PL",
-    "wof:created":1497300001,
-    "wof:geomhash":"45378c254e2a8565882fa3680e2807d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079901,
-            "localadmin_id":1125312807,
-            "locality_id":1126006611,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300001,
+    "wof:geomhash": "f614f28b2bcf0f20d657ca3d0bf82c5f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079901,
+        "localadmin_id": 1125312807,
+        "locality_id": 1126006611,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126006611,
-    "wof:lastmodified":1570039027,
-    "wof:name":"Tarn\u00f3w",
-    "wof:parent_id":1125312807,
-    "wof:placetype":"locality",
-    "wof:population":100,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126006611,
+    "wof:lastmodified": 1675953133,
+    "wof:name": "Tarnów",
+    "wof:parent_id": 1125312807,
+    "wof:placetype": "locality",
+    "wof:population": 100,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.43888,
-    51.7912,
-    21.43888,
-    51.7912
-],
-  "geometry": {"coordinates":[21.43888,51.7912],"type":"Point"}
+    21.413193431011127,
+    51.78376133801719,
+    21.464839397001825,
+    51.81761143501754
+  ],
+  "geometry": {"coordinates":[[[21.413193,51.803679],[21.415243,51.804144],[21.417055,51.804548],[21.418258,51.804817],[21.41845,51.804858],[21.42097,51.805386],[21.421355,51.805462],[21.421392,51.805469],[21.424877,51.806221],[21.424894,51.806239],[21.424909,51.806255],[21.424936,51.806284],[21.424951,51.806301],[21.424997,51.806358],[21.425019,51.806382],[21.425061,51.806427],[21.425106,51.806475],[21.42521,51.806587],[21.425216,51.806594],[21.425259,51.80664],[21.425273,51.806655],[21.425289,51.806672],[21.425335,51.806721],[21.425357,51.806745],[21.425389,51.806779],[21.425401,51.806793],[21.425438,51.806832],[21.425451,51.806846],[21.425523,51.806923],[21.42555,51.806952],[21.425613,51.807021],[21.425628,51.807036],[21.425637,51.807046],[21.425651,51.807061],[21.425667,51.807078],[21.425685,51.807097],[21.425704,51.807118],[21.425715,51.807129],[21.425737,51.807153],[21.425763,51.807181],[21.425807,51.807229],[21.425838,51.807262],[21.425919,51.807349],[21.425959,51.807392],[21.425997,51.807434],[21.426049,51.807489],[21.426077,51.807519],[21.426084,51.807526],[21.426105,51.80755],[21.426157,51.807605],[21.426257,51.807676],[21.426302,51.807708],[21.426329,51.807728],[21.426413,51.807787],[21.426477,51.807833],[21.426615,51.807931],[21.426638,51.807947],[21.426709,51.807998],[21.426822,51.808078],[21.426939,51.808162],[21.426985,51.808194],[21.427013,51.808214],[21.427113,51.808285],[21.427137,51.808302],[21.427244,51.808376],[21.427351,51.808448],[21.427477,51.808532],[21.428152,51.809005],[21.428245,51.80907],[21.428369,51.809157],[21.428784,51.809448],[21.429118,51.809763],[21.429339,51.809972],[21.429419,51.810047],[21.429482,51.810107],[21.429634,51.810459],[21.429883,51.810674],[21.430056,51.810822],[21.430197,51.810944],[21.430561,51.811257],[21.430861,51.811515],[21.431014,51.811647],[21.431079,51.811703],[21.432976,51.813371],[21.433013,51.813404],[21.433039,51.813427],[21.433105,51.813485],[21.433233,51.813597],[21.433326,51.81368],[21.434776,51.814665],[21.435214,51.815008],[21.435327,51.815096],[21.436782,51.816237],[21.437603,51.817093],[21.437737,51.817229],[21.438129,51.817611],[21.444362,51.813992],[21.451208,51.810029],[21.458025,51.806067],[21.464839,51.802084],[21.460545,51.799261],[21.456272,51.796442],[21.451951,51.793614],[21.447637,51.79078],[21.445498,51.789379],[21.446035,51.789204],[21.445955,51.789113],[21.445884,51.789022],[21.445866,51.788998],[21.445267,51.788164],[21.445216,51.788094],[21.444006,51.78641],[21.443834,51.786171],[21.443805,51.78613],[21.443716,51.786007],[21.442171,51.783936],[21.442135,51.783887],[21.442047,51.783769],[21.441752,51.783768],[21.435144,51.783761],[21.429524,51.788564],[21.426753,51.791307],[21.425035,51.793604],[21.418665,51.799109],[21.413193,51.803679]]],"type":"Polygon"}
 }

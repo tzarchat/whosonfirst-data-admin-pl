@@ -2,81 +2,85 @@
   "id": 1260312965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.14514,51.93124,18.14514,51.93124",
-    "geom:latitude":51.93124,
-    "geom:longitude":18.14514,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3007.0",
-    "gn:admin3_code":"300709.0",
-    "gn:asciiname":"Lyczyn",
-    "gn:country_code":"PL",
-    "gn:dem":130,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3092636,
-    "gn:latitude":51.93124,
-    "gn:longitude":18.14514,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"\u0141yczyn",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.12514,51.91124,18.16514,51.95124",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "\u0141yczyn"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014035601720242558,
+    "geom:area_square_m": 1074150.9363171943,
+    "geom:bbox": "18.13716592600404,51.9246813570139,18.156798587997642,51.93843145601544",
+    "geom:latitude": 18.147295541080773,
+    "geom:longitude": 51.93233352718987,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3007.0",
+    "gn:admin3_code": "300709.0",
+    "gn:asciiname": "Lyczyn",
+    "gn:country_code": "PL",
+    "gn:dem": 130,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3092636,
+    "gn:latitude": 51.93124,
+    "gn:longitude": 18.14514,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Łyczyn",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.12514,51.91124,18.16514,51.95124",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Łyczyn"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0438\u0447\u0438\u043d"
+    "name:ukr_x_preferred": [
+      "Личин"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477751251,
-        85633723,
-        102079841
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3092636,
-        "wk:page":"%C5%81yczyn%2C_Greater_Poland_Voivodeship"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477751251,
+      85633723,
+      102079841
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3092636,
+      "pl-gugik:jpt_kod_je": "300709_5.0005",
+      "wk:page": "%C5%81yczyn%2C_Greater_Poland_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9edfbbde9bcbed82d7b559ccd37f0ef6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079841,
-            "localadmin_id":1477751251,
-            "locality_id":1260312965,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fa215e7210419f126f5b192cffe9e613",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079841,
+        "localadmin_id": 1477751251,
+        "locality_id": 1260312965,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1260312965,
-    "wof:lastmodified":1570025149,
-    "wof:name":"Lyczyn",
-    "wof:parent_id":1477751251,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260312965,
+    "wof:lastmodified": 1675952153,
+    "wof:name": "Lyczyn",
+    "wof:parent_id": 1477751251,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.14514,
-    51.93124,
-    18.14514,
-    51.93124
-],
-  "geometry": {"coordinates":[18.14514,51.93124],"type":"Point"}
+    18.13716592600404,
+    51.9246813570139,
+    18.156798587997642,
+    51.93843145601544
+  ],
+  "geometry": {"coordinates":[[[18.137166,51.93673],[18.137276,51.936709],[18.137319,51.936704],[18.13897,51.936499],[18.140189,51.936348],[18.140567,51.936301],[18.142089,51.936113],[18.144061,51.935862],[18.144336,51.935831],[18.146111,51.935629],[18.146338,51.935603],[18.147095,51.935517],[18.14816,51.935396],[18.148364,51.935326],[18.148394,51.935428],[18.148486,51.935733],[18.148789,51.936656],[18.149014,51.937333],[18.149379,51.938431],[18.152449,51.938039],[18.152347,51.937644],[18.154806,51.937249],[18.155723,51.937101],[18.156799,51.936928],[18.156148,51.934473],[18.156388,51.934437],[18.15634,51.934364],[18.155777,51.933514],[18.15458,51.933632],[18.15458,51.933568],[18.154218,51.932679],[18.15253,51.932848],[18.152521,51.932802],[18.152405,51.932233],[18.152375,51.932087],[18.15235,51.931968],[18.152348,51.93156],[18.152349,51.931204],[18.153908,51.93105],[18.153773,51.930643],[18.153574,51.930046],[18.153534,51.929786],[18.153157,51.928672],[18.152893,51.927892],[18.150419,51.928123],[18.150446,51.927492],[18.150449,51.927168],[18.146255,51.927473],[18.146254,51.927402],[18.146186,51.925558],[18.146185,51.925514],[18.146156,51.924723],[18.146158,51.924681],[18.145897,51.924689],[18.144165,51.924899],[18.144015,51.924918],[18.143987,51.924975],[18.143198,51.926308],[18.142585,51.927371],[18.142466,51.92759],[18.141587,51.929072],[18.141068,51.929957],[18.140546,51.930869],[18.140041,51.931788],[18.139737,51.932316],[18.139723,51.932342],[18.139644,51.932441],[18.138965,51.93357],[18.138142,51.935035],[18.138019,51.935253],[18.137318,51.936472],[18.137166,51.93673]]],"type":"Polygon"}
 }

@@ -2,221 +2,225 @@
   "id": 1125966767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.31956,49.97193,20.31956,49.97193",
-    "geom:latitude":49.97193,
-    "geom:longitude":20.31956,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"20.29956,49.95193,20.33956,49.99193",
-    "lbl:latitude":49.97193,
-    "lbl:longitude":20.31956,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ara_x_preferred":[
-        "\u062a\u0634\u064a\u0644\u0645"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017664095179526548,
+    "geom:area_square_m": 1409443.76976012,
+    "geom:bbox": "20.307590483997767,49.966755252011694,20.33488062199946,49.97768244901156",
+    "geom:latitude": 20.320971194919164,
+    "geom:longitude": 49.972619337969455,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "20.29956,49.95193,20.33956,49.99193",
+    "lbl:latitude": 49.97193,
+    "lbl:longitude": 20.31956,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred": [
+      "تشيلم"
     ],
-    "name:azb_x_preferred":[
-        "\u062e\u0647\u200c\u0627\u0648\u0645"
+    "name:azb_x_preferred": [
+      "خه‌اوم"
     ],
-    "name:bel_x_preferred":[
-        "\u0425\u044d\u043b\u043c"
+    "name:bel_x_preferred": [
+      "Хэлм"
     ],
-    "name:bul_x_preferred":[
-        "\u0425\u0435\u043b\u043c"
+    "name:bul_x_preferred": [
+      "Хелм"
     ],
-    "name:ces_x_preferred":[
-        "Che\u0142m"
+    "name:ces_x_preferred": [
+      "Chełm"
     ],
-    "name:csb_x_preferred":[
-        "Che\u0142m"
+    "name:csb_x_preferred": [
+      "Chełm"
     ],
-    "name:deu_x_preferred":[
-        "Che\u0142m"
+    "name:deu_x_preferred": [
+      "Chełm"
     ],
-    "name:dsb_x_preferred":[
-        "Che\u0142m"
+    "name:dsb_x_preferred": [
+      "Chełm"
     ],
-    "name:epo_x_preferred":[
-        "Che\u0142m"
+    "name:epo_x_preferred": [
+      "Chełm"
     ],
-    "name:est_x_preferred":[
-        "Che\u0142m"
+    "name:est_x_preferred": [
+      "Chełm"
     ],
-    "name:eus_x_preferred":[
-        "Che\u0142m"
+    "name:eus_x_preferred": [
+      "Chełm"
     ],
-    "name:fas_x_preferred":[
-        "\u062e\u0647\u200c\u0627\u0648\u0645"
+    "name:fas_x_preferred": [
+      "خه‌اوم"
     ],
-    "name:fra_x_preferred":[
-        "Che\u0142m"
+    "name:fra_x_preferred": [
+      "Chełm"
     ],
-    "name:hak_x_preferred":[
-        "Che\u0142m"
+    "name:hak_x_preferred": [
+      "Chełm"
     ],
-    "name:heb_x_preferred":[
-        "\u05d7\u05dc\u05dd"
+    "name:heb_x_preferred": [
+      "חלם"
     ],
-    "name:hun_x_preferred":[
-        "Che\u0142m"
+    "name:hun_x_preferred": [
+      "Chełm"
     ],
-    "name:ina_x_preferred":[
-        "Chelm"
+    "name:ina_x_preferred": [
+      "Chelm"
     ],
-    "name:ind_x_preferred":[
-        "Che\u0142m"
+    "name:ind_x_preferred": [
+      "Chełm"
     ],
-    "name:ita_x_preferred":[
-        "Che\u0142m"
+    "name:ita_x_preferred": [
+      "Chełm"
     ],
-    "name:jav_x_preferred":[
-        "Che\u0142m"
+    "name:jav_x_preferred": [
+      "Chełm"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d8\u30a6\u30e0"
+    "name:jpn_x_preferred": [
+      "ヘウム"
     ],
-    "name:lav_x_preferred":[
-        "Helma"
+    "name:lav_x_preferred": [
+      "Helma"
     ],
-    "name:lit_x_preferred":[
-        "Chelmas"
+    "name:lit_x_preferred": [
+      "Chelmas"
     ],
-    "name:msa_x_preferred":[
-        "Che\u0142m"
+    "name:msa_x_preferred": [
+      "Chełm"
     ],
-    "name:nau_x_preferred":[
-        "Che\u0142m"
+    "name:nau_x_preferred": [
+      "Chełm"
     ],
-    "name:nld_x_preferred":[
-        "Che\u0142m"
+    "name:nld_x_preferred": [
+      "Chełm"
     ],
-    "name:nor_x_preferred":[
-        "Che\u0142m"
+    "name:nor_x_preferred": [
+      "Chełm"
     ],
-    "name:pol_x_preferred":[
-        "Che\u0142m"
+    "name:pol_x_preferred": [
+      "Chełm"
     ],
-    "name:por_x_preferred":[
-        "Che\u0142m"
+    "name:por_x_preferred": [
+      "Chełm"
     ],
-    "name:ron_x_preferred":[
-        "Che\u0142m"
+    "name:ron_x_preferred": [
+      "Chełm"
     ],
-    "name:rus_x_preferred":[
-        "\u0425\u0435\u043b\u043c"
+    "name:rus_x_preferred": [
+      "Хелм"
     ],
-    "name:sco_x_preferred":[
-        "Che\u0142m"
+    "name:sco_x_preferred": [
+      "Chełm"
     ],
-    "name:slk_x_preferred":[
-        "Che\u0142m"
+    "name:slk_x_preferred": [
+      "Chełm"
     ],
-    "name:spa_x_preferred":[
-        "Che\u0142m"
+    "name:spa_x_preferred": [
+      "Chełm"
     ],
-    "name:srp_x_preferred":[
-        "\u0425\u0435\u043b\u043c"
+    "name:srp_x_preferred": [
+      "Хелм"
     ],
-    "name:swe_x_preferred":[
-        "Che\u0142m"
+    "name:swe_x_preferred": [
+      "Chełm"
     ],
-    "name:szl_x_preferred":[
-        "Che\u0142m"
+    "name:szl_x_preferred": [
+      "Chełm"
     ],
-    "name:tat_x_preferred":[
-        "\u0425\u0435\u043b\u043c"
+    "name:tat_x_preferred": [
+      "Хелм"
     ],
-    "name:tur_x_preferred":[
-        "Che\u0142m"
+    "name:tur_x_preferred": [
+      "Chełm"
     ],
-    "name:ukr_x_preferred":[
-        "\u0425\u043e\u043b\u043c"
+    "name:ukr_x_preferred": [
+      "Холм"
     ],
-    "name:vie_x_preferred":[
-        "Che\u0142m"
+    "name:vie_x_preferred": [
+      "Chełm"
     ],
-    "name:war_x_preferred":[
-        "Che\u0142m"
+    "name:war_x_preferred": [
+      "Chełm"
     ],
-    "name:yid_x_preferred":[
-        "\u05db\u05e2\u05dc\u05dd"
+    "name:yid_x_preferred": [
+      "כעלם"
     ],
-    "name:zho_x_preferred":[
-        "\u6d77\u4e4c\u59c6"
+    "name:zho_x_preferred": [
+      "海乌姆"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":774559,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Che\u0142m",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Ma\u0142opolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":1156478,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":489143,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Ma\u0142opolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687291,
-        102191581,
-        1477752731,
-        85633723,
-        102079493
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 774559,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Chełm",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Małopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 1156478,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 489143,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":774559,
-        "gp:id":489143,
-        "qs_pg:id":1156478
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Małopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687291,
+      102191581,
+      1477752731,
+      85633723,
+      102079493
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 774559,
+      "gp:id": 489143,
+      "pl-gugik:jpt_kod_je": "120102_2.0007",
+      "qs_pg:id": 1156478
     },
-    "wof:country":"PL",
-    "wof:created":1497298004,
-    "wof:geomhash":"e48c5107e6b73d6b536d1164f7ba95ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079493,
-            "localadmin_id":1477752731,
-            "locality_id":1125966767,
-            "region_id":85687291
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298004,
+    "wof:geomhash": "9676f7cd8bcf0ec8bdd7b4995ae18c97",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079493,
+        "localadmin_id": 1477752731,
+        "locality_id": 1125966767,
+        "region_id": 85687291
+      }
     ],
-    "wof:id":1125966767,
-    "wof:lastmodified":1570038015,
-    "wof:name":"Che\u0142m",
-    "wof:parent_id":1477752731,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125966767,
+    "wof:lastmodified": 1675953116,
+    "wof:name": "Chełm",
+    "wof:parent_id": 1477752731,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.31956,
-    49.97193,
-    20.31956,
-    49.97193
-],
-  "geometry": {"coordinates":[20.31956,49.97193],"type":"Point"}
+    20.307590483997767,
+    49.966755252011694,
+    20.33488062199946,
+    49.97768244901156
+  ],
+  "geometry": {"coordinates":[[[20.30759,49.974289],[20.307599,49.974712],[20.307817,49.975458],[20.308952,49.97653],[20.309637,49.976782],[20.31117,49.977346],[20.313345,49.977682],[20.315776,49.977452],[20.317278,49.977102],[20.318847,49.976759],[20.319596,49.97677],[20.320294,49.97677],[20.321475,49.976919],[20.322871,49.977405],[20.324188,49.97745],[20.325939,49.97704],[20.327747,49.975866],[20.3285,49.97485],[20.328412,49.973718],[20.329072,49.97249],[20.329874,49.97164],[20.333863,49.971192],[20.33377,49.970961],[20.333727,49.97083],[20.333655,49.970598],[20.333631,49.970521],[20.333574,49.970324],[20.333554,49.970256],[20.333461,49.969901],[20.333313,49.969348],[20.333237,49.96904],[20.33319,49.968885],[20.333128,49.968724],[20.33307,49.968574],[20.333026,49.968302],[20.333023,49.968283],[20.332913,49.968211],[20.332914,49.9682],[20.333009,49.968132],[20.333271,49.968147],[20.333497,49.968174],[20.333711,49.968194],[20.33404,49.968224],[20.334123,49.968234],[20.334676,49.96826],[20.33479,49.96826],[20.334881,49.968254],[20.334791,49.967976],[20.334654,49.967619],[20.334513,49.967305],[20.334443,49.967157],[20.334262,49.966783],[20.33425,49.966755],[20.334105,49.966778],[20.333986,49.966797],[20.333588,49.966861],[20.333069,49.966937],[20.33298,49.966948],[20.332678,49.966981],[20.332378,49.96701],[20.33217,49.967024],[20.331941,49.967037],[20.331887,49.967041],[20.331727,49.967052],[20.331701,49.967054],[20.33164,49.967058],[20.331557,49.967065],[20.331245,49.967083],[20.330214,49.967142],[20.330045,49.967156],[20.329971,49.967164],[20.329781,49.967189],[20.32931,49.967255],[20.329002,49.967318],[20.328895,49.967343],[20.328716,49.967383],[20.32825,49.967491],[20.328017,49.967545],[20.327876,49.967581],[20.327809,49.967595],[20.32756,49.967647],[20.327219,49.967722],[20.326977,49.967776],[20.326771,49.967822],[20.326501,49.967881],[20.326187,49.967955],[20.326116,49.967975],[20.326079,49.967982],[20.32601,49.967996],[20.325755,49.968051],[20.325532,49.968096],[20.325366,49.96813],[20.324953,49.968184],[20.324774,49.968206],[20.324524,49.968243],[20.32436,49.968268],[20.324127,49.9683],[20.323575,49.968378],[20.323372,49.968405],[20.323321,49.968409],[20.323276,49.968412],[20.322802,49.968451],[20.32229,49.968495],[20.321855,49.968532],[20.321512,49.968537],[20.320958,49.968572],[20.320691,49.968588],[20.320605,49.96857],[20.320538,49.968584],[20.320424,49.9686],[20.319971,49.968681],[20.319884,49.968694],[20.319314,49.968776],[20.319187,49.968791],[20.319071,49.968798],[20.318758,49.968808],[20.318117,49.9688],[20.318064,49.968798],[20.317964,49.968794],[20.317889,49.968792],[20.317322,49.968774],[20.317022,49.968764],[20.316958,49.968763],[20.316878,49.968815],[20.316861,49.968826],[20.316787,49.968872],[20.316648,49.968959],[20.316356,49.969064],[20.315856,49.969391],[20.315732,49.969468],[20.315612,49.969473],[20.315582,49.969475],[20.31557,49.969475],[20.315339,49.969486],[20.314334,49.970445],[20.312123,49.971784],[20.310319,49.972192],[20.310144,49.972233],[20.308174,49.973165],[20.30759,49.974289]]],"type":"Polygon"}
 }

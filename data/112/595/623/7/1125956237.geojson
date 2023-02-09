@@ -2,138 +2,139 @@
   "id": 1125956237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.65477,53.29862,23.65477,53.29862",
-    "geom:latitude":53.29862,
-    "geom:longitude":23.65477,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":650,
-    "iso:country":"PL",
-    "lbl:bbox":"23.63477,53.27862,23.67477,53.31862",
-    "lbl:latitude":53.29862,
-    "lbl:longitude":23.65477,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Szudzia\u0142owo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001144632167895663,
+    "geom:area_square_m": 8493872.735235352,
+    "geom:bbox": "23.62832349211833,53.27898592301806,23.687377997118855,53.31291081702077",
+    "geom:latitude": 23.655335079451053,
+    "geom:longitude": 53.29598668326069,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 650,
+    "iso:country": "PL",
+    "lbl:bbox": "23.63477,53.27862,23.67477,53.31862",
+    "lbl:latitude": 53.29862,
+    "lbl:longitude": 23.65477,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:azb_x_preferred":[
-        "\u0634\u0648\u062c\u0627\u0648\u0648\u0648\u0648"
+    "name:azb_x_preferred": [
+      "شوجاوووو"
     ],
-    "name:ceb_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:ceb_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:deu_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:deu_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:eng_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:eng_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0648\u062c\u0627\u0648\u0648\u0648\u0648"
+    "name:fas_x_preferred": [
+      "شوجاوووو"
     ],
-    "name:fra_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:fra_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:lit_x_preferred":[
-        "\u0160udzialovas"
+    "name:lit_x_preferred": [
+      "Šudzialovas"
     ],
-    "name:nld_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:nld_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:pol_x_preferred":[
-        "Szudzia\u0142owo"
+    "name:pol_x_preferred": [
+      "Szudziałowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0428\u0443\u0434\u0437\u044f\u043b\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Шудзялово"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":757231,
-    "qs_pg:gn_pop":650,
-    "qs_pg:name":"Szudzia\u0142owo",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":963406,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":521988,
-    "src:geom":"qs_pg",
-    "src:geom_alt":[
-        "pl"
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 757231,
+    "qs_pg:gn_pop": 650,
+    "qs_pg:name": "Szudziałowo",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 963406,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 521988,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "pl",
+      "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752205,
-        85633723,
-        102080189
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752205,
+      85633723,
+      102080189
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":757231,
-        "gp:id":521988,
-        "pl-gugik:jpt_kod_je":"201110_2",
-        "qs_pg:id":963406,
-        "wd:id":"Q2304701"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 757231,
+      "gp:id": 521988,
+      "pl-gugik:jpt_kod_je": "201110_2.0031",
+      "qs_pg:id": 963406,
+      "wd:id": "Q2304701"
     },
-    "wof:coterminous":[
-        1477752205
+    "wof:coterminous": [
+      1477752205
     ],
-    "wof:country":"PL",
-    "wof:created":1497297628,
-    "wof:geom_alt":[
-        "pl-gugik"
+    "wof:country": "PL",
+    "wof:created": 1497297628,
+    "wof:geom_alt": [
+      "pl-gugik"
     ],
-    "wof:geomhash":"1929df774fbc20b422e25d26659073b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477752205,
-            "locality_id":1125956237,
-            "region_id":85687283
-        }
+    "wof:geomhash": "6de1ecda0e0ad15dae0e326502c957e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477752205,
+        "locality_id": 1125956237,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125956237,
-    "wof:lastmodified":1582357700,
-    "wof:name":"Szudzia\u0142owo",
-    "wof:parent_id":1477752205,
-    "wof:placetype":"locality",
-    "wof:population":650,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125956237,
+    "wof:lastmodified": 1675953127,
+    "wof:name": "Szudziałowo",
+    "wof:parent_id": 1477752205,
+    "wof:placetype": "locality",
+    "wof:population": 650,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.65477,
-    53.29862,
-    23.65477,
-    53.29862
-],
-  "geometry": {"coordinates":[23.65477,53.29862],"type":"Point"}
+    23.62832349211833,
+    53.27898592301806,
+    23.687377997118855,
+    53.31291081702077
+  ],
+  "geometry": {"coordinates":[[[23.628323,53.307553],[23.630221,53.307786],[23.629531,53.308963],[23.630417,53.309343],[23.632695,53.31032],[23.635719,53.311647],[23.638665,53.312911],[23.644057,53.308952],[23.644896,53.308332],[23.645942,53.307557],[23.646108,53.307434],[23.646168,53.30739],[23.647377,53.306494],[23.648418,53.305749],[23.650285,53.306115],[23.650908,53.306239],[23.651036,53.306264],[23.651971,53.306448],[23.653466,53.30674],[23.653795,53.306798],[23.654733,53.306961],[23.655669,53.307124],[23.656261,53.307223],[23.65748,53.30744],[23.657565,53.307449],[23.659364,53.30776],[23.661229,53.308085],[23.662293,53.308267],[23.662455,53.307995],[23.662495,53.307926],[23.662896,53.307251],[23.663251,53.306655],[23.663607,53.306055],[23.663926,53.305519],[23.664125,53.305185],[23.664331,53.305227],[23.66629,53.305624],[23.666611,53.30509],[23.666711,53.304924],[23.666935,53.304551],[23.667442,53.303691],[23.66764,53.303376],[23.668204,53.302319],[23.668334,53.302214],[23.669533,53.302749],[23.669984,53.303013],[23.670515,53.303325],[23.670872,53.303542],[23.67225,53.304377],[23.67233,53.304426],[23.673552,53.305177],[23.677761,53.307171],[23.679291,53.304745],[23.679575,53.30429],[23.67961,53.304233],[23.681587,53.301127],[23.681913,53.300615],[23.682212,53.300137],[23.682258,53.300064],[23.684057,53.297151],[23.686078,53.293826],[23.687344,53.291529],[23.687378,53.291468],[23.673176,53.288453],[23.672789,53.288374],[23.667414,53.287263],[23.668962,53.284307],[23.665303,53.283636],[23.665064,53.283593],[23.662179,53.283061],[23.66089,53.282823],[23.65984,53.282629],[23.655357,53.281779],[23.649658,53.280734],[23.645409,53.279927],[23.643225,53.279504],[23.640474,53.278986],[23.639713,53.281308],[23.639014,53.283443],[23.63899,53.283516],[23.638812,53.284062],[23.638277,53.285692],[23.638225,53.285851],[23.638127,53.286091],[23.637867,53.286959],[23.637885,53.287769],[23.637888,53.287842],[23.637923,53.288597],[23.637968,53.289552],[23.638126,53.293206],[23.638124,53.293223],[23.638134,53.293399],[23.638159,53.29399],[23.638151,53.294133],[23.638197,53.295481],[23.637236,53.295678],[23.636552,53.295819],[23.635524,53.29603],[23.635196,53.296098],[23.634344,53.296273],[23.632721,53.296602],[23.631816,53.296785],[23.631656,53.296817],[23.62928,53.297297],[23.629099,53.297333],[23.629104,53.297461],[23.629126,53.298115],[23.629126,53.298124],[23.629208,53.300602],[23.631485,53.300936],[23.630195,53.303574],[23.629537,53.304993],[23.629432,53.305216],[23.628323,53.307553]]],"type":"Polygon"}
 }

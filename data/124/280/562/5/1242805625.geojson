@@ -2,87 +2,91 @@
   "id": 1242805625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.73251,52.77324,19.73251,52.77324",
-    "geom:latitude":52.77324,
-    "geom:longitude":19.73251,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1427.0",
-    "gn:admin3_code":"142705.0",
-    "gn:asciiname":"Bialyszewo Towarzystwo",
-    "gn:country_code":"PL",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103522,
-    "gn:latitude":52.77324,
-    "gn:longitude":19.73251,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Bia\u0142yszewo Towarzystwo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.71251,52.75324,19.75251,52.79324",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Bia\u0142yszewo-Towarzystwo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00016601412919067853,
+    "geom:area_square_m": 1246875.7891431437,
+    "geom:bbox": "19.721774998999418,52.7661390500165,19.74360928299841,52.77774024601396",
+    "geom:latitude": 19.732602697669122,
+    "geom:longitude": 52.77128845819748,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1427.0",
+    "gn:admin3_code": "142705.0",
+    "gn:asciiname": "Bialyszewo Towarzystwo",
+    "gn:country_code": "PL",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103522,
+    "gn:latitude": 52.77324,
+    "gn:longitude": 19.73251,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Białyszewo Towarzystwo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.71251,52.75324,19.75251,52.79324",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Białyszewo-Towarzystwo"
     ],
-    "name:pol_x_preferred":[
-        "Bia\u0142yszewo-Towarzystwo"
+    "name:pol_x_preferred": [
+      "Białyszewo-Towarzystwo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u044f\u043b\u0438\u0448\u0435\u0432\u043e-\u0422\u043e\u0432\u0430\u0436\u0438\u0441\u0442\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Бялишево-Товажиство"
     ],
-    "name:und_x_variant":[
-        "Bia\u0142yszewo Towarzystwo"
+    "name:und_x_variant": [
+      "Białyszewo Towarzystwo"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125306739,
-        85633723,
-        102080035
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103522,
-        "wk:page":"Bia%C5%82yszewo-Towarzystwo"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125306739,
+      85633723,
+      102080035
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103522,
+      "pl-gugik:jpt_kod_je": "142705_2.0004",
+      "wk:page": "Bia%C5%82yszewo-Towarzystwo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"1551a60a69382e5fe3b527c2bd897ca0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080035,
-            "localadmin_id":1125306739,
-            "locality_id":1242805625,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "6a3a45aa0fb960955bb996316212e5b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080035,
+        "localadmin_id": 1125306739,
+        "locality_id": 1242805625,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1242805625,
-    "wof:lastmodified":1570041413,
-    "wof:name":"Bialyszewo Towarzystwo",
-    "wof:parent_id":1125306739,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242805625,
+    "wof:lastmodified": 1675952171,
+    "wof:name": "Bialyszewo Towarzystwo",
+    "wof:parent_id": 1125306739,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.73251,
-    52.77324,
-    19.73251,
-    52.77324
-],
-  "geometry": {"coordinates":[19.73251,52.77324],"type":"Point"}
+    19.721774998999418,
+    52.7661390500165,
+    19.74360928299841,
+    52.77774024601396
+  ],
+  "geometry": {"coordinates":[[[19.721775,52.773014],[19.721818,52.77301],[19.722983,52.772892],[19.724206,52.772785],[19.724244,52.772808],[19.72462,52.773024],[19.725035,52.773254],[19.725485,52.773509],[19.725986,52.77379],[19.726558,52.774118],[19.727109,52.774428],[19.727098,52.774698],[19.727356,52.774674],[19.72735,52.774872],[19.727346,52.774949],[19.727301,52.775741],[19.727295,52.776236],[19.727321,52.776645],[19.727377,52.776753],[19.727387,52.777069],[19.727269,52.77774],[19.728469,52.777441],[19.731107,52.776809],[19.731201,52.776776],[19.743609,52.773827],[19.743167,52.773023],[19.742916,52.772559],[19.742693,52.772122],[19.742637,52.772033],[19.742315,52.771426],[19.742271,52.771349],[19.742004,52.770858],[19.74173,52.770328],[19.74168,52.770219],[19.741509,52.76989],[19.741364,52.769601],[19.74135,52.769577],[19.741235,52.769351],[19.74096,52.768809],[19.740917,52.768711],[19.74076,52.768424],[19.740598,52.768117],[19.740425,52.76777],[19.740246,52.767425],[19.74006,52.767068],[19.739716,52.766413],[19.739577,52.766143],[19.738635,52.766145],[19.737827,52.766146],[19.737572,52.766147],[19.736465,52.766154],[19.735532,52.766161],[19.733079,52.766139],[19.730782,52.766671],[19.730435,52.766752],[19.729632,52.766947],[19.729336,52.767008],[19.728639,52.767202],[19.727656,52.767434],[19.727027,52.76758],[19.725036,52.768051],[19.724534,52.768131],[19.724382,52.768175],[19.724198,52.768197],[19.722937,52.768216],[19.722002,52.768231],[19.722,52.768257],[19.721932,52.770023],[19.721886,52.771436],[19.721871,52.771466],[19.721868,52.771482],[19.721775,52.773014]]],"type":"Polygon"}
 }

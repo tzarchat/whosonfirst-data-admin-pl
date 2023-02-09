@@ -2,248 +2,252 @@
   "id": 1126018523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.95625,52.76167,14.95625,52.76167",
-    "geom:latitude":52.76167,
-    "geom:longitude":14.95625,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":400,
-    "iso:country":"PL",
-    "lbl:bbox":"14.93625,52.74167,14.97625,52.78167",
-    "lbl:latitude":52.76167,
-    "lbl:longitude":14.95625,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ara_x_preferred":[
-        "\u062a\u0627\u0631\u0646\u0648\u0641"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0008911492490421864,
+    "geom:area_square_m": 6695275.558057427,
+    "geom:bbox": "14.897755005923445,52.7434033190161,14.96785116294098,52.76948166601545",
+    "geom:latitude": 14.936577812435884,
+    "geom:longitude": 52.75666929690338,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 400,
+    "iso:country": "PL",
+    "lbl:bbox": "14.93625,52.74167,14.97625,52.78167",
+    "lbl:latitude": 52.76167,
+    "lbl:longitude": 14.95625,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred": [
+      "تارنوف"
     ],
-    "name:ast_x_preferred":[
-        "Tarn\u00f3w"
+    "name:ast_x_preferred": [
+      "Tarnów"
     ],
-    "name:bel_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u0430\u045e"
+    "name:bel_x_preferred": [
+      "Тарнаў"
     ],
-    "name:bul_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u043e\u0432"
+    "name:bul_x_preferred": [
+      "Тарнов"
     ],
-    "name:cat_x_preferred":[
-        "Tarn\u00f3w"
+    "name:cat_x_preferred": [
+      "Tarnów"
     ],
-    "name:ceb_x_preferred":[
-        "Tarn\u00f3w"
+    "name:ceb_x_preferred": [
+      "Tarnów"
     ],
-    "name:ces_x_preferred":[
-        "Tarn\u00f3w"
+    "name:ces_x_preferred": [
+      "Tarnów"
     ],
-    "name:csb_x_preferred":[
-        "Tarn\u00f3w"
+    "name:csb_x_preferred": [
+      "Tarnów"
     ],
-    "name:deu_x_preferred":[
-        "Tarn\u00f3w"
+    "name:deu_x_preferred": [
+      "Tarnów"
     ],
-    "name:epo_x_preferred":[
-        "Tarn\u00f3w"
+    "name:epo_x_preferred": [
+      "Tarnów"
     ],
-    "name:est_x_preferred":[
-        "Tarn\u00f3w"
+    "name:est_x_preferred": [
+      "Tarnów"
     ],
-    "name:eus_x_preferred":[
-        "Tarn\u00f3w"
+    "name:eus_x_preferred": [
+      "Tarnów"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0627\u0631\u0646\u0648\u0641"
+    "name:fas_x_preferred": [
+      "تارنوف"
     ],
-    "name:fin_x_preferred":[
-        "Tarn\u00f3w"
+    "name:fin_x_preferred": [
+      "Tarnów"
     ],
-    "name:fra_x_preferred":[
-        "Tarn\u00f3w"
+    "name:fra_x_preferred": [
+      "Tarnów"
     ],
-    "name:heb_x_preferred":[
-        "\u05d8\u05e8\u05e0\u05d5\u05d1"
+    "name:heb_x_preferred": [
+      "טרנוב"
     ],
-    "name:hrv_x_preferred":[
-        "Tarn\u00f3w"
+    "name:hrv_x_preferred": [
+      "Tarnów"
     ],
-    "name:hun_x_preferred":[
-        "Tarn\u00f3w"
+    "name:hun_x_preferred": [
+      "Tarnów"
     ],
-    "name:hye_x_preferred":[
-        "\u054f\u0561\u0580\u0576\u0578\u0582\u057e"
+    "name:hye_x_preferred": [
+      "Տարնուվ"
     ],
-    "name:ita_x_preferred":[
-        "Tarn\u00f3w"
+    "name:ita_x_preferred": [
+      "Tarnów"
     ],
-    "name:jav_x_preferred":[
-        "Tarn\u00f3w"
+    "name:jav_x_preferred": [
+      "Tarnów"
     ],
-    "name:jpn_x_preferred":[
-        "\u30bf\u30eb\u30cc\u30d5"
+    "name:jpn_x_preferred": [
+      "タルヌフ"
     ],
-    "name:kat_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10dc\u10e3\u10d5\u10d8"
+    "name:kat_x_preferred": [
+      "ტარნუვი"
     ],
-    "name:kor_x_preferred":[
-        "\ud0c0\ub974\ub204\ud504"
+    "name:kor_x_preferred": [
+      "타르누프"
     ],
-    "name:lav_x_preferred":[
-        "Tarnova"
+    "name:lav_x_preferred": [
+      "Tarnova"
     ],
-    "name:lim_x_preferred":[
-        "Tarn\u00f3w"
+    "name:lim_x_preferred": [
+      "Tarnów"
     ],
-    "name:lit_x_preferred":[
-        "Tarnuvas"
+    "name:lit_x_preferred": [
+      "Tarnuvas"
     ],
-    "name:msa_x_preferred":[
-        "Tarn\u00f3w"
+    "name:msa_x_preferred": [
+      "Tarnów"
     ],
-    "name:nau_x_preferred":[
-        "Tarn\u00f3w"
+    "name:nau_x_preferred": [
+      "Tarnów"
     ],
-    "name:nds_x_preferred":[
-        "Tarn\u00f3w"
+    "name:nds_x_preferred": [
+      "Tarnów"
     ],
-    "name:nld_x_preferred":[
-        "Tarn\u00f3w"
+    "name:nld_x_preferred": [
+      "Tarnów"
     ],
-    "name:nno_x_preferred":[
-        "Tarn\u00f3w"
+    "name:nno_x_preferred": [
+      "Tarnów"
     ],
-    "name:nor_x_preferred":[
-        "Tarn\u00f3w"
+    "name:nor_x_preferred": [
+      "Tarnów"
     ],
-    "name:pol_x_preferred":[
-        "Tarn\u00f3w"
+    "name:pol_x_preferred": [
+      "Tarnów"
     ],
-    "name:por_x_preferred":[
-        "Tarn\u00f3w"
+    "name:por_x_preferred": [
+      "Tarnów"
     ],
-    "name:que_x_preferred":[
-        "Tarn\u00f3w"
+    "name:que_x_preferred": [
+      "Tarnów"
     ],
-    "name:ron_x_preferred":[
-        "Tarn\u00f3w"
+    "name:ron_x_preferred": [
+      "Tarnów"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u0443\u0432"
+    "name:rus_x_preferred": [
+      "Тарнув"
     ],
-    "name:sco_x_preferred":[
-        "Tarn\u00f3w"
+    "name:sco_x_preferred": [
+      "Tarnów"
     ],
-    "name:slk_x_preferred":[
-        "Tarn\u00f3w"
+    "name:slk_x_preferred": [
+      "Tarnów"
     ],
-    "name:spa_x_preferred":[
-        "Tarn\u00f3w"
+    "name:spa_x_preferred": [
+      "Tarnów"
     ],
-    "name:srp_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u043e\u0432"
+    "name:srp_x_preferred": [
+      "Тарнов"
     ],
-    "name:swe_x_preferred":[
-        "Tarn\u00f3w"
+    "name:swe_x_preferred": [
+      "Tarnów"
     ],
-    "name:szl_x_preferred":[
-        "Tarn\u016fw"
+    "name:szl_x_preferred": [
+      "Tarnůw"
     ],
-    "name:tat_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u0443\u0432"
+    "name:tat_x_preferred": [
+      "Тарнув"
     ],
-    "name:tur_x_preferred":[
-        "Tarn\u00f3w"
+    "name:tur_x_preferred": [
+      "Tarnów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0430\u0440\u043d\u0456\u0432"
+    "name:ukr_x_preferred": [
+      "Тарнів"
     ],
-    "name:und_x_variant":[
-        "Tornow"
+    "name:und_x_variant": [
+      "Tornow"
     ],
-    "name:vie_x_preferred":[
-        "Tarn\u00f3w"
+    "name:vie_x_preferred": [
+      "Tarnów"
     ],
-    "name:war_x_preferred":[
-        "Tarn\u00f3w"
+    "name:war_x_preferred": [
+      "Tarnów"
     ],
-    "name:yid_x_preferred":[
-        "\u05d8\u05d0\u05e8\u05e0\u05e2"
+    "name:yid_x_preferred": [
+      "טארנע"
     ],
-    "name:zho_x_preferred":[
-        "\u5854\u723e\u52aa\u592b"
+    "name:zho_x_preferred": [
+      "塔爾努夫"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3083467,
-    "qs_pg:gn_pop":400,
-    "qs_pg:name":"Tarn\u00f3w",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Lubuskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":308855,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":522303,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Lubuskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1125399495,
-        85633723,
-        102079975
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3083467,
+    "qs_pg:gn_pop": 400,
+    "qs_pg:name": "Tarnów",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Lubuskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 308855,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 522303,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3083467,
-        "gp:id":522303,
-        "qs_pg:id":308855
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Lubuskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1125399495,
+      85633723,
+      102079975
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3083467,
+      "gp:id": 522303,
+      "pl-gugik:jpt_kod_je": "080105_2.0015",
+      "qs_pg:id": 308855
     },
-    "wof:country":"PL",
-    "wof:created":1497300692,
-    "wof:geomhash":"5ffb116bd07fb0b0053a4d8ecc6b3135",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079975,
-            "localadmin_id":1125399495,
-            "locality_id":1126018523,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300692,
+    "wof:geomhash": "12e793d135373b6e09eb37663d785e13",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079975,
+        "localadmin_id": 1125399495,
+        "locality_id": 1126018523,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1126018523,
-    "wof:lastmodified":1570038660,
-    "wof:name":"Tarn\u00f3w",
-    "wof:parent_id":1125399495,
-    "wof:placetype":"locality",
-    "wof:population":400,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126018523,
+    "wof:lastmodified": 1675953124,
+    "wof:name": "Tarnów",
+    "wof:parent_id": 1125399495,
+    "wof:placetype": "locality",
+    "wof:population": 400,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.95625,
-    52.76167,
-    14.95625,
-    52.76167
-],
-  "geometry": {"coordinates":[14.95625,52.76167],"type":"Point"}
+    14.897755005923445,
+    52.7434033190161,
+    14.96785116294098,
+    52.76948166601545
+  ],
+  "geometry": {"coordinates":[[[14.897755,52.750783],[14.898075,52.751711],[14.898546,52.753075],[14.898703,52.75353],[14.899301,52.755246],[14.899998,52.757256],[14.900002,52.757268],[14.900018,52.757313],[14.90002,52.757321],[14.900602,52.759023],[14.901184,52.759522],[14.901722,52.759982],[14.902638,52.760189],[14.902996,52.760184],[14.903208,52.759873],[14.903296,52.759744],[14.904014,52.759514],[14.904601,52.759625],[14.905381,52.759655],[14.905799,52.759682],[14.906992,52.759026],[14.906889,52.758633],[14.90804,52.758409],[14.90833,52.758379],[14.90925,52.758409],[14.909523,52.758223],[14.910066,52.758207],[14.910839,52.758185],[14.911302,52.758331],[14.912768,52.758379],[14.914933,52.758791],[14.916322,52.759032],[14.916986,52.758969],[14.917797,52.759217],[14.919033,52.759595],[14.919875,52.759709],[14.920503,52.760149],[14.920797,52.760081],[14.920911,52.760107],[14.922871,52.760544],[14.926084,52.761415],[14.928674,52.762097],[14.928954,52.762172],[14.929976,52.762478],[14.930244,52.762543],[14.931184,52.762775],[14.931938,52.762984],[14.93245,52.763126],[14.933056,52.763294],[14.934823,52.763782],[14.935039,52.763842],[14.935706,52.763573],[14.936546,52.763187],[14.938001,52.762521],[14.939504,52.763688],[14.940097,52.764149],[14.940626,52.764559],[14.941784,52.765458],[14.942052,52.765666],[14.943521,52.766784],[14.945752,52.768724],[14.946348,52.768734],[14.947082,52.768891],[14.949449,52.769398],[14.949512,52.769411],[14.949841,52.769482],[14.95225,52.769202],[14.952714,52.769144],[14.952996,52.769118],[14.953687,52.769035],[14.954255,52.768961],[14.954988,52.768876],[14.959941,52.76833],[14.960052,52.76832],[14.960985,52.768213],[14.961935,52.768103],[14.962367,52.767417],[14.963255,52.766011],[14.963302,52.765935],[14.964971,52.763222],[14.965018,52.763146],[14.965017,52.763083],[14.965108,52.763103],[14.966735,52.760724],[14.967401,52.759686],[14.967596,52.759375],[14.967641,52.759305],[14.967851,52.758855],[14.967729,52.758865],[14.967524,52.758799],[14.96623,52.758382],[14.966255,52.75835],[14.963903,52.757591],[14.963576,52.757486],[14.962903,52.757837],[14.961784,52.757521],[14.962467,52.757126],[14.962539,52.757076],[14.961866,52.757043],[14.961724,52.757018],[14.961499,52.756979],[14.960577,52.756605],[14.960086,52.756996],[14.958917,52.756458],[14.95796,52.755583],[14.956829,52.754599],[14.95573,52.753617],[14.95467,52.752677],[14.955102,52.752154],[14.955178,52.752062],[14.953194,52.750452],[14.953015,52.750306],[14.953453,52.746821],[14.953251,52.746674],[14.953156,52.746661],[14.94907,52.746144],[14.946613,52.745819],[14.944445,52.745592],[14.939873,52.746458],[14.9383,52.746741],[14.937887,52.746686],[14.937988,52.745289],[14.938149,52.743861],[14.939017,52.743928],[14.939431,52.743646],[14.940896,52.743403],[14.939211,52.743586],[14.937649,52.743764],[14.936125,52.74396],[14.935347,52.744069],[14.934707,52.744158],[14.934467,52.74422],[14.933185,52.7447],[14.932025,52.74516],[14.929227,52.746216],[14.928791,52.746339],[14.92955,52.747152],[14.930821,52.748533],[14.932103,52.749954],[14.931804,52.750219],[14.931744,52.750272],[14.931802,52.750314],[14.93248,52.750817],[14.930826,52.752003],[14.930587,52.751856],[14.930246,52.751645],[14.930207,52.751621],[14.929623,52.752077],[14.927833,52.751268],[14.927732,52.751292],[14.927691,52.751302],[14.924996,52.751934],[14.922555,52.752506],[14.922059,52.752623],[14.919861,52.752685],[14.917521,52.752748],[14.917109,52.752778],[14.91615,52.752847],[14.915226,52.7529],[14.914062,52.75304],[14.913481,52.753076],[14.915673,52.752387],[14.91536,52.752094],[14.914884,52.750824],[14.914575,52.750369],[14.914311,52.749929],[14.914163,52.749683],[14.913939,52.749542],[14.913851,52.749651],[14.912825,52.750909],[14.911851,52.750363],[14.911793,52.750331],[14.910042,52.750095],[14.90927,52.74999],[14.908253,52.749851],[14.907051,52.749685],[14.90685,52.749653],[14.905513,52.748808],[14.905343,52.7487],[14.905204,52.748613],[14.904344,52.748075],[14.904045,52.747887],[14.90327,52.74833],[14.903045,52.748432],[14.902762,52.748566],[14.902332,52.748769],[14.902286,52.74879],[14.902085,52.74937],[14.901214,52.749641],[14.900895,52.74974],[14.900139,52.749969],[14.899293,52.750183],[14.899056,52.750305],[14.898315,52.7506],[14.897884,52.750747],[14.897755,52.750783]]],"type":"Polygon"}
 }

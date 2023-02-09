@@ -2,91 +2,95 @@
   "id": 1209447559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.24623,53.89687,22.24623,53.89687",
-    "geom:latitude":53.89687,
-    "geom:longitude":22.24623,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2805.0",
-    "gn:admin3_code":"280505.0",
-    "gn:asciiname":"Balamutowo",
-    "gn:country_code":"PL",
-    "gn:dem":132,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":776465,
-    "gn:latitude":53.89687,
-    "gn:longitude":22.24623,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Ba\u0142amutowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.22623,53.87687,22.26623,53.91687",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Ba\u0142amutowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000351741494329879,
+    "geom:area_square_m": 2573704.1932284515,
+    "geom:bbox": "22.2295228150185,53.88687280702003,22.266144630022648,53.90252861801595",
+    "geom:latitude": 22.24836000818737,
+    "geom:longitude": 53.89561335318922,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2805.0",
+    "gn:admin3_code": "280505.0",
+    "gn:asciiname": "Balamutowo",
+    "gn:country_code": "PL",
+    "gn:dem": 132,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 776465,
+    "gn:latitude": 53.89687,
+    "gn:longitude": 22.24623,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Bałamutowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.22623,53.87687,22.26623,53.91687",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_preferred": [
+      "Bałamutowo"
     ],
-    "name:nld_x_preferred":[
-        "Ba\u0142amutowo"
+    "name:nld_x_preferred": [
+      "Bałamutowo"
     ],
-    "name:pol_x_preferred":[
-        "Ba\u0142amutowo"
+    "name:pol_x_preferred": [
+      "Bałamutowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u043b\u0430\u043c\u0443\u0442\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Баламутово"
     ],
-    "name:und_x_variant":[
-        "Giersfelde",
-        "Ballamutowen"
+    "name:und_x_variant": [
+      "Giersfelde",
+      "Ballamutowen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752893,
-        85633723,
-        102080209
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":776465,
-        "wk:page":"Ba%C5%82amutowo"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752893,
+      85633723,
+      102080209
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 776465,
+      "pl-gugik:jpt_kod_je": "280505_2.0001",
+      "wk:page": "Ba%C5%82amutowo"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a6542ff69b042b8dfebfcf1d681cf9f7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080209,
-            "localadmin_id":1477752893,
-            "locality_id":1209447559,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "bcf0e97c22668c272419f7458bc94aa7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080209,
+        "localadmin_id": 1477752893,
+        "locality_id": 1209447559,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1209447559,
-    "wof:lastmodified":1570023116,
-    "wof:name":"Balamutowo",
-    "wof:parent_id":1477752893,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209447559,
+    "wof:lastmodified": 1675952164,
+    "wof:name": "Balamutowo",
+    "wof:parent_id": 1477752893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.24623,
-    53.89686999999999,
-    22.24623,
-    53.89686999999999
-],
-  "geometry": {"coordinates":[22.24623,53.89686999999999],"type":"Point"}
+    22.2295228150185,
+    53.88687280702003,
+    22.266144630022648,
+    53.90252861801595
+  ],
+  "geometry": {"coordinates":[[[22.235389,53.901284],[22.236113,53.901175],[22.237737,53.900931],[22.239739,53.900712],[22.239786,53.901072],[22.239774,53.902362],[22.243113,53.902448],[22.246262,53.902529],[22.246011,53.901886],[22.245772,53.901273],[22.246758,53.90125],[22.247445,53.901235],[22.24767,53.901229],[22.249464,53.901063],[22.251526,53.900857],[22.255722,53.900393],[22.257396,53.900214],[22.257333,53.900807],[22.257471,53.900796],[22.258822,53.900685],[22.260478,53.900575],[22.260116,53.901477],[22.26267,53.9012],[22.264869,53.900961],[22.265215,53.900028],[22.265261,53.899896],[22.265691,53.898872],[22.266055,53.898004],[22.266145,53.897792],[22.264082,53.89733],[22.263186,53.897252],[22.262939,53.89726],[22.26182,53.89732],[22.261268,53.897194],[22.260826,53.897096],[22.259478,53.896593],[22.259732,53.894144],[22.25999,53.891672],[22.260072,53.890938],[22.260024,53.890787],[22.263979,53.890823],[22.265273,53.890836],[22.265342,53.889027],[22.265372,53.888198],[22.265379,53.88798],[22.261831,53.888622],[22.260944,53.8889],[22.25958,53.886873],[22.259106,53.88697],[22.258933,53.887005],[22.258592,53.887074],[22.257342,53.887327],[22.25575,53.887749],[22.254112,53.888183],[22.25369,53.888295],[22.25297,53.888476],[22.250789,53.889023],[22.24787,53.889757],[22.247284,53.889907],[22.246375,53.890138],[22.246038,53.890187],[22.245813,53.888989],[22.243924,53.889563],[22.243109,53.889812],[22.242465,53.890009],[22.240224,53.89054],[22.238535,53.890965],[22.238499,53.890974],[22.239633,53.891652],[22.238543,53.892037],[22.236538,53.89275],[22.237611,53.893588],[22.238952,53.894731],[22.237234,53.895017],[22.23701,53.895025],[22.23445,53.895116],[22.23201,53.895203],[22.229659,53.895283],[22.229523,53.895287],[22.229534,53.895999],[22.229604,53.897636],[22.229724,53.898456],[22.229846,53.899287],[22.231008,53.900478],[22.230344,53.901962],[22.23102,53.901871],[22.232314,53.901697],[22.235389,53.901284]]],"type":"Polygon"}
 }

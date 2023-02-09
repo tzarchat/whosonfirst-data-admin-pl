@@ -2,87 +2,91 @@
   "id": 1326756941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.74851,52.64707,18.74851,52.64707",
-    "geom:latitude":52.64707,
-    "geom:longitude":18.74851,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"411.0",
-    "gn:admin3_code":"41104.0",
-    "gn:asciiname":"Bartlomiejowice",
-    "gn:country_code":"PL",
-    "gn:dem":92,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103804,
-    "gn:latitude":52.64707,
-    "gn:longitude":18.74851,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Bart\u0142omiejowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.72851,52.62707,18.76851,52.66707",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Bart\u0142omiejowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00032668894825463047,
+    "geom:area_square_m": 2460396.806002156,
+    "geom:bbox": "18.724556274993063,52.642124448015295,18.758395169004586,52.659401499012716",
+    "geom:latitude": 18.740996903537706,
+    "geom:longitude": 52.64984059077809,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "411.0",
+    "gn:admin3_code": "41104.0",
+    "gn:asciiname": "Bartlomiejowice",
+    "gn:country_code": "PL",
+    "gn:dem": 92,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103804,
+    "gn:latitude": 52.64707,
+    "gn:longitude": 18.74851,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Bartłomiejowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.72851,52.62707,18.76851,52.66707",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Bartłomiejowice"
     ],
-    "name:pol_x_preferred":[
-        "Bart\u0142omiejowice"
+    "name:pol_x_preferred": [
+      "Bartłomiejowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u0440\u0442\u043b\u043e\u043c\u0435\u0439\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Бартломейовіце"
     ],
-    "name:und_x_variant":[
-        "Bart\u0142omiejewice"
+    "name:und_x_variant": [
+      "Bartłomiejewice"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125324187,
-        85633723,
-        102079977
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103804,
-        "wk:page":"Bart%C5%82omiejowice%2C_Kuyavian-Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125324187,
+      85633723,
+      102079977
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103804,
+      "pl-gugik:jpt_kod_je": "041104_2.0001",
+      "wk:page": "Bart%C5%82omiejowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"669f65f959b501ab9ac5e1f6163c5324",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079977,
-            "localadmin_id":1125324187,
-            "locality_id":1326756941,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "53d9e7e096587664836c7caa6aa02c13",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079977,
+        "localadmin_id": 1125324187,
+        "locality_id": 1326756941,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1326756941,
-    "wof:lastmodified":1570005506,
-    "wof:name":"Bartlomiejowice",
-    "wof:parent_id":1125324187,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326756941,
+    "wof:lastmodified": 1675952158,
+    "wof:name": "Bartlomiejowice",
+    "wof:parent_id": 1125324187,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.74851,
-    52.64706999999999,
-    18.74851,
-    52.64706999999999
-],
-  "geometry": {"coordinates":[18.74851,52.64706999999999],"type":"Point"}
+    18.724556274993063,
+    52.642124448015295,
+    18.758395169004586,
+    52.659401499012716
+  ],
+  "geometry": {"coordinates":[[[18.72459,52.644785],[18.725355,52.645793],[18.725565,52.646042],[18.725697,52.646199],[18.72584,52.646368],[18.727025,52.647776],[18.727191,52.647917],[18.727786,52.648658],[18.727869,52.64876],[18.729108,52.650286],[18.729441,52.650671],[18.729574,52.650828],[18.73007,52.651418],[18.7301,52.651454],[18.731027,52.652604],[18.73131,52.652956],[18.73138,52.653018],[18.733981,52.656175],[18.734022,52.656225],[18.734052,52.656261],[18.736688,52.659401],[18.738367,52.658595],[18.738826,52.658375],[18.739193,52.658189],[18.73963,52.657967],[18.741471,52.657172],[18.742514,52.656703],[18.742839,52.656545],[18.742947,52.656496],[18.743135,52.656445],[18.743543,52.656387],[18.745055,52.656208],[18.745592,52.656143],[18.746407,52.656045],[18.74663,52.656018],[18.747324,52.655951],[18.747375,52.655946],[18.747967,52.655843],[18.748659,52.655752],[18.748883,52.655723],[18.748962,52.655747],[18.749642,52.655601],[18.750075,52.655468],[18.75087,52.655223],[18.751629,52.654988],[18.752667,52.654676],[18.75281,52.654652],[18.75396,52.654365],[18.75402,52.654446],[18.755242,52.654188],[18.755706,52.654087],[18.756304,52.653968],[18.757511,52.653726],[18.758358,52.653423],[18.758395,52.653388],[18.758332,52.653338],[18.758317,52.653328],[18.757448,52.653646],[18.756693,52.652743],[18.756344,52.652325],[18.755795,52.651588],[18.755572,52.651307],[18.755368,52.65105],[18.75466,52.65017],[18.75415,52.649548],[18.752661,52.647732],[18.752233,52.647271],[18.752168,52.6472],[18.751891,52.647199],[18.751144,52.646218],[18.751087,52.646144],[18.750691,52.645625],[18.749282,52.643722],[18.748071,52.642124],[18.747626,52.642188],[18.746987,52.6424],[18.746488,52.642475],[18.745821,52.642571],[18.745252,52.642781],[18.744766,52.643013],[18.744789,52.64304],[18.743818,52.643543],[18.743189,52.64273],[18.742776,52.642762],[18.74132,52.642876],[18.740849,52.642913],[18.7402,52.642964],[18.740125,52.642971],[18.739952,52.642983],[18.736604,52.643243],[18.734731,52.643389],[18.733228,52.643506],[18.731309,52.643659],[18.731175,52.643669],[18.729095,52.643835],[18.729048,52.643846],[18.725673,52.644516],[18.724556,52.644739],[18.72459,52.644785]]],"type":"Polygon"}
 }
