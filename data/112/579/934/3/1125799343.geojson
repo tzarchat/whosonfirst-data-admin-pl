@@ -2,113 +2,117 @@
   "id": 1125799343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.0161,54.19634,23.0161,54.19634",
-    "geom:latitude":54.19634,
-    "geom:longitude":23.0161,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":310,
-    "iso:country":"PL",
-    "lbl:bbox":"22.9961,54.17634,23.0361,54.21634",
-    "lbl:latitude":54.19634,
-    "lbl:longitude":23.0161,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Czerwonka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006401894780123051,
+    "geom:area_square_m": 4651216.532432939,
+    "geom:bbox": "22.99009255704406,54.17670621601648,23.030195779058587,54.20853595901939",
+    "geom:latitude": 23.009341897927882,
+    "geom:longitude": 54.19280865585379,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 310,
+    "iso:country": "PL",
+    "lbl:bbox": "22.9961,54.17634,23.0361,54.21634",
+    "lbl:latitude": 54.19634,
+    "lbl:longitude": 23.0161,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Czerwonka"
     ],
-    "name:ceb_x_preferred":[
-        "Czerwonka"
+    "name:ceb_x_preferred": [
+      "Czerwonka"
     ],
-    "name:eng_x_preferred":[
-        "Czerwonka"
+    "name:eng_x_preferred": [
+      "Czerwonka"
     ],
-    "name:fra_x_preferred":[
-        "Czerwonka"
+    "name:fra_x_preferred": [
+      "Czerwonka"
     ],
-    "name:lit_x_preferred":[
-        "\u010cervonka"
+    "name:lit_x_preferred": [
+      "Červonka"
     ],
-    "name:pol_x_preferred":[
-        "Czerwonka"
+    "name:pol_x_preferred": [
+      "Czerwonka"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":773734,
-    "qs_pg:gn_pop":310,
-    "qs_pg:name":"Czerwonka",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":195748,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":490670,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752207,
-        85633723,
-        102080265
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 773734,
+    "qs_pg:gn_pop": 310,
+    "qs_pg:name": "Czerwonka",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 195748,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 490670,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":773734,
-        "gp:id":490670,
-        "qs_pg:id":195748,
-        "wd:id":"Q5202069"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752207,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 773734,
+      "gp:id": 490670,
+      "pl-gugik:jpt_kod_je": "201208_2.0008",
+      "qs_pg:id": 195748,
+      "wd:id": "Q5202069"
     },
-    "wof:country":"PL",
-    "wof:created":1497291196,
-    "wof:geomhash":"ea7f37d03b97734afba11c86f308715b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752207,
-            "locality_id":1125799343,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497291196,
+    "wof:geomhash": "5b763fdaacf0c8f105fe16f310653de5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752207,
+        "locality_id": 1125799343,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1125799343,
-    "wof:lastmodified":1570039861,
-    "wof:name":"Czerwonka",
-    "wof:parent_id":1477752207,
-    "wof:placetype":"locality",
-    "wof:population":310,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125799343,
+    "wof:lastmodified": 1675943700,
+    "wof:name": "Czerwonka",
+    "wof:parent_id": 1477752207,
+    "wof:placetype": "locality",
+    "wof:population": 310,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.0161,
-    54.19634,
-    23.0161,
-    54.19634
-],
-  "geometry": {"coordinates":[23.0161,54.19634],"type":"Point"}
+    22.99009255704406,
+    54.17670621601648,
+    23.030195779058587,
+    54.20853595901939
+  ],
+  "geometry": {"coordinates":[[[23.006381,54.207243],[23.007708,54.206185],[23.008945,54.205219],[23.008982,54.20519],[23.009778,54.204552],[23.010989,54.203579],[23.012085,54.202708],[23.013607,54.201535],[23.014271,54.200977],[23.015247,54.200213],[23.015465,54.200473],[23.016736,54.200118],[23.018181,54.199676],[23.019761,54.199185],[23.019795,54.199176],[23.020093,54.199073],[23.020178,54.199049],[23.021155,54.19877],[23.023953,54.197878],[23.025103,54.197527],[23.028451,54.196492],[23.028458,54.19649],[23.028558,54.196459],[23.030196,54.195952],[23.030167,54.19592],[23.030125,54.195873],[23.030082,54.195825],[23.030057,54.195797],[23.027601,54.19305],[23.026601,54.191903],[23.023537,54.188521],[23.022974,54.187899],[23.022233,54.187082],[23.021213,54.18596],[23.020962,54.185681],[23.020844,54.185551],[23.020646,54.185354],[23.020096,54.184722],[23.019234,54.183767],[23.01923,54.183763],[23.019186,54.183715],[23.019176,54.183704],[23.018118,54.182532],[23.016564,54.180823],[23.01903,54.179929],[23.019179,54.180065],[23.020545,54.179555],[23.020185,54.1791],[23.020716,54.17885],[23.021431,54.178513],[23.021291,54.178097],[23.020175,54.176706],[23.019872,54.176807],[23.018539,54.177252],[23.01822,54.177362],[23.016143,54.178079],[23.015187,54.178395],[23.013993,54.17879],[23.013954,54.178803],[23.011423,54.179639],[23.01134,54.179666],[23.009591,54.180267],[23.009106,54.180433],[23.007263,54.181053],[23.006721,54.181234],[23.003845,54.18219],[23.001472,54.183013],[23.001085,54.183142],[23.001042,54.183157],[22.99858,54.18402],[22.997487,54.184399],[22.997332,54.184451],[22.996779,54.184635],[22.996347,54.184779],[22.995054,54.185268],[22.994349,54.185535],[22.995082,54.186023],[22.996169,54.186711],[22.99666,54.187043],[22.9967,54.18707],[22.997617,54.18769],[22.998543,54.188282],[22.999382,54.188851],[23.000072,54.189291],[22.998633,54.190009],[22.998653,54.191072],[22.995797,54.191368],[22.995598,54.191528],[22.995456,54.191603],[22.994305,54.192209],[22.994145,54.19207],[22.993944,54.191896],[22.991623,54.193117],[22.992347,54.193201],[22.991583,54.193579],[22.991461,54.19364],[22.990737,54.193997],[22.990719,54.194007],[22.990093,54.194292],[22.990543,54.194579],[22.991454,54.195148],[22.992217,54.195627],[22.993185,54.196235],[22.994006,54.196754],[22.994175,54.196861],[22.995568,54.197742],[22.995847,54.198321],[22.995943,54.19852],[22.995997,54.19863],[22.996043,54.198726],[22.996045,54.19873],[22.996071,54.198781],[22.996081,54.198803],[22.996633,54.199933],[22.99621,54.200039],[22.995581,54.200196],[22.994225,54.200546],[22.994371,54.200882],[22.992998,54.201032],[22.992735,54.201103],[22.992418,54.201095],[22.992205,54.201037],[22.991331,54.200977],[22.990665,54.201096],[22.990315,54.201316],[22.994865,54.202116],[22.995099,54.20227],[22.995141,54.202298],[22.995183,54.202326],[22.995649,54.202636],[22.997591,54.203901],[22.999496,54.205136],[23.000855,54.206035],[23.001948,54.206747],[23.00477,54.208536],[23.006381,54.207243]]],"type":"Polygon"}
 }

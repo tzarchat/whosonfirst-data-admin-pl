@@ -2,153 +2,157 @@
   "id": 1125980467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.46214,52.37586,15.46214,52.37586",
-    "geom:latitude":52.37586,
-    "geom:longitude":15.46214,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":232,
-    "iso:country":"PL",
-    "lbl:bbox":"15.44214,52.35586,15.48214,52.39586",
-    "lbl:latitude":52.37586,
-    "lbl:longitude":15.46214,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Wysoka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0008279093833240781,
+    "geom:area_square_m": 6274200.992934731,
+    "geom:bbox": "15.435788796964546,52.3604077510143,15.48827072895696,52.38598566202107",
+    "geom:latitude": 15.462519457013109,
+    "geom:longitude": 52.373337990507686,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 232,
+    "iso:country": "PL",
+    "lbl:bbox": "15.44214,52.35586,15.48214,52.39586",
+    "lbl:latitude": 52.37586,
+    "lbl:longitude": 15.46214,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Wysoka"
     ],
-    "name:csb_x_preferred":[
-        "W\u00ebsok\u00f4"
+    "name:csb_x_preferred": [
+      "Wësokô"
     ],
-    "name:deu_x_preferred":[
-        "Wysoka"
+    "name:deu_x_preferred": [
+      "Wysoka"
     ],
-    "name:epo_x_preferred":[
-        "Wysoka"
+    "name:epo_x_preferred": [
+      "Wysoka"
     ],
-    "name:est_x_preferred":[
-        "Wysoka"
+    "name:est_x_preferred": [
+      "Wysoka"
     ],
-    "name:fra_x_preferred":[
-        "Wysoka"
+    "name:fra_x_preferred": [
+      "Wysoka"
     ],
-    "name:lav_x_preferred":[
-        "Visoka"
+    "name:lav_x_preferred": [
+      "Visoka"
     ],
-    "name:msa_x_preferred":[
-        "Wysoka"
+    "name:msa_x_preferred": [
+      "Wysoka"
     ],
-    "name:nld_x_preferred":[
-        "Wysoka"
+    "name:nld_x_preferred": [
+      "Wysoka"
     ],
-    "name:pol_x_preferred":[
-        "Wysoka"
+    "name:pol_x_preferred": [
+      "Wysoka"
     ],
-    "name:por_x_preferred":[
-        "Wysoka"
+    "name:por_x_preferred": [
+      "Wysoka"
     ],
-    "name:ron_x_preferred":[
-        "Wysoka"
+    "name:ron_x_preferred": [
+      "Wysoka"
     ],
-    "name:rus_x_preferred":[
-        "\u0412\u044b\u0441\u043e\u043a\u0430"
+    "name:rus_x_preferred": [
+      "Высока"
     ],
-    "name:slk_x_preferred":[
-        "Wysoka"
+    "name:slk_x_preferred": [
+      "Wysoka"
     ],
-    "name:srp_x_preferred":[
-        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    "name:srp_x_preferred": [
+      "Висока"
     ],
-    "name:swe_x_preferred":[
-        "Wysoka"
+    "name:swe_x_preferred": [
+      "Wysoka"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Висока"
     ],
-    "name:vie_x_preferred":[
-        "Wysoka"
+    "name:vie_x_preferred": [
+      "Wysoka"
     ],
-    "name:zho_x_preferred":[
-        "\u7dad\u7d22\u5361"
+    "name:zho_x_preferred": [
+      "維索卡"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3081132,
-    "qs_pg:gn_pop":232,
-    "qs_pg:name":"Wysoka",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Lubuskie",
-    "qs_pg:photos":50,
-    "qs_pg:photos_1k":10,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":2,
-    "qs_pg:photos_all":50,
-    "qs_pg:photos_sr":2,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1156211,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":526793,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Lubuskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1125319683,
-        85633723,
-        102079947
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3081132,
+    "qs_pg:gn_pop": 232,
+    "qs_pg:name": "Wysoka",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Lubuskie",
+    "qs_pg:photos": 50,
+    "qs_pg:photos_1k": 10,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 2,
+    "qs_pg:photos_all": 50,
+    "qs_pg:photos_sr": 2,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1156211,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 526793,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3081132,
-        "gp:id":526793,
-        "qs_pg:id":1156211
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Lubuskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1125319683,
+      85633723,
+      102079947
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3081132,
+      "gp:id": 526793,
+      "pl-gugik:jpt_kod_je": "080302_5.0016",
+      "qs_pg:id": 1156211
     },
-    "wof:country":"PL",
-    "wof:created":1497298534,
-    "wof:geomhash":"697735d63f40301518b697789eb9338f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079947,
-            "localadmin_id":1125319683,
-            "locality_id":1125980467,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298534,
+    "wof:geomhash": "070f5811a6a8d811b986a2a083ec3685",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079947,
+        "localadmin_id": 1125319683,
+        "locality_id": 1125980467,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1125980467,
-    "wof:lastmodified":1570038153,
-    "wof:name":"Wysoka",
-    "wof:parent_id":1125319683,
-    "wof:placetype":"locality",
-    "wof:population":232,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125980467,
+    "wof:lastmodified": 1675943691,
+    "wof:name": "Wysoka",
+    "wof:parent_id": 1125319683,
+    "wof:placetype": "locality",
+    "wof:population": 232,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.46214,
-    52.37586,
-    15.46214,
-    52.37586
-],
-  "geometry": {"coordinates":[15.46214,52.37586],"type":"Point"}
+    15.435788796964546,
+    52.3604077510143,
+    15.48827072895696,
+    52.38598566202107
+  ],
+  "geometry": {"coordinates":[[[15.435789,52.375648],[15.435945,52.375798],[15.436428,52.37626],[15.436665,52.376524],[15.436991,52.376657],[15.437551,52.377004],[15.438164,52.377393],[15.438689,52.377838],[15.438979,52.378078],[15.439255,52.378309],[15.43983,52.378757],[15.440089,52.378969],[15.440514,52.37927],[15.441316,52.379858],[15.441754,52.380133],[15.442323,52.380499],[15.442735,52.380896],[15.443091,52.381229],[15.44412,52.381983],[15.44494,52.382779],[15.445701,52.38352],[15.445787,52.383586],[15.446897,52.384449],[15.447961,52.385099],[15.448324,52.385274],[15.448762,52.385486],[15.449018,52.38549],[15.449071,52.385513],[15.450526,52.385961],[15.450605,52.385986],[15.451088,52.385779],[15.454545,52.384756],[15.454636,52.384733],[15.457117,52.384097],[15.458951,52.383497],[15.459998,52.383089],[15.46107,52.382646],[15.461409,52.382579],[15.46388,52.382094],[15.463946,52.382787],[15.464076,52.382774],[15.466976,52.38249],[15.467804,52.382409],[15.468034,52.382387],[15.468395,52.382669],[15.468759,52.382954],[15.469399,52.383104],[15.469549,52.383071],[15.470357,52.382893],[15.471473,52.382855],[15.473476,52.383116],[15.47496,52.383052],[15.475176,52.382993],[15.473556,52.382084],[15.473334,52.381964],[15.473532,52.381955],[15.47404,52.381933],[15.474769,52.381901],[15.475247,52.381879],[15.475973,52.381847],[15.476665,52.381816],[15.477439,52.381782],[15.477629,52.381774],[15.478155,52.381742],[15.478509,52.38172],[15.478843,52.3817],[15.479554,52.381657],[15.479986,52.381631],[15.480258,52.381614],[15.480578,52.3816],[15.479597,52.376447],[15.481683,52.376269],[15.482689,52.376176],[15.484078,52.37601],[15.488271,52.375319],[15.488207,52.375145],[15.488157,52.375031],[15.487148,52.372722],[15.486493,52.371226],[15.485987,52.37024],[15.485661,52.369645],[15.484828,52.368754],[15.482367,52.367727],[15.482338,52.367399],[15.482333,52.367341],[15.482121,52.364901],[15.481887,52.364293],[15.481768,52.36401],[15.481624,52.363792],[15.481415,52.36368],[15.479094,52.363307],[15.478938,52.363287],[15.477747,52.363109],[15.47579,52.362808],[15.473344,52.362449],[15.471701,52.362265],[15.470181,52.362127],[15.469417,52.362019],[15.468547,52.361891],[15.467473,52.361746],[15.467138,52.361696],[15.467114,52.36136],[15.464865,52.361177],[15.464663,52.361161],[15.464485,52.361156],[15.463455,52.361067],[15.462617,52.361013],[15.462047,52.360975],[15.461865,52.360964],[15.461415,52.360905],[15.460108,52.360736],[15.458528,52.360531],[15.456962,52.360408],[15.456748,52.360419],[15.456537,52.360423],[15.455545,52.360444],[15.455047,52.360456],[15.454966,52.360458],[15.454896,52.360732],[15.454858,52.361009],[15.45501,52.361236],[15.454946,52.361835],[15.45529,52.362471],[15.455282,52.36263],[15.455063,52.362882],[15.455099,52.363042],[15.455253,52.363184],[15.455352,52.363269],[15.455381,52.363558],[15.455307,52.36392],[15.455202,52.364097],[15.455224,52.364306],[15.455304,52.364371],[15.455399,52.364377],[15.455453,52.364408],[15.455435,52.364605],[15.455312,52.364889],[15.455272,52.36498],[15.455249,52.365216],[15.454829,52.365444],[15.454536,52.365651],[15.4544,52.36574],[15.454243,52.366048],[15.454207,52.366177],[15.45417,52.366281],[15.454134,52.366407],[15.454393,52.366672],[15.454393,52.366887],[15.454385,52.367074],[15.454422,52.367226],[15.454586,52.367436],[15.454946,52.367601],[15.45496,52.367708],[15.454732,52.367779],[15.45458,52.367906],[15.454535,52.367965],[15.453929,52.368235],[15.453489,52.36851],[15.453348,52.368591],[15.453067,52.368752],[15.452762,52.36874],[15.452565,52.368732],[15.452214,52.368851],[15.451767,52.369002],[15.451685,52.369425],[15.451336,52.369607],[15.451189,52.36957],[15.450952,52.36955],[15.449718,52.369449],[15.448659,52.369272],[15.441806,52.368129],[15.440385,52.369923],[15.440341,52.370007],[15.43825,52.372514],[15.436075,52.375284],[15.435789,52.375648]]],"type":"Polygon"}
 }

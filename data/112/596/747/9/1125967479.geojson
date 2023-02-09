@@ -2,149 +2,153 @@
   "id": 1125967479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.58137,53.68633,21.58137,53.68633",
-    "geom:latitude":53.68633,
-    "geom:longitude":21.58137,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":100,
-    "iso:country":"PL",
-    "lbl:bbox":"21.56137,53.66633,21.60137,53.70633",
-    "lbl:latitude":53.68633,
-    "lbl:longitude":21.58137,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:deu_x_preferred":[
-        "Piaski"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003531221890241653,
+    "geom:area_square_m": 2597114.2673295927,
+    "geom:bbox": "21.56410936301379,53.66790302201466,21.590474565002225,53.691563079017904",
+    "geom:latitude": 21.580992590415143,
+    "geom:longitude": 53.678034915574194,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 100,
+    "iso:country": "PL",
+    "lbl:bbox": "21.56137,53.66633,21.60137,53.70633",
+    "lbl:latitude": 53.68633,
+    "lbl:longitude": 21.58137,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred": [
+      "Piaski"
     ],
-    "name:dsb_x_preferred":[
-        "Piaski"
+    "name:dsb_x_preferred": [
+      "Piaski"
     ],
-    "name:epo_x_preferred":[
-        "Piaski"
+    "name:epo_x_preferred": [
+      "Piaski"
     ],
-    "name:est_x_preferred":[
-        "Piaski"
+    "name:est_x_preferred": [
+      "Piaski"
     ],
-    "name:fra_x_preferred":[
-        "Piaski"
+    "name:fra_x_preferred": [
+      "Piaski"
     ],
-    "name:heb_x_preferred":[
-        "\u05e4\u05d9\u05d0\u05e1\u05e7\u05d9"
+    "name:heb_x_preferred": [
+      "פיאסקי"
     ],
-    "name:lav_x_preferred":[
-        "Pjaski"
+    "name:lav_x_preferred": [
+      "Pjaski"
     ],
-    "name:msa_x_preferred":[
-        "Piaski"
+    "name:msa_x_preferred": [
+      "Piaski"
     ],
-    "name:nld_x_preferred":[
-        "Piaski"
+    "name:nld_x_preferred": [
+      "Piaski"
     ],
-    "name:pol_x_preferred":[
-        "Piaski"
+    "name:pol_x_preferred": [
+      "Piaski"
     ],
-    "name:por_x_preferred":[
-        "Piaski"
+    "name:por_x_preferred": [
+      "Piaski"
     ],
-    "name:ron_x_preferred":[
-        "Piaski"
+    "name:ron_x_preferred": [
+      "Piaski"
     ],
-    "name:rus_x_preferred":[
-        "\u041f\u044f\u0441\u043a\u0438"
+    "name:rus_x_preferred": [
+      "Пяски"
     ],
-    "name:slk_x_preferred":[
-        "Piaski"
+    "name:slk_x_preferred": [
+      "Piaski"
     ],
-    "name:srp_x_preferred":[
-        "\u041f\u0458\u0430\u0441\u043a\u0438"
+    "name:srp_x_preferred": [
+      "Пјаски"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u044f\u0441\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Пяскі"
     ],
-    "name:und_x_variant":[
-        "Piasken"
+    "name:und_x_variant": [
+      "Piasken"
     ],
-    "name:vie_x_preferred":[
-        "Piaski"
+    "name:vie_x_preferred": [
+      "Piaski"
     ],
-    "name:zho_x_preferred":[
-        "\u76ae\u4e9e\u65af\u57fa"
+    "name:zho_x_preferred": [
+      "皮亞斯基"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":762396,
-    "qs_pg:gn_pop":100,
-    "qs_pg:name":"Piaski",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":509551,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24939425,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125270529,
-        85633723,
-        102080195
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 762396,
+    "qs_pg:gn_pop": 100,
+    "qs_pg:name": "Piaski",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 509551,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24939425,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762396,
-        "gp:id":24939425,
-        "qs_pg:id":509551
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125270529,
+      85633723,
+      102080195
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762396,
+      "gp:id": 24939425,
+      "pl-gugik:jpt_kod_je": "281604_5.0009",
+      "qs_pg:id": 509551
     },
-    "wof:country":"PL",
-    "wof:created":1497298029,
-    "wof:geomhash":"1342d9936c9c5ae0d23ba701c84a54b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080195,
-            "localadmin_id":1125270529,
-            "locality_id":1125967479,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:created": 1497298029,
+    "wof:geomhash": "d52fc3c01dce540c2c3d551b7ed66bcd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080195,
+        "localadmin_id": 1125270529,
+        "locality_id": 1125967479,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1125967479,
-    "wof:lastmodified":1570037982,
-    "wof:name":"Piaski",
-    "wof:parent_id":1125270529,
-    "wof:placetype":"locality",
-    "wof:population":100,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125967479,
+    "wof:lastmodified": 1675943700,
+    "wof:name": "Piaski",
+    "wof:parent_id": 1125270529,
+    "wof:placetype": "locality",
+    "wof:population": 100,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.58137,
-    53.68633,
-    21.58137,
-    53.68633
-],
-  "geometry": {"coordinates":[21.58137,53.68633],"type":"Point"}
+    21.56410936301379,
+    53.66790302201466,
+    21.590474565002225,
+    53.691563079017904
+  ],
+  "geometry": {"coordinates":[[[21.581156,53.667903],[21.580955,53.667982],[21.58074,53.668152],[21.580417,53.668331],[21.580149,53.66842],[21.579847,53.668455],[21.57969,53.668543],[21.579233,53.669251],[21.578681,53.669373],[21.57838,53.669501],[21.578104,53.669572],[21.577663,53.669581],[21.576751,53.669442],[21.57593,53.669363],[21.575088,53.669158],[21.574948,53.669113],[21.574869,53.669088],[21.573673,53.668707],[21.57327,53.668605],[21.572736,53.66858],[21.571967,53.668649],[21.571497,53.668978],[21.57116,53.669137],[21.57082,53.669134],[21.570377,53.66905],[21.569788,53.66893],[21.569055,53.66874],[21.568319,53.668707],[21.568232,53.668703],[21.568152,53.6687],[21.567572,53.668746],[21.566235,53.668667],[21.565716,53.668608],[21.56517,53.668677],[21.564198,53.669045],[21.564134,53.669069],[21.564162,53.66913],[21.564109,53.669484],[21.564245,53.66966],[21.564336,53.66975],[21.564369,53.669776],[21.565276,53.670313],[21.565289,53.67032],[21.565563,53.67043],[21.565802,53.67054],[21.56665,53.6706],[21.566779,53.670505],[21.567103,53.670532],[21.567199,53.670564],[21.567402,53.670749],[21.567461,53.67094],[21.56733,53.671062],[21.566791,53.671149],[21.566357,53.671226],[21.566056,53.671344],[21.565902,53.671405],[21.565312,53.671548],[21.565199,53.67169],[21.565371,53.671827],[21.565818,53.672209],[21.565948,53.672373],[21.56625,53.672545],[21.566623,53.672944],[21.566687,53.673435],[21.566684,53.673971],[21.56655,53.674211],[21.565827,53.674541],[21.565465,53.674614],[21.565196,53.674728],[21.565145,53.674795],[21.565494,53.674894],[21.565596,53.674929],[21.566396,53.675314],[21.56651,53.675386],[21.566789,53.675454],[21.567092,53.675459],[21.56832,53.67538],[21.568579,53.675436],[21.569281,53.675756],[21.570225,53.675945],[21.570464,53.676043],[21.571226,53.676376],[21.57229,53.676707],[21.572332,53.676714],[21.573446,53.677],[21.573643,53.67709],[21.573974,53.677291],[21.574769,53.678013],[21.576834,53.679276],[21.577668,53.679979],[21.577999,53.680301],[21.578021,53.680317],[21.578322,53.680544],[21.578661,53.680658],[21.579314,53.681002],[21.580217,53.682013],[21.580751,53.682805],[21.580885,53.683113],[21.580948,53.683442],[21.580989,53.684222],[21.580984,53.684411],[21.581115,53.68484],[21.580884,53.685266],[21.580843,53.685355],[21.580674,53.685718],[21.580471,53.68593],[21.580431,53.686077],[21.58043,53.686102],[21.580211,53.686218],[21.580036,53.686402],[21.579715,53.686501],[21.579363,53.686704],[21.57824,53.686996],[21.577806,53.686937],[21.577193,53.687285],[21.576743,53.687585],[21.576793,53.687779],[21.57651,53.68787],[21.576661,53.688136],[21.576493,53.688648],[21.576655,53.689114],[21.576786,53.689353],[21.57677,53.689705],[21.576705,53.689944],[21.576735,53.69001],[21.576684,53.690322],[21.577089,53.690357],[21.578835,53.690509],[21.580254,53.690636],[21.580554,53.690663],[21.580644,53.690671],[21.581666,53.69076],[21.583969,53.690986],[21.586223,53.691169],[21.588465,53.691368],[21.590475,53.691563],[21.590079,53.684123],[21.590073,53.684005],[21.590078,53.682909],[21.590019,53.680447],[21.589949,53.677995],[21.58995,53.6778],[21.589951,53.677658],[21.590033,53.676102],[21.590077,53.675005],[21.590118,53.673891],[21.590155,53.6729],[21.590234,53.671315],[21.590308,53.670123],[21.59034,53.669357],[21.59033,53.669351],[21.590104,53.669212],[21.589813,53.66911],[21.589531,53.669093],[21.588946,53.669185],[21.588598,53.669202],[21.587974,53.66915],[21.5874,53.66927],[21.586816,53.669508],[21.586143,53.669693],[21.585987,53.669664],[21.58545,53.669566],[21.583688,53.669202],[21.582834,53.668859],[21.582239,53.668489],[21.581411,53.667967],[21.581156,53.667903]]],"type":"Polygon"}
 }

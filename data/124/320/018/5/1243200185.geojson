@@ -2,84 +2,88 @@
   "id": 1243200185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.54967,52.25818,20.54967,52.25818",
-    "geom:latitude":52.25818,
-    "geom:longitude":20.54967,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1432.0",
-    "gn:admin3_code":"143204.0",
-    "gn:asciiname":"Wilkow",
-    "gn:country_code":"PL",
-    "gn:dem":89,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755668,
-    "gn:latitude":52.25818,
-    "gn:longitude":20.54967,
-    "gn:modification_date":"2010-09-19",
-    "gn:name":"Wilk\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.52967,52.23818,20.56967,52.27818",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Wilk\u00f3w"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000052590138392718925,
+    "geom:area_square_m": 399602.7097502628,
+    "geom:bbox": "20.54603691799601,52.25062412201518,20.55520013400623,52.26097985701517",
+    "geom:latitude": 20.550567897467893,
+    "geom:longitude": 52.25511268800955,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1432.0",
+    "gn:admin3_code": "143204.0",
+    "gn:asciiname": "Wilkow",
+    "gn:country_code": "PL",
+    "gn:dem": 89,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755668,
+    "gn:latitude": 52.25818,
+    "gn:longitude": 20.54967,
+    "gn:modification_date": "2010-09-19",
+    "gn:name": "Wilków",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.52967,52.23818,20.56967,52.27818",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Wilków"
     ],
-    "name:pol_x_preferred":[
-        "Wilk\u00f3w"
+    "name:pol_x_preferred": [
+      "Wilków"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0456\u043b\u044c\u043a\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Вількув"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752351,
-        85633723,
-        102079949
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755668,
-        "wk:page":"Wilk%C3%B3w%2C_Masovian_Voivodeship"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752351,
+      85633723,
+      102079949
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755668,
+      "pl-gugik:jpt_kod_je": "143204_2.0030",
+      "wk:page": "Wilk%C3%B3w%2C_Masovian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a124a0ae31395ed6854628517b8917bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079949,
-            "localadmin_id":1477752351,
-            "locality_id":1243200185,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a4611a9fa08a32cf897ca09ce82ea573",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079949,
+        "localadmin_id": 1477752351,
+        "locality_id": 1243200185,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1243200185,
-    "wof:lastmodified":1570044621,
-    "wof:name":"Wilkow",
-    "wof:parent_id":1477752351,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243200185,
+    "wof:lastmodified": 1675943709,
+    "wof:name": "Wilkow",
+    "wof:parent_id": 1477752351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.54967000000001,
-    52.25818,
-    20.54967000000001,
-    52.25818
-],
-  "geometry": {"coordinates":[20.54967000000001,52.25818],"type":"Point"}
+    20.54603691799601,
+    52.25062412201518,
+    20.55520013400623,
+    52.26097985701517
+  ],
+  "geometry": {"coordinates":[[[20.546037,52.25181],[20.546628,52.253272],[20.547365,52.255129],[20.547941,52.256624],[20.548048,52.256902],[20.548126,52.257104],[20.548146,52.257161],[20.548229,52.257397],[20.548237,52.257415],[20.548337,52.257667],[20.548352,52.257706],[20.548369,52.25774],[20.548376,52.257798],[20.548397,52.257973],[20.548399,52.257988],[20.548531,52.258352],[20.548852,52.259198],[20.549049,52.259718],[20.549262,52.26028],[20.549509,52.260931],[20.549518,52.260956],[20.54953,52.26098],[20.549714,52.260964],[20.549803,52.260957],[20.550112,52.260931],[20.55053,52.260888],[20.551022,52.260771],[20.551207,52.26067],[20.551416,52.260581],[20.551557,52.260527],[20.551865,52.260436],[20.55186,52.26042],[20.551853,52.2604],[20.551766,52.26014],[20.551405,52.259024],[20.55097,52.25768],[20.551602,52.257622],[20.551998,52.257568],[20.552258,52.257533],[20.552311,52.257526],[20.552517,52.257503],[20.55278,52.257473],[20.553503,52.257392],[20.553751,52.257364],[20.553778,52.257361],[20.554318,52.257301],[20.554382,52.257294],[20.554807,52.25725],[20.5552,52.25721],[20.555151,52.257009],[20.554886,52.256337],[20.554541,52.255459],[20.553919,52.253881],[20.553623,52.253111],[20.552655,52.250624],[20.552326,52.250684],[20.551948,52.250757],[20.551647,52.250811],[20.551345,52.250864],[20.550502,52.251015],[20.550006,52.251103],[20.549986,52.251106],[20.549755,52.251148],[20.549517,52.25119],[20.549505,52.251192],[20.549197,52.251247],[20.549137,52.251258],[20.548764,52.251324],[20.548545,52.251372],[20.548298,52.251417],[20.546972,52.25166],[20.546505,52.25173],[20.546425,52.251743],[20.546037,52.25181]]],"type":"Polygon"}
 }

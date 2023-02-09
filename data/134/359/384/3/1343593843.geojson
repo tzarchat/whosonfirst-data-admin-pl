@@ -2,87 +2,91 @@
   "id": 1343593843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.59711,52.16206,15.59711,52.16206",
-    "geom:latitude":52.16206,
-    "geom:longitude":15.59711,
-    "gn:admin1_code":"76",
-    "gn:admin2_code":"0808",
-    "gn:admin3_code":"80805.0",
-    "gn:asciiname":"Podlesie",
-    "gn:country_code":"PL",
-    "gn:dem":104,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8740660,
-    "gn:latitude":52.16206,
-    "gn:longitude":15.59711,
-    "gn:modification_date":"2015-09-10",
-    "gn:name":"Podlesie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"15.57711,52.14206,15.61711,52.18206",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_historical":[
-        "Friedrichsfelde"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00020327217941983327,
+    "geom:area_square_m": 1547756.6433917321,
+    "geom:bbox": "15.58726780397159,52.15343097901188,15.614347598966274,52.16901242101755",
+    "geom:latitude": 15.59931652689061,
+    "geom:longitude": 52.16209727448912,
+    "gn:admin1_code": "76",
+    "gn:admin2_code": "0808",
+    "gn:admin3_code": "80805.0",
+    "gn:asciiname": "Podlesie",
+    "gn:country_code": "PL",
+    "gn:dem": 104,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8740660,
+    "gn:latitude": 52.16206,
+    "gn:longitude": 15.59711,
+    "gn:modification_date": "2015-09-10",
+    "gn:name": "Podlesie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "15.57711,52.14206,15.61711,52.18206",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:deu_x_historical": [
+      "Friedrichsfelde"
     ],
-    "name:deu_x_preferred":[
-        "Friedrichsfelde"
+    "name:deu_x_preferred": [
+      "Friedrichsfelde"
     ],
-    "name:fra_x_preferred":[
-        "Podlesie"
+    "name:fra_x_preferred": [
+      "Podlesie"
     ],
-    "name:pol_x_preferred":[
-        "Podlesie"
+    "name:pol_x_preferred": [
+      "Podlesie"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1125399945,
-        85633723,
-        102079887
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8740660,
-        "wk:page":"Podlesie%2C_%C5%9Awiebodzin_County"
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1125399945,
+      85633723,
+      102079887
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8740660,
+      "pl-gugik:jpt_kod_je": "080805_5.0022",
+      "wk:page": "Podlesie%2C_%C5%9Awiebodzin_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"13031363088a0cffe140b65bf3c7877d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079887,
-            "localadmin_id":1125399945,
-            "locality_id":1343593843,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "73e1885b94db7a9491cf9377a93272cd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079887,
+        "localadmin_id": 1125399945,
+        "locality_id": 1343593843,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1343593843,
-    "wof:lastmodified":1570010646,
-    "wof:name":"Podlesie",
-    "wof:parent_id":1125399945,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343593843,
+    "wof:lastmodified": 1675943691,
+    "wof:name": "Podlesie",
+    "wof:parent_id": 1125399945,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.59711,
-    52.16206,
-    15.59711,
-    52.16206
-],
-  "geometry": {"coordinates":[15.59711,52.16206],"type":"Point"}
+    15.58726780397159,
+    52.15343097901188,
+    15.614347598966274,
+    52.16901242101755
+  ],
+  "geometry": {"coordinates":[[[15.587268,52.165707],[15.588421,52.165781],[15.589252,52.165851],[15.589748,52.165901],[15.590301,52.166032],[15.590823,52.166198],[15.591068,52.166327],[15.591905,52.166802],[15.592294,52.16703],[15.594068,52.168035],[15.596122,52.169012],[15.596221,52.168989],[15.596927,52.168822],[15.597101,52.168782],[15.597827,52.16861],[15.598273,52.168469],[15.599301,52.168146],[15.60042,52.167855],[15.601303,52.167625],[15.604322,52.166839],[15.604367,52.166824],[15.604504,52.166827],[15.604618,52.167032],[15.609293,52.167112],[15.612139,52.16716],[15.614348,52.167197],[15.613679,52.166902],[15.612429,52.166354],[15.61088,52.165737],[15.609594,52.165507],[15.609205,52.165068],[15.608958,52.164934],[15.608684,52.164785],[15.606912,52.164109],[15.607262,52.163325],[15.607299,52.163281],[15.607351,52.163216],[15.607498,52.163038],[15.607642,52.162864],[15.60775,52.162733],[15.607768,52.161996],[15.607721,52.161954],[15.607661,52.161948],[15.609734,52.160094],[15.610895,52.158521],[15.611299,52.158068],[15.611598,52.157798],[15.609084,52.158068],[15.607802,52.158143],[15.603483,52.15838],[15.603352,52.158386],[15.603395,52.158298],[15.602631,52.158002],[15.6015,52.157569],[15.601112,52.157424],[15.599286,52.156738],[15.599224,52.156701],[15.596499,52.15564],[15.594084,52.1547],[15.59376,52.154574],[15.5923,52.154004],[15.592109,52.15393],[15.590828,52.153431],[15.590621,52.153643],[15.589271,52.154949],[15.588992,52.155219],[15.588524,52.155675],[15.588478,52.15572],[15.593354,52.158197],[15.59316,52.158724],[15.592921,52.159375],[15.592264,52.161166],[15.591797,52.162423],[15.59174,52.162577],[15.591616,52.16291],[15.590889,52.162777],[15.590597,52.163414],[15.591211,52.163497],[15.589532,52.164441],[15.589329,52.164555],[15.588572,52.164981],[15.587453,52.16561],[15.587268,52.165707]]],"type":"Polygon"}
 }

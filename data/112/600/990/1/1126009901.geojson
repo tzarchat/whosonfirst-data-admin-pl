@@ -2,116 +2,120 @@
   "id": 1126009901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.06657,52.49224,17.06657,52.49224",
-    "geom:latitude":52.49224,
-    "geom:longitude":17.06657,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":113,
-    "iso:country":"PL",
-    "lbl:bbox":"17.04657,52.47224,17.08657,52.51224",
-    "lbl:latitude":52.49224,
-    "lbl:longitude":17.06657,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:deu_x_preferred":[
-        "Mielno"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00047791144227708396,
+    "geom:area_square_m": 3612089.452132037,
+    "geom:bbox": "17.03524867399208,52.48097280401928,17.084253388994536,52.50194718301545",
+    "geom:latitude": 17.06059114110908,
+    "geom:longitude": 52.492692523768234,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 113,
+    "iso:country": "PL",
+    "lbl:bbox": "17.04657,52.47224,17.08657,52.51224",
+    "lbl:latitude": 52.49224,
+    "lbl:longitude": 17.06657,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred": [
+      "Mielno"
     ],
-    "name:epo_x_preferred":[
-        "Mielno"
+    "name:epo_x_preferred": [
+      "Mielno"
     ],
-    "name:fra_x_preferred":[
-        "Mielno"
+    "name:fra_x_preferred": [
+      "Mielno"
     ],
-    "name:ita_x_preferred":[
-        "Mielno"
+    "name:ita_x_preferred": [
+      "Mielno"
     ],
-    "name:nld_x_preferred":[
-        "Mielno"
+    "name:nld_x_preferred": [
+      "Mielno"
     ],
-    "name:pol_x_preferred":[
-        "Mielno"
+    "name:pol_x_preferred": [
+      "Mielno"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0435\u043b\u044c\u043d\u043e"
+    "name:ukr_x_preferred": [
+      "Мельно"
     ],
-    "name:vie_x_preferred":[
-        "Mielno"
+    "name:vie_x_preferred": [
+      "Mielno"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3091920,
-    "qs_pg:gn_pop":113,
-    "qs_pg:name":"Mielno",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":302469,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":507347,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125370977,
-        85633723,
-        102079955
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3091920,
+    "qs_pg:gn_pop": 113,
+    "qs_pg:name": "Mielno",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 302469,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 507347,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3091920,
-        "gp:id":507347,
-        "qs_pg:id":302469
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125370977,
+      85633723,
+      102079955
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3091920,
+      "gp:id": 507347,
+      "pl-gugik:jpt_kod_je": "302104_2.0008",
+      "qs_pg:id": 302469
     },
-    "wof:country":"PL",
-    "wof:created":1497300202,
-    "wof:geomhash":"a11de5f6ef0e2b809835e9d4c7409c83",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079955,
-            "localadmin_id":1125370977,
-            "locality_id":1126009901,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300202,
+    "wof:geomhash": "0a1221d2a5b2eec231b34ac85a7765e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079955,
+        "localadmin_id": 1125370977,
+        "locality_id": 1126009901,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126009901,
-    "wof:lastmodified":1570038840,
-    "wof:name":"Mielno",
-    "wof:parent_id":1125370977,
-    "wof:placetype":"locality",
-    "wof:population":113,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126009901,
+    "wof:lastmodified": 1675943696,
+    "wof:name": "Mielno",
+    "wof:parent_id": 1125370977,
+    "wof:placetype": "locality",
+    "wof:population": 113,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.06657,
-    52.49224,
-    17.06657,
-    52.49224
-],
-  "geometry": {"coordinates":[17.06657,52.49224],"type":"Point"}
+    17.03524867399208,
+    52.48097280401928,
+    17.084253388994536,
+    52.50194718301545
+  ],
+  "geometry": {"coordinates":[[[17.035249,52.501947],[17.036049,52.501807],[17.037356,52.501421],[17.039846,52.501171],[17.042312,52.50093],[17.044731,52.500684],[17.047754,52.500224],[17.051527,52.499585],[17.054237,52.499146],[17.057088,52.498689],[17.057208,52.498714],[17.057722,52.499067],[17.05811,52.499079],[17.060666,52.499163],[17.063139,52.49919],[17.066344,52.499208],[17.069101,52.499225],[17.069232,52.499226],[17.069245,52.499141],[17.069244,52.498617],[17.069296,52.498169],[17.069396,52.497532],[17.070484,52.497512],[17.070498,52.496214],[17.071494,52.496153],[17.072255,52.496107],[17.072964,52.496064],[17.073124,52.496055],[17.073336,52.49603],[17.073994,52.495978],[17.07437,52.495936],[17.074765,52.49526],[17.075185,52.494545],[17.075217,52.494531],[17.075666,52.494216],[17.075747,52.494155],[17.076709,52.493474],[17.078652,52.492097],[17.078893,52.492022],[17.080617,52.491485],[17.080788,52.491455],[17.081551,52.491225],[17.082447,52.490975],[17.083808,52.490605],[17.083881,52.490585],[17.084201,52.4905],[17.084253,52.490314],[17.083923,52.48994],[17.083673,52.489657],[17.083793,52.489494],[17.083767,52.489058],[17.081883,52.487419],[17.081752,52.487334],[17.081276,52.487027],[17.081171,52.48696],[17.0807,52.486656],[17.080393,52.486458],[17.079993,52.4862],[17.079606,52.48595],[17.079534,52.485903],[17.079359,52.485794],[17.078131,52.48504],[17.075587,52.483476],[17.073206,52.482013],[17.071514,52.480973],[17.070848,52.481553],[17.070257,52.482036],[17.069155,52.482591],[17.068605,52.482908],[17.0674,52.483517],[17.065406,52.484086],[17.065039,52.484193],[17.063599,52.48456],[17.061138,52.485344],[17.061278,52.485728],[17.061543,52.486316],[17.061642,52.486739],[17.061715,52.487072],[17.061846,52.487339],[17.06219,52.487836],[17.062625,52.488442],[17.063119,52.489071],[17.063511,52.489566],[17.063394,52.489631],[17.063369,52.489645],[17.063147,52.489617],[17.062693,52.489645],[17.062317,52.489697],[17.061941,52.489756],[17.061535,52.48981],[17.06112,52.489864],[17.060269,52.489832],[17.060124,52.489854],[17.059878,52.48987],[17.059179,52.489916],[17.057571,52.489847],[17.056421,52.489747],[17.055534,52.489643],[17.054651,52.489604],[17.053711,52.489535],[17.053267,52.489611],[17.052853,52.489783],[17.052596,52.489801],[17.051881,52.48973],[17.05051,52.489763],[17.050495,52.489761],[17.049594,52.489635],[17.049496,52.489632],[17.048703,52.489612],[17.048614,52.48961],[17.047976,52.489737],[17.048423,52.490166],[17.048818,52.490545],[17.049126,52.490839],[17.048899,52.490881],[17.047886,52.491013],[17.046882,52.49115],[17.04627,52.49124],[17.046142,52.491257],[17.046099,52.491263],[17.045327,52.491373],[17.04489,52.491435],[17.044544,52.491486],[17.043438,52.491646],[17.043006,52.491707],[17.042501,52.491773],[17.042254,52.491806],[17.041496,52.491919],[17.041254,52.491953],[17.039534,52.492173],[17.03805,52.495566],[17.035321,52.501796],[17.035249,52.501947]]],"type":"Polygon"}
 }

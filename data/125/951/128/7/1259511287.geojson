@@ -2,167 +2,171 @@
   "id": 1259511287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.89314,51.80974,22.89314,51.80974",
-    "geom:latitude":51.80974,
-    "geom:longitude":22.89314,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"615.0",
-    "gn:admin3_code":"61505.0",
-    "gn:asciiname":"Brzeziny",
-    "gn:country_code":"PL",
-    "gn:dem":157,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":775148,
-    "gn:latitude":51.80974,
-    "gn:longitude":22.89314,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Brzeziny",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.87314,51.78974,22.91314,51.82974",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bel_x_preferred":[
-        "\u0411\u0436\u044d\u0437\u0456\u043d\u044b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0006322883514517524,
+    "geom:area_square_m": 4850996.629068255,
+    "geom:bbox": "22.848856910055805,51.80311580601372,22.914068836061265,51.83824130001403",
+    "geom:latitude": 22.879135819322155,
+    "geom:longitude": 51.81920995993493,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "615.0",
+    "gn:admin3_code": "61505.0",
+    "gn:asciiname": "Brzeziny",
+    "gn:country_code": "PL",
+    "gn:dem": 157,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 775148,
+    "gn:latitude": 51.80974,
+    "gn:longitude": 22.89314,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Brzeziny",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.87314,51.78974,22.91314,51.82974",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:bel_x_preferred": [
+      "Бжэзіны"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0436\u0435\u0436\u0438\u043d\u0438"
+    "name:bul_x_preferred": [
+      "Бжежини"
     ],
-    "name:ceb_x_preferred":[
-        "Brzeziny"
+    "name:ceb_x_preferred": [
+      "Brzeziny"
     ],
-    "name:deu_x_preferred":[
-        "Brzeziny"
+    "name:deu_x_preferred": [
+      "Brzeziny"
     ],
-    "name:dsb_x_preferred":[
-        "Brzeziny"
+    "name:dsb_x_preferred": [
+      "Brzeziny"
     ],
-    "name:epo_x_preferred":[
-        "Brzeziny"
+    "name:epo_x_preferred": [
+      "Brzeziny"
     ],
-    "name:est_x_preferred":[
-        "Brzeziny"
+    "name:est_x_preferred": [
+      "Brzeziny"
     ],
-    "name:eus_x_preferred":[
-        "Brzeziny"
+    "name:eus_x_preferred": [
+      "Brzeziny"
     ],
-    "name:fas_x_preferred":[
-        "\u0628\u0698\u0698\u06cc\u0646\u0647"
+    "name:fas_x_preferred": [
+      "بژژینه"
     ],
-    "name:fin_x_preferred":[
-        "Brzeziny"
+    "name:fin_x_preferred": [
+      "Brzeziny"
     ],
-    "name:fra_x_preferred":[
-        "Brzeziny"
+    "name:fra_x_preferred": [
+      "Brzeziny"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d6'\u05d6'\u05d9\u05e0\u05d9"
+    "name:heb_x_preferred": [
+      "בז'ז'יני"
     ],
-    "name:ind_x_preferred":[
-        "Brzeziny"
+    "name:ind_x_preferred": [
+      "Brzeziny"
     ],
-    "name:ita_x_preferred":[
-        "Brzeziny"
+    "name:ita_x_preferred": [
+      "Brzeziny"
     ],
-    "name:jav_x_preferred":[
-        "Brzeziny"
+    "name:jav_x_preferred": [
+      "Brzeziny"
     ],
-    "name:kor_x_preferred":[
-        "\ube0c\uc170\uc9c0\ub2c8"
+    "name:kor_x_preferred": [
+      "브셰지니"
     ],
-    "name:lav_x_preferred":[
-        "B\u017eezini"
+    "name:lav_x_preferred": [
+      "Bžezini"
     ],
-    "name:msa_x_preferred":[
-        "Brzeziny"
+    "name:msa_x_preferred": [
+      "Brzeziny"
     ],
-    "name:nld_x_preferred":[
-        "Brzeziny"
+    "name:nld_x_preferred": [
+      "Brzeziny"
     ],
-    "name:pol_x_preferred":[
-        "Brzeziny"
+    "name:pol_x_preferred": [
+      "Brzeziny"
     ],
-    "name:por_x_preferred":[
-        "Brzeziny"
+    "name:por_x_preferred": [
+      "Brzeziny"
     ],
-    "name:ron_x_preferred":[
-        "Brzeziny"
+    "name:ron_x_preferred": [
+      "Brzeziny"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0436\u0435\u0437\u0438\u043d\u044b"
+    "name:rus_x_preferred": [
+      "Бжезины"
     ],
-    "name:slk_x_preferred":[
-        "Brzeziny"
+    "name:slk_x_preferred": [
+      "Brzeziny"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0436\u0435\u0437\u0438\u043d\u0438"
+    "name:srp_x_preferred": [
+      "Бжезини"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0436\u0435\u0437\u0456\u043d\u0438"
+    "name:ukr_x_preferred": [
+      "Бжезіни"
     ],
-    "name:und_x_variant":[
-        "Kolonia Brzeziny"
+    "name:und_x_variant": [
+      "Kolonia Brzeziny"
     ],
-    "name:urd_x_preferred":[
-        "\u0628\u0631\u0632\u0632\u0646\u0646\u06d2"
+    "name:urd_x_preferred": [
+      "برززننے"
     ],
-    "name:vie_x_preferred":[
-        "Brzeziny"
+    "name:vie_x_preferred": [
+      "Brzeziny"
     ],
-    "name:war_x_preferred":[
-        "Brzeziny"
+    "name:war_x_preferred": [
+      "Brzeziny"
     ],
-    "name:zho_x_preferred":[
-        "\u5e03\u672d\u5e0c\u5c3c"
+    "name:zho_x_preferred": [
+      "布札希尼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1477752889,
-        85633723,
-        102079905
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775148
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1477752889,
+      85633723,
+      102079905
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775148,
+      "pl-gugik:jpt_kod_je": "061505_2.0001"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"84039438f2f7d2d27e325618165026de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079905,
-            "localadmin_id":1477752889,
-            "locality_id":1259511287,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "df5168fbf9400a8fb92754661cadb0ba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079905,
+        "localadmin_id": 1477752889,
+        "locality_id": 1259511287,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1259511287,
-    "wof:lastmodified":1570047563,
-    "wof:name":"Brzeziny",
-    "wof:parent_id":1477752889,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259511287,
+    "wof:lastmodified": 1675943706,
+    "wof:name": "Brzeziny",
+    "wof:parent_id": 1477752889,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.89314,
-    51.80974000000001,
-    22.89314,
-    51.80974000000001
-],
-  "geometry": {"coordinates":[22.89314,51.80974000000001],"type":"Point"}
+    22.848856910055805,
+    51.80311580601372,
+    22.914068836061265,
+    51.83824130001403
+  ],
+  "geometry": {"coordinates":[[[22.848857,51.832839],[22.853904,51.835568],[22.858845,51.838241],[22.858888,51.838205],[22.863188,51.835381],[22.863237,51.835348],[22.868482,51.831904],[22.868532,51.831871],[22.871135,51.830161],[22.874716,51.827808],[22.874873,51.827705],[22.87491,51.827747],[22.876151,51.826954],[22.876323,51.826845],[22.878416,51.825429],[22.878647,51.825277],[22.878882,51.825123],[22.879116,51.824969],[22.87935,51.824816],[22.879519,51.824704],[22.879584,51.824662],[22.880088,51.82433],[22.880544,51.82403],[22.880783,51.823873],[22.880969,51.823751],[22.881411,51.823461],[22.88176,51.823231],[22.882024,51.823058],[22.882509,51.822739],[22.882628,51.82266],[22.883049,51.822384],[22.883515,51.822077],[22.883557,51.82205],[22.883811,51.821882],[22.884031,51.821737],[22.884081,51.821703],[22.884843,51.8212],[22.885101,51.821029],[22.885159,51.82099],[22.88535,51.820865],[22.885745,51.820603],[22.886254,51.820267],[22.886515,51.820094],[22.886765,51.819929],[22.88694,51.819814],[22.887025,51.819757],[22.887279,51.819589],[22.887531,51.819422],[22.88791,51.819171],[22.88828,51.818926],[22.888445,51.818817],[22.88868,51.818661],[22.888938,51.81849],[22.889138,51.818358],[22.889194,51.818321],[22.889449,51.818153],[22.889805,51.817927],[22.889846,51.817902],[22.889975,51.81782],[22.890361,51.817575],[22.890495,51.81749],[22.891024,51.817156],[22.891459,51.816881],[22.89149,51.816861],[22.891548,51.816824],[22.891801,51.816664],[22.891933,51.816581],[22.892068,51.816495],[22.892263,51.816372],[22.892459,51.816248],[22.892585,51.816169],[22.892722,51.816082],[22.892918,51.815958],[22.893121,51.815836],[22.893246,51.815765],[22.893572,51.815577],[22.894119,51.815263],[22.894261,51.815181],[22.894554,51.815012],[22.894643,51.814961],[22.894733,51.81491],[22.894782,51.814881],[22.89528,51.814595],[22.895416,51.814516],[22.895545,51.814443],[22.89573,51.814336],[22.896179,51.814078],[22.896836,51.8137],[22.897219,51.81348],[22.897745,51.813202],[22.898222,51.812951],[22.898717,51.81269],[22.898821,51.812635],[22.899251,51.812455],[22.901559,51.811408],[22.903375,51.810689],[22.906191,51.809562],[22.907541,51.808964],[22.914069,51.806386],[22.914049,51.806362],[22.912992,51.805073],[22.912967,51.805043],[22.912985,51.804936],[22.909606,51.804575],[22.906036,51.804195],[22.905911,51.804182],[22.905725,51.804163],[22.904786,51.804068],[22.902903,51.803855],[22.900956,51.803641],[22.898688,51.803386],[22.896267,51.803116],[22.896231,51.803139],[22.894541,51.804218],[22.893378,51.804845],[22.890597,51.80632],[22.890264,51.806497],[22.888694,51.807329],[22.888531,51.80722],[22.88817,51.806983],[22.888129,51.806955],[22.887939,51.80683],[22.883549,51.809278],[22.882775,51.809726],[22.882646,51.809801],[22.882142,51.810125],[22.881912,51.810341],[22.881642,51.810596],[22.881608,51.810628],[22.878743,51.812595],[22.878656,51.812655],[22.878634,51.81267],[22.877687,51.81332],[22.876489,51.81403],[22.871239,51.817142],[22.868751,51.818682],[22.86508,51.821058],[22.865048,51.821039],[22.864907,51.821142],[22.863365,51.822131],[22.863028,51.822348],[22.863059,51.822393],[22.85733,51.826088],[22.857279,51.82612],[22.858139,51.826569],[22.85809,51.826602],[22.853071,51.82999],[22.853022,51.830023],[22.848902,51.832804],[22.848857,51.832839]]],"type":"Polygon"}
 }

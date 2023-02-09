@@ -2,88 +2,92 @@
   "id": 1226775541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.68534,54.25399,18.68534,54.25399",
-    "geom:latitude":54.25399,
-    "geom:longitude":18.68534,
-    "gn:admin1_code":"82.0",
-    "gn:admin2_code":"2204.0",
-    "gn:admin3_code":"220404.0",
-    "gn:asciiname":"Roszkowo",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3086948,
-    "gn:latitude":54.25399,
-    "gn:longitude":18.68534,
-    "gn:modification_date":"2010-09-13",
-    "gn:name":"Roszkowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.66534,54.23399,18.70534,54.27399",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Roszkowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00043664879010410355,
+    "geom:area_square_m": 3167975.30408343,
+    "geom:bbox": "18.67784604700568,54.24051825601524,18.713955066993822,54.26049049602015",
+    "geom:latitude": 18.69189608549379,
+    "geom:longitude": 54.25099891812629,
+    "gn:admin1_code": "82.0",
+    "gn:admin2_code": "2204.0",
+    "gn:admin3_code": "220404.0",
+    "gn:asciiname": "Roszkowo",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3086948,
+    "gn:latitude": 54.25399,
+    "gn:longitude": 18.68534,
+    "gn:modification_date": "2010-09-13",
+    "gn:name": "Roszkowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.66534,54.23399,18.70534,54.27399",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Roszkowo"
     ],
-    "name:pol_x_preferred":[
-        "Roszkowo"
+    "name:pol_x_preferred": [
+      "Roszkowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0420\u043e\u0448\u043a\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Рошково"
     ],
-    "name:und_x_variant":[
-        "Rostau"
+    "name:und_x_variant": [
+      "Rostau"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1125399925,
-        85633723,
-        102080213
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3086948,
-        "wk:page":"Roszkowo%2C_Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1125399925,
+      85633723,
+      102080213
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3086948,
+      "pl-gugik:jpt_kod_je": "220404_2.0002",
+      "wk:page": "Roszkowo%2C_Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"8aeae34aa5a0a22b354c7cfe3d74c300",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080213,
-            "localadmin_id":1125399925,
-            "locality_id":1226775541,
-            "region_id":85687267
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "fb8b13c6407257248c1b03c3faad4221",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080213,
+        "localadmin_id": 1125399925,
+        "locality_id": 1226775541,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1226775541,
-    "wof:lastmodified":1570052159,
-    "wof:name":"Roszkowo",
-    "wof:parent_id":1125399925,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226775541,
+    "wof:lastmodified": 1675943696,
+    "wof:name": "Roszkowo",
+    "wof:parent_id": 1125399925,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.68534,
-    54.25399,
-    18.68534,
-    54.25399
-],
-  "geometry": {"coordinates":[18.68534,54.25399],"type":"Point"}
+    18.67784604700568,
+    54.24051825601524,
+    18.713955066993822,
+    54.26049049602015
+  ],
+  "geometry": {"coordinates":[[[18.677846,54.258733],[18.678002,54.258743],[18.678732,54.258791],[18.678835,54.258797],[18.679012,54.258809],[18.6793,54.258828],[18.679587,54.258846],[18.67987,54.258866],[18.680158,54.258887],[18.680437,54.258904],[18.68072,54.258921],[18.681005,54.258941],[18.681284,54.25896],[18.681574,54.258976],[18.681661,54.258982],[18.687059,54.259311],[18.68975,54.259475],[18.689933,54.259487],[18.691247,54.259559],[18.69355,54.259717],[18.695069,54.259806],[18.697757,54.259982],[18.699859,54.26013],[18.700925,54.260204],[18.703541,54.260328],[18.705829,54.260479],[18.705932,54.260485],[18.706011,54.26049],[18.704987,54.258341],[18.704819,54.258035],[18.70436,54.257192],[18.704012,54.256524],[18.703125,54.254862],[18.702478,54.253683],[18.702311,54.253334],[18.701868,54.252213],[18.701184,54.250437],[18.700733,54.249407],[18.704697,54.248521],[18.709401,54.247352],[18.713955,54.24629],[18.713744,54.246235],[18.713652,54.246208],[18.709157,54.244959],[18.708583,54.244803],[18.70585,54.244113],[18.705758,54.244086],[18.704697,54.243533],[18.70356,54.244277],[18.702888,54.24474],[18.698245,54.244038],[18.698257,54.244064],[18.697861,54.243985],[18.695659,54.243517],[18.695133,54.243397],[18.694548,54.243268],[18.681503,54.240623],[18.680402,54.240518],[18.679208,54.249662],[18.67891,54.251939],[18.678681,54.253698],[18.678665,54.253819],[18.678631,54.253967],[18.678317,54.255908],[18.67827,54.256198],[18.678224,54.256489],[18.678144,54.256987],[18.678136,54.257027],[18.677947,54.258145],[18.677919,54.258312],[18.677907,54.258381],[18.677846,54.258733]]],"type":"Polygon"}
 }

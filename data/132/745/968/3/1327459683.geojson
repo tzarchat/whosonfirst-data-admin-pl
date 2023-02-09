@@ -2,143 +2,147 @@
   "id": 1327459683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.20334,52.81935,20.20334,52.81935",
-    "geom:latitude":52.81935,
-    "geom:longitude":20.20334,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1420.0",
-    "gn:admin3_code":"142010.0",
-    "gn:asciiname":"Lipa",
-    "gn:country_code":"PL",
-    "gn:dem":113,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766283,
-    "gn:latitude":52.81935,
-    "gn:longitude":20.20334,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Lipa",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.18334,52.79935,20.22334,52.83935",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bel_x_preferred":[
-        "\u041b\u0456\u043f\u0430"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003274772720034532,
+    "geom:area_square_m": 2457048.87490627,
+    "geom:bbox": "20.18252674300725,52.808550232017254,20.217103319007787,52.82359354101366",
+    "geom:latitude": 20.201924843371835,
+    "geom:longitude": 52.81589483377134,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1420.0",
+    "gn:admin3_code": "142010.0",
+    "gn:asciiname": "Lipa",
+    "gn:country_code": "PL",
+    "gn:dem": 113,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766283,
+    "gn:latitude": 52.81935,
+    "gn:longitude": 20.20334,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Lipa",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.18334,52.79935,20.22334,52.83935",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:bel_x_preferred": [
+      "Ліпа"
     ],
-    "name:bos_x_preferred":[
-        "Lipa"
+    "name:bos_x_preferred": [
+      "Lipa"
     ],
-    "name:bul_x_preferred":[
-        "\u041b\u0438\u043f\u0430"
+    "name:bul_x_preferred": [
+      "Липа"
     ],
-    "name:ceb_x_preferred":[
-        "Lipa"
+    "name:ceb_x_preferred": [
+      "Lipa"
     ],
-    "name:deu_x_preferred":[
-        "Lipa"
+    "name:deu_x_preferred": [
+      "Lipa"
     ],
-    "name:fra_x_preferred":[
-        "Lipa"
+    "name:fra_x_preferred": [
+      "Lipa"
     ],
-    "name:hrv_x_preferred":[
-        "Lipa"
+    "name:hrv_x_preferred": [
+      "Lipa"
     ],
-    "name:hun_x_preferred":[
-        "Lipa"
+    "name:hun_x_preferred": [
+      "Lipa"
     ],
-    "name:hye_x_preferred":[
-        "\u053c\u056b\u057a\u0561"
+    "name:hye_x_preferred": [
+      "Լիպա"
     ],
-    "name:ita_x_preferred":[
-        "Lipa"
+    "name:ita_x_preferred": [
+      "Lipa"
     ],
-    "name:mkd_x_preferred":[
-        "\u041b\u0438\u043f\u0430"
+    "name:mkd_x_preferred": [
+      "Липа"
     ],
-    "name:nld_x_preferred":[
-        "Lipa"
+    "name:nld_x_preferred": [
+      "Lipa"
     ],
-    "name:nor_x_preferred":[
-        "LIPA"
+    "name:nor_x_preferred": [
+      "LIPA"
     ],
-    "name:pol_x_preferred":[
-        "Lipa"
+    "name:pol_x_preferred": [
+      "Lipa"
     ],
-    "name:ron_x_preferred":[
-        "Lipa"
+    "name:ron_x_preferred": [
+      "Lipa"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u0438\u043f\u0430"
+    "name:rus_x_preferred": [
+      "Липа"
     ],
-    "name:sco_x_preferred":[
-        "Lipa"
+    "name:sco_x_preferred": [
+      "Lipa"
     ],
-    "name:slk_x_preferred":[
-        "Lipa"
+    "name:slk_x_preferred": [
+      "Lipa"
     ],
-    "name:slv_x_preferred":[
-        "Lipa"
+    "name:slv_x_preferred": [
+      "Lipa"
     ],
-    "name:sqi_x_preferred":[
-        "Lipa"
+    "name:sqi_x_preferred": [
+      "Lipa"
     ],
-    "name:srp_x_preferred":[
-        "\u041b\u0438\u043f\u0430"
+    "name:srp_x_preferred": [
+      "Липа"
     ],
-    "name:swe_x_preferred":[
-        "Lipa"
+    "name:swe_x_preferred": [
+      "Lipa"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0456\u043f\u0430"
+    "name:ukr_x_preferred": [
+      "Ліпа"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751331,
-        85633723,
-        102080031
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766283
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751331,
+      85633723,
+      102080031
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766283,
+      "pl-gugik:jpt_kod_je": "142010_2.0035"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"f6b0161e77cfb510588bb5f8daa2ffd6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080031,
-            "localadmin_id":1477751331,
-            "locality_id":1327459683,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "e72573a23baff8dadd2b517929ec8da4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080031,
+        "localadmin_id": 1477751331,
+        "locality_id": 1327459683,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1327459683,
-    "wof:lastmodified":1570008293,
-    "wof:name":"Lipa",
-    "wof:parent_id":1477751331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327459683,
+    "wof:lastmodified": 1675943705,
+    "wof:name": "Lipa",
+    "wof:parent_id": 1477751331,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.20334,
-    52.81935,
-    20.20334,
-    52.81935
-],
-  "geometry": {"coordinates":[20.20334,52.81935],"type":"Point"}
+    20.18252674300725,
+    52.808550232017254,
+    20.217103319007787,
+    52.82359354101366
+  ],
+  "geometry": {"coordinates":[[[20.198218,52.80855],[20.196423,52.809389],[20.194871,52.810113],[20.191988,52.811459],[20.191962,52.811471],[20.191649,52.811618],[20.191604,52.811639],[20.191505,52.811685],[20.190428,52.812181],[20.189988,52.812375],[20.189877,52.812426],[20.189806,52.812421],[20.185143,52.814491],[20.184248,52.815391],[20.183948,52.815692],[20.182527,52.817121],[20.187009,52.818565],[20.187206,52.818628],[20.187276,52.818651],[20.189747,52.819423],[20.190707,52.819721],[20.191092,52.819841],[20.191817,52.820066],[20.193082,52.82051],[20.193954,52.820806],[20.19466,52.821064],[20.195066,52.821212],[20.195612,52.821413],[20.195861,52.821505],[20.196222,52.821638],[20.19656,52.821762],[20.196878,52.82188],[20.197298,52.822035],[20.197487,52.822104],[20.198968,52.822006],[20.201114,52.821706],[20.201244,52.821687],[20.205304,52.821106],[20.205438,52.821087],[20.205654,52.821051],[20.206494,52.821215],[20.207052,52.821392],[20.207577,52.821559],[20.20765,52.821582],[20.207791,52.82164],[20.207971,52.821713],[20.208356,52.82187],[20.208735,52.822025],[20.209142,52.822191],[20.209191,52.822211],[20.209244,52.822265],[20.210189,52.822561],[20.2106,52.82265],[20.21088,52.82271],[20.211176,52.822774],[20.211485,52.822841],[20.211638,52.822874],[20.211772,52.822903],[20.212226,52.823001],[20.212987,52.823165],[20.214264,52.823465],[20.214698,52.823594],[20.214719,52.82357],[20.214675,52.823294],[20.214604,52.822838],[20.214484,52.822075],[20.214354,52.821249],[20.214309,52.820958],[20.214232,52.820472],[20.216404,52.818275],[20.21648,52.818031],[20.216491,52.817996],[20.216668,52.81743],[20.21675,52.816749],[20.217014,52.816088],[20.217103,52.815865],[20.217,52.814998],[20.216987,52.814934],[20.216931,52.814962],[20.21678,52.813764],[20.21624,52.813222],[20.215482,52.812337],[20.215273,52.812193],[20.214879,52.811931],[20.214726,52.811854],[20.214343,52.811661],[20.213898,52.811438],[20.213372,52.811174],[20.212997,52.810927],[20.211943,52.810123],[20.211784,52.81011],[20.211444,52.810081],[20.210441,52.809997],[20.209789,52.809936],[20.209407,52.809899],[20.209102,52.809872],[20.208252,52.809837],[20.208181,52.809835],[20.20777,52.809788],[20.207289,52.809733],[20.207007,52.809702],[20.206599,52.809711],[20.205828,52.80973],[20.204734,52.809803],[20.204599,52.809819],[20.204483,52.809833],[20.203748,52.80992],[20.203508,52.809948],[20.202964,52.809994],[20.202555,52.810029],[20.201998,52.810064],[20.200483,52.809458],[20.200351,52.809405],[20.199759,52.809168],[20.199643,52.809121],[20.198218,52.80855]]],"type":"Polygon"}
 }

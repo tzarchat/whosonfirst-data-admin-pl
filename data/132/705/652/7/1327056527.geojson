@@ -2,87 +2,91 @@
   "id": 1327056527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.78316,52.1704,22.78316,52.1704",
-    "geom:latitude":52.1704,
-    "geom:longitude":22.78316,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1410.0",
-    "gn:admin3_code":"141002.0",
-    "gn:asciiname":"Jeziory",
-    "gn:country_code":"PL",
-    "gn:dem":173,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6956070,
-    "gn:latitude":52.1704,
-    "gn:longitude":22.78316,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Jeziory",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.76316,52.1504,22.80316,52.1904",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Jeziory"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010799860875851746,
+    "geom:area_square_m": 822181.9006170994,
+    "geom:bbox": "22.774917067054858,52.16515414301267,22.795136844059584,52.174224316019355",
+    "geom:latitude": 22.784284225860937,
+    "geom:longitude": 52.16980247619227,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1410.0",
+    "gn:admin3_code": "141002.0",
+    "gn:asciiname": "Jeziory",
+    "gn:country_code": "PL",
+    "gn:dem": 173,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6956070,
+    "gn:latitude": 52.1704,
+    "gn:longitude": 22.78316,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Jeziory",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.76316,52.1504,22.80316,52.1904",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Jeziory"
     ],
-    "name:lit_x_preferred":[
-        "Jeziorai"
+    "name:lit_x_preferred": [
+      "Jeziorai"
     ],
-    "name:pol_x_preferred":[
-        "Jeziory"
+    "name:pol_x_preferred": [
+      "Jeziory"
     ],
-    "name:ukr_x_preferred":[
-        "\u0404\u0437\u044c\u043e\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Єзьори"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477751381,
-        85633723,
-        102079981
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6956070,
-        "wk:page":"Jeziory%2C_Masovian_Voivodeship"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477751381,
+      85633723,
+      102079981
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6956070,
+      "pl-gugik:jpt_kod_je": "141002_5.0007",
+      "wk:page": "Jeziory%2C_Masovian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"7e5ff81606f248eb422af06085148dd7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079981,
-            "localadmin_id":1477751381,
-            "locality_id":1327056527,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "80655418bcd8e1b662c9ba5df1a4c3b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079981,
+        "localadmin_id": 1477751381,
+        "locality_id": 1327056527,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1327056527,
-    "wof:lastmodified":1570006889,
-    "wof:name":"Jeziory",
-    "wof:parent_id":1477751381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327056527,
+    "wof:lastmodified": 1675943711,
+    "wof:name": "Jeziory",
+    "wof:parent_id": 1477751381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.78316,
-    52.1704,
-    22.78316,
-    52.1704
-],
-  "geometry": {"coordinates":[22.78316,52.1704],"type":"Point"}
+    22.774917067054858,
+    52.16515414301267,
+    22.795136844059584,
+    52.174224316019355
+  ],
+  "geometry": {"coordinates":[[[22.774917,52.167109],[22.775244,52.16783],[22.775571,52.168554],[22.775871,52.169242],[22.776184,52.16996],[22.776345,52.169925],[22.776477,52.169897],[22.776635,52.169863],[22.776687,52.169852],[22.77677,52.169834],[22.776825,52.169822],[22.777287,52.170845],[22.777315,52.170906],[22.777687,52.171741],[22.778062,52.172548],[22.77842,52.173376],[22.778756,52.174121],[22.778803,52.174224],[22.77935,52.174192],[22.779491,52.174168],[22.78124,52.173899],[22.78147,52.173863],[22.782118,52.173763],[22.782777,52.173662],[22.782797,52.173659],[22.782944,52.173636],[22.783033,52.173622],[22.783432,52.173561],[22.783474,52.173554],[22.783669,52.173524],[22.783918,52.173486],[22.784159,52.173449],[22.784417,52.173409],[22.784674,52.173369],[22.785156,52.173295],[22.785654,52.173218],[22.78613,52.173145],[22.786775,52.173046],[22.787455,52.172948],[22.787662,52.172918],[22.78803,52.172865],[22.788642,52.172777],[22.788962,52.172731],[22.789207,52.172696],[22.789847,52.172603],[22.790094,52.172568],[22.790402,52.172523],[22.790701,52.17248],[22.791016,52.172435],[22.791528,52.172361],[22.79157,52.172355],[22.791355,52.17195],[22.791335,52.171914],[22.793076,52.171121],[22.794523,52.170505],[22.795137,52.170358],[22.794981,52.170244],[22.794976,52.17024],[22.79485,52.170147],[22.794388,52.169806],[22.794139,52.169624],[22.793891,52.169441],[22.793637,52.169253],[22.793125,52.168876],[22.792627,52.168509],[22.792297,52.168266],[22.791691,52.167819],[22.791086,52.167374],[22.790806,52.167168],[22.790347,52.166829],[22.790088,52.166639],[22.789768,52.166402],[22.787856,52.167386],[22.787507,52.167235],[22.78719,52.167098],[22.786566,52.166828],[22.785265,52.166265],[22.785085,52.166187],[22.784075,52.16575],[22.783384,52.165451],[22.782962,52.165268],[22.782699,52.165154],[22.780861,52.166782],[22.780091,52.166797],[22.778998,52.166703],[22.777829,52.166689],[22.776202,52.16688],[22.77518,52.167062],[22.775123,52.167072],[22.775054,52.167084],[22.774917,52.167109]]],"type":"Polygon"}
 }

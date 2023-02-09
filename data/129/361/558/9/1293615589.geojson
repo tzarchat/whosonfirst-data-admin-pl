@@ -2,83 +2,87 @@
   "id": 1293615589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.80359,50.84783,18.80359,50.84783",
-    "geom:latitude":50.84783,
-    "geom:longitude":18.80359,
-    "gn:admin1_code":"83.0",
-    "gn:admin2_code":"2406.0",
-    "gn:admin3_code":"240609.0",
-    "gn:asciiname":"Brzezinki",
-    "gn:country_code":"PL",
-    "gn:dem":264,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3102403,
-    "gn:latitude":50.84783,
-    "gn:longitude":18.80359,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Brzezinki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.78359,50.82783,18.82359,50.86783",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Brzezinki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00007313189533575936,
+    "geom:area_square_m": 572968.0207040496,
+    "geom:bbox": "18.7907495140022,50.84245160401213,18.80719614900355,50.852635154016994",
+    "geom:latitude": 18.798865500609647,
+    "geom:longitude": 50.84758818766602,
+    "gn:admin1_code": "83.0",
+    "gn:admin2_code": "2406.0",
+    "gn:admin3_code": "240609.0",
+    "gn:asciiname": "Brzezinki",
+    "gn:country_code": "PL",
+    "gn:dem": 264,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3102403,
+    "gn:latitude": 50.84783,
+    "gn:longitude": 18.80359,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Brzezinki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.78359,50.82783,18.82359,50.86783",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Brzezinki"
     ],
-    "name:pol_x_preferred":[
-        "Brzezinki"
+    "name:pol_x_preferred": [
+      "Brzezinki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0436\u0435\u0437\u0456\u043d\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Бжезінкі"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687277,
-        102191581,
-        1477752845,
-        85633723,
-        102079667
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102403
+    "wof:belongsto": [
+      85687277,
+      102191581,
+      1477752845,
+      85633723,
+      102079667
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102403,
+      "pl-gugik:jpt_kod_je": "240609_2.0004"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"df8430b56a4fbfd7b4513573cbc48a89",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079667,
-            "localadmin_id":1477752845,
-            "locality_id":1293615589,
-            "region_id":85687277
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "8dc29d12a26946b1e50e9c8fea7b94d6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079667,
+        "localadmin_id": 1477752845,
+        "locality_id": 1293615589,
+        "region_id": 85687277
+      }
     ],
-    "wof:id":1293615589,
-    "wof:lastmodified":1570014696,
-    "wof:name":"Brzezinki",
-    "wof:parent_id":1477752845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293615589,
+    "wof:lastmodified": 1675943687,
+    "wof:name": "Brzezinki",
+    "wof:parent_id": 1477752845,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.80359,
-    50.84783,
-    18.80359,
-    50.84783
-],
-  "geometry": {"coordinates":[18.80359,50.84783],"type":"Point"}
+    18.7907495140022,
+    50.84245160401213,
+    18.80719614900355,
+    50.852635154016994
+  ],
+  "geometry": {"coordinates":[[[18.79075,50.844198],[18.792545,50.845427],[18.794526,50.846785],[18.794485,50.846803],[18.794227,50.846912],[18.793959,50.847027],[18.793709,50.847136],[18.793637,50.847167],[18.793617,50.847176],[18.793597,50.847184],[18.793452,50.847247],[18.793188,50.847362],[18.793082,50.847406],[18.793116,50.847431],[18.795346,50.848899],[18.797822,50.850514],[18.797848,50.850535],[18.799342,50.8515],[18.801062,50.852614],[18.801084,50.852635],[18.801179,50.852588],[18.801749,50.852316],[18.801845,50.852269],[18.802027,50.852182],[18.802169,50.852116],[18.802267,50.852066],[18.802304,50.852052],[18.802642,50.851936],[18.802748,50.851898],[18.802938,50.851817],[18.803243,50.851685],[18.80354,50.851558],[18.803758,50.85146],[18.804154,50.851277],[18.804454,50.851137],[18.804743,50.851003],[18.805033,50.850867],[18.805325,50.85073],[18.805621,50.850595],[18.805902,50.850465],[18.806499,50.850187],[18.80679,50.850051],[18.807067,50.849922],[18.807086,50.849914],[18.807196,50.849864],[18.805107,50.848439],[18.80473,50.84818],[18.804394,50.847949],[18.804189,50.847808],[18.803883,50.847595],[18.803804,50.847541],[18.803766,50.847513],[18.80368,50.847611],[18.801368,50.846037],[18.799398,50.844689],[18.796684,50.842838],[18.796201,50.842452],[18.795849,50.842561],[18.79551,50.842671],[18.794862,50.842882],[18.794526,50.84299],[18.794351,50.843044],[18.794175,50.843103],[18.794007,50.843155],[18.793923,50.843182],[18.793496,50.843316],[18.793335,50.843369],[18.793157,50.843423],[18.792965,50.843484],[18.792827,50.843535],[18.792489,50.843641],[18.792163,50.843747],[18.791815,50.843858],[18.791464,50.84397],[18.791118,50.844081],[18.790936,50.844138],[18.79075,50.844198]]],"type":"Polygon"}
 }

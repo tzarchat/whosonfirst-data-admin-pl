@@ -2,129 +2,130 @@
   "id": 1126011179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.95142,54.21256,18.95142,54.21256",
-    "geom:latitude":54.21256,
-    "geom:longitude":18.95142,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":1017,
-    "iso:country":"PL",
-    "lbl:bbox":"18.93142,54.19256,18.97142,54.23256",
-    "lbl:latitude":54.21256,
-    "lbl:longitude":18.95142,
-    "lbl:max_zoom":16.0,
-    "lbl:min_zoom":12.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Ostaszewo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001476712359993421,
+    "geom:area_square_m": 10721893.938091442,
+    "geom:bbox": "18.917416052992685,54.19919542002281,18.98437260399693,54.24069892201756",
+    "geom:latitude": 18.950887792400657,
+    "geom:longitude": 54.21992706714122,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 1017,
+    "iso:country": "PL",
+    "lbl:bbox": "18.93142,54.19256,18.97142,54.23256",
+    "lbl:latitude": 54.21256,
+    "lbl:longitude": 18.95142,
+    "lbl:max_zoom": 16,
+    "lbl:min_zoom": 12,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:deu_x_preferred":[
-        "Ostaszewo"
+    "name:deu_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:eng_x_preferred":[
-        "Ostaszewo"
+    "name:eng_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:fra_x_preferred":[
-        "Ostaszewo"
+    "name:fra_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:nld_x_preferred":[
-        "Ostaszewo"
+    "name:nld_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:pol_x_preferred":[
-        "Ostaszewo"
+    "name:pol_x_preferred": [
+      "Ostaszewo"
     ],
-    "name:rus_x_preferred":[
-        "\u041e\u0441\u0442\u0430\u0448\u0435\u0432\u043e"
+    "name:rus_x_preferred": [
+      "Осташево"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u0441\u0442\u0430\u0448\u0435\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Осташево"
     ],
-    "name:und_x_variant":[
-        "Sch\u00f6neberg"
+    "name:und_x_variant": [
+      "Schöneberg"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3089791,
-    "qs_pg:gn_pop":1017,
-    "qs_pg:name":"Ostaszewo",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Pomorskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":3,
-    "qs_pg:qs_id":304019,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":511088,
-    "src:geom":"qs_pg",
-    "src:geom_alt":[
-        "pl"
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3089791,
+    "qs_pg:gn_pop": 1017,
+    "qs_pg:name": "Ostaszewo",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Pomorskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 3,
+    "qs_pg:qs_id": 304019,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 511088,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "pl",
+      "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687267,
-        102191581,
-        1477753009,
-        85633723,
-        102080239
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687267,
+      102191581,
+      1477753009,
+      85633723,
+      102080239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3089791,
-        "gp:id":511088,
-        "pl-gugik:jpt_kod_je":"221003_2",
-        "qs_pg:id":304019
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3089791,
+      "gp:id": 511088,
+      "pl-gugik:jpt_kod_je": "221003_2.0005",
+      "qs_pg:id": 304019
     },
-    "wof:coterminous":[
-        1477753009
+    "wof:coterminous": [
+      1477753009
     ],
-    "wof:country":"PL",
-    "wof:created":1497300284,
-    "wof:geom_alt":[
-        "pl-gugik"
+    "wof:country": "PL",
+    "wof:created": 1497300284,
+    "wof:geom_alt": [
+      "pl-gugik"
     ],
-    "wof:geomhash":"9dcbec0b2adedf09cc469e8f98aceb03",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080239,
-            "localadmin_id":1477753009,
-            "locality_id":1126011179,
-            "region_id":85687267
-        }
+    "wof:geomhash": "11ca923cb79f49ee6f9b8dfe98d5242b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080239,
+        "localadmin_id": 1477753009,
+        "locality_id": 1126011179,
+        "region_id": 85687267
+      }
     ],
-    "wof:id":1126011179,
-    "wof:lastmodified":1582357987,
-    "wof:name":"Ostaszewo",
-    "wof:parent_id":1477753009,
-    "wof:placetype":"locality",
-    "wof:population":1017,
-    "wof:population_rank":3,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126011179,
+    "wof:lastmodified": 1675943696,
+    "wof:name": "Ostaszewo",
+    "wof:parent_id": 1477753009,
+    "wof:placetype": "locality",
+    "wof:population": 1017,
+    "wof:population_rank": 3,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.95142,
-    54.21256,
-    18.95142,
-    54.21256
-],
-  "geometry": {"coordinates":[18.95142,54.21256],"type":"Point"}
+    18.917416052992685,
+    54.19919542002281,
+    18.98437260399693,
+    54.24069892201756
+  ],
+  "geometry": {"coordinates":[[[18.917416,54.20937],[18.917535,54.209468],[18.918479,54.21044],[18.919981,54.212028],[18.920949,54.212988],[18.922669,54.214815],[18.924014,54.216273],[18.924163,54.216413],[18.925956,54.218091],[18.92666,54.218788],[18.927922,54.219792],[18.928878,54.22076],[18.929483,54.221815],[18.929528,54.221895],[18.930528,54.222834],[18.931768,54.224096],[18.932992,54.225468],[18.934034,54.226531],[18.935118,54.227762],[18.936264,54.2292],[18.937246,54.230658],[18.93795,54.231641],[18.938877,54.232956],[18.940001,54.234177],[18.940907,54.235343],[18.941641,54.23631],[18.942301,54.237113],[18.943157,54.238259],[18.944147,54.239538],[18.944515,54.240189],[18.944733,54.240699],[18.946932,54.240211],[18.947154,54.240161],[18.94803,54.239964],[18.948823,54.239794],[18.949411,54.239742],[18.949581,54.239742],[18.950109,54.239743],[18.950118,54.239788],[18.950774,54.239865],[18.951949,54.239955],[18.95289,54.24007],[18.953393,54.240141],[18.953446,54.24012],[18.954292,54.239833],[18.954767,54.239633],[18.956142,54.239158],[18.957968,54.238572],[18.958819,54.238281],[18.962812,54.236968],[18.963044,54.236888],[18.965588,54.236067],[18.969202,54.234859],[18.971845,54.233953],[18.975258,54.232773],[18.978275,54.231735],[18.979498,54.231307],[18.979813,54.231188],[18.979853,54.231173],[18.981914,54.230764],[18.98372,54.230412],[18.983991,54.230343],[18.984047,54.230331],[18.984373,54.230228],[18.984344,54.230219],[18.983094,54.229819],[18.981041,54.229141],[18.980556,54.228951],[18.980266,54.228807],[18.980038,54.228628],[18.979462,54.22849],[18.979062,54.228436],[18.978352,54.228366],[18.978319,54.228361],[18.978266,54.228277],[18.977617,54.227265],[18.977206,54.226608],[18.976644,54.225625],[18.976007,54.224566],[18.975587,54.223878],[18.975096,54.223102],[18.974811,54.222698],[18.974681,54.222391],[18.974585,54.222219],[18.974144,54.221503],[18.97381,54.220985],[18.973159,54.219944],[18.972671,54.219211],[18.972478,54.218804],[18.972241,54.218427],[18.971825,54.217685],[18.971679,54.217448],[18.97141,54.217108],[18.971341,54.217021],[18.970522,54.21565],[18.969589,54.214186],[18.96826,54.212021],[18.967325,54.210581],[18.96585,54.208168],[18.965426,54.20746],[18.965342,54.207323],[18.965403,54.207316],[18.965365,54.207244],[18.965284,54.207253],[18.964926,54.206644],[18.964445,54.205854],[18.963677,54.204567],[18.962697,54.202908],[18.961343,54.200722],[18.960362,54.199195],[18.96029,54.199212],[18.957835,54.199776],[18.956589,54.200085],[18.956466,54.200116],[18.95414,54.200675],[18.952008,54.201188],[18.950016,54.20165],[18.947795,54.202173],[18.947692,54.202199],[18.945022,54.202845],[18.944904,54.20287],[18.944618,54.202931],[18.93746,54.204615],[18.936658,54.204805],[18.935409,54.205096],[18.934217,54.20537],[18.932733,54.205713],[18.930295,54.206315],[18.930082,54.206364],[18.926607,54.207161],[18.925672,54.207376],[18.923093,54.207994],[18.921866,54.20832],[18.921837,54.208328],[18.921245,54.208466],[18.92051,54.208638],[18.919087,54.208991],[18.917416,54.20937]]],"type":"Polygon"}
 }

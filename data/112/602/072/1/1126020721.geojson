@@ -2,120 +2,124 @@
   "id": 1126020721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.13103,53.46705,23.13103,53.46705",
-    "geom:latitude":53.46705,
-    "geom:longitude":23.13103,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":145,
-    "iso:country":"PL",
-    "lbl:bbox":"23.11103,53.44705,23.15103,53.48705",
-    "lbl:latitude":53.46705,
-    "lbl:longitude":23.13103,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Zabrodzie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00048220310652897423,
+    "geom:area_square_m": 3563952.7871071748,
+    "geom:bbox": "23.109559555062496,53.46076703802209,23.153529563063064,53.47549772501761",
+    "geom:latitude": 23.132198997823682,
+    "geom:longitude": 53.46811594360094,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 145,
+    "iso:country": "PL",
+    "lbl:bbox": "23.11103,53.44705,23.15103,53.48705",
+    "lbl:latitude": 53.46705,
+    "lbl:longitude": 23.13103,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Zabrodzie"
     ],
-    "name:ceb_x_preferred":[
-        "Zabrodzie"
+    "name:ceb_x_preferred": [
+      "Zabrodzie"
     ],
-    "name:eng_x_preferred":[
-        "Zabrodzie"
+    "name:eng_x_preferred": [
+      "Zabrodzie"
     ],
-    "name:fra_x_preferred":[
-        "Zabrodzie"
+    "name:fra_x_preferred": [
+      "Zabrodzie"
     ],
-    "name:lit_x_preferred":[
-        "Zabrodziai"
+    "name:lit_x_preferred": [
+      "Zabrodziai"
     ],
-    "name:pol_x_preferred":[
-        "Zabrodzie"
+    "name:pol_x_preferred": [
+      "Zabrodzie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u0431\u0440\u043e\u0434\u0437\u0435"
+    "name:ukr_x_preferred": [
+      "Забродзе"
     ],
-    "name:urd_x_preferred":[
-        "\u0632\u0628\u0631\u0648\u062f\u0632\u0626\u06d2\u060c \u067e\u0648\u062f\u0644\u0633\u06a9\u0626\u06cc \u0648\u0648\u06cc\u0648\u0648\u062f\u0634\u067e"
+    "name:urd_x_preferred": [
+      "زبرودزئے، پودلسکئی وویوودشپ"
     ],
-    "name:urd_x_variant":[
-        "\u0632\u0628\u0631\u0648\u062f\u0632\u0626\u06d2"
+    "name:urd_x_variant": [
+      "زبرودزئے"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":754279,
-    "qs_pg:gn_pop":145,
-    "qs_pg:name":"Zabrodzie",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Podlaskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":311104,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":527132,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Podlaskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752307,
-        85633723,
-        102080189
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 754279,
+    "qs_pg:gn_pop": 145,
+    "qs_pg:name": "Zabrodzie",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Podlaskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 311104,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 527132,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":754279,
-        "gp:id":527132,
-        "qs_pg:id":311104,
-        "wd:id":"Q5617145"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Podlaskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752307,
+      85633723,
+      102080189
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 754279,
+      "gp:id": 527132,
+      "pl-gugik:jpt_kod_je": "201103_2.0031",
+      "qs_pg:id": 311104,
+      "wd:id": "Q5617145"
     },
-    "wof:country":"PL",
-    "wof:created":1497300814,
-    "wof:geomhash":"9480cff4fbcbe5e7098f3f9b50aa2f49",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080189,
-            "localadmin_id":1477752307,
-            "locality_id":1126020721,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300814,
+    "wof:geomhash": "f444cba7b954f94b7c9742078fd206ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080189,
+        "localadmin_id": 1477752307,
+        "locality_id": 1126020721,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1126020721,
-    "wof:lastmodified":1570036869,
-    "wof:name":"Zabrodzie",
-    "wof:parent_id":1477752307,
-    "wof:placetype":"locality",
-    "wof:population":145,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126020721,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Zabrodzie",
+    "wof:parent_id": 1477752307,
+    "wof:placetype": "locality",
+    "wof:population": 145,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.13103,
-    53.46705,
-    23.13103,
-    53.46705
-],
-  "geometry": {"coordinates":[23.13103,53.46705],"type":"Point"}
+    23.109559555062496,
+    53.46076703802209,
+    23.153529563063064,
+    53.47549772501761
+  ],
+  "geometry": {"coordinates":[[[23.109998,53.465832],[23.110499,53.46787],[23.110873,53.469389],[23.110875,53.469398],[23.110885,53.469443],[23.111016,53.469977],[23.11157,53.472236],[23.111856,53.4734],[23.114257,53.473198],[23.114512,53.473176],[23.114821,53.47315],[23.114917,53.473142],[23.116732,53.472989],[23.116761,53.472987],[23.119435,53.472761],[23.119569,53.47275],[23.119731,53.473399],[23.120236,53.475409],[23.126262,53.474904],[23.126949,53.474846],[23.133141,53.474328],[23.133275,53.474316],[23.135378,53.474141],[23.137481,53.473965],[23.138462,53.473883],[23.139752,53.473774],[23.141137,53.473659],[23.143235,53.473483],[23.143297,53.473478],[23.14337,53.473472],[23.143432,53.473467],[23.143549,53.473457],[23.148057,53.473079],[23.148147,53.472046],[23.14815,53.472016],[23.148177,53.472056],[23.148615,53.472689],[23.149268,53.473004],[23.151111,53.473603],[23.151431,53.473905],[23.151449,53.473922],[23.152408,53.473616],[23.151236,53.474176],[23.151395,53.474903],[23.151525,53.475498],[23.151604,53.47547],[23.151731,53.474445],[23.15353,53.474589],[23.153527,53.47458],[23.153112,53.472845],[23.153092,53.472663],[23.153091,53.472651],[23.152747,53.471152],[23.15274,53.471123],[23.151208,53.471113],[23.151176,53.470976],[23.150951,53.470032],[23.150833,53.469526],[23.150894,53.469524],[23.150924,53.469523],[23.150937,53.469523],[23.150947,53.469523],[23.152858,53.469471],[23.152196,53.466619],[23.152679,53.466578],[23.152283,53.464868],[23.151736,53.464914],[23.151694,53.464918],[23.151382,53.463573],[23.15098,53.461841],[23.15089,53.461848],[23.150854,53.461851],[23.150845,53.461851],[23.149082,53.461998],[23.148292,53.461857],[23.14847,53.461681],[23.148617,53.461566],[23.148773,53.461467],[23.148904,53.46128],[23.14911,53.461198],[23.148983,53.460895],[23.148792,53.460778],[23.148778,53.460767],[23.148651,53.460777],[23.148635,53.460779],[23.148203,53.460815],[23.148021,53.460829],[23.146668,53.460941],[23.145848,53.461008],[23.144322,53.461133],[23.144102,53.461151],[23.144012,53.461158],[23.143831,53.461173],[23.143535,53.461198],[23.143371,53.461211],[23.141951,53.461328],[23.141946,53.461329],[23.141803,53.46134],[23.141786,53.461342],[23.139685,53.461515],[23.135078,53.461892],[23.133786,53.461998],[23.131015,53.462226],[23.130267,53.462289],[23.130132,53.462298],[23.130087,53.462302],[23.129306,53.462366],[23.126659,53.462584],[23.124798,53.462737],[23.124473,53.462764],[23.123277,53.462863],[23.121902,53.462977],[23.120408,53.4631],[23.117925,53.463307],[23.117862,53.463313],[23.11779,53.463319],[23.117424,53.463349],[23.117257,53.463362],[23.113251,53.463711],[23.10956,53.464033],[23.109998,53.465832]]],"type":"Polygon"}
 }

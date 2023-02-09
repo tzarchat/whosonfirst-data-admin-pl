@@ -2,83 +2,87 @@
   "id": 1344185081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.79221,53.13798,20.79221,53.13798",
-    "geom:latitude":53.13798,
-    "geom:longitude":20.79221,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1422.0",
-    "gn:admin3_code":"142206.0",
-    "gn:asciiname":"Wiktorowo",
-    "gn:country_code":"PL",
-    "gn:dem":169,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":755736,
-    "gn:latitude":53.13798,
-    "gn:longitude":20.79221,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Wiktorowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.77221,53.11798,20.81221,53.15798",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Wiktorowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00035706661547277015,
+    "geom:area_square_m": 2659308.278550396,
+    "geom:bbox": "20.763946612995802,53.13108373301566,20.804188446008617,53.14779399301601",
+    "geom:latitude": 20.784648200462282,
+    "geom:longitude": 53.13904706629365,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1422.0",
+    "gn:admin3_code": "142206.0",
+    "gn:asciiname": "Wiktorowo",
+    "gn:country_code": "PL",
+    "gn:dem": 169,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 755736,
+    "gn:latitude": 53.13798,
+    "gn:longitude": 20.79221,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Wiktorowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.77221,53.11798,20.81221,53.15798",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Wiktorowo"
     ],
-    "name:pol_x_preferred":[
-        "Wiktorowo"
+    "name:pol_x_preferred": [
+      "Wiktorowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0456\u043a\u0442\u043e\u0440\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Вікторово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125289069,
-        85633723,
-        102080117
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":755736
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125289069,
+      85633723,
+      102080117
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 755736,
+      "pl-gugik:jpt_kod_je": "142206_2.0050"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"17abb275ef0fc4a9a147465af7bfbd80",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080117,
-            "localadmin_id":1125289069,
-            "locality_id":1344185081,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "32dd74cfd9917a595455a187f6d4a2a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080117,
+        "localadmin_id": 1125289069,
+        "locality_id": 1344185081,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1344185081,
-    "wof:lastmodified":1570011512,
-    "wof:name":"Wiktorowo",
-    "wof:parent_id":1125289069,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344185081,
+    "wof:lastmodified": 1675943707,
+    "wof:name": "Wiktorowo",
+    "wof:parent_id": 1125289069,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.79221,
-    53.13798000000001,
-    20.79221,
-    53.13798000000001
-],
-  "geometry": {"coordinates":[20.79221,53.13798000000001],"type":"Point"}
+    20.763946612995802,
+    53.13108373301566,
+    20.804188446008617,
+    53.14779399301601
+  ],
+  "geometry": {"coordinates":[[[20.763947,53.139618],[20.763971,53.139628],[20.768326,53.140813],[20.768382,53.140828],[20.781499,53.1444],[20.782349,53.144631],[20.782677,53.144724],[20.782737,53.144739],[20.784267,53.145163],[20.785678,53.145559],[20.787762,53.146144],[20.788698,53.146406],[20.788837,53.146446],[20.790256,53.146833],[20.792193,53.147363],[20.793772,53.147794],[20.798489,53.14276],[20.800043,53.141198],[20.80009,53.141151],[20.800123,53.141117],[20.801019,53.140146],[20.801646,53.139466],[20.802419,53.138628],[20.802439,53.138604],[20.803086,53.137918],[20.80362,53.137355],[20.804188,53.136861],[20.802662,53.136495],[20.795502,53.134889],[20.795029,53.136194],[20.79445,53.136187],[20.793957,53.136237],[20.793759,53.136237],[20.793338,53.136115],[20.792748,53.135701],[20.791297,53.134985],[20.790415,53.134366],[20.790106,53.134154],[20.789964,53.13393],[20.78987,53.133774],[20.789126,53.132827],[20.788945,53.132533],[20.788562,53.131909],[20.787832,53.132092],[20.787549,53.132185],[20.787247,53.132284],[20.787143,53.132312],[20.786045,53.132607],[20.785928,53.132644],[20.785225,53.132866],[20.784883,53.132965],[20.78338,53.13325],[20.78277,53.133266],[20.782357,53.133276],[20.781426,53.133303],[20.780995,53.133315],[20.780378,53.133333],[20.78009,53.133341],[20.779245,53.133365],[20.779185,53.133367],[20.778911,53.131792],[20.778806,53.131384],[20.778811,53.13131],[20.778812,53.131291],[20.778194,53.131119],[20.777211,53.131084],[20.776518,53.131145],[20.774945,53.131463],[20.773595,53.132002],[20.773482,53.132095],[20.773191,53.132388],[20.772781,53.132768],[20.772582,53.133014],[20.771624,53.134114],[20.770337,53.135191],[20.769702,53.135594],[20.767543,53.136994],[20.767414,53.137075],[20.766303,53.137715],[20.765882,53.137943],[20.765379,53.1385],[20.763947,53.139618]]],"type":"Polygon"}
 }

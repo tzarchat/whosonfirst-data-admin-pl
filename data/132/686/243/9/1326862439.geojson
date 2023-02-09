@@ -2,107 +2,111 @@
   "id": 1326862439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.05589,54.21288,23.05589,54.21288",
-    "geom:latitude":54.21288,
-    "geom:longitude":23.05589,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201208.0",
-    "gn:asciiname":"Olszanka",
-    "gn:country_code":"PL",
-    "gn:dem":202,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":763229,
-    "gn:latitude":54.21288,
-    "gn:longitude":23.05589,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Olszanka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.03589,54.19288,23.07589,54.23288",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Olszanka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002910079657246192,
+    "geom:area_square_m": 2113034.1927520493,
+    "geom:bbox": "23.036536496052594,54.20915462002307,23.07072317704832,54.22482584801728",
+    "geom:latitude": 23.054961974743268,
+    "geom:longitude": 54.21742542821881,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201208.0",
+    "gn:asciiname": "Olszanka",
+    "gn:country_code": "PL",
+    "gn:dem": 202,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 763229,
+    "gn:latitude": 54.21288,
+    "gn:longitude": 23.05589,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Olszanka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.03589,54.19288,23.07589,54.23288",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Olszanka"
     ],
-    "name:deu_x_preferred":[
-        "Olszanka"
+    "name:deu_x_preferred": [
+      "Olszanka"
     ],
-    "name:fra_x_preferred":[
-        "Olszanka"
+    "name:fra_x_preferred": [
+      "Olszanka"
     ],
-    "name:hye_x_preferred":[
-        "\u0555\u056c\u056b\u0577\u0561\u0576\u056f\u0561"
+    "name:hye_x_preferred": [
+      "Օլիշանկա"
     ],
-    "name:ita_x_preferred":[
-        "Olszanka"
+    "name:ita_x_preferred": [
+      "Olszanka"
     ],
-    "name:kaz_x_preferred":[
-        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    "name:kaz_x_preferred": [
+      "Ольшанка"
     ],
-    "name:lit_x_preferred":[
-        "Ol\u0161anka"
+    "name:lit_x_preferred": [
+      "Olšanka"
     ],
-    "name:nld_x_preferred":[
-        "Olszanka"
+    "name:nld_x_preferred": [
+      "Olszanka"
     ],
-    "name:pol_x_preferred":[
-        "Olszanka"
+    "name:pol_x_preferred": [
+      "Olszanka"
     ],
-    "name:rus_x_preferred":[
-        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    "name:rus_x_preferred": [
+      "Ольшанка"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Ольшанка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752207,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":763229
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752207,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 763229,
+      "pl-gugik:jpt_kod_je": "201208_2.0029"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"0a3810c3b3c2d2df4749da04c43277c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752207,
-            "locality_id":1326862439,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "911279708c6848746cadbd1d14ff249d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752207,
+        "locality_id": 1326862439,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1326862439,
-    "wof:lastmodified":1570005334,
-    "wof:name":"Olszanka",
-    "wof:parent_id":1477752207,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326862439,
+    "wof:lastmodified": 1675943698,
+    "wof:name": "Olszanka",
+    "wof:parent_id": 1477752207,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.05589,
-    54.21288000000001,
-    23.05589,
-    54.21288000000001
-],
-  "geometry": {"coordinates":[23.05589,54.21288000000001],"type":"Point"}
+    23.036536496052594,
+    54.20915462002307,
+    23.07072317704832,
+    54.22482584801728
+  ],
+  "geometry": {"coordinates":[[[23.050549,54.224686],[23.050919,54.224625],[23.051366,54.224573],[23.053803,54.224218],[23.055629,54.223951],[23.058843,54.223468],[23.061169,54.223143],[23.061324,54.223122],[23.061764,54.22306],[23.062057,54.223019],[23.062365,54.222975],[23.063661,54.222792],[23.063746,54.222779],[23.064108,54.222728],[23.064462,54.222679],[23.065599,54.222519],[23.065857,54.222483],[23.065939,54.222472],[23.06632,54.222419],[23.066829,54.222347],[23.067254,54.222289],[23.068352,54.222137],[23.06868,54.222092],[23.069973,54.221913],[23.070723,54.221793],[23.070299,54.221209],[23.069191,54.21979],[23.069159,54.219749],[23.06877,54.21925],[23.067336,54.217402],[23.067005,54.216975],[23.066174,54.215912],[23.065379,54.214903],[23.063811,54.212897],[23.062586,54.211341],[23.062475,54.211176],[23.062444,54.211137],[23.061895,54.210443],[23.061316,54.20971],[23.060877,54.209155],[23.060372,54.20929],[23.058825,54.209705],[23.05805,54.20992],[23.057697,54.210019],[23.056853,54.210233],[23.056285,54.210378],[23.056023,54.210451],[23.055215,54.210678],[23.054188,54.210969],[23.05398,54.211026],[23.052971,54.211302],[23.051931,54.211586],[23.051389,54.211734],[23.051375,54.211738],[23.051028,54.211833],[23.049934,54.212132],[23.049844,54.212156],[23.049775,54.212175],[23.047637,54.212757],[23.046725,54.213005],[23.046417,54.213088],[23.04612,54.213169],[23.045904,54.213233],[23.04522,54.213414],[23.044056,54.213731],[23.043792,54.213803],[23.043543,54.213871],[23.042465,54.214165],[23.040445,54.214709],[23.037537,54.215514],[23.037039,54.215646],[23.036536,54.215699],[23.03661,54.21577],[23.036931,54.216011],[23.038457,54.217147],[23.038954,54.21752],[23.039828,54.218025],[23.039949,54.218095],[23.040924,54.218442],[23.042575,54.219023],[23.044372,54.219662],[23.0454,54.220046],[23.046081,54.220586],[23.046442,54.22094],[23.047019,54.221517],[23.047771,54.222299],[23.048359,54.222872],[23.048395,54.222907],[23.048603,54.223129],[23.049113,54.223674],[23.049529,54.224131],[23.049798,54.224567],[23.050067,54.224826],[23.050549,54.224686]]],"type":"Polygon"}
 }

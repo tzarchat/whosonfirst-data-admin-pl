@@ -2,101 +2,105 @@
   "id": 1327166603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.95399,51.69108,19.95399,51.69108",
-    "geom:latitude":51.69108,
-    "geom:longitude":19.95399,
-    "gn:admin1_code":"74.0",
-    "gn:admin2_code":"1016.0",
-    "gn:admin3_code":"101603.0",
-    "gn:asciiname":"Zalesie",
-    "gn:country_code":"PL",
-    "gn:dem":206,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3080789,
-    "gn:latitude":51.69108,
-    "gn:longitude":19.95399,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Zalesie",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.93399,51.67108,19.97399,51.71108",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Zalesie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021980883118573178,
+    "geom:area_square_m": 1691084.908639325,
+    "geom:bbox": "19.939832558994237,51.68553305801349,19.965469844004765,51.700310215013104",
+    "geom:latitude": 19.953888569694172,
+    "geom:longitude": 51.69268284862932,
+    "gn:admin1_code": "74.0",
+    "gn:admin2_code": "1016.0",
+    "gn:admin3_code": "101603.0",
+    "gn:asciiname": "Zalesie",
+    "gn:country_code": "PL",
+    "gn:dem": 206,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3080789,
+    "gn:latitude": 51.69108,
+    "gn:longitude": 19.95399,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Zalesie",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.93399,51.67108,19.97399,51.71108",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Zalesie"
     ],
-    "name:deu_x_preferred":[
-        "Zalesie"
+    "name:deu_x_preferred": [
+      "Zalesie"
     ],
-    "name:fra_x_preferred":[
-        "Zalesie"
+    "name:fra_x_preferred": [
+      "Zalesie"
     ],
-    "name:lit_x_preferred":[
-        "Zalesiai"
+    "name:lit_x_preferred": [
+      "Zalesiai"
     ],
-    "name:nld_x_preferred":[
-        "Zalesie"
+    "name:nld_x_preferred": [
+      "Zalesie"
     ],
-    "name:pol_x_preferred":[
-        "Zalesie"
+    "name:pol_x_preferred": [
+      "Zalesie"
     ],
-    "name:rus_x_preferred":[
-        "\u0417\u0430\u043b\u0435\u0441\u0435"
+    "name:rus_x_preferred": [
+      "Залесе"
     ],
-    "name:swe_x_preferred":[
-        "Zalesie"
+    "name:swe_x_preferred": [
+      "Zalesie"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u043b\u0435\u0441\u0435"
+    "name:ukr_x_preferred": [
+      "Залесе"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125324111,
-        85633723,
-        102079831
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3080789
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125324111,
+      85633723,
+      102079831
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3080789,
+      "pl-gugik:jpt_kod_je": "101603_2.0015"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"44120aed5025ccefd4a87765f46c821d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079831,
-            "localadmin_id":1125324111,
-            "locality_id":1327166603,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "5740125dc08abebafc2ada6aff2847a0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079831,
+        "localadmin_id": 1125324111,
+        "locality_id": 1327166603,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1327166603,
-    "wof:lastmodified":1570008531,
-    "wof:name":"Zalesie",
-    "wof:parent_id":1125324111,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327166603,
+    "wof:lastmodified": 1675943678,
+    "wof:name": "Zalesie",
+    "wof:parent_id": 1125324111,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.95399,
-    51.69108,
-    19.95399,
-    51.69108
-],
-  "geometry": {"coordinates":[19.95399,51.69108],"type":"Point"}
+    19.939832558994237,
+    51.68553305801349,
+    19.965469844004765,
+    51.700310215013104
+  ],
+  "geometry": {"coordinates":[[[19.939833,51.691285],[19.941047,51.69252],[19.942494,51.693922],[19.942555,51.693984],[19.943243,51.694678],[19.944296,51.69574],[19.946705,51.69814],[19.944574,51.698978],[19.944605,51.699003],[19.946205,51.70031],[19.947834,51.699861],[19.948576,51.699658],[19.949214,51.699483],[19.950521,51.699125],[19.950732,51.699067],[19.951161,51.698951],[19.95177,51.698787],[19.952393,51.698619],[19.952435,51.698608],[19.953509,51.698319],[19.953893,51.698215],[19.954603,51.698024],[19.954714,51.697994],[19.955285,51.69784],[19.955892,51.697676],[19.956448,51.697526],[19.957127,51.697344],[19.957562,51.697226],[19.957621,51.69721],[19.958553,51.696959],[19.958953,51.696852],[19.9595,51.696704],[19.960151,51.696529],[19.961768,51.696091],[19.961815,51.696079],[19.962849,51.695798],[19.964162,51.695441],[19.964379,51.695382],[19.964156,51.695192],[19.964138,51.695177],[19.964134,51.695173],[19.963213,51.694388],[19.963458,51.694317],[19.963727,51.694239],[19.964086,51.694135],[19.964344,51.69406],[19.964605,51.693985],[19.96494,51.693888],[19.964985,51.693875],[19.965371,51.693763],[19.96547,51.693734],[19.965227,51.692586],[19.965224,51.692571],[19.965204,51.692478],[19.965044,51.691721],[19.964371,51.688508],[19.964351,51.688442],[19.963758,51.685533],[19.963694,51.685545],[19.962769,51.685718],[19.962115,51.68584],[19.961767,51.685903],[19.961411,51.685969],[19.960741,51.686093],[19.960728,51.686095],[19.959631,51.686298],[19.959434,51.686334],[19.958749,51.686461],[19.958529,51.686501],[19.957701,51.686654],[19.957564,51.686681],[19.956768,51.686833],[19.955754,51.687027],[19.955494,51.687037],[19.954183,51.687397],[19.95317,51.687675],[19.952495,51.68786],[19.952089,51.687972],[19.95165,51.688092],[19.951242,51.688204],[19.950287,51.688466],[19.949087,51.688796],[19.948577,51.688936],[19.947951,51.689108],[19.947311,51.689283],[19.947141,51.68933],[19.946409,51.689531],[19.946055,51.689628],[19.945411,51.689805],[19.944431,51.690077],[19.944133,51.690155],[19.943753,51.690255],[19.943431,51.69034],[19.943114,51.690423],[19.942793,51.690507],[19.942463,51.690609],[19.941192,51.690959],[19.940894,51.691006],[19.940099,51.691215],[19.9399,51.691267],[19.939833,51.691285]]],"type":"Polygon"}
 }

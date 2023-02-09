@@ -2,84 +2,88 @@
   "id": 1260314409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91096,50.91221,23.91096,50.91221",
-    "geom:latitude":50.91221,
-    "geom:longitude":23.91096,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"604.0",
-    "gn:admin3_code":"60404.0",
-    "gn:asciiname":"Bialoskory",
-    "gn:country_code":"PL",
-    "gn:dem":206,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":776099,
-    "gn:latitude":50.91221,
-    "gn:longitude":23.91096,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Bia\u0142osk\u00f3ry",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.89096,50.89221,23.93096,50.93221",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Bia\u0142osk\u00f3ry"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00006684291878239402,
+    "geom:area_square_m": 522976.8802136112,
+    "geom:bbox": "23.904018916238453,50.90705587202041,23.914506597236706,50.92426321802168",
+    "geom:latitude": 23.910277038796984,
+    "geom:longitude": 50.91225882562019,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "604.0",
+    "gn:admin3_code": "60404.0",
+    "gn:asciiname": "Bialoskory",
+    "gn:country_code": "PL",
+    "gn:dem": 206,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 776099,
+    "gn:latitude": 50.91221,
+    "gn:longitude": 23.91096,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Białoskóry",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.89096,50.89221,23.93096,50.93221",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Białoskóry"
     ],
-    "name:pol_x_preferred":[
-        "Bia\u0142osk\u00f3ry"
+    "name:pol_x_preferred": [
+      "Białoskóry"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u044f\u043b\u043e\u0441\u043a\u0443\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Бялоскури"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1477752239,
-        85633723,
-        102079743
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":776099,
-        "wk:page":"Bia%C5%82osk%C3%B3ry%2C_Lublin_Voivodeship"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1477752239,
+      85633723,
+      102079743
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 776099,
+      "pl-gugik:jpt_kod_je": "060404_2.0070",
+      "wk:page": "Bia%C5%82osk%C3%B3ry%2C_Lublin_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"b3370899b9ec0130d1d7fba197fc98f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079743,
-            "localadmin_id":1477752239,
-            "locality_id":1260314409,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d4aeb2ca74e5cdcd2cdbb37feb625d3e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079743,
+        "localadmin_id": 1477752239,
+        "locality_id": 1260314409,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1260314409,
-    "wof:lastmodified":1570024911,
-    "wof:name":"Bialoskory",
-    "wof:parent_id":1477752239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260314409,
+    "wof:lastmodified": 1675943710,
+    "wof:name": "Bialoskory",
+    "wof:parent_id": 1477752239,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.91096,
-    50.91221,
-    23.91096,
-    50.91221
-],
-  "geometry": {"coordinates":[23.91096,50.91221],"type":"Point"}
+    23.904018916238453,
+    50.90705587202041,
+    23.914506597236706,
+    50.92426321802168
+  ],
+  "geometry": {"coordinates":[[[[23.904019,50.916615],[23.904105,50.916926],[23.906685,50.916655],[23.906752,50.916648],[23.907373,50.916582],[23.907938,50.916522],[23.908139,50.9165],[23.908221,50.916492],[23.90885,50.916425],[23.90928,50.916379],[23.909603,50.916344],[23.910391,50.91626],[23.911128,50.916181],[23.911212,50.916172],[23.911682,50.916121],[23.912172,50.916069],[23.91281,50.916001],[23.913449,50.915932],[23.913969,50.915877],[23.914507,50.91582],[23.9143,50.913933],[23.914134,50.912462],[23.914074,50.911953],[23.914067,50.9119],[23.913964,50.911025],[23.913837,50.909806],[23.913794,50.909399],[23.913709,50.908583],[23.913514,50.907056],[23.912726,50.907164],[23.91262,50.907175],[23.911826,50.907258],[23.91184,50.907168],[23.911849,50.907112],[23.910435,50.907242],[23.909927,50.907291],[23.909223,50.907358],[23.907927,50.907467],[23.907941,50.907523],[23.907945,50.907629],[23.90786,50.907631],[23.907557,50.90764],[23.907482,50.909183],[23.907467,50.909211],[23.907379,50.90937],[23.907318,50.909481],[23.906684,50.910653],[23.906642,50.911028],[23.906803,50.912021],[23.906806,50.912051],[23.906806,50.912075],[23.906887,50.913878],[23.906501,50.915089],[23.904019,50.916615]]],[[[23.910542,50.923694],[23.910517,50.924246],[23.911024,50.924263],[23.911132,50.923663],[23.911538,50.9229],[23.911552,50.922664],[23.911174,50.923093],[23.910745,50.92322],[23.910542,50.923694]]]],"type":"MultiPolygon"}
 }

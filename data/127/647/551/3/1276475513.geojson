@@ -2,96 +2,100 @@
   "id": 1276475513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.71766,53.1527,23.71766,53.1527",
-    "geom:latitude":53.1527,
-    "geom:longitude":23.71766,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2002.0",
-    "gn:admin3_code":"200204.0",
-    "gn:asciiname":"Jozefowo",
-    "gn:country_code":"PL",
-    "gn:dem":155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":769967,
-    "gn:latitude":53.1527,
-    "gn:longitude":23.71766,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"J\u00f3zefowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.69766,53.1327,23.73766,53.1727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u06cc\u0648\u0632\u0641\u0648\u0648\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00011985073423791951,
+    "geom:area_square_m": 892391.8394697406,
+    "geom:bbox": "23.704531624123902,53.14313820302167,23.7296720991294,53.15378490302186",
+    "geom:latitude": 23.716787439075244,
+    "geom:longitude": 53.14923931926329,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2002.0",
+    "gn:admin3_code": "200204.0",
+    "gn:asciiname": "Jozefowo",
+    "gn:country_code": "PL",
+    "gn:dem": 155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 769967,
+    "gn:latitude": 53.1527,
+    "gn:longitude": 23.71766,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Józefowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.69766,53.1327,23.73766,53.1727",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "یوزفووو"
     ],
-    "name:fas_x_preferred":[
-        "\u06cc\u0648\u0632\u0641\u0648\u0648\u0648"
+    "name:fas_x_preferred": [
+      "یوزفووو"
     ],
-    "name:fra_x_preferred":[
-        "J\u00f3zefowo"
+    "name:fra_x_preferred": [
+      "Józefowo"
     ],
-    "name:lit_x_preferred":[
-        "Juzefovas"
+    "name:lit_x_preferred": [
+      "Juzefovas"
     ],
-    "name:pol_x_preferred":[
-        "J\u00f3zefowo"
+    "name:pol_x_preferred": [
+      "Józefowo"
     ],
-    "name:szl_x_preferred":[
-        "J\u016fzefowo"
+    "name:szl_x_preferred": [
+      "Jůzefowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u042e\u0437\u0435\u0444\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Юзефово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477753025,
-        85633723,
-        102080145
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":769967,
-        "wk:page":"J%C3%B3zefowo%2C_Bia%C5%82ystok_County"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477753025,
+      85633723,
+      102080145
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 769967,
+      "pl-gugik:jpt_kod_je": "200204_2.0011",
+      "wk:page": "J%C3%B3zefowo%2C_Bia%C5%82ystok_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"3413ada2cdecd961a723daedb2fbb1f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080145,
-            "localadmin_id":1477753025,
-            "locality_id":1276475513,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "3687bd232ed81fc1ca3a5cda1d628cac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080145,
+        "localadmin_id": 1477753025,
+        "locality_id": 1276475513,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1276475513,
-    "wof:lastmodified":1570018023,
-    "wof:name":"Jozefowo",
-    "wof:parent_id":1477753025,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276475513,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Jozefowo",
+    "wof:parent_id": 1477753025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.71766,
-    53.1527,
-    23.71766,
-    53.1527
-],
-  "geometry": {"coordinates":[23.71766,53.1527],"type":"Point"}
+    23.704531624123902,
+    53.14313820302167,
+    23.7296720991294,
+    53.15378490302186
+  ],
+  "geometry": {"coordinates":[[[23.704532,53.144689],[23.704724,53.144869],[23.704995,53.145125],[23.706322,53.146374],[23.707641,53.147536],[23.708186,53.148266],[23.708642,53.149696],[23.709842,53.150852],[23.710188,53.151032],[23.710609,53.151252],[23.712285,53.15163],[23.714791,53.152194],[23.716434,53.152758],[23.716513,53.15279],[23.718278,53.153499],[23.718862,53.153687],[23.719198,53.153766],[23.719244,53.153777],[23.719907,53.153778],[23.720267,53.153778],[23.720326,53.153778],[23.721331,53.153785],[23.722,53.153695],[23.722854,53.153516],[23.725119,53.152886],[23.726671,53.152524],[23.726739,53.15245],[23.729672,53.149287],[23.729653,53.149197],[23.729434,53.148143],[23.729363,53.147805],[23.729196,53.147003],[23.727694,53.148015],[23.726926,53.148354],[23.725487,53.148616],[23.724969,53.148657],[23.724699,53.148716],[23.724552,53.148748],[23.723833,53.148905],[23.7225,53.148958],[23.721852,53.14879],[23.721617,53.148729],[23.720561,53.148679],[23.720157,53.148558],[23.718082,53.147935],[23.717331,53.147335],[23.716412,53.146991],[23.716333,53.146966],[23.716327,53.146965],[23.714919,53.146532],[23.714835,53.146507],[23.713834,53.146199],[23.712834,53.145892],[23.712198,53.145401],[23.712094,53.14532],[23.711827,53.145114],[23.711694,53.145011],[23.710698,53.144241],[23.710375,53.144045],[23.709955,53.14379],[23.70985,53.143726],[23.709292,53.143569],[23.70906,53.143473],[23.708733,53.143338],[23.70825,53.143138],[23.706891,53.143715],[23.704532,53.144689]]],"type":"Polygon"}
 }

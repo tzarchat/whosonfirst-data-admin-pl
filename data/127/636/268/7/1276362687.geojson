@@ -2,107 +2,111 @@
   "id": 1276362687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.03963,54.22343,23.03963,54.22343",
-    "geom:latitude":54.22343,
-    "geom:longitude":23.03963,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201208.0",
-    "gn:asciiname":"Lipina",
-    "gn:country_code":"PL",
-    "gn:dem":214,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":766255,
-    "gn:latitude":54.22343,
-    "gn:longitude":23.03963,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Lipina",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.01963,54.20343,23.05963,54.24343",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Lipina"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003135573637758832,
+    "geom:area_square_m": 2276405.322233635,
+    "geom:bbox": "23.015386729051563,54.21569857502267,23.050067340059062,54.232278560021406",
+    "geom:latitude": 23.032664548585284,
+    "geom:longitude": 54.224068138747874,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201208.0",
+    "gn:asciiname": "Lipina",
+    "gn:country_code": "PL",
+    "gn:dem": 214,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 766255,
+    "gn:latitude": 54.22343,
+    "gn:longitude": 23.03963,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Lipina",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.01963,54.20343,23.05963,54.24343",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Lipina"
     ],
-    "name:ces_x_preferred":[
-        "Lipina"
+    "name:ces_x_preferred": [
+      "Lipina"
     ],
-    "name:deu_x_preferred":[
-        "Lipina"
+    "name:deu_x_preferred": [
+      "Lipina"
     ],
-    "name:fra_x_preferred":[
-        "Lipina"
+    "name:fra_x_preferred": [
+      "Lipina"
     ],
-    "name:lit_x_preferred":[
-        "Lipina"
+    "name:lit_x_preferred": [
+      "Lipina"
     ],
-    "name:pol_x_preferred":[
-        "Lipina"
+    "name:pol_x_preferred": [
+      "Lipina"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u0438\u043f\u0438\u043d\u0430"
+    "name:rus_x_preferred": [
+      "Липина"
     ],
-    "name:slk_x_preferred":[
-        "Lipina"
+    "name:slk_x_preferred": [
+      "Lipina"
     ],
-    "name:srp_x_preferred":[
-        "\u041b\u0438\u043f\u0438\u043d\u0430"
+    "name:srp_x_preferred": [
+      "Липина"
     ],
-    "name:swe_x_preferred":[
-        "Lipina"
+    "name:swe_x_preferred": [
+      "Lipina"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0456\u043f\u0456\u043d\u0430"
+    "name:ukr_x_preferred": [
+      "Ліпіна"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752207,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":766255
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752207,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 766255,
+      "pl-gugik:jpt_kod_je": "201208_2.0023"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"78e68563303032581262bbc2d4655bd0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752207,
-            "locality_id":1276362687,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a0efcc76e29c638fee921e353e2979be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752207,
+        "locality_id": 1276362687,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1276362687,
-    "wof:lastmodified":1570019242,
-    "wof:name":"Lipina",
-    "wof:parent_id":1477752207,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276362687,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Lipina",
+    "wof:parent_id": 1477752207,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.03963,
-    54.22343000000001,
-    23.03963,
-    54.22343000000001
-],
-  "geometry": {"coordinates":[23.03963,54.22343000000001],"type":"Point"}
+    23.015386729051563,
+    54.21569857502267,
+    23.050067340059062,
+    54.232278560021406
+  ],
+  "geometry": {"coordinates":[[[23.028418,54.232121],[23.030076,54.231562],[23.030368,54.231464],[23.030395,54.231455],[23.031724,54.231007],[23.031728,54.231006],[23.031788,54.230986],[23.032542,54.230732],[23.033056,54.23056],[23.033843,54.230295],[23.036119,54.229531],[23.036437,54.229424],[23.03778,54.22897],[23.038818,54.22862],[23.042425,54.227402],[23.042484,54.227382],[23.042514,54.227374],[23.04407,54.226852],[23.047508,54.225699],[23.048683,54.2253],[23.050067,54.224826],[23.049798,54.224567],[23.049529,54.224131],[23.049113,54.223674],[23.048603,54.223129],[23.048395,54.222907],[23.048359,54.222872],[23.047771,54.222299],[23.047019,54.221517],[23.046442,54.22094],[23.046081,54.220586],[23.0454,54.220046],[23.044372,54.219662],[23.042575,54.219023],[23.040924,54.218442],[23.039949,54.218095],[23.039828,54.218025],[23.038954,54.21752],[23.038457,54.217147],[23.036931,54.216011],[23.03661,54.21577],[23.036536,54.215699],[23.036362,54.215717],[23.035463,54.216082],[23.034362,54.216384],[23.03315,54.216716],[23.032937,54.216775],[23.032191,54.216974],[23.030954,54.217305],[23.030793,54.217348],[23.029165,54.21776],[23.027689,54.218166],[23.027661,54.218174],[23.027599,54.218192],[23.026683,54.218453],[23.025923,54.218653],[23.024868,54.219432],[23.024692,54.219562],[23.022366,54.221241],[23.021336,54.221981],[23.019806,54.223056],[23.019692,54.223137],[23.019213,54.223477],[23.019166,54.223511],[23.018632,54.223889],[23.018115,54.224252],[23.017191,54.224902],[23.016498,54.225377],[23.016245,54.225555],[23.015387,54.226166],[23.016044,54.226485],[23.01611,54.226517],[23.016869,54.226884],[23.018971,54.227902],[23.020134,54.228465],[23.020586,54.228684],[23.021144,54.228954],[23.022181,54.229456],[23.023598,54.230142],[23.025025,54.230833],[23.025901,54.231264],[23.026429,54.231524],[23.026513,54.231565],[23.026592,54.231604],[23.027403,54.232003],[23.027868,54.232231],[23.027965,54.232279],[23.028418,54.232121]]],"type":"Polygon"}
 }

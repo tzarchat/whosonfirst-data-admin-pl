@@ -2,104 +2,108 @@
   "id": 1343890581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.20008,53.61365,20.20008,53.61365",
-    "geom:latitude":53.61365,
-    "geom:longitude":20.20008,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2814.0",
-    "gn:admin3_code":"281409.0",
-    "gn:asciiname":"Zawady",
-    "gn:country_code":"PL",
-    "gn:dem":167,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":753630,
-    "gn:latitude":53.61365,
-    "gn:longitude":20.20008,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Zawady",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.18008,53.59365,20.22008,53.63365",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Zawady"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00021002072721782052,
+    "geom:area_square_m": 1546944.1809831169,
+    "geom:bbox": "20.184012748999017,53.60568028601792,20.208610279997984,53.62380146702019",
+    "geom:latitude": 20.19630952531551,
+    "geom:longitude": 53.61467260510981,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2814.0",
+    "gn:admin3_code": "281409.0",
+    "gn:asciiname": "Zawady",
+    "gn:country_code": "PL",
+    "gn:dem": 167,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 753630,
+    "gn:latitude": 53.61365,
+    "gn:longitude": 20.20008,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Zawady",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.18008,53.59365,20.22008,53.63365",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Zawady"
     ],
-    "name:deu_x_preferred":[
-        "Zawady"
+    "name:deu_x_preferred": [
+      "Zawady"
     ],
-    "name:fra_x_preferred":[
-        "Zawady"
+    "name:fra_x_preferred": [
+      "Zawady"
     ],
-    "name:lit_x_preferred":[
-        "Zavadai"
+    "name:lit_x_preferred": [
+      "Zavadai"
     ],
-    "name:nld_x_preferred":[
-        "Zawady"
+    "name:nld_x_preferred": [
+      "Zawady"
     ],
-    "name:pol_x_preferred":[
-        "Zawady"
+    "name:pol_x_preferred": [
+      "Zawady"
     ],
-    "name:rus_x_preferred":[
-        "\u0417\u0430\u0432\u0430\u0434\u044b"
+    "name:rus_x_preferred": [
+      "Завады"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u0432\u0430\u0434\u0438"
+    "name:ukr_x_preferred": [
+      "Завади"
     ],
-    "name:und_x_variant":[
-        "Jungingen",
-        "Sawadden",
-        "Jungingen Ostpreussen",
-        "Sawadden Kreis Osterode"
+    "name:und_x_variant": [
+      "Jungingen",
+      "Sawadden",
+      "Jungingen Ostpreussen",
+      "Sawadden Kreis Osterode"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125300855,
-        85633723,
-        102080207
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":753630
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125300855,
+      85633723,
+      102080207
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 753630,
+      "pl-gugik:jpt_kod_je": "281409_5.0041"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"2039bc63fba9e047dcdd4639ab36fd64",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080207,
-            "localadmin_id":1125300855,
-            "locality_id":1343890581,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "03dd130a2a53334563ca1818251cfb67",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080207,
+        "localadmin_id": 1125300855,
+        "locality_id": 1343890581,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1343890581,
-    "wof:lastmodified":1570011906,
-    "wof:name":"Zawady",
-    "wof:parent_id":1125300855,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343890581,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Zawady",
+    "wof:parent_id": 1125300855,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.20008,
-    53.61365,
-    20.20008,
-    53.61365
-],
-  "geometry": {"coordinates":[20.20008,53.61365],"type":"Point"}
+    20.184012748999017,
+    53.60568028601792,
+    20.208610279997984,
+    53.62380146702019
+  ],
+  "geometry": {"coordinates":[[[20.184581,53.618861],[20.184416,53.619035],[20.184874,53.619225],[20.187305,53.621061],[20.187779,53.621161],[20.189004,53.622522],[20.190206,53.623533],[20.190525,53.623801],[20.19057,53.623735],[20.192641,53.622742],[20.192701,53.622696],[20.193995,53.621718],[20.194332,53.621469],[20.194836,53.621212],[20.19557,53.620869],[20.196779,53.620305],[20.197211,53.620105],[20.19836,53.619499],[20.199234,53.61876],[20.199794,53.618426],[20.200092,53.618211],[20.201002,53.617659],[20.20166,53.617278],[20.202442,53.616773],[20.202725,53.616489],[20.203457,53.616077],[20.203938,53.615806],[20.204036,53.615744],[20.2053,53.615022],[20.205736,53.614669],[20.206492,53.614167],[20.206838,53.613941],[20.207725,53.613574],[20.208256,53.613355],[20.20861,53.613208],[20.208175,53.61284],[20.207741,53.612473],[20.207306,53.612105],[20.207271,53.612076],[20.206859,53.611743],[20.20641,53.611382],[20.206007,53.611058],[20.205911,53.610999],[20.205323,53.61056],[20.204781,53.610155],[20.20496,53.608621],[20.20503,53.608042],[20.205171,53.607072],[20.205194,53.606648],[20.205304,53.605897],[20.205336,53.60568],[20.203723,53.605832],[20.202322,53.606294],[20.202198,53.606331],[20.201837,53.60644],[20.200759,53.606795],[20.199388,53.607246],[20.197459,53.607867],[20.197053,53.608008],[20.196982,53.608032],[20.195387,53.608586],[20.195349,53.608615],[20.195004,53.6087],[20.194028,53.609577],[20.192857,53.610603],[20.192269,53.611148],[20.192199,53.611198],[20.191198,53.612049],[20.190571,53.612603],[20.18987,53.613223],[20.18851,53.614413],[20.188394,53.614491],[20.186814,53.615916],[20.186736,53.615984],[20.186061,53.616569],[20.185862,53.616738],[20.184013,53.618376],[20.184581,53.618861]]],"type":"Polygon"}
 }

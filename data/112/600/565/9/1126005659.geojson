@@ -2,116 +2,120 @@
   "id": 1126005659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.76433,52.1874,20.76433,52.1874",
-    "geom:latitude":52.1874,
-    "geom:longitude":20.76433,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":345,
-    "iso:country":"PL",
-    "lbl:bbox":"20.74433,52.1674,20.78433,52.2074",
-    "lbl:latitude":52.1874,
-    "lbl:longitude":20.76433,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Domaniew"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002087744234391362,
+    "geom:area_square_m": 1588670.2777627145,
+    "geom:bbox": "20.75117120499757,52.180971906019955,20.774011927997684,52.20115426101156",
+    "geom:latitude": 20.764212042858073,
+    "geom:longitude": 52.189874077051776,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 345,
+    "iso:country": "PL",
+    "lbl:bbox": "20.74433,52.1674,20.78433,52.2074",
+    "lbl:latitude": 52.1874,
+    "lbl:longitude": 20.76433,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Domaniew"
     ],
-    "name:ceb_x_preferred":[
-        "Domaniew"
+    "name:ceb_x_preferred": [
+      "Domaniew"
     ],
-    "name:ces_x_preferred":[
-        "Domaniew"
+    "name:ces_x_preferred": [
+      "Domaniew"
     ],
-    "name:eng_x_preferred":[
-        "Domaniew"
+    "name:eng_x_preferred": [
+      "Domaniew"
     ],
-    "name:fra_x_preferred":[
-        "Domaniew"
+    "name:fra_x_preferred": [
+      "Domaniew"
     ],
-    "name:pol_x_preferred":[
-        "Domaniew"
+    "name:pol_x_preferred": [
+      "Domaniew"
     ],
-    "name:ukr_x_preferred":[
-        "\u0414\u043e\u043c\u0430\u043d\u0435\u0432"
+    "name:ukr_x_preferred": [
+      "Доманев"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":773047,
-    "qs_pg:gn_pop":345,
-    "qs_pg:name":"Domaniew",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":1,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":1010763,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":491991,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125314715,
-        85633723,
-        102079919
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 773047,
+    "qs_pg:gn_pop": 345,
+    "qs_pg:name": "Domaniew",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 1,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 1010763,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 491991,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":773047,
-        "gp:id":491991,
-        "qs_pg:id":1010763,
-        "wd:id":"Q3495946"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125314715,
+      85633723,
+      102079919
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 773047,
+      "gp:id": 491991,
+      "pl-gugik:jpt_kod_je": "142103_5.0003",
+      "qs_pg:id": 1010763,
+      "wd:id": "Q3495946"
     },
-    "wof:country":"PL",
-    "wof:created":1497299929,
-    "wof:geomhash":"9b64ee5fa21863a6e8245ba95f703895",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079919,
-            "localadmin_id":1125314715,
-            "locality_id":1126005659,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299929,
+    "wof:geomhash": "e804c502e416155c2d6175c21f075f73",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079919,
+        "localadmin_id": 1125314715,
+        "locality_id": 1126005659,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126005659,
-    "wof:lastmodified":1570039220,
-    "wof:name":"Domaniew",
-    "wof:parent_id":1125314715,
-    "wof:placetype":"locality",
-    "wof:population":345,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126005659,
+    "wof:lastmodified": 1675943708,
+    "wof:name": "Domaniew",
+    "wof:parent_id": 1125314715,
+    "wof:placetype": "locality",
+    "wof:population": 345,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.76433,
-    52.1874,
-    20.76433,
-    52.1874
-],
-  "geometry": {"coordinates":[20.76433,52.1874],"type":"Point"}
+    20.75117120499757,
+    52.180971906019955,
+    20.774011927997684,
+    52.20115426101156
+  ],
+  "geometry": {"coordinates":[[[20.751171,52.185916],[20.751283,52.186196],[20.752614,52.188018],[20.753072,52.188591],[20.754191,52.190131],[20.754351,52.190213],[20.754462,52.190224],[20.754594,52.19021],[20.754648,52.190299],[20.754692,52.190369],[20.754818,52.19057],[20.755067,52.190929],[20.755511,52.191639],[20.755784,52.191579],[20.755992,52.191534],[20.756222,52.191484],[20.756263,52.191475],[20.756469,52.19143],[20.756544,52.191414],[20.75679,52.19136],[20.756908,52.191332],[20.756465,52.19062],[20.756514,52.190607],[20.756802,52.190531],[20.756893,52.190507],[20.757076,52.190459],[20.757419,52.190368],[20.75744,52.190363],[20.757812,52.190265],[20.757956,52.190227],[20.758217,52.190157],[20.758257,52.190146],[20.758286,52.190138],[20.758324,52.190128],[20.758606,52.190051],[20.758654,52.190038],[20.758852,52.189984],[20.758869,52.19001],[20.758884,52.190035],[20.759143,52.190447],[20.7594,52.190855],[20.759426,52.190896],[20.759665,52.191276],[20.760277,52.192248],[20.760541,52.192668],[20.761279,52.193841],[20.761301,52.193875],[20.761685,52.19378],[20.763052,52.195921],[20.763072,52.195952],[20.763082,52.196004],[20.766396,52.201114],[20.766414,52.201129],[20.766443,52.201154],[20.767406,52.200688],[20.767468,52.200658],[20.767637,52.200575],[20.767662,52.200177],[20.767664,52.200138],[20.76769,52.199732],[20.767693,52.199674],[20.767941,52.199016],[20.768205,52.198663],[20.768338,52.198554],[20.768578,52.198291],[20.768546,52.198227],[20.769822,52.196685],[20.770956,52.195589],[20.771137,52.195418],[20.771166,52.195395],[20.77196,52.194776],[20.77199,52.194735],[20.772263,52.194365],[20.772382,52.194252],[20.772391,52.194242],[20.772566,52.194055],[20.772685,52.193913],[20.772845,52.193701],[20.773027,52.193429],[20.773075,52.193358],[20.773091,52.193333],[20.774012,52.191958],[20.77395,52.191941],[20.774005,52.191873],[20.773944,52.191776],[20.773922,52.191742],[20.773283,52.190741],[20.773257,52.190701],[20.773192,52.190599],[20.772657,52.189762],[20.772637,52.18973],[20.772367,52.189307],[20.771996,52.188726],[20.771463,52.187889],[20.771309,52.187639],[20.771039,52.187202],[20.770767,52.186761],[20.770669,52.186601],[20.770602,52.186591],[20.770479,52.1864],[20.770363,52.186221],[20.770125,52.185856],[20.770098,52.185816],[20.770061,52.185762],[20.770036,52.185705],[20.770019,52.185675],[20.770013,52.185664],[20.769876,52.185402],[20.769819,52.185291],[20.769761,52.185176],[20.769682,52.185049],[20.769002,52.185225],[20.768867,52.185259],[20.767417,52.18304],[20.766151,52.181103],[20.766086,52.181002],[20.766067,52.180972],[20.765209,52.181083],[20.765288,52.181229],[20.765306,52.181286],[20.764943,52.181457],[20.764655,52.181592],[20.764363,52.181728],[20.76408,52.181861],[20.763839,52.181974],[20.763713,52.182033],[20.763588,52.182091],[20.763243,52.182253],[20.762734,52.182492],[20.761235,52.183194],[20.760782,52.18347],[20.759396,52.184064],[20.758286,52.184336],[20.75452,52.185501],[20.753982,52.185639],[20.753379,52.185765],[20.751171,52.185916]]],"type":"Polygon"}
 }

@@ -2,111 +2,115 @@
   "id": 1126051391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2019-09-30",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.662952,52.433657,20.662952,52.433657",
-    "geom:latitude":52.433657,
-    "geom:longitude":20.662952,
-    "gn:country":null,
-    "iso:country":"PL",
-    "lbl:bbox":"20.642952,52.413657,20.682952,52.453657",
-    "lbl:latitude":52.433657,
-    "lbl:longitude":20.662952,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ces_x_preferred":[
-        "Sady"
+    "edtf:cessation": "uuuu",
+    "edtf:deprecated": "2019-09-30",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00032262807323394407,
+    "geom:area_square_m": 2442513.412431541,
+    "geom:bbox": "20.630329026003942,52.41108945302009,20.669848080999305,52.42832734301529",
+    "geom:latitude": 20.649158495298334,
+    "geom:longitude": 52.41866292773273,
+    "gn:country": null,
+    "iso:country": "PL",
+    "lbl:bbox": "20.642952,52.413657,20.682952,52.453657",
+    "lbl:latitude": 52.433657,
+    "lbl:longitude": 20.662952,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred": [
+      "Sady"
     ],
-    "name:deu_x_preferred":[
-        "Sady"
+    "name:deu_x_preferred": [
+      "Sady"
     ],
-    "name:fra_x_preferred":[
-        "Sady"
+    "name:fra_x_preferred": [
+      "Sady"
     ],
-    "name:ita_x_preferred":[
-        "Sady"
+    "name:ita_x_preferred": [
+      "Sady"
     ],
-    "name:pol_x_preferred":[
-        "Sady"
+    "name:pol_x_preferred": [
+      "Sady"
     ],
-    "name:slk_x_preferred":[
-        "Sady"
+    "name:slk_x_preferred": [
+      "Sady"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u0430\u0434\u0438"
+    "name:ukr_x_preferred": [
+      "Сади"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":null,
-    "qs_pg:name":"Sady",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos":52,
-    "qs_pg:photos_1k":11,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":2,
-    "qs_pg:photos_all":52,
-    "qs_pg:photos_sr":2,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":977026,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":517252,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125289393,
-        85633723,
-        102080001
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": null,
+    "qs_pg:name": "Sady",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos": 52,
+    "qs_pg:photos_1k": 11,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 2,
+    "qs_pg:photos_all": 52,
+    "qs_pg:photos_sr": 2,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 977026,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 517252,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":517252,
-        "qs_pg:id":977026
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125289393,
+      85633723,
+      102080001
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 517252,
+      "pl-gugik:jpt_kod_je": "141402_2.0030",
+      "qs_pg:id": 977026
     },
-    "wof:country":"PL",
-    "wof:created":1497302772,
-    "wof:geomhash":"26ed400f62d8caf2ca16cc5b274a0e03",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080001,
-            "localadmin_id":1125289393,
-            "locality_id":1126051391,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:created": 1497302772,
+    "wof:geomhash": "35715c43a65ba7421bd6a725bc48a4b5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080001,
+        "localadmin_id": 1125289393,
+        "locality_id": 1126051391,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1126051391,
-    "wof:lastmodified":1569885092,
-    "wof:name":"Sady",
-    "wof:parent_id":1125289393,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[
-        1495005163
+    "wof:id": 1126051391,
+    "wof:lastmodified": 1675943706,
+    "wof:name": "Sady",
+    "wof:parent_id": 1125289393,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [
+      1495005163
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.662952,
-    52.433657,
-    20.662952,
-    52.433657
-],
-  "geometry": {"coordinates":[20.662952,52.433657],"type":"Point"}
+    20.630329026003942,
+    52.41108945302009,
+    20.669848080999305,
+    52.42832734301529
+  ],
+  "geometry": {"coordinates":[[[20.630329,52.41635],[20.634716,52.417245],[20.63778,52.418261],[20.640503,52.419545],[20.643444,52.421208],[20.64618,52.422824],[20.649486,52.424892],[20.653512,52.426962],[20.657278,52.428327],[20.658403,52.427404],[20.659305,52.426664],[20.659358,52.426621],[20.659081,52.425982],[20.659077,52.425973],[20.660175,52.426241],[20.6603,52.426137],[20.660394,52.426059],[20.662499,52.426699],[20.662619,52.42664],[20.662808,52.426547],[20.663277,52.426545],[20.663628,52.426373],[20.663611,52.42634],[20.664062,52.426164],[20.663652,52.425746],[20.664306,52.425428],[20.665646,52.424776],[20.666427,52.424396],[20.667231,52.424004],[20.669848,52.422473],[20.669795,52.422298],[20.669691,52.422144],[20.668442,52.422405],[20.667848,52.422531],[20.667227,52.422661],[20.66717,52.422673],[20.666958,52.422721],[20.666214,52.422887],[20.665772,52.422987],[20.665421,52.423067],[20.665359,52.42308],[20.664301,52.421431],[20.664176,52.421236],[20.663592,52.42032],[20.663305,52.419869],[20.662505,52.418614],[20.662471,52.418559],[20.662397,52.41856],[20.662027,52.418567],[20.661818,52.41857],[20.661625,52.418574],[20.661406,52.418578],[20.661216,52.418581],[20.660552,52.418593],[20.659618,52.41861],[20.659201,52.418617],[20.659006,52.418616],[20.657627,52.416403],[20.657608,52.416374],[20.657323,52.416404],[20.656864,52.416454],[20.656377,52.416506],[20.655365,52.414843],[20.655334,52.414792],[20.653364,52.415059],[20.652637,52.413662],[20.651521,52.411514],[20.651478,52.411432],[20.6513,52.411089],[20.651027,52.411226],[20.650799,52.411339],[20.650611,52.411434],[20.650569,52.411442],[20.6497,52.411617],[20.649542,52.411635],[20.64824,52.411788],[20.647741,52.411558],[20.647189,52.411402],[20.646838,52.411325],[20.646388,52.411184],[20.646329,52.411184],[20.645741,52.411183],[20.645705,52.411183],[20.644244,52.41122],[20.644093,52.411227],[20.644009,52.411231],[20.643448,52.411258],[20.64338,52.411276],[20.642444,52.411524],[20.641631,52.411742],[20.641484,52.411781],[20.641386,52.411772],[20.638917,52.411548],[20.637776,52.411291],[20.637604,52.411253],[20.636478,52.411362],[20.635017,52.411602],[20.63502,52.411649],[20.634059,52.411518],[20.632515,52.411308],[20.632161,52.41126],[20.631273,52.411166],[20.630961,52.411196],[20.630917,52.411533],[20.630697,52.413027],[20.63069,52.413095],[20.630329,52.41635]]],"type":"Polygon"}
 }

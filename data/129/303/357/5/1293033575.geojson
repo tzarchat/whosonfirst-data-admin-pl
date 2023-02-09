@@ -2,84 +2,88 @@
   "id": 1293033575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.56025,52.73837,15.56025,52.73837",
-    "geom:latitude":52.73837,
-    "geom:longitude":15.56025,
-    "gn:admin1_code":"77.0",
-    "gn:asciiname":"Baranowice",
-    "gn:country_code":"PL",
-    "gn:dem":19,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103874,
-    "gn:latitude":52.73837,
-    "gn:longitude":15.56025,
-    "gn:modification_date":"2007-03-09",
-    "gn:name":"Baranowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"15.54025,52.71837,15.58025,52.75837",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Baranowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00044968443597995304,
+    "geom:area_square_m": 3379547.739221756,
+    "geom:bbox": "15.544873432961978,52.7298094420184,15.576590780963832,52.75518208801301",
+    "geom:latitude": 15.563943950434112,
+    "geom:longitude": 52.74328521587695,
+    "gn:admin1_code": "77.0",
+    "gn:asciiname": "Baranowice",
+    "gn:country_code": "PL",
+    "gn:dem": 19,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103874,
+    "gn:latitude": 52.73837,
+    "gn:longitude": 15.56025,
+    "gn:modification_date": "2007-03-09",
+    "gn:name": "Baranowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "15.54025,52.71837,15.58025,52.75837",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Baranowice"
     ],
-    "name:pol_x_preferred":[
-        "Baranowice"
+    "name:pol_x_preferred": [
+      "Baranowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Барановіце"
     ],
-    "name:und_x_variant":[
-        "Annenaue"
+    "name:und_x_variant": [
+      "Annenaue"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1477751519,
-        85633723,
-        102079975
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103874
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1477751519,
+      85633723,
+      102079975
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103874,
+      "pl-gugik:jpt_kod_je": "080106_2.0014"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"eae9e239cafe305d02443bc9121531f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079975,
-            "localadmin_id":1477751519,
-            "locality_id":1293033575,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "43b6c36701e9f4ca821d63c8aba09341",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079975,
+        "localadmin_id": 1477751519,
+        "locality_id": 1293033575,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1293033575,
-    "wof:lastmodified":1570014995,
-    "wof:name":"Baranowice",
-    "wof:parent_id":1477751519,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293033575,
+    "wof:lastmodified": 1675943691,
+    "wof:name": "Baranowice",
+    "wof:parent_id": 1477751519,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.56025,
-    52.73837,
-    15.56025,
-    52.73837
-],
-  "geometry": {"coordinates":[15.56025,52.73837],"type":"Point"}
+    15.544873432961978,
+    52.7298094420184,
+    15.576590780963832,
+    52.75518208801301
+  ],
+  "geometry": {"coordinates":[[[15.544873,52.754037],[15.550234,52.753451],[15.550345,52.753432],[15.550868,52.755182],[15.551819,52.755093],[15.55255,52.755036],[15.554323,52.754855],[15.556925,52.754579],[15.559023,52.754363],[15.560821,52.754181],[15.561208,52.754155],[15.561147,52.753925],[15.561118,52.753811],[15.570753,52.752901],[15.574513,52.748602],[15.576469,52.74615],[15.576554,52.746033],[15.576591,52.745964],[15.576583,52.743287],[15.576521,52.740126],[15.57652,52.740076],[15.57652,52.739998],[15.575776,52.739749],[15.575778,52.739704],[15.575793,52.737123],[15.575751,52.734127],[15.575746,52.7341],[15.572765,52.733456],[15.572615,52.733583],[15.57217,52.733484],[15.569103,52.732803],[15.568073,52.732598],[15.566317,52.732205],[15.565667,52.732061],[15.565598,52.732045],[15.563395,52.731529],[15.561845,52.731175],[15.56108,52.731002],[15.560209,52.730812],[15.558695,52.730503],[15.557542,52.730199],[15.555726,52.729809],[15.555739,52.729867],[15.556049,52.731256],[15.556309,52.732315],[15.556217,52.732293],[15.556711,52.734437],[15.556469,52.734516],[15.556507,52.734593],[15.556536,52.734716],[15.557116,52.737175],[15.557242,52.737708],[15.557322,52.73848],[15.557453,52.739031],[15.557905,52.740936],[15.558051,52.741574],[15.558063,52.741627],[15.558342,52.742847],[15.558544,52.743569],[15.558547,52.743597],[15.553833,52.743935],[15.548241,52.744356],[15.548394,52.744997],[15.54854,52.745613],[15.548685,52.746226],[15.548841,52.746883],[15.548996,52.747533],[15.549147,52.748169],[15.549297,52.748802],[15.549445,52.749433],[15.559725,52.748608],[15.559735,52.748662],[15.559758,52.748774],[15.55971,52.748805],[15.559832,52.749348],[15.559997,52.749989],[15.560197,52.751228],[15.56021,52.751271],[15.550012,52.752137],[15.549996,52.75208],[15.549821,52.751217],[15.544873,52.754037]]],"type":"Polygon"}
 }

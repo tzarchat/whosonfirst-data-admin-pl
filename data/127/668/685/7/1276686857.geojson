@@ -2,87 +2,91 @@
   "id": 1276686857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.73804,52.84901,18.73804,52.84901",
-    "geom:latitude":52.84901,
-    "geom:longitude":18.73804,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"401.0",
-    "gn:admin3_code":"40104.0",
-    "gn:asciiname":"Konradowo",
-    "gn:country_code":"PL",
-    "gn:dem":83,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3095291,
-    "gn:latitude":52.84901,
-    "gn:longitude":18.73804,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Konradowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.71804,52.82901,18.75804,52.86901",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Konradowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00014872004599701842,
+    "geom:area_square_m": 1114875.7829025295,
+    "geom:bbox": "18.724924981992864,52.84744100201337,18.743208788999993,52.86132544602014",
+    "geom:latitude": 18.733813013518876,
+    "geom:longitude": 52.85382110334776,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "401.0",
+    "gn:admin3_code": "40104.0",
+    "gn:asciiname": "Konradowo",
+    "gn:country_code": "PL",
+    "gn:dem": 83,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3095291,
+    "gn:latitude": 52.84901,
+    "gn:longitude": 18.73804,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Konradowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.71804,52.82901,18.75804,52.86901",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Konradowo"
     ],
-    "name:ita_x_preferred":[
-        "Konradowo"
+    "name:ita_x_preferred": [
+      "Konradowo"
     ],
-    "name:pol_x_preferred":[
-        "Konradowo"
+    "name:pol_x_preferred": [
+      "Konradowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043d\u0440\u0430\u0434\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Конрадово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1477751531,
-        85633723,
-        102080009
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095291,
-        "wk:page":"Konradowo%2C_Kuyavian-Pomeranian_Voivodeship"
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1477751531,
+      85633723,
+      102080009
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095291,
+      "pl-gugik:jpt_kod_je": "040104_2.0010",
+      "wk:page": "Konradowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"0c55f586ec5747d0da7142eda73d5cdd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080009,
-            "localadmin_id":1477751531,
-            "locality_id":1276686857,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "9140a41ee3cccc7355b8b059780c93b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080009,
+        "localadmin_id": 1477751531,
+        "locality_id": 1276686857,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1276686857,
-    "wof:lastmodified":1570017259,
-    "wof:name":"Konradowo",
-    "wof:parent_id":1477751531,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276686857,
+    "wof:lastmodified": 1675943696,
+    "wof:name": "Konradowo",
+    "wof:parent_id": 1477751531,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.73804,
-    52.84901,
-    18.73804,
-    52.84901
-],
-  "geometry": {"coordinates":[18.73804,52.84901],"type":"Point"}
+    18.724924981992864,
+    52.84744100201337,
+    18.743208788999993,
+    52.86132544602014
+  ],
+  "geometry": {"coordinates":[[[18.743209,52.850408],[18.743148,52.85029],[18.740943,52.848611],[18.740726,52.848498],[18.73992,52.848125],[18.738184,52.847477],[18.737414,52.847441],[18.734821,52.848268],[18.733501,52.84868],[18.732472,52.849033],[18.732372,52.849047],[18.732114,52.849174],[18.731701,52.849381],[18.731652,52.849402],[18.73164,52.849407],[18.730547,52.849894],[18.729401,52.850483],[18.728753,52.850888],[18.728213,52.851226],[18.726842,52.852253],[18.726566,52.852476],[18.724925,52.853812],[18.725242,52.854743],[18.725251,52.854769],[18.72569,52.856063],[18.72608,52.857213],[18.726171,52.85748],[18.726246,52.8577],[18.726313,52.857898],[18.726373,52.858073],[18.726714,52.859065],[18.726718,52.859092],[18.727203,52.85929],[18.727687,52.859489],[18.728434,52.859723],[18.728663,52.859794],[18.728737,52.859816],[18.728745,52.859988],[18.728756,52.860209],[18.72872,52.860404],[18.728686,52.860577],[18.72847,52.860844],[18.728223,52.861154],[18.72822,52.861167],[18.728552,52.861173],[18.728799,52.861162],[18.729267,52.861132],[18.729622,52.861325],[18.729654,52.860962],[18.729659,52.860901],[18.729669,52.860776],[18.729681,52.860639],[18.729723,52.860139],[18.729725,52.860109],[18.730589,52.859851],[18.730617,52.859842],[18.730998,52.859725],[18.731384,52.859606],[18.731894,52.859461],[18.732957,52.859165],[18.73326,52.859068],[18.733982,52.858926],[18.734068,52.858901],[18.734407,52.858803],[18.734467,52.858786],[18.734923,52.858695],[18.735302,52.858624],[18.735775,52.858536],[18.73591,52.858507],[18.736721,52.858366],[18.737453,52.858255],[18.738038,52.858139],[18.738285,52.858086],[18.738679,52.857981],[18.738702,52.857931],[18.738966,52.857333],[18.73912,52.856984],[18.739685,52.855699],[18.740527,52.854442],[18.740939,52.853837],[18.741376,52.853192],[18.741608,52.852857],[18.742311,52.851842],[18.743063,52.850722],[18.743147,52.850592],[18.743209,52.850408]]],"type":"Polygon"}
 }

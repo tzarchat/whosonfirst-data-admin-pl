@@ -2,84 +2,88 @@
   "id": 1259413655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.71392,54.11238,19.71392,54.11238",
-    "geom:latitude":54.11238,
-    "geom:longitude":19.71392,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2804.0",
-    "gn:admin3_code":"280407.0",
-    "gn:asciiname":"Kawki",
-    "gn:country_code":"PL",
-    "gn:dem":55,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3096428,
-    "gn:latitude":54.11238,
-    "gn:longitude":19.71392,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kawki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.69392,54.09238,19.73392,54.13238",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:pol_x_preferred":[
-        "Kawki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001942008999234947,
+    "geom:area_square_m": 1413656.180086101,
+    "geom:bbox": "19.701251758998986,54.104395797018455,19.725166144997292,54.11913663501713",
+    "geom:latitude": 19.713986089663802,
+    "geom:longitude": 54.112528695382686,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2804.0",
+    "gn:admin3_code": "280407.0",
+    "gn:asciiname": "Kawki",
+    "gn:country_code": "PL",
+    "gn:dem": 55,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3096428,
+    "gn:latitude": 54.11238,
+    "gn:longitude": 19.71392,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kawki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.69392,54.09238,19.73392,54.13238",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:pol_x_preferred": [
+      "Kawki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u0430\u0432\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Кавкі"
     ],
-    "name:und_x_variant":[
-        "Koken"
+    "name:und_x_variant": [
+      "Koken"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125367809,
-        85633723,
-        102080231
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3096428,
-        "wk:page":"Kawki%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125367809,
+      85633723,
+      102080231
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3096428,
+      "pl-gugik:jpt_kod_je": "280407_5.0014",
+      "wk:page": "Kawki%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"6173a5f50aff7a6d0d4ddb44f75b5dda",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080231,
-            "localadmin_id":1125367809,
-            "locality_id":1259413655,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "cf8b680676209a1d546e70381f54afa7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080231,
+        "localadmin_id": 1125367809,
+        "locality_id": 1259413655,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1259413655,
-    "wof:lastmodified":1570045860,
-    "wof:name":"Kawki",
-    "wof:parent_id":1125367809,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259413655,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Kawki",
+    "wof:parent_id": 1125367809,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.71392,
-    54.11238,
-    19.71392,
-    54.11238
-],
-  "geometry": {"coordinates":[19.71392,54.11238],"type":"Point"}
+    19.701251758998986,
+    54.104395797018455,
+    19.725166144997292,
+    54.11913663501713
+  ],
+  "geometry": {"coordinates":[[[19.711694,54.118274],[19.712153,54.118202],[19.714076,54.117932],[19.716212,54.117631],[19.717144,54.1175],[19.718069,54.117369],[19.718564,54.1173],[19.718792,54.117271],[19.721803,54.116859],[19.723069,54.116686],[19.723499,54.116626],[19.724681,54.116464],[19.725166,54.116396],[19.725058,54.1163],[19.724961,54.116215],[19.724548,54.115789],[19.724221,54.115651],[19.723953,54.114914],[19.723912,54.114803],[19.72368,54.11416],[19.723534,54.113757],[19.723186,54.112798],[19.722833,54.111871],[19.722489,54.110884],[19.722362,54.110625],[19.721865,54.109713],[19.721796,54.109529],[19.72149,54.108486],[19.721481,54.108455],[19.721378,54.108098],[19.721239,54.107614],[19.721113,54.107276],[19.721007,54.106896],[19.720611,54.10599],[19.720339,54.104897],[19.720291,54.104706],[19.720228,54.104454],[19.720213,54.104396],[19.71711,54.10574],[19.716923,54.105826],[19.714994,54.106665],[19.713828,54.107128],[19.713411,54.107269],[19.713389,54.107276],[19.712852,54.107457],[19.712053,54.107754],[19.710963,54.108075],[19.70954,54.108511],[19.709342,54.108572],[19.708416,54.108807],[19.707273,54.109098],[19.706294,54.109261],[19.705357,54.10933],[19.705314,54.109333],[19.704678,54.109377],[19.704584,54.109384],[19.701252,54.109617],[19.701695,54.109994],[19.702061,54.110278],[19.70338,54.111383],[19.703535,54.111515],[19.703694,54.111707],[19.704783,54.113024],[19.705041,54.11361],[19.705185,54.113941],[19.705766,54.116051],[19.705833,54.116295],[19.705856,54.116379],[19.705878,54.116544],[19.705909,54.116779],[19.705942,54.117025],[19.705934,54.117283],[19.705922,54.117681],[19.705894,54.118573],[19.705897,54.118641],[19.705782,54.119137],[19.708448,54.118759],[19.708795,54.11871],[19.709671,54.118576],[19.709759,54.118563],[19.711694,54.118274]]],"type":"Polygon"}
 }

@@ -2,84 +2,88 @@
   "id": 1326460975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.73326,52.21749,20.73326,52.21749",
-    "geom:latitude":52.21749,
-    "geom:longitude":20.73326,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1432.0",
-    "gn:admin3_code":"143206.0",
-    "gn:asciiname":"Michalowek",
-    "gn:country_code":"PL",
-    "gn:dem":89,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7602772,
-    "gn:latitude":52.21749,
-    "gn:longitude":20.73326,
-    "gn:modification_date":"2010-11-27",
-    "gn:name":"Micha\u0142\u00f3wek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.71326,52.19749,20.75326,52.23749",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Micha\u0142\u00f3wek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010900440581174107,
+    "geom:area_square_m": 828965.0846877194,
+    "geom:bbox": "20.728831619004207,52.21194487201332,20.74037809399672,52.2236446130159",
+    "geom:latitude": 20.73454121364435,
+    "geom:longitude": 52.217093194671605,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1432.0",
+    "gn:admin3_code": "143206.0",
+    "gn:asciiname": "Michalowek",
+    "gn:country_code": "PL",
+    "gn:dem": 89,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7602772,
+    "gn:latitude": 52.21749,
+    "gn:longitude": 20.73326,
+    "gn:modification_date": "2010-11-27",
+    "gn:name": "Michałówek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.71326,52.19749,20.75326,52.23749",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Michałówek"
     ],
-    "name:pol_x_preferred":[
-        "Micha\u0142\u00f3wek"
+    "name:pol_x_preferred": [
+      "Michałówek"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0456\u0445\u0430\u043b\u0443\u0432\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Міхалувек"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1477752857,
-        85633723,
-        102079949
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7602772,
-        "wk:page":"Micha%C5%82%C3%B3wek%2C_Warsaw_West_County"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1477752857,
+      85633723,
+      102079949
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7602772,
+      "pl-gugik:jpt_kod_je": "143206_5.0010",
+      "wk:page": "Micha%C5%82%C3%B3wek%2C_Warsaw_West_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"fb95d2dab75ec7b48b4d4de1e488c229",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079949,
-            "localadmin_id":1477752857,
-            "locality_id":1326460975,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "caf6eb6b4eb71847458dc0dae4c488a8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079949,
+        "localadmin_id": 1477752857,
+        "locality_id": 1326460975,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1326460975,
-    "wof:lastmodified":1570007378,
-    "wof:name":"Michalowek",
-    "wof:parent_id":1477752857,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326460975,
+    "wof:lastmodified": 1675943710,
+    "wof:name": "Michalowek",
+    "wof:parent_id": 1477752857,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.73326,
-    52.21749000000001,
-    20.73326,
-    52.21749000000001
-],
-  "geometry": {"coordinates":[20.73326,52.21749000000001],"type":"Point"}
+    20.728831619004207,
+    52.21194487201332,
+    20.74037809399672,
+    52.2236446130159
+  ],
+  "geometry": {"coordinates":[[[20.728832,52.214331],[20.728849,52.214612],[20.728894,52.215315],[20.728897,52.215432],[20.72888,52.215498],[20.728893,52.215576],[20.729114,52.216945],[20.729266,52.217706],[20.729269,52.217724],[20.729552,52.219427],[20.729542,52.219602],[20.729146,52.22022],[20.728949,52.2205],[20.728877,52.220572],[20.72939,52.220545],[20.729788,52.220543],[20.730201,52.22054],[20.730691,52.220537],[20.731136,52.220535],[20.73129,52.220534],[20.731276,52.223645],[20.733723,52.223525],[20.734489,52.223482],[20.73509,52.223448],[20.735285,52.223437],[20.735863,52.223404],[20.736767,52.223337],[20.736806,52.221751],[20.736781,52.220564],[20.73754,52.220551],[20.738112,52.220551],[20.738385,52.220551],[20.738561,52.220551],[20.739151,52.22055],[20.739226,52.220442],[20.739356,52.220254],[20.739463,52.220071],[20.739944,52.219257],[20.740147,52.215881],[20.740319,52.213117],[20.740378,52.211988],[20.740375,52.211945],[20.739371,52.211968],[20.738886,52.21198],[20.737627,52.211988],[20.734477,52.212059],[20.729528,52.212175],[20.72952,52.212193],[20.729485,52.212271],[20.729356,52.21256],[20.729263,52.212769],[20.729044,52.213313],[20.728955,52.213592],[20.728921,52.213698],[20.728832,52.214331]]],"type":"Polygon"}
 }

@@ -2,120 +2,124 @@
   "id": 1125864823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.30221,52.4546,19.30221,52.4546",
-    "geom:latitude":52.4546,
-    "geom:longitude":19.30221,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":0,
-    "iso:country":"PL",
-    "lbl:bbox":"19.28221,52.4346,19.32221,52.4746",
-    "lbl:latitude":52.4546,
-    "lbl:longitude":19.30221,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Zakrzewo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010900846115642923,
+    "geom:area_square_m": 824495.9278574595,
+    "geom:bbox": "19.284448579993693,52.448481467017395,19.30431765900175,52.46964355801228",
+    "geom:latitude": 19.29771691873952,
+    "geom:longitude": 52.460272957026696,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 0,
+    "iso:country": "PL",
+    "lbl:bbox": "19.28221,52.4346,19.32221,52.4746",
+    "lbl:latitude": 52.4546,
+    "lbl:longitude": 19.30221,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:deu_x_preferred":[
-        "Zakrzewo"
+    "name:deu_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:fra_x_preferred":[
-        "Zakrzewo"
+    "name:fra_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:ita_x_preferred":[
-        "Zakrzewo"
+    "name:ita_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:lit_x_preferred":[
-        "Zak\u017eevas"
+    "name:lit_x_preferred": [
+      "Zakževas"
     ],
-    "name:nld_x_preferred":[
-        "Zakrzewo"
+    "name:nld_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:pol_x_preferred":[
-        "Zakrzewo"
+    "name:pol_x_preferred": [
+      "Zakrzewo"
     ],
-    "name:rus_x_preferred":[
-        "\u0417\u0430\u043a\u0448\u0435\u0432\u043e"
+    "name:rus_x_preferred": [
+      "Закшево"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u043a\u0448\u0435\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Закшево"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3080835,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Zakrzewo",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Mazowieckie",
-    "qs_pg:photos":6,
-    "qs_pg:photos_1k":1,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":6,
-    "qs_pg:photos_sr":1,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":34134,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":527512,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Mazowieckie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125385777,
-        85633723,
-        102079997
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3080835,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Zakrzewo",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Mazowieckie",
+    "qs_pg:photos": 6,
+    "qs_pg:photos_1k": 1,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 6,
+    "qs_pg:photos_sr": 1,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 34134,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 527512,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3080835,
-        "gp:id":527512,
-        "qs_pg:id":34134
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Mazowieckie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125385777,
+      85633723,
+      102079997
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3080835,
+      "gp:id": 527512,
+      "pl-gugik:jpt_kod_je": "041802_2.0016",
+      "qs_pg:id": 34134
     },
-    "wof:country":"PL",
-    "wof:created":1497293984,
-    "wof:geomhash":"372108b7156c85c648486eea622c4706",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079997,
-            "localadmin_id":1125385777,
-            "locality_id":1125864823,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:created": 1497293984,
+    "wof:geomhash": "cc70967011db3cb15a93dd0b4dc5d70d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079997,
+        "localadmin_id": 1125385777,
+        "locality_id": 1125864823,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1125864823,
-    "wof:lastmodified":1570037154,
-    "wof:name":"Zakrzewo",
-    "wof:parent_id":1125385777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125864823,
+    "wof:lastmodified": 1675943693,
+    "wof:name": "Zakrzewo",
+    "wof:parent_id": 1125385777,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.30221,
-    52.4546,
-    19.30221,
-    52.4546
-],
-  "geometry": {"coordinates":[19.30221,52.4546],"type":"Point"}
+    19.284448579993693,
+    52.448481467017395,
+    19.30431765900175,
+    52.46964355801228
+  ],
+  "geometry": {"coordinates":[[[19.284449,52.449891],[19.284954,52.450325],[19.285427,52.45073],[19.285651,52.450913],[19.285843,52.451075],[19.285921,52.45114],[19.286046,52.451244],[19.286423,52.451533],[19.286725,52.451777],[19.288776,52.453509],[19.289427,52.454031],[19.289632,52.454201],[19.290374,52.454826],[19.29097,52.455302],[19.2915,52.455739],[19.291646,52.45587],[19.291822,52.456016],[19.294707,52.458417],[19.295308,52.458904],[19.295687,52.459212],[19.295892,52.459381],[19.296178,52.459631],[19.296301,52.459733],[19.296482,52.459834],[19.296708,52.459857],[19.296761,52.459854],[19.296832,52.460088],[19.296932,52.460424],[19.296928,52.46053],[19.296945,52.460895],[19.297101,52.463497],[19.297124,52.464384],[19.297249,52.46608],[19.297259,52.466133],[19.297284,52.466171],[19.297902,52.46645],[19.298149,52.466624],[19.298328,52.466797],[19.29861,52.467455],[19.298706,52.467952],[19.298853,52.469596],[19.299076,52.469586],[19.299152,52.469583],[19.299327,52.469578],[19.2996,52.469569],[19.299602,52.469596],[19.299609,52.469644],[19.304247,52.469295],[19.304318,52.46929],[19.304304,52.46922],[19.304076,52.467729],[19.304027,52.467689],[19.30395,52.467073],[19.30388,52.466576],[19.303723,52.466483],[19.303844,52.46631],[19.303083,52.459116],[19.302985,52.458247],[19.302837,52.456936],[19.30269,52.456924],[19.3026,52.456841],[19.301471,52.455806],[19.301122,52.455954],[19.300813,52.456082],[19.300484,52.45621],[19.299825,52.456444],[19.299504,52.456562],[19.299175,52.4567],[19.298937,52.456805],[19.298834,52.456851],[19.298636,52.456945],[19.298308,52.45709],[19.298051,52.457205],[19.297511,52.457446],[19.297229,52.457574],[19.296536,52.457874],[19.296278,52.457651],[19.295882,52.457327],[19.295428,52.456952],[19.295344,52.456884],[19.295004,52.456609],[19.294591,52.456271],[19.294183,52.455937],[19.293696,52.455524],[19.293164,52.455073],[19.292934,52.454881],[19.292822,52.454781],[19.292705,52.454686],[19.292299,52.454346],[19.291865,52.453987],[19.291444,52.453614],[19.291416,52.453589],[19.291011,52.453248],[19.290635,52.452928],[19.29033,52.452668],[19.290188,52.452544],[19.289384,52.451875],[19.288958,52.451513],[19.28834,52.450995],[19.288129,52.45082],[19.28993,52.450382],[19.291487,52.450004],[19.290091,52.448521],[19.290066,52.448481],[19.289484,52.448626],[19.288718,52.448817],[19.288677,52.448827],[19.28816,52.448953],[19.287784,52.449041],[19.287602,52.449084],[19.286493,52.449343],[19.28568,52.449575],[19.285416,52.449662],[19.285059,52.449764],[19.284453,52.449875],[19.284449,52.449891]]],"type":"Polygon"}
 }

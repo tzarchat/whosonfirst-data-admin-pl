@@ -2,87 +2,91 @@
   "id": 1209942511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.64711,54.04588,22.64711,54.04588",
-    "geom:latitude":54.04588,
-    "geom:longitude":22.64711,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201201.0",
-    "gn:asciiname":"Konopki",
-    "gn:country_code":"PL",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":768242,
-    "gn:latitude":54.04588,
-    "gn:longitude":22.64711,
-    "gn:modification_date":"2010-09-18",
-    "gn:name":"Konopki",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.62711,54.02588,22.66711,54.06588",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Konopki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002487523528185827,
+    "geom:area_square_m": 1813514.0117335906,
+    "geom:bbox": "22.620106951029737,54.04089072101982,22.65271774503251,54.056867561019935",
+    "geom:latitude": 22.63904096959669,
+    "geom:longitude": 54.048745854160664,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201201.0",
+    "gn:asciiname": "Konopki",
+    "gn:country_code": "PL",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 768242,
+    "gn:latitude": 54.04588,
+    "gn:longitude": 22.64711,
+    "gn:modification_date": "2010-09-18",
+    "gn:name": "Konopki",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.62711,54.02588,22.66711,54.06588",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Konopki"
     ],
-    "name:lit_x_preferred":[
-        "Konopkai"
+    "name:lit_x_preferred": [
+      "Konopkai"
     ],
-    "name:pol_x_preferred":[
-        "Konopki"
+    "name:pol_x_preferred": [
+      "Konopki"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043d\u043e\u043f\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Конопкі"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1125309719,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":768242,
-        "wk:page":"Konopki%2C_Suwa%C5%82ki_County"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1125309719,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 768242,
+      "pl-gugik:jpt_kod_je": "201201_2.0011",
+      "wk:page": "Konopki%2C_Suwa%C5%82ki_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"dd020ca7ae143084dbc05d06aff16e28",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1125309719,
-            "locality_id":1209942511,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "82f0978e42923af317df28cc76c90d18",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1125309719,
+        "locality_id": 1209942511,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209942511,
-    "wof:lastmodified":1570022139,
-    "wof:name":"Konopki",
-    "wof:parent_id":1125309719,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209942511,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Konopki",
+    "wof:parent_id": 1125309719,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.64711,
-    54.04588,
-    22.64711,
-    54.04588
-],
-  "geometry": {"coordinates":[22.64711,54.04588],"type":"Point"}
+    22.620106951029737,
+    54.04089072101982,
+    22.65271774503251,
+    54.056867561019935
+  ],
+  "geometry": {"coordinates":[[[22.643322,54.05667],[22.642601,54.056244],[22.642159,54.055983],[22.642127,54.055964],[22.642066,54.055928],[22.642051,54.05592],[22.641686,54.055704],[22.642134,54.055397],[22.643163,54.05471],[22.643525,54.054471],[22.643723,54.05434],[22.644617,54.053749],[22.644673,54.053713],[22.645052,54.053462],[22.64647,54.052522],[22.647034,54.052149],[22.64776,54.051669],[22.648281,54.051325],[22.648871,54.050935],[22.648967,54.050872],[22.649404,54.050577],[22.649811,54.050303],[22.650253,54.050006],[22.650655,54.049734],[22.650942,54.049542],[22.65227,54.048647],[22.652388,54.048567],[22.652474,54.048513],[22.651091,54.047666],[22.649967,54.046985],[22.6495,54.046702],[22.651209,54.045429],[22.651378,54.045304],[22.651412,54.045278],[22.651426,54.045268],[22.652718,54.044307],[22.64927,54.043308],[22.649532,54.043077],[22.648087,54.042643],[22.647974,54.042608],[22.647795,54.042555],[22.647048,54.04233],[22.642306,54.040907],[22.642251,54.040891],[22.641413,54.041248],[22.641335,54.041281],[22.640342,54.04197],[22.640053,54.042171],[22.640018,54.0422],[22.639785,54.042391],[22.639276,54.042808],[22.639221,54.042852],[22.637297,54.044224],[22.635177,54.045173],[22.633726,54.045649],[22.633666,54.045669],[22.63294,54.046004],[22.632721,54.046104],[22.63214,54.046295],[22.632081,54.046314],[22.630592,54.046692],[22.628566,54.047476],[22.626578,54.047787],[22.626515,54.047796],[22.625668,54.047929],[22.623995,54.047672],[22.623044,54.047701],[22.622731,54.047989],[22.62216,54.048513],[22.621469,54.049147],[22.620107,54.049562],[22.620165,54.04958],[22.621611,54.050036],[22.624354,54.050925],[22.624715,54.051042],[22.625748,54.051377],[22.628863,54.052386],[22.628988,54.052427],[22.63206,54.053417],[22.634209,54.054109],[22.636151,54.054735],[22.638283,54.055422],[22.638367,54.055449],[22.639773,54.055901],[22.641962,54.056607],[22.642773,54.056868],[22.643322,54.05667]]],"type":"Polygon"}
 }

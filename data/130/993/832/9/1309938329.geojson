@@ -2,84 +2,88 @@
   "id": 1309938329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"19.93608,52.62191,19.93608,52.62191",
-    "geom:latitude":52.62191,
-    "geom:longitude":19.93608,
-    "gn:admin1_code":"78.0",
-    "gn:admin2_code":"1419.0",
-    "gn:admin3_code":"141914.0",
-    "gn:asciiname":"Teodorowo",
-    "gn:country_code":"PL",
-    "gn:dem":151,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3083398,
-    "gn:latitude":52.62191,
-    "gn:longitude":19.93608,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Teodorowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"19.91608,52.60191,19.95608,52.64191",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Teodorowo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00012012215683976246,
+    "geom:area_square_m": 905180.4791543784,
+    "geom:bbox": "19.935019865999404,52.61962359001525,19.954784070997793,52.63110237701732",
+    "geom:latitude": 19.94378126805773,
+    "geom:longitude": 52.6252999821595,
+    "gn:admin1_code": "78.0",
+    "gn:admin2_code": "1419.0",
+    "gn:admin3_code": "141914.0",
+    "gn:asciiname": "Teodorowo",
+    "gn:country_code": "PL",
+    "gn:dem": 151,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3083398,
+    "gn:latitude": 52.62191,
+    "gn:longitude": 19.93608,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Teodorowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "19.91608,52.60191,19.95608,52.64191",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Teodorowo"
     ],
-    "name:pol_x_preferred":[
-        "Teodorowo"
+    "name:pol_x_preferred": [
+      "Teodorowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Теодорово"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687257,
-        102191581,
-        1125317047,
-        85633723,
-        102080003
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3083398,
-        "wk:page":"Teodorowo%2C_P%C5%82ock_County"
+    "wof:belongsto": [
+      85687257,
+      102191581,
+      1125317047,
+      85633723,
+      102080003
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3083398,
+      "pl-gugik:jpt_kod_je": "141914_2.0042",
+      "wk:page": "Teodorowo%2C_P%C5%82ock_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"c5ad29f04663d3ec8e69d2361ee86a5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080003,
-            "localadmin_id":1125317047,
-            "locality_id":1309938329,
-            "region_id":85687257
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "bec022f3dc6e4223c34933c45f203f17",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080003,
+        "localadmin_id": 1125317047,
+        "locality_id": 1309938329,
+        "region_id": 85687257
+      }
     ],
-    "wof:id":1309938329,
-    "wof:lastmodified":1570035799,
-    "wof:name":"Teodorowo",
-    "wof:parent_id":1125317047,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309938329,
+    "wof:lastmodified": 1675943707,
+    "wof:name": "Teodorowo",
+    "wof:parent_id": 1125317047,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    19.93608,
-    52.62191,
-    19.93608,
-    52.62191
-],
-  "geometry": {"coordinates":[19.93608,52.62191],"type":"Point"}
+    19.935019865999404,
+    52.61962359001525,
+    19.954784070997793,
+    52.63110237701732
+  ],
+  "geometry": {"coordinates":[[[19.943685,52.619624],[19.9422,52.619992],[19.94098,52.620291],[19.93914,52.620751],[19.938379,52.620941],[19.937142,52.621256],[19.936558,52.621406],[19.936183,52.621501],[19.935565,52.621659],[19.93502,52.621798],[19.935071,52.621895],[19.935074,52.621901],[19.935359,52.622423],[19.935548,52.622771],[19.935699,52.623047],[19.935779,52.623194],[19.936072,52.623728],[19.937283,52.626003],[19.938598,52.628547],[19.939937,52.631102],[19.940747,52.631083],[19.941055,52.630961],[19.941587,52.630752],[19.9419,52.63045],[19.942001,52.630419],[19.942181,52.630365],[19.94346,52.629976],[19.943801,52.629877],[19.944186,52.629764],[19.944272,52.629739],[19.944875,52.629549],[19.944935,52.629548],[19.945362,52.629416],[19.945658,52.629294],[19.945981,52.629158],[19.946075,52.629119],[19.946382,52.629101],[19.946946,52.629068],[19.947199,52.62903],[19.948167,52.628885],[19.948371,52.628834],[19.948526,52.628795],[19.948923,52.628693],[19.949307,52.628593],[19.949669,52.6285],[19.950155,52.628428],[19.950638,52.62831],[19.950833,52.628215],[19.950926,52.628082],[19.951402,52.627398],[19.951925,52.626646],[19.952751,52.62597],[19.952992,52.625773],[19.953888,52.624823],[19.954784,52.623958],[19.95469,52.623922],[19.954561,52.623872],[19.953684,52.623969],[19.953535,52.623949],[19.952561,52.623546],[19.952073,52.623417],[19.951364,52.623368],[19.950852,52.623328],[19.950226,52.623216],[19.949293,52.623166],[19.94868,52.623132],[19.948121,52.622889],[19.947768,52.622804],[19.947187,52.622742],[19.946662,52.622685],[19.946625,52.622681],[19.946136,52.622524],[19.945941,52.622462],[19.945624,52.622439],[19.945046,52.622399],[19.944756,52.622258],[19.944546,52.622031],[19.943924,52.620228],[19.943724,52.619729],[19.943685,52.619624]]],"type":"Polygon"}
 }

@@ -2,132 +2,136 @@
   "id": 1276901155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.21667,51.46667,22.21667,51.46667",
-    "geom:latitude":51.46667,
-    "geom:longitude":22.21667,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"608.0",
-    "gn:admin3_code":"60802.0",
-    "gn:asciiname":"Marianka",
-    "gn:cc2":"PL",
-    "gn:country_code":"PL",
-    "gn:dem":183,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":765227,
-    "gn:latitude":51.46667,
-    "gn:longitude":22.21667,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Marianka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.19667,51.44667,22.23667,51.48667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:cat_x_preferred":[
-        "Marianka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00011661092901410638,
+    "geom:area_square_m": 901708.7389647241,
+    "geom:bbox": "22.195370241027256,51.4498634240126,22.213362871019374,51.46762346701398",
+    "geom:latitude": 22.20558359770906,
+    "geom:longitude": 51.45917523050463,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "608.0",
+    "gn:admin3_code": "60802.0",
+    "gn:asciiname": "Marianka",
+    "gn:cc2": "PL",
+    "gn:country_code": "PL",
+    "gn:dem": 183,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 765227,
+    "gn:latitude": 51.46667,
+    "gn:longitude": 22.21667,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Marianka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.19667,51.44667,22.23667,51.48667",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:cat_x_preferred": [
+      "Marianka"
     ],
-    "name:ceb_x_preferred":[
-        "Marianka"
+    "name:ceb_x_preferred": [
+      "Marianka"
     ],
-    "name:ces_x_preferred":[
-        "Marianka"
+    "name:ces_x_preferred": [
+      "Marianka"
     ],
-    "name:deu_x_preferred":[
-        "Marianka"
+    "name:deu_x_preferred": [
+      "Marianka"
     ],
-    "name:epo_x_preferred":[
-        "Marianka"
+    "name:epo_x_preferred": [
+      "Marianka"
     ],
-    "name:eus_x_preferred":[
-        "Marianka"
+    "name:eus_x_preferred": [
+      "Marianka"
     ],
-    "name:fra_x_preferred":[
-        "Marianka"
+    "name:fra_x_preferred": [
+      "Marianka"
     ],
-    "name:hun_x_preferred":[
-        "M\u00e1riav\u00f6lgy"
+    "name:hun_x_preferred": [
+      "Máriavölgy"
     ],
-    "name:ita_x_preferred":[
-        "Marianka"
+    "name:ita_x_preferred": [
+      "Marianka"
     ],
-    "name:msa_x_preferred":[
-        "Marianka"
+    "name:msa_x_preferred": [
+      "Marianka"
     ],
-    "name:nld_x_preferred":[
-        "Marianka"
+    "name:nld_x_preferred": [
+      "Marianka"
     ],
-    "name:por_x_preferred":[
-        "Marianka"
+    "name:por_x_preferred": [
+      "Marianka"
     ],
-    "name:ron_x_preferred":[
-        "Marianka"
+    "name:ron_x_preferred": [
+      "Marianka"
     ],
-    "name:slk_x_preferred":[
-        "Marianka"
+    "name:slk_x_preferred": [
+      "Marianka"
     ],
-    "name:spa_x_preferred":[
-        "Marianka"
+    "name:spa_x_preferred": [
+      "Marianka"
     ],
-    "name:srp_x_preferred":[
-        "\u041c\u0430\u0440\u0458\u0430\u043d\u043a\u0430"
+    "name:srp_x_preferred": [
+      "Марјанка"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0430\u0440\u0456\u0430\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Маріанка"
     ],
-    "name:und_x_variant":[
-        "Marjanka"
+    "name:und_x_variant": [
+      "Marjanka"
     ],
-    "name:war_x_preferred":[
-        "Marianka"
+    "name:war_x_preferred": [
+      "Marianka"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125421305,
-        85633723,
-        102079855
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":765227
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125421305,
+      85633723,
+      102079855
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 765227,
+      "pl-gugik:jpt_kod_je": "061406_2.0011"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"df99cc0bcb11bf3552d15369719274ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079855,
-            "localadmin_id":1125421305,
-            "locality_id":1276901155,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "0ba6cf09dfc866e09736d2fea96fec85",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079855,
+        "localadmin_id": 1125421305,
+        "locality_id": 1276901155,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1276901155,
-    "wof:lastmodified":1570019088,
-    "wof:name":"Marianka",
-    "wof:parent_id":1125421305,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276901155,
+    "wof:lastmodified": 1675943705,
+    "wof:name": "Marianka",
+    "wof:parent_id": 1125421305,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.21667,
-    51.46667,
-    22.21667,
-    51.46667
-],
-  "geometry": {"coordinates":[22.21667,51.46667],"type":"Point"}
+    22.195370241027256,
+    51.4498634240126,
+    22.213362871019374,
+    51.46762346701398
+  ],
+  "geometry": {"coordinates":[[[22.19537,51.465392],[22.195437,51.465409],[22.195647,51.465464],[22.195802,51.465505],[22.196016,51.465562],[22.196203,51.465611],[22.196528,51.465697],[22.196691,51.46574],[22.196846,51.465781],[22.197106,51.465852],[22.197321,51.46591],[22.197524,51.465964],[22.197743,51.466022],[22.197897,51.466063],[22.198495,51.466218],[22.199619,51.46652],[22.199736,51.466551],[22.200178,51.466669],[22.200479,51.466749],[22.200513,51.466758],[22.200725,51.466814],[22.200989,51.466884],[22.20113,51.466921],[22.201299,51.466966],[22.201391,51.466991],[22.201629,51.467054],[22.201883,51.467121],[22.202247,51.467218],[22.202455,51.467273],[22.202705,51.467339],[22.202946,51.467403],[22.203299,51.467497],[22.203559,51.467566],[22.203713,51.467607],[22.203775,51.467623],[22.204275,51.467073],[22.204361,51.466945],[22.20497,51.466043],[22.205206,51.465693],[22.20539,51.465421],[22.205558,51.465173],[22.205716,51.464938],[22.206044,51.46451],[22.20637,51.464083],[22.206672,51.463687],[22.206943,51.463279],[22.207203,51.462889],[22.20754,51.462443],[22.207571,51.462403],[22.20842,51.461284],[22.208674,51.46095],[22.208888,51.460611],[22.209158,51.459976],[22.209399,51.459531],[22.209608,51.459254],[22.209786,51.459019],[22.209845,51.458843],[22.209911,51.458647],[22.210024,51.458309],[22.21001,51.458246],[22.21002,51.458224],[22.210654,51.456755],[22.210707,51.456636],[22.210733,51.456529],[22.211,51.45595],[22.21111,51.455713],[22.211213,51.455485],[22.211453,51.455013],[22.211728,51.454394],[22.21182,51.454185],[22.211817,51.454167],[22.212309,51.453104],[22.212451,51.452782],[22.212598,51.45245],[22.212814,51.451965],[22.212967,51.451619],[22.21318,51.45114],[22.213363,51.450723],[22.213314,51.450713],[22.213189,51.450695],[22.213063,51.450677],[22.212935,51.450659],[22.212807,51.450641],[22.212683,51.450622],[22.21258,51.450607],[22.212273,51.450562],[22.212101,51.450536],[22.211929,51.450511],[22.211774,51.450488],[22.211671,51.450472],[22.21156,51.450456],[22.211368,51.450428],[22.211185,51.450401],[22.210982,51.45037],[22.210508,51.4503],[22.210384,51.450282],[22.210236,51.45026],[22.209976,51.450227],[22.209868,51.450213],[22.209779,51.450201],[22.209569,51.450174],[22.209368,51.450148],[22.209264,51.450134],[22.209161,51.450121],[22.209036,51.450105],[22.208911,51.450089],[22.208717,51.450063],[22.208527,51.450039],[22.208334,51.450014],[22.208162,51.449992],[22.20797,51.449967],[22.207769,51.449934],[22.207558,51.449875],[22.207517,51.449863],[22.207467,51.449914],[22.205914,51.453388],[22.205901,51.453419],[22.205878,51.45347],[22.204776,51.455934],[22.204819,51.455938],[22.204031,51.457703],[22.203556,51.458706],[22.203136,51.459692],[22.199781,51.462203],[22.199087,51.462705],[22.199124,51.462742],[22.199078,51.462773],[22.199043,51.462737],[22.19537,51.465392]]],"type":"Polygon"}
 }

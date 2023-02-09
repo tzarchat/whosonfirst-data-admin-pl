@@ -2,99 +2,103 @@
   "id": 1310529215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.51171,53.33932,20.51171,53.33932",
-    "geom:latitude":53.33932,
-    "geom:longitude":20.51171,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2811.0",
-    "gn:admin3_code":"281104.0",
-    "gn:asciiname":"Piotrowice",
-    "gn:country_code":"PL",
-    "gn:dem":195,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":762162,
-    "gn:latitude":53.33932,
-    "gn:longitude":20.51171,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Piotrowice",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.49171,53.31932,20.53171,53.35932",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Piotrowice"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003805162851210186,
+    "geom:area_square_m": 2820863.5908965766,
+    "geom:bbox": "20.49263079900013,53.328979413019255,20.528155584999702,53.347679650014356",
+    "geom:latitude": 20.506311808975134,
+    "geom:longitude": 53.338831625770695,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2811.0",
+    "gn:admin3_code": "281104.0",
+    "gn:asciiname": "Piotrowice",
+    "gn:country_code": "PL",
+    "gn:dem": 195,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 762162,
+    "gn:latitude": 53.33932,
+    "gn:longitude": 20.51171,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Piotrowice",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.49171,53.31932,20.53171,53.35932",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Piotrowice"
     ],
-    "name:deu_x_preferred":[
-        "Piotrowice"
+    "name:deu_x_preferred": [
+      "Piotrowice"
     ],
-    "name:fra_x_preferred":[
-        "Piotrowice"
+    "name:fra_x_preferred": [
+      "Piotrowice"
     ],
-    "name:ltz_x_preferred":[
-        "Piotrowice"
+    "name:ltz_x_preferred": [
+      "Piotrowice"
     ],
-    "name:nld_x_preferred":[
-        "Piotrowice"
+    "name:nld_x_preferred": [
+      "Piotrowice"
     ],
-    "name:pol_x_preferred":[
-        "Piotrowice"
+    "name:pol_x_preferred": [
+      "Piotrowice"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0439\u043e\u0442\u0440\u043e\u0432\u0456\u0446\u0435"
+    "name:ukr_x_preferred": [
+      "Пйотровіце"
     ],
-    "name:und_x_variant":[
-        "Alt Petersdorf",
-        "Piotrowitz"
+    "name:und_x_variant": [
+      "Alt Petersdorf",
+      "Piotrowitz"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125396289,
-        85633723,
-        102080129
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":762162
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125396289,
+      85633723,
+      102080129
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 762162,
+      "pl-gugik:jpt_kod_je": "281104_5.0024"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"63118e0d1b75d8f2d9bff08f990ea422",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080129,
-            "localadmin_id":1125396289,
-            "locality_id":1310529215,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "70dc4c169a778c7c5b4d37f6c35bbfa7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080129,
+        "localadmin_id": 1125396289,
+        "locality_id": 1310529215,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1310529215,
-    "wof:lastmodified":1570027471,
-    "wof:name":"Piotrowice",
-    "wof:parent_id":1125396289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310529215,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Piotrowice",
+    "wof:parent_id": 1125396289,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.51171,
-    53.33932,
-    20.51171,
-    53.33932
-],
-  "geometry": {"coordinates":[20.51171,53.33932],"type":"Point"}
+    20.49263079900013,
+    53.328979413019255,
+    20.528155584999702,
+    53.347679650014356
+  ],
+  "geometry": {"coordinates":[[[20.511581,53.328979],[20.509248,53.32928],[20.50867,53.329354],[20.50704,53.329575],[20.506968,53.329585],[20.505737,53.329752],[20.503891,53.330053],[20.503095,53.330183],[20.502985,53.330209],[20.502641,53.330288],[20.502321,53.330364],[20.502005,53.330437],[20.501666,53.330516],[20.500197,53.330858],[20.496215,53.331521],[20.496026,53.331553],[20.492631,53.332128],[20.492757,53.332709],[20.492878,53.333067],[20.493163,53.334087],[20.493417,53.334663],[20.49365,53.335812],[20.493656,53.336751],[20.493801,53.33768],[20.493843,53.337972],[20.493841,53.339071],[20.493853,53.339229],[20.493873,53.339649],[20.493873,53.339686],[20.493912,53.340271],[20.493948,53.341069],[20.493995,53.341599],[20.494014,53.341742],[20.494057,53.342695],[20.494257,53.343646],[20.494178,53.344663],[20.494534,53.345349],[20.494625,53.346697],[20.494882,53.347341],[20.49478,53.34768],[20.497562,53.346939],[20.500057,53.34654],[20.500399,53.346559],[20.501161,53.346469],[20.501903,53.346379],[20.503867,53.346144],[20.504842,53.346038],[20.50493,53.346028],[20.506462,53.345861],[20.510328,53.345409],[20.512492,53.345143],[20.513494,53.345299],[20.513655,53.345328],[20.517601,53.345035],[20.521145,53.344791],[20.52412,53.344567],[20.526315,53.344424],[20.528156,53.34405],[20.526096,53.343215],[20.524569,53.342333],[20.524508,53.342298],[20.523571,53.341757],[20.521927,53.340837],[20.520805,53.3402],[20.519907,53.339742],[20.519669,53.339613],[20.519414,53.33948],[20.517641,53.338565],[20.51703,53.338178],[20.51699,53.338162],[20.516926,53.338109],[20.516568,53.337754],[20.516161,53.337352],[20.515677,53.336874],[20.515644,53.336841],[20.515007,53.33621],[20.514923,53.336127],[20.514534,53.335741],[20.51397,53.334921],[20.5139,53.334847],[20.513138,53.334083],[20.51345,53.33304],[20.513155,53.3315],[20.512749,53.330571],[20.511581,53.328979]]],"type":"Polygon"}
 }

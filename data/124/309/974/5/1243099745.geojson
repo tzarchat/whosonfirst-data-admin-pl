@@ -2,98 +2,102 @@
   "id": 1243099745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.0379,54.32048,23.0379,54.32048",
-    "geom:latitude":54.32048,
-    "geom:longitude":23.0379,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201206.0",
-    "gn:asciiname":"Smolnica",
-    "gn:country_code":"PL",
-    "gn:dem":177,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":758787,
-    "gn:latitude":54.32048,
-    "gn:longitude":23.0379,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Smolnica",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.0179,54.30048,23.0579,54.34048",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Smolnica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00017655505237162495,
+    "geom:area_square_m": 1278691.1930201212,
+    "geom:bbox": "23.024790787053625,54.31546273302135,23.049709888047026,54.331907845018215",
+    "geom:latitude": 23.03828341004653,
+    "geom:longitude": 54.324164443300305,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201206.0",
+    "gn:asciiname": "Smolnica",
+    "gn:country_code": "PL",
+    "gn:dem": 177,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 758787,
+    "gn:latitude": 54.32048,
+    "gn:longitude": 23.0379,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Smolnica",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.0179,54.30048,23.0579,54.34048",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Smolnica"
     ],
-    "name:ces_x_preferred":[
-        "Smolnica"
+    "name:ces_x_preferred": [
+      "Smolnica"
     ],
-    "name:deu_x_preferred":[
-        "Smolnica"
+    "name:deu_x_preferred": [
+      "Smolnica"
     ],
-    "name:fra_x_preferred":[
-        "Smolnica"
+    "name:fra_x_preferred": [
+      "Smolnica"
     ],
-    "name:lit_x_preferred":[
-        "Smolnica"
+    "name:lit_x_preferred": [
+      "Smolnica"
     ],
-    "name:pol_x_preferred":[
-        "Smolnica"
+    "name:pol_x_preferred": [
+      "Smolnica"
     ],
-    "name:swe_x_preferred":[
-        "Smolnica"
+    "name:swe_x_preferred": [
+      "Smolnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u0421\u043c\u043e\u043b\u044c\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Смольниця"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752329,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":758787
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752329,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 758787,
+      "pl-gugik:jpt_kod_je": "201206_2.0022"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"b66d1da97d72ba5f78c41de3d2d2a790",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752329,
-            "locality_id":1243099745,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "80d1aee6d14f59e8ac4dd4bcc6032b25",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752329,
+        "locality_id": 1243099745,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1243099745,
-    "wof:lastmodified":1570040774,
-    "wof:name":"Smolnica",
-    "wof:parent_id":1477752329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243099745,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Smolnica",
+    "wof:parent_id": 1477752329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.0379,
-    54.32048,
-    23.0379,
-    54.32048
-],
-  "geometry": {"coordinates":[23.0379,54.32048],"type":"Point"}
+    23.024790787053625,
+    54.31546273302135,
+    23.049709888047026,
+    54.331907845018215
+  ],
+  "geometry": {"coordinates":[[[23.035317,54.31899],[23.035273,54.319015],[23.035234,54.319037],[23.034398,54.319505],[23.031996,54.320841],[23.031251,54.321261],[23.029599,54.322185],[23.027715,54.323237],[23.027696,54.323248],[23.027633,54.323283],[23.027572,54.323317],[23.024791,54.324867],[23.025557,54.325128],[23.025754,54.325197],[23.02611,54.325317],[23.026591,54.325478],[23.027543,54.325798],[23.027667,54.32584],[23.028397,54.326088],[23.028476,54.326115],[23.028527,54.326133],[23.029439,54.326442],[23.029579,54.326489],[23.0302,54.326698],[23.030293,54.326729],[23.030665,54.326854],[23.030718,54.326872],[23.031958,54.327288],[23.033109,54.327691],[23.033423,54.3278],[23.034881,54.328296],[23.034934,54.328314],[23.036275,54.328769],[23.038368,54.329477],[23.040537,54.330195],[23.041024,54.329747],[23.041057,54.329716],[23.041141,54.329639],[23.041781,54.328993],[23.041805,54.32897],[23.042084,54.329208],[23.04243,54.329298],[23.042461,54.329475],[23.042439,54.329608],[23.042808,54.329721],[23.043036,54.329727],[23.043301,54.329774],[23.043423,54.329889],[23.043698,54.330086],[23.043994,54.330382],[23.044216,54.330455],[23.044268,54.330473],[23.04495,54.330559],[23.045365,54.330763],[23.04565,54.330722],[23.045804,54.330781],[23.046155,54.330933],[23.046559,54.331183],[23.046978,54.331199],[23.047481,54.331413],[23.047891,54.331507],[23.048105,54.331908],[23.048517,54.33181],[23.048891,54.331706],[23.049234,54.331763],[23.049482,54.331811],[23.04971,54.331854],[23.046361,54.327223],[23.04527,54.32435],[23.043218,54.31889],[23.042122,54.315974],[23.042058,54.315837],[23.041884,54.315463],[23.041709,54.315524],[23.041213,54.315702],[23.040159,54.316286],[23.040112,54.316312],[23.040051,54.316346],[23.040006,54.316371],[23.038706,54.317091],[23.038692,54.317098],[23.038631,54.317132],[23.036769,54.318176],[23.035317,54.31899]]],"type":"Polygon"}
 }

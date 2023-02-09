@@ -2,116 +2,120 @@
   "id": 1126004405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.98333,52.63311,17.98333,52.63311",
-    "geom:latitude":52.63311,
-    "geom:longitude":17.98333,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":53,
-    "iso:country":"PL",
-    "lbl:bbox":"17.96333,52.61311,18.00333,52.65311",
-    "lbl:latitude":52.63311,
-    "lbl:longitude":17.98333,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bel_x_preferred":[
-        "\u0411\u044b\u0441\u0442\u0440\u044b\u0446\u0430"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002068811108714129,
+    "geom:area_square_m": 1558355.4144545556,
+    "geom:bbox": "17.97016880500054,52.63228318902062,17.994468870995675,52.653865878012304",
+    "geom:latitude": 17.983087598004996,
+    "geom:longitude": 52.64217670285094,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 53,
+    "iso:country": "PL",
+    "lbl:bbox": "17.96333,52.61311,18.00333,52.65311",
+    "lbl:latitude": 52.63311,
+    "lbl:longitude": 17.98333,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred": [
+      "Быстрыца"
     ],
-    "name:ceb_x_preferred":[
-        "Bystrzyca"
+    "name:ceb_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:deu_x_preferred":[
-        "Bystrzyca"
+    "name:deu_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:fra_x_preferred":[
-        "Bystrzyca"
+    "name:fra_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:nld_x_preferred":[
-        "Bystrzyca"
+    "name:nld_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:pol_x_preferred":[
-        "Bystrzyca"
+    "name:pol_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:swe_x_preferred":[
-        "Bystrzyca"
+    "name:swe_x_preferred": [
+      "Bystrzyca"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0438\u0441\u0442\u0448\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Бистшиця"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3101973,
-    "qs_pg:gn_pop":53,
-    "qs_pg:name":"Bystrzyca",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Kujawsko-Pomorskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":294904,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":488875,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Kujawsko-Pomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125297095,
-        85633723,
-        102079993
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3101973,
+    "qs_pg:gn_pop": 53,
+    "qs_pg:name": "Bystrzyca",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Kujawsko-Pomorskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 294904,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 488875,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101973,
-        "gp:id":488875,
-        "qs_pg:id":294904
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Kujawsko-Pomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125297095,
+      85633723,
+      102079993
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101973,
+      "gp:id": 488875,
+      "pl-gugik:jpt_kod_je": "040903_5.0003",
+      "qs_pg:id": 294904
     },
-    "wof:country":"PL",
-    "wof:created":1497299851,
-    "wof:geomhash":"0984249fbd3596d50094b07de44ae5f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079993,
-            "localadmin_id":1125297095,
-            "locality_id":1126004405,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299851,
+    "wof:geomhash": "f6aab5433f7a20f8b2242c977e8ce3fc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079993,
+        "localadmin_id": 1125297095,
+        "locality_id": 1126004405,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1126004405,
-    "wof:lastmodified":1570038865,
-    "wof:name":"Bystrzyca",
-    "wof:parent_id":1125297095,
-    "wof:placetype":"locality",
-    "wof:population":53,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126004405,
+    "wof:lastmodified": 1675943694,
+    "wof:name": "Bystrzyca",
+    "wof:parent_id": 1125297095,
+    "wof:placetype": "locality",
+    "wof:population": 53,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.98333,
-    52.63311,
-    17.98333,
-    52.63311
-],
-  "geometry": {"coordinates":[17.98333,52.63311],"type":"Point"}
+    17.97016880500054,
+    52.63228318902062,
+    17.994468870995675,
+    52.653865878012304
+  ],
+  "geometry": {"coordinates":[[[17.970169,52.634502],[17.970271,52.634615],[17.970676,52.635065],[17.971813,52.636326],[17.972124,52.63667],[17.97219,52.636744],[17.972591,52.637609],[17.972648,52.637731],[17.972719,52.637963],[17.972756,52.638114],[17.972916,52.638816],[17.973025,52.639293],[17.973089,52.63957],[17.973239,52.64026],[17.973279,52.640445],[17.973304,52.64056],[17.973314,52.640606],[17.973498,52.640541],[17.973753,52.64045],[17.973961,52.640334],[17.974449,52.640265],[17.974706,52.640127],[17.974817,52.640032],[17.975225,52.639963],[17.976196,52.63938],[17.976642,52.63865],[17.976693,52.638503],[17.976925,52.63844],[17.976951,52.638484],[17.97699,52.63855],[17.977661,52.63968],[17.977821,52.639896],[17.978066,52.640274],[17.978161,52.640451],[17.97819,52.640501],[17.978917,52.641724],[17.978943,52.641769],[17.978948,52.641777],[17.979267,52.642315],[17.979348,52.642451],[17.980136,52.643778],[17.980444,52.644274],[17.980857,52.644941],[17.980919,52.645046],[17.981824,52.646562],[17.981968,52.646803],[17.982408,52.64754],[17.982446,52.647604],[17.982646,52.647931],[17.983154,52.64876],[17.983252,52.64892],[17.983312,52.649018],[17.983652,52.649574],[17.983698,52.649652],[17.984036,52.65024],[17.984509,52.651059],[17.984548,52.651128],[17.984606,52.65123],[17.984892,52.651729],[17.985179,52.652229],[17.986116,52.653866],[17.986591,52.653847],[17.986943,52.653833],[17.988067,52.653788],[17.989096,52.653775],[17.989674,52.653768],[17.989801,52.653767],[17.990923,52.653755],[17.991855,52.653745],[17.992967,52.653733],[17.993183,52.653753],[17.993774,52.653739],[17.994469,52.653723],[17.993893,52.652792],[17.99383,52.652689],[17.992968,52.651296],[17.992017,52.649759],[17.991994,52.649717],[17.990799,52.647817],[17.990333,52.647075],[17.98928,52.6454],[17.98817,52.643633],[17.988089,52.643494],[17.987672,52.642804],[17.9858,52.639711],[17.985353,52.638926],[17.985392,52.638775],[17.985118,52.638345],[17.985086,52.638294],[17.984754,52.637774],[17.984744,52.637762],[17.98472,52.637734],[17.985049,52.637618],[17.985628,52.637671],[17.986112,52.637521],[17.986542,52.637366],[17.986929,52.637236],[17.987477,52.637057],[17.987157,52.636066],[17.986866,52.635165],[17.986757,52.634974],[17.986075,52.634152],[17.985605,52.633793],[17.985268,52.633536],[17.985135,52.633435],[17.984942,52.633197],[17.984628,52.632811],[17.984455,52.6326],[17.984253,52.632352],[17.984202,52.632283],[17.984093,52.632354],[17.982882,52.632459],[17.981399,52.632613],[17.980539,52.632824],[17.978616,52.633372],[17.977403,52.633474],[17.977053,52.63355],[17.97656,52.633729],[17.975938,52.633888],[17.975718,52.633909],[17.974865,52.633313],[17.97479,52.633345],[17.974689,52.633409],[17.974649,52.63359],[17.974573,52.633718],[17.974454,52.633841],[17.974177,52.633949],[17.97403,52.633993],[17.973211,52.634027],[17.972965,52.634044],[17.972899,52.634057],[17.972334,52.634166],[17.972147,52.634173],[17.97181,52.634202],[17.971636,52.634214],[17.970949,52.634357],[17.970169,52.634502]]],"type":"Polygon"}
 }

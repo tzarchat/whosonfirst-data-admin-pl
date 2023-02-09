@@ -2,111 +2,115 @@
   "id": 1125885341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.91743,51.97436,18.91743,51.97436",
-    "geom:latitude":51.97436,
-    "geom:longitude":18.91743,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":118,
-    "iso:country":"PL",
-    "lbl:bbox":"18.89743,51.95436,18.93743,51.99436",
-    "lbl:latitude":51.97436,
-    "lbl:longitude":18.91743,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Konopnica"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002661681335405773,
+    "geom:area_square_m": 2035085.8968146034,
+    "geom:bbox": "18.900062011998934,51.969563798017845,18.93034493400228,51.98073713701337",
+    "geom:latitude": 18.914686576542117,
+    "geom:longitude": 51.97487142047722,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 118,
+    "iso:country": "PL",
+    "lbl:bbox": "18.89743,51.95436,18.93743,51.99436",
+    "lbl:latitude": 51.97436,
+    "lbl:longitude": 18.91743,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Konopnica"
     ],
-    "name:ceb_x_preferred":[
-        "Konopnica"
+    "name:ceb_x_preferred": [
+      "Konopnica"
     ],
-    "name:eng_x_preferred":[
-        "Konopnica"
+    "name:eng_x_preferred": [
+      "Konopnica"
     ],
-    "name:fra_x_preferred":[
-        "Konopnica"
+    "name:fra_x_preferred": [
+      "Konopnica"
     ],
-    "name:pol_x_preferred":[
-        "Konopnica"
+    "name:pol_x_preferred": [
+      "Konopnica"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u043d\u043e\u043f\u043d\u0438\u0446\u044f"
+    "name:ukr_x_preferred": [
+      "Конопниця"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3095308,
-    "qs_pg:gn_pop":118,
-    "qs_pg:name":"Konopnica",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"\u0141\u00f3dzkie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1215263,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":501096,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"\u0141\u00f3dzkie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1125306325,
-        85633723,
-        102079861
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3095308,
+    "qs_pg:gn_pop": 118,
+    "qs_pg:name": "Konopnica",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Łódzkie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1215263,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 501096,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3095308,
-        "gp:id":501096,
-        "qs_pg:id":1215263,
-        "wd:id":"Q6429653"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Łódzkie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1125306325,
+      85633723,
+      102079861
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3095308,
+      "gp:id": 501096,
+      "pl-gugik:jpt_kod_je": "101105_2.0012",
+      "qs_pg:id": 1215263,
+      "wd:id": "Q6429653"
     },
-    "wof:country":"PL",
-    "wof:created":1497295051,
-    "wof:geomhash":"406e00e041d5f125781abaa091c1d6bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079861,
-            "localadmin_id":1125306325,
-            "locality_id":1125885341,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295051,
+    "wof:geomhash": "581e793572410dfbff7d135bd77f36c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079861,
+        "localadmin_id": 1125306325,
+        "locality_id": 1125885341,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1125885341,
-    "wof:lastmodified":1570037237,
-    "wof:name":"Konopnica",
-    "wof:parent_id":1125306325,
-    "wof:placetype":"locality",
-    "wof:population":118,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125885341,
+    "wof:lastmodified": 1675943678,
+    "wof:name": "Konopnica",
+    "wof:parent_id": 1125306325,
+    "wof:placetype": "locality",
+    "wof:population": 118,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.91743,
-    51.97436,
-    18.91743,
-    51.97436
-],
-  "geometry": {"coordinates":[18.91743,51.97436],"type":"Point"}
+    18.900062011998934,
+    51.969563798017845,
+    18.93034493400228,
+    51.98073713701337
+  ],
+  "geometry": {"coordinates":[[[18.900062,51.980569],[18.900778,51.980634],[18.900958,51.980636],[18.901073,51.980638],[18.901525,51.980644],[18.902077,51.980633],[18.902573,51.980624],[18.902809,51.980647],[18.903114,51.980678],[18.903644,51.98073],[18.904035,51.980737],[18.904181,51.980727],[18.904995,51.980668],[18.905238,51.980621],[18.906334,51.980408],[18.907254,51.980304],[18.907422,51.980272],[18.908025,51.980154],[18.90864,51.980034],[18.909216,51.979922],[18.90982,51.979804],[18.909951,51.979828],[18.910997,51.979726],[18.912026,51.979956],[18.912499,51.979989],[18.913058,51.979939],[18.913155,51.979919],[18.913353,51.979878],[18.913479,51.979852],[18.91378,51.97979],[18.914751,51.97959],[18.915432,51.979465],[18.918609,51.979211],[18.920099,51.979166],[18.921729,51.979139],[18.924096,51.979072],[18.925875,51.979113],[18.926307,51.979077],[18.927739,51.978959],[18.927755,51.978904],[18.927888,51.978421],[18.928035,51.977894],[18.928206,51.9773],[18.928379,51.976737],[18.928496,51.976309],[18.92859,51.976004],[18.928688,51.975681],[18.92876,51.975447],[18.929049,51.974452],[18.929088,51.974312],[18.929113,51.974219],[18.929147,51.974144],[18.929171,51.974091],[18.929276,51.973714],[18.929569,51.972767],[18.929663,51.972477],[18.929772,51.972141],[18.929854,51.971888],[18.929943,51.971615],[18.93005,51.971286],[18.930187,51.970863],[18.930315,51.970471],[18.930345,51.970372],[18.930146,51.970374],[18.929928,51.970359],[18.929511,51.970348],[18.928848,51.970323],[18.928226,51.970303],[18.927533,51.970287],[18.92688,51.970265],[18.926234,51.970247],[18.924967,51.970204],[18.924459,51.970191],[18.924088,51.97018],[18.923703,51.970169],[18.923052,51.970151],[18.922446,51.970134],[18.921173,51.970093],[18.919935,51.970057],[18.919302,51.970034],[18.91868,51.970023],[18.917427,51.969987],[18.91492,51.969918],[18.913979,51.969892],[18.912866,51.969855],[18.912714,51.969851],[18.912162,51.969837],[18.911606,51.969822],[18.911048,51.969804],[18.910514,51.969787],[18.909433,51.969746],[18.908387,51.969717],[18.907368,51.969687],[18.906841,51.969674],[18.906628,51.969666],[18.906322,51.969656],[18.90531,51.969631],[18.904299,51.969598],[18.903261,51.969564],[18.902739,51.971473],[18.902523,51.972206],[18.902508,51.972258],[18.902009,51.973927],[18.901778,51.974701],[18.901535,51.975502],[18.900808,51.978088],[18.90079,51.978148],[18.900414,51.979347],[18.900245,51.979933],[18.900217,51.980032],[18.900062,51.980569]]],"type":"Polygon"}
 }

@@ -2,120 +2,124 @@
   "id": 1125892999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"14.91454,53.23301,14.91454,53.23301",
-    "geom:latitude":53.23301,
-    "geom:longitude":14.91454,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":386,
-    "iso:country":"PL",
-    "lbl:bbox":"14.89454,53.21301,14.93454,53.25301",
-    "lbl:latitude":53.23301,
-    "lbl:longitude":14.91454,
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ast_x_preferred":[
-        "Wierzbno"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0023696867611599256,
+    "geom:area_square_m": 17608146.95075004,
+    "geom:bbox": "14.861770319937946,53.207898438021786,14.949639823943684,53.25468138101484",
+    "geom:latitude": 14.910391650882307,
+    "geom:longitude": 53.23357216114446,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 386,
+    "iso:country": "PL",
+    "lbl:bbox": "14.89454,53.21301,14.93454,53.25301",
+    "lbl:latitude": 53.23301,
+    "lbl:longitude": 14.91454,
+    "lbl:max_zoom": 17,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred": [
+      "Wierzbno"
     ],
-    "name:ceb_x_preferred":[
-        "Wierzbno"
+    "name:ceb_x_preferred": [
+      "Wierzbno"
     ],
-    "name:deu_x_preferred":[
-        "Wierzbno"
+    "name:deu_x_preferred": [
+      "Wierzbno"
     ],
-    "name:eng_x_preferred":[
-        "Wierzbno"
+    "name:eng_x_preferred": [
+      "Wierzbno"
     ],
-    "name:fra_x_preferred":[
-        "Wierzbno"
+    "name:fra_x_preferred": [
+      "Wierzbno"
     ],
-    "name:nld_x_preferred":[
-        "Wierzbno"
+    "name:nld_x_preferred": [
+      "Wierzbno"
     ],
-    "name:pol_x_preferred":[
-        "Wierzbno"
+    "name:pol_x_preferred": [
+      "Wierzbno"
     ],
-    "name:ukr_x_preferred":[
-        "\u0412\u0435\u0436\u0431\u043d\u043e"
+    "name:ukr_x_preferred": [
+      "Вежбно"
     ],
-    "name:und_x_variant":[
-        "Werben"
+    "name:und_x_variant": [
+      "Werben"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3082139,
-    "qs_pg:gn_pop":386,
-    "qs_pg:name":"Wierzbno",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Zachodniopomorskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":2,
-    "qs_pg:qs_id":309848,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":524618,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Zachodniopomorskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687271,
-        102191581,
-        1125374555,
-        85633723,
-        102080041
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3082139,
+    "qs_pg:gn_pop": 386,
+    "qs_pg:name": "Wierzbno",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Zachodniopomorskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 2,
+    "qs_pg:qs_id": 309848,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 524618,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3082139,
-        "gp:id":524618,
-        "qs_pg:id":309848,
-        "wd:id":"Q1410348"
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Zachodniopomorskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687271,
+      102191581,
+      1125374555,
+      85633723,
+      102080041
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3082139,
+      "gp:id": 524618,
+      "pl-gugik:jpt_kod_je": "321206_2.0001",
+      "qs_pg:id": 309848,
+      "wd:id": "Q1410348"
     },
-    "wof:country":"PL",
-    "wof:created":1497295409,
-    "wof:geomhash":"5fc393d492f38b6d3c30b413119fb10e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080041,
-            "localadmin_id":1125374555,
-            "locality_id":1125892999,
-            "region_id":85687271
-        }
+    "wof:country": "PL",
+    "wof:created": 1497295409,
+    "wof:geomhash": "c05d5eb58f419930f7b7dc7af029c4ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080041,
+        "localadmin_id": 1125374555,
+        "locality_id": 1125892999,
+        "region_id": 85687271
+      }
     ],
-    "wof:id":1125892999,
-    "wof:lastmodified":1570037600,
-    "wof:name":"Wierzbno",
-    "wof:parent_id":1125374555,
-    "wof:placetype":"locality",
-    "wof:population":386,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125892999,
+    "wof:lastmodified": 1675943697,
+    "wof:name": "Wierzbno",
+    "wof:parent_id": 1125374555,
+    "wof:placetype": "locality",
+    "wof:population": 386,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    14.91454,
-    53.23301,
-    14.91454,
-    53.23301
-],
-  "geometry": {"coordinates":[14.91454,53.23301],"type":"Point"}
+    14.861770319937946,
+    53.207898438021786,
+    14.949639823943684,
+    53.25468138101484
+  ],
+  "geometry": {"coordinates":[[[14.86177,53.246543],[14.900198,53.250745],[14.901402,53.250919],[14.902991,53.251148],[14.905427,53.251491],[14.906388,53.251626],[14.906538,53.251648],[14.909392,53.25207],[14.911026,53.252313],[14.911077,53.252321],[14.911222,53.252343],[14.916733,53.252893],[14.917342,53.252953],[14.917432,53.252962],[14.919128,53.25313],[14.921356,53.25335],[14.925064,53.253705],[14.925152,53.253713],[14.930189,53.254197],[14.931195,53.254327],[14.932689,53.254458],[14.934343,53.254681],[14.934536,53.253798],[14.934587,53.253565],[14.934842,53.253036],[14.934937,53.252824],[14.935214,53.252277],[14.935367,53.251975],[14.935663,53.251533],[14.935994,53.251005],[14.936101,53.250818],[14.936516,53.250093],[14.936897,53.249427],[14.937107,53.24906],[14.937255,53.248769],[14.937612,53.247963],[14.937732,53.247209],[14.938037,53.24615],[14.938263,53.245252],[14.938262,53.245197],[14.938716,53.243535],[14.939047,53.242337],[14.939064,53.242275],[14.939303,53.241414],[14.939324,53.241349],[14.939984,53.239145],[14.940599,53.236876],[14.9407,53.236797],[14.943571,53.235034],[14.944997,53.234122],[14.946004,53.233483],[14.947224,53.232692],[14.948804,53.23166],[14.948694,53.231636],[14.948715,53.231617],[14.948549,53.231588],[14.947694,53.231513],[14.947414,53.231322],[14.947003,53.231027],[14.947134,53.230468],[14.947162,53.230323],[14.947251,53.229535],[14.947359,53.228803],[14.947477,53.22821],[14.947556,53.227873],[14.947729,53.227299],[14.947883,53.226868],[14.948261,53.226145],[14.94873,53.225238],[14.949317,53.224728],[14.94964,53.224328],[14.949454,53.224094],[14.949427,53.224105],[14.946351,53.225353],[14.945009,53.225916],[14.944878,53.225777],[14.942296,53.224101],[14.940862,53.223151],[14.939737,53.222405],[14.936712,53.220411],[14.936631,53.220358],[14.935134,53.219375],[14.934366,53.218962],[14.934347,53.218952],[14.93422,53.218877],[14.935333,53.218108],[14.934375,53.217655],[14.934345,53.217641],[14.932984,53.216997],[14.931866,53.21647],[14.930781,53.215959],[14.930528,53.21584],[14.930574,53.215654],[14.930542,53.215651],[14.927791,53.215386],[14.928255,53.213376],[14.928368,53.212832],[14.928661,53.211154],[14.928805,53.210333],[14.928818,53.210261],[14.928892,53.209869],[14.928975,53.209421],[14.929054,53.208999],[14.929099,53.208756],[14.929205,53.208189],[14.929235,53.208026],[14.929164,53.207914],[14.929153,53.207898],[14.929046,53.207926],[14.928952,53.207968],[14.928804,53.208006],[14.928751,53.208019],[14.925292,53.208908],[14.920897,53.210009],[14.918619,53.210589],[14.91548,53.211419],[14.91532,53.211486],[14.914173,53.212185],[14.913867,53.21237],[14.913463,53.212349],[14.913271,53.21234],[14.911751,53.211762],[14.91098,53.210594],[14.910697,53.210285],[14.910333,53.210115],[14.910075,53.210009],[14.909956,53.209836],[14.909908,53.209686],[14.909202,53.209277],[14.908119,53.208859],[14.907696,53.20873],[14.90712,53.208598],[14.906768,53.208559],[14.90648,53.208612],[14.906216,53.208698],[14.906083,53.208857],[14.905646,53.209045],[14.905382,53.209041],[14.862031,53.246296],[14.86177,53.246543]]],"type":"Polygon"}
 }

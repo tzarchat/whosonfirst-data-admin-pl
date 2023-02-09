@@ -2,119 +2,123 @@
   "id": 1126014861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.31115,51.87713,20.31115,51.87713",
-    "geom:latitude":51.87713,
-    "geom:longitude":20.31115,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":60,
-    "iso:country":"PL",
-    "lbl:bbox":"20.29115,51.85713,20.33115,51.89713",
-    "lbl:latitude":51.87713,
-    "lbl:longitude":20.31115,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bul_x_preferred":[
-        "\u041f\u0441\u0430\u0440\u0438"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002884105521751498,
+    "geom:area_square_m": 2209801.0547891776,
+    "geom:bbox": "20.29316324500809,51.87211507501348,20.331878176005223,51.88815550501095",
+    "geom:latitude": 20.315521196372057,
+    "geom:longitude": 51.87932329324026,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 60,
+    "iso:country": "PL",
+    "lbl:bbox": "20.29115,51.85713,20.33115,51.89713",
+    "lbl:latitude": 51.87713,
+    "lbl:longitude": 20.31115,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred": [
+      "Псари"
     ],
-    "name:ceb_x_preferred":[
-        "Psary"
+    "name:ceb_x_preferred": [
+      "Psary"
     ],
-    "name:deu_x_preferred":[
-        "Psary"
+    "name:deu_x_preferred": [
+      "Psary"
     ],
-    "name:fra_x_preferred":[
-        "Psary"
+    "name:fra_x_preferred": [
+      "Psary"
     ],
-    "name:ita_x_preferred":[
-        "Psary"
+    "name:ita_x_preferred": [
+      "Psary"
     ],
-    "name:nld_x_preferred":[
-        "Psary"
+    "name:nld_x_preferred": [
+      "Psary"
     ],
-    "name:pol_x_preferred":[
-        "Psary"
+    "name:pol_x_preferred": [
+      "Psary"
     ],
-    "name:swe_x_preferred":[
-        "Psary"
+    "name:swe_x_preferred": [
+      "Psary"
     ],
-    "name:ukr_x_preferred":[
-        "\u041f\u0441\u0430\u0440\u0438"
+    "name:ukr_x_preferred": [
+      "Псари"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":760977,
-    "qs_pg:gn_pop":60,
-    "qs_pg:name":"Psary",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"\u0141\u00f3dzkie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":305613,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":514763,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"\u0141\u00f3dzkie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687261,
-        102191581,
-        1477752655,
-        85633723,
-        102079895
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 760977,
+    "qs_pg:gn_pop": 60,
+    "qs_pg:name": "Psary",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Łódzkie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 305613,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 514763,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":760977,
-        "gp:id":514763,
-        "qs_pg:id":305613
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Łódzkie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687261,
+      102191581,
+      1477752655,
+      85633723,
+      102079895
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 760977,
+      "gp:id": 514763,
+      "pl-gugik:jpt_kod_je": "101507_2.0023",
+      "qs_pg:id": 305613
     },
-    "wof:country":"PL",
-    "wof:created":1497300488,
-    "wof:geomhash":"01c58e9df222c9ac322b191862b40a4e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079895,
-            "localadmin_id":1477752655,
-            "locality_id":1126014861,
-            "region_id":85687261
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300488,
+    "wof:geomhash": "69ee2d4c38f17ec571ae2526ecdd9319",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079895,
+        "localadmin_id": 1477752655,
+        "locality_id": 1126014861,
+        "region_id": 85687261
+      }
     ],
-    "wof:id":1126014861,
-    "wof:lastmodified":1570038581,
-    "wof:name":"Psary",
-    "wof:parent_id":1477752655,
-    "wof:placetype":"locality",
-    "wof:population":60,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126014861,
+    "wof:lastmodified": 1675943677,
+    "wof:name": "Psary",
+    "wof:parent_id": 1477752655,
+    "wof:placetype": "locality",
+    "wof:population": 60,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.31115,
-    51.87713,
-    20.31115,
-    51.87713
-],
-  "geometry": {"coordinates":[20.31115,51.87713],"type":"Point"}
+    20.29316324500809,
+    51.87211507501348,
+    20.331878176005223,
+    51.88815550501095
+  ],
+  "geometry": {"coordinates":[[[20.293163,51.879017],[20.293166,51.879069],[20.293184,51.879095],[20.293272,51.879134],[20.293768,51.879076],[20.294012,51.879017],[20.294188,51.878977],[20.294334,51.878945],[20.294701,51.878815],[20.294735,51.878867],[20.29504,51.879323],[20.295165,51.879497],[20.29719,51.882292],[20.30299,51.881655],[20.303603,51.881588],[20.308487,51.881051],[20.308594,51.88104],[20.311589,51.880707],[20.31052,51.879392],[20.310481,51.879344],[20.310214,51.879004],[20.310439,51.878982],[20.311946,51.878835],[20.312755,51.878757],[20.314053,51.880558],[20.314568,51.881272],[20.316031,51.883302],[20.316499,51.883952],[20.317694,51.885618],[20.317912,51.885912],[20.318043,51.886095],[20.318295,51.886449],[20.319511,51.888156],[20.320152,51.887935],[20.320665,51.887759],[20.320932,51.887669],[20.322237,51.8872],[20.322664,51.88705],[20.323833,51.88664],[20.325207,51.886158],[20.326245,51.885794],[20.326555,51.885685],[20.32674,51.885621],[20.328971,51.884832],[20.32955,51.884627],[20.330709,51.88424],[20.331526,51.883968],[20.331632,51.883935],[20.331878,51.883852],[20.331104,51.882766],[20.330829,51.882371],[20.329904,51.881073],[20.329238,51.880139],[20.328049,51.878478],[20.327763,51.878082],[20.327729,51.878038],[20.327011,51.877045],[20.326216,51.875924],[20.325605,51.87507],[20.324988,51.874214],[20.324924,51.874141],[20.324582,51.873666],[20.324553,51.873627],[20.323496,51.872162],[20.323466,51.872115],[20.321738,51.872361],[20.321256,51.872429],[20.320067,51.872599],[20.316523,51.873192],[20.313316,51.873833],[20.311624,51.874134],[20.311558,51.874145],[20.309807,51.874415],[20.308913,51.874553],[20.308036,51.874681],[20.307131,51.874814],[20.306896,51.874852],[20.306392,51.874937],[20.305824,51.875031],[20.305594,51.875069],[20.304134,51.875313],[20.302528,51.87577],[20.302337,51.875853],[20.302107,51.875965],[20.299109,51.876843],[20.29867,51.876972],[20.298054,51.877149],[20.293448,51.878472],[20.293178,51.878961],[20.293163,51.879017]]],"type":"Polygon"}
 }

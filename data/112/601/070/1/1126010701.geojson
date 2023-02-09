@@ -2,96 +2,100 @@
   "id": 1126010701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"15.62378,52.804916,15.62378,52.804916",
-    "geom:latitude":52.804916,
-    "geom:longitude":15.62378,
-    "gn:country":null,
-    "iso:country":"PL",
-    "lbl:bbox":"15.60378,52.784916,15.64378,52.824916",
-    "lbl:latitude":52.804916,
-    "lbl:longitude":15.62378,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:fra_x_preferred":[
-        "Zagaje"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003796299361727477,
+    "geom:area_square_m": 2848573.4593955204,
+    "geom:bbox": "15.593750699964545,52.80382028401376,15.624835660978086,52.82400213301987",
+    "geom:latitude": 15.610275982406286,
+    "geom:longitude": 52.81365523380616,
+    "gn:country": null,
+    "iso:country": "PL",
+    "lbl:bbox": "15.60378,52.784916,15.64378,52.824916",
+    "lbl:latitude": 52.804916,
+    "lbl:longitude": 15.62378,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred": [
+      "Zagaje"
     ],
-    "name:pol_x_preferred":[
-        "Zagaje"
+    "name:pol_x_preferred": [
+      "Zagaje"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0430\u0491\u0430\u0454"
+    "name:ukr_x_preferred": [
+      "Заґає"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":null,
-    "qs_pg:name":"Zagaje",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Lubuskie",
-    "qs_pg:photos":3,
-    "qs_pg:photos_1k":1,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":3,
-    "qs_pg:photos_sr":1,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":563526,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":24944207,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Lubuskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687327,
-        102191581,
-        1477751597,
-        85633723,
-        102080011
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": null,
+    "qs_pg:name": "Zagaje",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Lubuskie",
+    "qs_pg:photos": 3,
+    "qs_pg:photos_1k": 1,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 3,
+    "qs_pg:photos_sr": 1,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 563526,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 24944207,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":24944207,
-        "qs_pg:id":563526
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Lubuskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687327,
+      102191581,
+      1477751597,
+      85633723,
+      102080011
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 24944207,
+      "pl-gugik:jpt_kod_je": "080605_2.0007",
+      "qs_pg:id": 563526
     },
-    "wof:country":"PL",
-    "wof:created":1497300256,
-    "wof:geomhash":"19c82c0c00f22bddd2d7a0f07b3ea380",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080011,
-            "localadmin_id":1477751597,
-            "locality_id":1126010701,
-            "region_id":85687327
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300256,
+    "wof:geomhash": "780b7a917ea6062dc8019d2fa33867f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080011,
+        "localadmin_id": 1477751597,
+        "locality_id": 1126010701,
+        "region_id": 85687327
+      }
     ],
-    "wof:id":1126010701,
-    "wof:lastmodified":1570038360,
-    "wof:name":"Zagaje",
-    "wof:parent_id":1477751597,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126010701,
+    "wof:lastmodified": 1675943697,
+    "wof:name": "Zagaje",
+    "wof:parent_id": 1477751597,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    15.62378,
-    52.804916,
-    15.62378,
-    52.804916
-],
-  "geometry": {"coordinates":[15.62378,52.804916],"type":"Point"}
+    15.593750699964545,
+    52.80382028401376,
+    15.624835660978086,
+    52.82400213301987
+  ],
+  "geometry": {"coordinates":[[[15.593751,52.809798],[15.596567,52.811533],[15.597434,52.812059],[15.597513,52.812135],[15.595424,52.813442],[15.595362,52.813481],[15.61244,52.824002],[15.612496,52.823963],[15.613794,52.823139],[15.614667,52.822655],[15.616178,52.821981],[15.616268,52.821948],[15.616632,52.82182],[15.616968,52.821736],[15.617407,52.821699],[15.617911,52.821676],[15.618442,52.821591],[15.618993,52.821524],[15.619682,52.821508],[15.621188,52.821271],[15.621337,52.821255],[15.621546,52.821216],[15.621839,52.821163],[15.62214,52.821115],[15.624836,52.820684],[15.624776,52.820204],[15.624748,52.820093],[15.62472,52.819867],[15.624675,52.819493],[15.624628,52.819108],[15.624563,52.818493],[15.624515,52.817951],[15.624514,52.817932],[15.624431,52.816992],[15.62432,52.815743],[15.624303,52.815548],[15.624313,52.814415],[15.624345,52.813069],[15.624369,52.812112],[15.62438,52.81166],[15.62443,52.809587],[15.624434,52.809438],[15.624385,52.809453],[15.62216,52.810098],[15.62089,52.810212],[15.620883,52.810155],[15.620844,52.810088],[15.620772,52.810043],[15.620646,52.810005],[15.617772,52.80925],[15.617856,52.807859],[15.617928,52.806804],[15.616163,52.805925],[15.614698,52.805195],[15.614574,52.805137],[15.614524,52.805134],[15.614451,52.805128],[15.614429,52.805402],[15.614374,52.805613],[15.614211,52.805988],[15.614058,52.806247],[15.614047,52.806267],[15.613694,52.806958],[15.613649,52.807362],[15.613658,52.807666],[15.613627,52.807887],[15.613634,52.808086],[15.613679,52.808246],[15.613541,52.808238],[15.612465,52.808094],[15.611511,52.80801],[15.609659,52.807674],[15.608551,52.807455],[15.608402,52.807426],[15.607592,52.807173],[15.606798,52.806869],[15.606325,52.806664],[15.605234,52.806233],[15.60436,52.80587],[15.603522,52.805582],[15.602597,52.805398],[15.60215,52.805319],[15.601719,52.805253],[15.601595,52.805239],[15.59904,52.804894],[15.598766,52.804814],[15.598078,52.804581],[15.596426,52.80382],[15.596336,52.803944],[15.596311,52.803977],[15.595006,52.807271],[15.594964,52.807334],[15.593751,52.809798]]],"type":"Polygon"}
 }

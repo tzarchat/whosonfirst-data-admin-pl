@@ -2,90 +2,94 @@
   "id": 1277010323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.06567,52.13441,23.06567,52.13441",
-    "geom:latitude":52.13441,
-    "geom:longitude":23.06567,
-    "gn:admin1_code":"75.0",
-    "gn:admin2_code":"601.0",
-    "gn:admin3_code":"60108.0",
-    "gn:asciiname":"Mariampol",
-    "gn:country_code":"PL",
-    "gn:dem":150,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":765231,
-    "gn:latitude":52.13441,
-    "gn:longitude":23.06567,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Mariampol",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"23.04567,52.11441,23.08567,52.15441",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Mariampol"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0004033656331706175,
+    "geom:area_square_m": 3072920.069604506,
+    "geom:bbox": "23.046227660078436,52.12861495001294,23.082027122080895,52.149703158019626",
+    "geom:latitude": 23.06365713200174,
+    "geom:longitude": 52.1385016542253,
+    "gn:admin1_code": "75.0",
+    "gn:admin2_code": "601.0",
+    "gn:admin3_code": "60108.0",
+    "gn:asciiname": "Mariampol",
+    "gn:country_code": "PL",
+    "gn:dem": 150,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 765231,
+    "gn:latitude": 52.13441,
+    "gn:longitude": 23.06567,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Mariampol",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "23.04567,52.11441,23.08567,52.15441",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Mariampol"
     ],
-    "name:lit_x_preferred":[
-        "Marijampolis"
+    "name:lit_x_preferred": [
+      "Marijampolis"
     ],
-    "name:pol_x_preferred":[
-        "Mariampol"
+    "name:pol_x_preferred": [
+      "Mariampol"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0430\u0440\u044f\u043c\u043f\u043e\u043b\u044c"
+    "name:ukr_x_preferred": [
+      "Марямполь"
     ],
-    "name:und_x_variant":[
-        "Marjampol"
+    "name:und_x_variant": [
+      "Marjampol"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687309,
-        102191581,
-        1125372907,
-        85633723,
-        102079973
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":765231,
-        "wk:page":"Mariampol%2C_Bia%C5%82a_Podlaska_County"
+    "wof:belongsto": [
+      85687309,
+      102191581,
+      1125372907,
+      85633723,
+      102079973
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 765231,
+      "pl-gugik:jpt_kod_je": "060108_2.0010",
+      "wk:page": "Mariampol%2C_Bia%C5%82a_Podlaska_County"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"250e20c28a7eb722523df1b43f334086",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079973,
-            "localadmin_id":1125372907,
-            "locality_id":1277010323,
-            "region_id":85687309
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "64789508731505cecc625a313a4b44dd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079973,
+        "localadmin_id": 1125372907,
+        "locality_id": 1277010323,
+        "region_id": 85687309
+      }
     ],
-    "wof:id":1277010323,
-    "wof:lastmodified":1570016506,
-    "wof:name":"Mariampol",
-    "wof:parent_id":1125372907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277010323,
+    "wof:lastmodified": 1675943707,
+    "wof:name": "Mariampol",
+    "wof:parent_id": 1125372907,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.06567,
-    52.13441,
-    23.06567,
-    52.13441
-],
-  "geometry": {"coordinates":[23.06567,52.13441],"type":"Point"}
+    23.046227660078436,
+    52.12861495001294,
+    23.082027122080895,
+    52.149703158019626
+  ],
+  "geometry": {"coordinates":[[[23.046228,52.132799],[23.048548,52.135469],[23.048561,52.135483],[23.0486,52.135529],[23.048632,52.135568],[23.050995,52.138379],[23.053661,52.141552],[23.053695,52.141585],[23.053744,52.141633],[23.053778,52.141666],[23.055766,52.143956],[23.05616,52.14441],[23.05578,52.144415],[23.05696,52.145778],[23.057172,52.146031],[23.05722,52.146089],[23.058401,52.147507],[23.058581,52.14772],[23.059802,52.149158],[23.060367,52.149703],[23.061055,52.149526],[23.062132,52.149351],[23.063069,52.149088],[23.06574,52.147604],[23.067115,52.147707],[23.067187,52.147691],[23.068579,52.147365],[23.068762,52.147291],[23.068904,52.147233],[23.069732,52.146898],[23.069778,52.146414],[23.070603,52.144933],[23.072805,52.143894],[23.073801,52.143585],[23.074647,52.143323],[23.075886,52.142864],[23.078119,52.142666],[23.08006,52.142273],[23.082027,52.141869],[23.081628,52.141095],[23.081558,52.140786],[23.081473,52.140472],[23.081463,52.140434],[23.081435,52.140395],[23.081132,52.139893],[23.080758,52.139582],[23.080211,52.139267],[23.07954,52.138736],[23.078659,52.138038],[23.078313,52.137726],[23.077555,52.137183],[23.077373,52.137042],[23.075685,52.135747],[23.074706,52.135069],[23.073896,52.134581],[23.073311,52.134229],[23.072932,52.134001],[23.072675,52.13378],[23.072181,52.133453],[23.0721,52.133392],[23.071926,52.133288],[23.070727,52.13243],[23.070122,52.131997],[23.069664,52.13165],[23.068882,52.131058],[23.068731,52.130952],[23.065426,52.128615],[23.065345,52.128642],[23.065333,52.128647],[23.063579,52.129471],[23.062652,52.129906],[23.06194,52.13024],[23.06184,52.130287],[23.061614,52.130036],[23.061123,52.129491],[23.061031,52.129388],[23.058686,52.12992],[23.056182,52.130489],[23.055958,52.13054],[23.055575,52.130629],[23.052882,52.131257],[23.052748,52.131288],[23.051765,52.131517],[23.049967,52.131934],[23.049947,52.131939],[23.049788,52.131976],[23.048138,52.132357],[23.046238,52.132797],[23.046228,52.132799]]],"type":"Polygon"}
 }

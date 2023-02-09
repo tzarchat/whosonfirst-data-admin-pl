@@ -2,92 +2,96 @@
   "id": 1310527987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.37105,52.77284,16.37105,52.77284",
-    "geom:latitude":52.77284,
-    "geom:longitude":16.37105,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3024.0",
-    "gn:admin3_code":"302408.0",
-    "gn:asciiname":"Bielawy",
-    "gn:country_code":"PL",
-    "gn:dem":67,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3103453,
-    "gn:latitude":52.77284,
-    "gn:longitude":16.37105,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Bielawy",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.35105,52.75284,16.39105,52.79284",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Bielawy"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003867549020891235,
+    "geom:area_square_m": 2905018.4388109855,
+    "geom:bbox": "16.358330616988855,52.75716209302028,16.392277697990885,52.775628320019244",
+    "geom:latitude": 16.3743163820711,
+    "geom:longitude": 52.76728703110512,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3024.0",
+    "gn:admin3_code": "302408.0",
+    "gn:asciiname": "Bielawy",
+    "gn:country_code": "PL",
+    "gn:dem": 67,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3103453,
+    "gn:latitude": 52.77284,
+    "gn:longitude": 16.37105,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Bielawy",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.35105,52.75284,16.39105,52.79284",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Bielawy"
     ],
-    "name:deu_x_preferred":[
-        "Bielawy"
+    "name:deu_x_preferred": [
+      "Bielawy"
     ],
-    "name:fra_x_preferred":[
-        "Bielawy"
+    "name:fra_x_preferred": [
+      "Bielawy"
     ],
-    "name:nld_x_preferred":[
-        "Bielawy"
+    "name:nld_x_preferred": [
+      "Bielawy"
     ],
-    "name:pol_x_preferred":[
-        "Bielawy"
+    "name:pol_x_preferred": [
+      "Bielawy"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0435\u043b\u044f\u0432\u0438"
+    "name:ukr_x_preferred": [
+      "Беляви"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125295931,
-        85633723,
-        102079963
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3103453
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125295931,
+      85633723,
+      102079963
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3103453,
+      "pl-gugik:jpt_kod_je": "302408_5.0001"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"9eaef1ebf9f949ab5a232674a2180da1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079963,
-            "localadmin_id":1125295931,
-            "locality_id":1310527987,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "acadc73092a77e857f872b63a8d69ba3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079963,
+        "localadmin_id": 1125295931,
+        "locality_id": 1310527987,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1310527987,
-    "wof:lastmodified":1570027239,
-    "wof:name":"Bielawy",
-    "wof:parent_id":1125295931,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310527987,
+    "wof:lastmodified": 1675943693,
+    "wof:name": "Bielawy",
+    "wof:parent_id": 1125295931,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.37105,
-    52.77284,
-    16.37105,
-    52.77284
-],
-  "geometry": {"coordinates":[16.37105,52.77284],"type":"Point"}
+    16.358330616988855,
+    52.75716209302028,
+    16.392277697990885,
+    52.775628320019244
+  ],
+  "geometry": {"coordinates":[[[16.358331,52.775628],[16.35916,52.775576],[16.360419,52.775451],[16.361001,52.775371],[16.3613,52.775431],[16.361437,52.775458],[16.362135,52.77539],[16.363956,52.775212],[16.367885,52.774838],[16.368014,52.774824],[16.369068,52.774727],[16.371017,52.77455],[16.371318,52.774518],[16.372499,52.774378],[16.372575,52.77437],[16.373928,52.774223],[16.374917,52.774088],[16.375134,52.774059],[16.377706,52.77371],[16.377868,52.773688],[16.379051,52.773526],[16.3804,52.773341],[16.382475,52.773056],[16.383091,52.772971],[16.385813,52.772596],[16.386259,52.772534],[16.386377,52.772517],[16.388594,52.772211],[16.389704,52.772063],[16.391338,52.771832],[16.392088,52.771726],[16.392278,52.771703],[16.391047,52.770178],[16.389817,52.768652],[16.388607,52.767121],[16.388277,52.766712],[16.388167,52.766572],[16.38743,52.765681],[16.387422,52.765661],[16.387372,52.765599],[16.386134,52.764076],[16.385166,52.762873],[16.384226,52.761691],[16.383971,52.761412],[16.384607,52.76014],[16.384829,52.759653],[16.384765,52.75964],[16.382128,52.759086],[16.380513,52.758755],[16.380411,52.758737],[16.380221,52.758703],[16.378208,52.758284],[16.37671,52.757972],[16.375722,52.75778],[16.374636,52.757557],[16.372822,52.757184],[16.372643,52.757162],[16.372606,52.757255],[16.372461,52.758048],[16.372258,52.758463],[16.371998,52.758994],[16.371555,52.760028],[16.371311,52.760558],[16.368441,52.761099],[16.366922,52.761374],[16.365791,52.761592],[16.365629,52.761623],[16.36382,52.761948],[16.363762,52.761958],[16.360502,52.762568],[16.361719,52.765868],[16.36176,52.765978],[16.361956,52.766536],[16.361964,52.76656],[16.362124,52.767032],[16.361422,52.768503],[16.360582,52.770457],[16.360165,52.771405],[16.360002,52.771762],[16.359479,52.772909],[16.358331,52.775628]]],"type":"Polygon"}
 }

@@ -2,93 +2,97 @@
   "id": 1327258631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.28065,51.87116,17.28065,51.87116",
-    "geom:latitude":51.87116,
-    "geom:longitude":17.28065,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3004.0",
-    "gn:admin3_code":"300401.0",
-    "gn:asciiname":"Celestynow",
-    "gn:country_code":"PL",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3101897,
-    "gn:latitude":51.87116,
-    "gn:longitude":17.28065,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Celestyn\u00f3w",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"17.26065,51.85116,17.30065,51.89116",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u062a\u0633\u0644\u0633\u062a\u0646\u0648\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00010287194123289644,
+    "geom:area_square_m": 788364.1774986763,
+    "geom:bbox": "17.275953526003534,51.8617058720193,17.285377893995555,51.87898698901444",
+    "geom:latitude": 17.28052705410153,
+    "geom:longitude": 51.870109003237125,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3004.0",
+    "gn:admin3_code": "300401.0",
+    "gn:asciiname": "Celestynow",
+    "gn:country_code": "PL",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3101897,
+    "gn:latitude": 51.87116,
+    "gn:longitude": 17.28065,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Celestynów",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "17.26065,51.85116,17.30065,51.89116",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "تسلستنوو"
     ],
-    "name:fas_x_preferred":[
-        "\u062a\u0633\u0644\u0633\u062a\u0646\u0648\u0648"
+    "name:fas_x_preferred": [
+      "تسلستنوو"
     ],
-    "name:fra_x_preferred":[
-        "Celestyn\u00f3w"
+    "name:fra_x_preferred": [
+      "Celestynów"
     ],
-    "name:nld_x_preferred":[
-        "Celestyn\u00f3w"
+    "name:nld_x_preferred": [
+      "Celestynów"
     ],
-    "name:pol_x_preferred":[
-        "Celestyn\u00f3w"
+    "name:pol_x_preferred": [
+      "Celestynów"
     ],
-    "name:ukr_x_preferred":[
-        "\u0426\u0435\u043b\u0435\u0441\u0442\u0438\u043d\u0443\u0432"
+    "name:ukr_x_preferred": [
+      "Целестинув"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1125272075,
-        85633723,
-        102079829
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3101897,
-        "wk:page":"Celestyn%C3%B3w%2C_Greater_Poland_Voivodeship"
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1125272075,
+      85633723,
+      102079829
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3101897,
+      "pl-gugik:jpt_kod_je": "300401_5.0003",
+      "wk:page": "Celestyn%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"888b5bbc714790700dcec1dbd941521c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079829,
-            "localadmin_id":1125272075,
-            "locality_id":1327258631,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "25f09eea0128ea681c63ac86a51bed42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079829,
+        "localadmin_id": 1125272075,
+        "locality_id": 1327258631,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1327258631,
-    "wof:lastmodified":1570006555,
-    "wof:name":"Celestynow",
-    "wof:parent_id":1125272075,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327258631,
+    "wof:lastmodified": 1675943692,
+    "wof:name": "Celestynow",
+    "wof:parent_id": 1125272075,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.28065,
-    51.87116,
-    17.28065,
-    51.87116
-],
-  "geometry": {"coordinates":[17.28065,51.87116],"type":"Point"}
+    17.275953526003534,
+    51.8617058720193,
+    17.285377893995555,
+    51.87898698901444
+  ],
+  "geometry": {"coordinates":[[[17.275954,51.862516],[17.276143,51.863551],[17.276233,51.864066],[17.276323,51.864581],[17.276356,51.864772],[17.276505,51.865623],[17.276633,51.866359],[17.27668,51.866627],[17.276857,51.867643],[17.276941,51.868125],[17.27695,51.868176],[17.27703,51.868635],[17.277108,51.869082],[17.277189,51.869542],[17.277436,51.870959],[17.277585,51.871811],[17.277701,51.872478],[17.277707,51.87251],[17.277739,51.872696],[17.277878,51.873493],[17.278036,51.874398],[17.278129,51.874932],[17.278156,51.87502],[17.278502,51.876681],[17.278941,51.878987],[17.280086,51.878523],[17.281441,51.877892],[17.281498,51.877866],[17.281921,51.877654],[17.282202,51.877398],[17.282787,51.877167],[17.282897,51.877119],[17.283202,51.877116],[17.285353,51.876571],[17.285378,51.876564],[17.28518,51.875885],[17.285056,51.875461],[17.284864,51.874572],[17.284825,51.874408],[17.284701,51.874033],[17.284671,51.873919],[17.284474,51.873157],[17.28497,51.872942],[17.285189,51.872847],[17.285103,51.872574],[17.284961,51.872123],[17.284716,51.871259],[17.284396,51.870542],[17.284341,51.87042],[17.283974,51.869542],[17.283795,51.869102],[17.283607,51.868621],[17.283432,51.86811],[17.283348,51.867914],[17.283105,51.867268],[17.283068,51.867259],[17.283027,51.867084],[17.282942,51.866172],[17.282954,51.866155],[17.282713,51.865531],[17.282638,51.865337],[17.282563,51.865135],[17.28246,51.864859],[17.282375,51.864609],[17.282235,51.864207],[17.282207,51.864083],[17.282132,51.863794],[17.282046,51.863569],[17.281853,51.863071],[17.281789,51.862903],[17.281715,51.862739],[17.281513,51.862264],[17.281486,51.861706],[17.279136,51.861994],[17.279007,51.86201],[17.278715,51.862043],[17.278699,51.861994],[17.27858,51.861993],[17.278502,51.861992],[17.278341,51.861996],[17.276984,51.862225],[17.276011,51.862405],[17.275972,51.862462],[17.275967,51.86247],[17.275958,51.86249],[17.275954,51.862516]]],"type":"Polygon"}
 }

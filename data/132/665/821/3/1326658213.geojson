@@ -2,84 +2,88 @@
   "id": 1326658213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.96396,54.3646,22.96396,54.3646",
-    "geom:latitude":54.3646,
-    "geom:longitude":22.96396,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201206.0",
-    "gn:asciiname":"Michalowka",
-    "gn:country_code":"PL",
-    "gn:dem":196,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":764939,
-    "gn:latitude":54.3646,
-    "gn:longitude":22.96396,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Micha\u0142\u00f3wka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.94396,54.3446,22.98396,54.3846",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Michaluvka"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001499239156625876,
+    "geom:area_square_m": 1084721.8104426241,
+    "geom:bbox": "22.950268448049016,54.36029364902516,22.972150562043307,54.371632975024326",
+    "geom:latitude": 22.961362143490046,
+    "geom:longitude": 54.3661650484876,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201206.0",
+    "gn:asciiname": "Michalowka",
+    "gn:country_code": "PL",
+    "gn:dem": 196,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 764939,
+    "gn:latitude": 54.3646,
+    "gn:longitude": 22.96396,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Michałówka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.94396,54.3446,22.98396,54.3846",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Michaluvka"
     ],
-    "name:pol_x_preferred":[
-        "Micha\u0142\u00f3wka"
+    "name:pol_x_preferred": [
+      "Michałówka"
     ],
-    "name:ukr_x_preferred":[
-        "\u041c\u0456\u0445\u0430\u043b\u0443\u0432\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Міхалувка"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752329,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":764939,
-        "wk:page":"Micha%C5%82%C3%B3wka%2C_Podlaskie_Voivodeship"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752329,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 764939,
+      "pl-gugik:jpt_kod_je": "201206_2.0012",
+      "wk:page": "Micha%C5%82%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"27dc5071619d111e4b6bef243f833858",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752329,
-            "locality_id":1326658213,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "6d0b438dc76d40492bf8aaa6bc3d4963",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752329,
+        "locality_id": 1326658213,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1326658213,
-    "wof:lastmodified":1570007878,
-    "wof:name":"Michalowka",
-    "wof:parent_id":1477752329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326658213,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Michalowka",
+    "wof:parent_id": 1477752329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.96396,
-    54.3646,
-    22.96396,
-    54.3646
-],
-  "geometry": {"coordinates":[22.96396,54.3646],"type":"Point"}
+    22.950268448049016,
+    54.36029364902516,
+    22.972150562043307,
+    54.371632975024326
+  ],
+  "geometry": {"coordinates":[[[22.960346,54.371361],[22.960594,54.371321],[22.961739,54.371133],[22.962857,54.370955],[22.963367,54.370821],[22.965257,54.370324],[22.966759,54.369926],[22.967191,54.369771],[22.967574,54.369624],[22.967615,54.369608],[22.967638,54.3696],[22.967668,54.369588],[22.968237,54.36937],[22.969531,54.368896],[22.971154,54.368276],[22.972151,54.367923],[22.971984,54.367697],[22.971693,54.367302],[22.971691,54.3673],[22.971491,54.367072],[22.970732,54.366159],[22.970712,54.366135],[22.970076,54.365355],[22.970032,54.365301],[22.969961,54.365213],[22.969425,54.364537],[22.96913,54.364166],[22.968817,54.363771],[22.968483,54.363349],[22.967914,54.362647],[22.967881,54.362605],[22.966839,54.361314],[22.966811,54.36128],[22.966771,54.36123],[22.96676,54.361216],[22.966718,54.361165],[22.966367,54.360734],[22.966289,54.360637],[22.966015,54.360294],[22.962807,54.361078],[22.961149,54.361474],[22.961104,54.361485],[22.960905,54.361533],[22.959735,54.361818],[22.957169,54.362457],[22.95689,54.362526],[22.955239,54.362929],[22.953913,54.36328],[22.953468,54.363397],[22.952931,54.363532],[22.95292,54.363535],[22.952866,54.363549],[22.952863,54.363549],[22.952789,54.363568],[22.951416,54.363914],[22.950268,54.364182],[22.950285,54.364207],[22.950652,54.364762],[22.950856,54.365055],[22.95118,54.365519],[22.951649,54.366191],[22.951709,54.366276],[22.951924,54.366587],[22.951926,54.36659],[22.951947,54.366621],[22.95195,54.366625],[22.952196,54.366982],[22.952712,54.367728],[22.952965,54.368095],[22.953212,54.368453],[22.953458,54.368809],[22.95355,54.368942],[22.95386,54.369075],[22.954451,54.369395],[22.955509,54.369967],[22.956089,54.370256],[22.95638,54.3704],[22.957128,54.370769],[22.957974,54.371186],[22.958303,54.371353],[22.958685,54.371633],[22.960346,54.371361]]],"type":"Polygon"}
 }

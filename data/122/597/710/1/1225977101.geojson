@@ -2,95 +2,99 @@
   "id": 1225977101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.04353,54.16086,21.04353,54.16086",
-    "geom:latitude":54.16086,
-    "geom:longitude":21.04353,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2808.0",
-    "gn:admin3_code":"280804.0",
-    "gn:asciiname":"Kowalewo",
-    "gn:country_code":"PL",
-    "gn:dem":59,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":767876,
-    "gn:latitude":54.16086,
-    "gn:longitude":21.04353,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Kowalewo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"21.02353,54.14086,21.06353,54.18086",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Kowalewo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003882934205075296,
+    "geom:area_square_m": 2823657.3075918,
+    "geom:bbox": "21.03227228399643,54.144660492022886,21.06255642300941,54.16707618601931",
+    "geom:latitude": 21.044049184658828,
+    "geom:longitude": 54.15497017598011,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2808.0",
+    "gn:admin3_code": "280804.0",
+    "gn:asciiname": "Kowalewo",
+    "gn:country_code": "PL",
+    "gn:dem": 59,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 767876,
+    "gn:latitude": 54.16086,
+    "gn:longitude": 21.04353,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Kowalewo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "21.02353,54.14086,21.06353,54.18086",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Kowalewo"
     ],
-    "name:ces_x_preferred":[
-        "Kowalewo"
+    "name:ces_x_preferred": [
+      "Kowalewo"
     ],
-    "name:deu_x_preferred":[
-        "Kowalewo"
+    "name:deu_x_preferred": [
+      "Kowalewo"
     ],
-    "name:fra_x_preferred":[
-        "Kowalewo"
+    "name:fra_x_preferred": [
+      "Kowalewo"
     ],
-    "name:pol_x_preferred":[
-        "Kowalewo"
+    "name:pol_x_preferred": [
+      "Kowalewo"
     ],
-    "name:ukr_x_preferred":[
-        "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Ковалево"
     ],
-    "name:und_x_variant":[
-        "Wotterkeim"
+    "name:und_x_variant": [
+      "Wotterkeim"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1477752901,
-        85633723,
-        102080249
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":767876
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1477752901,
+      85633723,
+      102080249
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 767876,
+      "pl-gugik:jpt_kod_je": "280804_5.0017"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"4e6ba5faa321b674df8c71e40460dfdb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080249,
-            "localadmin_id":1477752901,
-            "locality_id":1225977101,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "eaf877745d5f5d9847c5848bf3ccef9b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080249,
+        "localadmin_id": 1477752901,
+        "locality_id": 1225977101,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1225977101,
-    "wof:lastmodified":1570051128,
-    "wof:name":"Kowalewo",
-    "wof:parent_id":1477752901,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225977101,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Kowalewo",
+    "wof:parent_id": 1477752901,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    21.04353,
-    54.16086,
-    21.04353,
-    54.16086
-],
-  "geometry": {"coordinates":[21.04353,54.16086],"type":"Point"}
+    21.03227228399643,
+    54.144660492022886,
+    21.06255642300941,
+    54.16707618601931
+  ],
+  "geometry": {"coordinates":[[[21.044706,54.1669],[21.044811,54.16689],[21.044919,54.166883],[21.044548,54.166174],[21.047903,54.165542],[21.048045,54.165524],[21.046633,54.163782],[21.045794,54.162573],[21.04565,54.162178],[21.050096,54.160751],[21.048775,54.158161],[21.05083,54.157556],[21.054237,54.15657],[21.059189,54.155147],[21.061128,54.154578],[21.062556,54.154156],[21.062433,54.153959],[21.06238,54.153871],[21.06132,54.1521],[21.059992,54.149968],[21.057323,54.149419],[21.054662,54.148893],[21.051365,54.148244],[21.048755,54.147734],[21.048703,54.147723],[21.048652,54.147711],[21.04464,54.146916],[21.041525,54.146291],[21.03883,54.145765],[21.03776,54.145558],[21.035404,54.1451],[21.033412,54.14466],[21.033329,54.145809],[21.033099,54.147963],[21.032934,54.149567],[21.032927,54.149606],[21.032968,54.149763],[21.032855,54.150438],[21.032738,54.151615],[21.032566,54.153703],[21.032402,54.155499],[21.032272,54.156932],[21.032665,54.158268],[21.034252,54.158464],[21.034962,54.160599],[21.035567,54.162326],[21.035577,54.162354],[21.035637,54.162523],[21.035648,54.162559],[21.035955,54.163484],[21.036493,54.164989],[21.03705,54.166569],[21.042995,54.167076],[21.044706,54.1669]]],"type":"Polygon"}
 }

@@ -2,146 +2,150 @@
   "id": 1209842155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01356,54.31185,23.01356,54.31185",
-    "geom:latitude":54.31185,
-    "geom:longitude":23.01356,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201206.0",
-    "gn:asciiname":"Trzcianka",
-    "gn:country_code":"PL",
-    "gn:dem":192,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":756720,
-    "gn:latitude":54.31185,
-    "gn:longitude":23.01356,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Trzcianka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.99356,54.29185,23.03356,54.33185",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0627\u0634\u0686\u06cc\u0627\u0646\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002907664993878116,
+    "geom:area_square_m": 2106371.5436869017,
+    "geom:bbox": "22.99656796404533,54.30464521901815,23.024864331044054,54.326013025021716",
+    "geom:latitude": 23.010104628657327,
+    "geom:longitude": 54.3142814031008,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201206.0",
+    "gn:asciiname": "Trzcianka",
+    "gn:country_code": "PL",
+    "gn:dem": 192,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 756720,
+    "gn:latitude": 54.31185,
+    "gn:longitude": 23.01356,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Trzcianka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.99356,54.29185,23.03356,54.33185",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "اشچیانکا"
     ],
-    "name:bul_x_preferred":[
-        "\u0422\u0448\u0447\u044f\u043d\u043a\u0430"
+    "name:bul_x_preferred": [
+      "Тшчянка"
     ],
-    "name:csb_x_preferred":[
-        "Trzc\u00f3nka"
+    "name:csb_x_preferred": [
+      "Trzcónka"
     ],
-    "name:deu_x_preferred":[
-        "Trzcianka"
+    "name:deu_x_preferred": [
+      "Trzcianka"
     ],
-    "name:epo_x_preferred":[
-        "Trzcianka"
+    "name:epo_x_preferred": [
+      "Trzcianka"
     ],
-    "name:est_x_preferred":[
-        "Trzcianka"
+    "name:est_x_preferred": [
+      "Trzcianka"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u0634\u0686\u06cc\u0627\u0646\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "اشچیانکا"
     ],
-    "name:fra_x_preferred":[
-        "Trzcianka"
+    "name:fra_x_preferred": [
+      "Trzcianka"
     ],
-    "name:jav_x_preferred":[
-        "Trzcianka"
+    "name:jav_x_preferred": [
+      "Trzcianka"
     ],
-    "name:lav_x_preferred":[
-        "T\u0161cjanka"
+    "name:lav_x_preferred": [
+      "Tšcjanka"
     ],
-    "name:msa_x_preferred":[
-        "Trzcianka"
+    "name:msa_x_preferred": [
+      "Trzcianka"
     ],
-    "name:nld_x_preferred":[
-        "Trzcianka"
+    "name:nld_x_preferred": [
+      "Trzcianka"
     ],
-    "name:pol_x_preferred":[
-        "Trzcianka"
+    "name:pol_x_preferred": [
+      "Trzcianka"
     ],
-    "name:por_x_preferred":[
-        "Trzcianka"
+    "name:por_x_preferred": [
+      "Trzcianka"
     ],
-    "name:ron_x_preferred":[
-        "Trzcianka"
+    "name:ron_x_preferred": [
+      "Trzcianka"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u0448\u0446\u044f\u043d\u043a\u0430"
+    "name:rus_x_preferred": [
+      "Тшцянка"
     ],
-    "name:slk_x_preferred":[
-        "Trzcianka"
+    "name:slk_x_preferred": [
+      "Trzcianka"
     ],
-    "name:srp_x_preferred":[
-        "\u0422\u0448\u045b\u0430\u043d\u043a\u0430"
+    "name:srp_x_preferred": [
+      "Тшћанка"
     ],
-    "name:swe_x_preferred":[
-        "Trzcianka"
+    "name:swe_x_preferred": [
+      "Trzcianka"
     ],
-    "name:tgl_x_preferred":[
-        "Trzcianka"
+    "name:tgl_x_preferred": [
+      "Trzcianka"
     ],
-    "name:ukr_x_preferred":[
-        "\u0422\u0448\u0446\u044f\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Тшцянка"
     ],
-    "name:urd_x_preferred":[
-        "\u0686\u0686\u0627\u0646\u06a9\u0627"
+    "name:urd_x_preferred": [
+      "چچانکا"
     ],
-    "name:vie_x_preferred":[
-        "Trzcianka"
+    "name:vie_x_preferred": [
+      "Trzcianka"
     ],
-    "name:zho_x_preferred":[
-        "\u5947\u5f37\u5361"
+    "name:zho_x_preferred": [
+      "奇強卡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477752329,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":756720
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477752329,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 756720,
+      "pl-gugik:jpt_kod_je": "201206_2.0023"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"46376bc88cd352c2afd1635085b7e123",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477752329,
-            "locality_id":1209842155,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "d58aa36b386991cfee1d679a6acbaf24",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477752329,
+        "locality_id": 1209842155,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1209842155,
-    "wof:lastmodified":1570020796,
-    "wof:name":"Trzcianka",
-    "wof:parent_id":1477752329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209842155,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Trzcianka",
+    "wof:parent_id": 1477752329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    23.01356,
-    54.31185,
-    23.01356,
-    54.31185
-],
-  "geometry": {"coordinates":[23.01356,54.31185],"type":"Point"}
+    22.99656796404533,
+    54.30464521901815,
+    23.024864331044054,
+    54.326013025021716
+  ],
+  "geometry": {"coordinates":[[[23.009401,54.325601],[23.009722,54.325275],[23.010434,54.324549],[23.010822,54.324167],[23.01145,54.323542],[23.011485,54.323507],[23.011522,54.32347],[23.012703,54.32229],[23.012712,54.322282],[23.01381,54.321176],[23.014081,54.320751],[23.014401,54.320274],[23.014813,54.31966],[23.014835,54.319627],[23.015045,54.319313],[23.015561,54.318544],[23.015959,54.31795],[23.016014,54.31787],[23.016203,54.317588],[23.016602,54.316985],[23.01729,54.315947],[23.017292,54.315944],[23.017422,54.315751],[23.017993,54.314905],[23.01801,54.31488],[23.01846,54.314212],[23.018915,54.313534],[23.018997,54.313413],[23.019229,54.313066],[23.019381,54.312839],[23.020036,54.31186],[23.020471,54.311213],[23.020685,54.310881],[23.020853,54.310635],[23.021106,54.310265],[23.021114,54.310253],[23.021122,54.310241],[23.021206,54.310115],[23.02123,54.310078],[23.021618,54.309493],[23.021825,54.309184],[23.021837,54.309167],[23.021974,54.308962],[23.022078,54.308807],[23.022089,54.308791],[23.02245,54.308252],[23.02296,54.307482],[23.023007,54.307412],[23.023453,54.306739],[23.023894,54.306101],[23.023902,54.306089],[23.024047,54.305871],[23.024072,54.305834],[23.024089,54.305808],[23.024118,54.305766],[23.024522,54.305159],[23.024864,54.304645],[23.02482,54.304653],[23.024809,54.304654],[23.023572,54.304858],[23.022976,54.304956],[23.021728,54.305162],[23.021604,54.305183],[23.021519,54.305197],[23.021423,54.305212],[23.021396,54.305217],[23.020478,54.305368],[23.016363,54.306052],[23.013668,54.306506],[23.011307,54.306901],[23.011254,54.30691],[23.011195,54.30692],[23.01116,54.306926],[23.009722,54.307163],[23.00913,54.307263],[23.00859,54.307355],[23.007941,54.307465],[23.007388,54.307559],[23.006782,54.307662],[23.006279,54.307747],[23.005687,54.307848],[23.005049,54.307956],[23.003902,54.309076],[23.00344,54.309525],[23.002831,54.310117],[23.002409,54.310527],[23.002107,54.310854],[23.002006,54.310963],[23.001997,54.310973],[23.001174,54.311791],[23.000875,54.312089],[23.000769,54.312195],[23.000316,54.312647],[23.000163,54.3128],[23.000139,54.312823],[22.999743,54.313219],[22.998993,54.313967],[22.998417,54.314542],[22.998407,54.314551],[22.998327,54.314629],[22.997814,54.315125],[22.997237,54.315704],[22.997139,54.315803],[22.996568,54.316376],[22.99691,54.316636],[22.997609,54.317169],[22.998313,54.317705],[22.99957,54.318644],[22.999878,54.318879],[23.000886,54.319649],[23.001031,54.31976],[23.001525,54.320136],[23.001553,54.320157],[23.001755,54.320311],[23.00246,54.320848],[23.002888,54.321174],[23.003172,54.321393],[23.00405,54.322071],[23.004424,54.322359],[23.005441,54.323137],[23.006138,54.323687],[23.006202,54.323738],[23.006212,54.323745],[23.00622,54.323753],[23.006376,54.323875],[23.007185,54.324475],[23.007863,54.324988],[23.008261,54.325288],[23.00866,54.325614],[23.008991,54.326013],[23.009401,54.325601]]],"type":"Polygon"}
 }

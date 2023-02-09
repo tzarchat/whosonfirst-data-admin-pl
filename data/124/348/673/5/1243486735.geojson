@@ -2,84 +2,88 @@
   "id": 1243486735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.86652,54.01727,22.86652,54.01727",
-    "geom:latitude":54.01727,
-    "geom:longitude":22.86652,
-    "gn:admin1_code":"81.0",
-    "gn:admin2_code":"2012.0",
-    "gn:admin3_code":"201205.0",
-    "gn:asciiname":"Franciszkowo",
-    "gn:country_code":"PL",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":772478,
-    "gn:latitude":54.01727,
-    "gn:longitude":22.86652,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Franciszkowo",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"22.84652,53.99727,22.88652,54.03727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:lit_x_preferred":[
-        "Franci\u0161kovas"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00013992853748659448,
+    "geom:area_square_m": 1020869.369337853,
+    "geom:bbox": "22.857969733039166,54.01226918801876,22.877938685045432,54.02502309101665",
+    "geom:latitude": 22.868474259251137,
+    "geom:longitude": 54.01878821721146,
+    "gn:admin1_code": "81.0",
+    "gn:admin2_code": "2012.0",
+    "gn:admin3_code": "201205.0",
+    "gn:asciiname": "Franciszkowo",
+    "gn:country_code": "PL",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 772478,
+    "gn:latitude": 54.01727,
+    "gn:longitude": 22.86652,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Franciszkowo",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "22.84652,53.99727,22.88652,54.03727",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:lit_x_preferred": [
+      "Franciškovas"
     ],
-    "name:pol_x_preferred":[
-        "Franciszkowo"
+    "name:pol_x_preferred": [
+      "Franciszkowo"
     ],
-    "name:ukr_x_preferred":[
-        "\u0424\u0440\u0430\u043d\u0446\u0438\u0448\u043a\u043e\u0432\u043e"
+    "name:ukr_x_preferred": [
+      "Францишково"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687283,
-        102191581,
-        1477751527,
-        85633723,
-        102080265
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":772478,
-        "wk:page":"Franciszkowo%2C_Podlaskie_Voivodeship"
+    "wof:belongsto": [
+      85687283,
+      102191581,
+      1477751527,
+      85633723,
+      102080265
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 772478,
+      "pl-gugik:jpt_kod_je": "201205_2.0004",
+      "wk:page": "Franciszkowo%2C_Podlaskie_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"682979de1fb8f7a5522a0368d39ee857",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080265,
-            "localadmin_id":1477751527,
-            "locality_id":1243486735,
-            "region_id":85687283
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "f0f6f2e4cd19c7b04780d3b3d6a6b067",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080265,
+        "localadmin_id": 1477751527,
+        "locality_id": 1243486735,
+        "region_id": 85687283
+      }
     ],
-    "wof:id":1243486735,
-    "wof:lastmodified":1570042311,
-    "wof:name":"Franciszkowo",
-    "wof:parent_id":1477751527,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243486735,
+    "wof:lastmodified": 1675943699,
+    "wof:name": "Franciszkowo",
+    "wof:parent_id": 1477751527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    22.86652,
-    54.01727,
-    22.86652,
-    54.01727
-],
-  "geometry": {"coordinates":[22.86652,54.01727],"type":"Point"}
+    22.857969733039166,
+    54.01226918801876,
+    22.877938685045432,
+    54.02502309101665
+  ],
+  "geometry": {"coordinates":[[[22.87336,54.023381],[22.874188,54.022585],[22.874239,54.022536],[22.875792,54.021067],[22.877287,54.019629],[22.877939,54.019003],[22.876811,54.018574],[22.876616,54.0185],[22.876513,54.018461],[22.87648,54.018449],[22.876293,54.018379],[22.875726,54.018168],[22.874746,54.017804],[22.875687,54.016883],[22.876608,54.015981],[22.876107,54.015792],[22.874885,54.01533],[22.874462,54.015171],[22.873812,54.014925],[22.873644,54.014863],[22.873243,54.014715],[22.872823,54.01456],[22.872462,54.014427],[22.871588,54.014105],[22.871179,54.013952],[22.870769,54.013799],[22.86992,54.013481],[22.86954,54.013339],[22.869173,54.013202],[22.868679,54.013017],[22.868139,54.012815],[22.867917,54.012732],[22.866673,54.012269],[22.865855,54.013021],[22.864997,54.013811],[22.863765,54.014962],[22.863185,54.01549],[22.863152,54.01552],[22.862903,54.015746],[22.862832,54.01581],[22.862743,54.015892],[22.861078,54.017507],[22.860369,54.018183],[22.858801,54.019664],[22.858137,54.020326],[22.85797,54.020493],[22.8593,54.020919],[22.859608,54.021022],[22.860475,54.021311],[22.860515,54.021324],[22.860967,54.021474],[22.861405,54.02162],[22.862242,54.021899],[22.862674,54.022043],[22.863092,54.022183],[22.863956,54.02247],[22.864377,54.02261],[22.864806,54.022752],[22.864982,54.02281],[22.865242,54.022897],[22.866084,54.023176],[22.866509,54.023317],[22.867802,54.023746],[22.868238,54.023891],[22.868994,54.024142],[22.869051,54.024161],[22.869346,54.024259],[22.869916,54.024449],[22.87046,54.024631],[22.870978,54.024804],[22.871634,54.025023],[22.87336,54.023381]]],"type":"Polygon"}
 }

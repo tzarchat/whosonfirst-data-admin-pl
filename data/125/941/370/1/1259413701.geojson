@@ -2,87 +2,91 @@
   "id": 1259413701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.16438,54.21809,20.16438,54.21809",
-    "geom:latitude":54.21809,
-    "geom:longitude":20.16438,
-    "gn:admin1_code":"85.0",
-    "gn:admin2_code":"2802.0",
-    "gn:admin3_code":"280205.0",
-    "gn:asciiname":"Borowiec",
-    "gn:country_code":"PL",
-    "gn:dem":105,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":775487,
-    "gn:latitude":54.21809,
-    "gn:longitude":20.16438,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Borowiec",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"20.14438,54.19809,20.18438,54.23809",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Borowiec"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0003869649968173994,
+    "geom:area_square_m": 2810192.4791641934,
+    "geom:bbox": "20.153564317995002,54.20020283601787,20.18585709100734,54.22134194601982",
+    "geom:latitude": 20.169167227560973,
+    "geom:longitude": 54.21140952368751,
+    "gn:admin1_code": "85.0",
+    "gn:admin2_code": "2802.0",
+    "gn:admin3_code": "280205.0",
+    "gn:asciiname": "Borowiec",
+    "gn:country_code": "PL",
+    "gn:dem": 105,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 775487,
+    "gn:latitude": 54.21809,
+    "gn:longitude": 20.16438,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Borowiec",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "20.14438,54.19809,20.18438,54.23809",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:fra_x_preferred": [
+      "Borowiec"
     ],
-    "name:pol_x_preferred":[
-        "Borowiec"
+    "name:pol_x_preferred": [
+      "Borowiec"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u0440\u043e\u0432\u0435\u0446\u044c"
+    "name:ukr_x_preferred": [
+      "Боровець"
     ],
-    "name:und_x_variant":[
-        "Borwalde"
+    "name:und_x_variant": [
+      "Borwalde"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687305,
-        102191581,
-        1125388659,
-        85633723,
-        102080237
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":775487,
-        "wk:page":"Borowiec%2C_Warmian-Masurian_Voivodeship"
+    "wof:belongsto": [
+      85687305,
+      102191581,
+      1125388659,
+      85633723,
+      102080237
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 775487,
+      "pl-gugik:jpt_kod_je": "280205_5.0003",
+      "wk:page": "Borowiec%2C_Warmian-Masurian_Voivodeship"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"a40ddead12adb41180f61496ce320f8c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080237,
-            "localadmin_id":1125388659,
-            "locality_id":1259413701,
-            "region_id":85687305
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "89fd52c5a5d8ea6280f78d8ce04bc251",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080237,
+        "localadmin_id": 1125388659,
+        "locality_id": 1259413701,
+        "region_id": 85687305
+      }
     ],
-    "wof:id":1259413701,
-    "wof:lastmodified":1570045920,
-    "wof:name":"Borowiec",
-    "wof:parent_id":1125388659,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259413701,
+    "wof:lastmodified": 1675943701,
+    "wof:name": "Borowiec",
+    "wof:parent_id": 1125388659,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    20.16438,
-    54.21809,
-    20.16438,
-    54.21809
-],
-  "geometry": {"coordinates":[20.16438,54.21809],"type":"Point"}
+    20.153564317995002,
+    54.20020283601787,
+    20.18585709100734,
+    54.22134194601982
+  ],
+  "geometry": {"coordinates":[[[20.155417,54.221003],[20.155603,54.221006],[20.158822,54.221061],[20.158918,54.221063],[20.161623,54.221109],[20.161704,54.221111],[20.162435,54.221123],[20.162736,54.22113],[20.163822,54.221154],[20.164213,54.221164],[20.165067,54.221182],[20.168472,54.221252],[20.16869,54.221256],[20.172436,54.22133],[20.172528,54.221332],[20.172626,54.221334],[20.173018,54.221342],[20.17377,54.219734],[20.17387,54.219517],[20.174066,54.218987],[20.174261,54.21846],[20.174302,54.218329],[20.174561,54.218007],[20.174854,54.217631],[20.175109,54.217304],[20.175345,54.217002],[20.175644,54.216618],[20.17609,54.216046],[20.177421,54.214289],[20.177576,54.214083],[20.178274,54.213055],[20.178921,54.212265],[20.179504,54.211516],[20.179833,54.210925],[20.180245,54.209548],[20.18026,54.209499],[20.180955,54.207179],[20.182394,54.205374],[20.183642,54.20414],[20.184057,54.203418],[20.184411,54.203173],[20.185216,54.202739],[20.185857,54.20231],[20.184451,54.202137],[20.183521,54.20203],[20.179336,54.20155],[20.176847,54.20114],[20.175442,54.201069],[20.174111,54.200888],[20.173958,54.200959],[20.173228,54.20087],[20.17102,54.200651],[20.167183,54.200203],[20.166685,54.200968],[20.165819,54.201906],[20.164984,54.203011],[20.166506,54.203185],[20.166384,54.203454],[20.166004,54.204371],[20.165628,54.205219],[20.165056,54.206955],[20.163592,54.208171],[20.163102,54.209331],[20.161212,54.2082],[20.159602,54.209952],[20.159457,54.21011],[20.159034,54.210703],[20.158708,54.21116],[20.158509,54.211438],[20.157824,54.212117],[20.15774,54.212199],[20.1573,54.212572],[20.157126,54.21272],[20.156842,54.213304],[20.156701,54.213594],[20.156329,54.214357],[20.156022,54.215045],[20.155836,54.215462],[20.155797,54.215549],[20.155237,54.216803],[20.154831,54.217793],[20.154759,54.217979],[20.154741,54.21803],[20.154432,54.218772],[20.154424,54.218789],[20.154403,54.218841],[20.154105,54.219557],[20.153564,54.220821],[20.155417,54.221003]]],"type":"Polygon"}
 }

@@ -2,155 +2,159 @@
   "id": 1126008645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"17.7697,51.83981,17.7697,51.83981",
-    "geom:latitude":51.83981,
-    "geom:longitude":17.7697,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":130,
-    "iso:country":"PL",
-    "lbl:bbox":"17.7497,51.81981,17.7897,51.85981",
-    "lbl:latitude":51.83981,
-    "lbl:longitude":17.7697,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:bel_x_preferred":[
-        "\u041b\u044e\u0431\u043e\u043c\u0435\u0436"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0001724811651052673,
+    "geom:area_square_m": 1322676.9681474878,
+    "geom:bbox": "17.758936883004452,51.83145372101729,17.775601648995675,51.84660566101131",
+    "geom:latitude": 17.76840962821004,
+    "geom:longitude": 51.8406897173367,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 130,
+    "iso:country": "PL",
+    "lbl:bbox": "17.7497,51.81981,17.7897,51.85981",
+    "lbl:latitude": 51.83981,
+    "lbl:longitude": 17.7697,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred": [
+      "Любомеж"
     ],
-    "name:ceb_x_preferred":[
-        "Lubomierz"
+    "name:ceb_x_preferred": [
+      "Lubomierz"
     ],
-    "name:ces_x_preferred":[
-        "Lubomierz"
+    "name:ces_x_preferred": [
+      "Lubomierz"
     ],
-    "name:deu_x_preferred":[
-        "Lubomierz"
+    "name:deu_x_preferred": [
+      "Lubomierz"
     ],
-    "name:epo_x_preferred":[
-        "Lubomierz"
+    "name:epo_x_preferred": [
+      "Lubomierz"
     ],
-    "name:fra_x_preferred":[
-        "Lubomierz"
+    "name:fra_x_preferred": [
+      "Lubomierz"
     ],
-    "name:hun_x_preferred":[
-        "Lubomierz"
+    "name:hun_x_preferred": [
+      "Lubomierz"
     ],
-    "name:jav_x_preferred":[
-        "Lubomierz"
+    "name:jav_x_preferred": [
+      "Lubomierz"
     ],
-    "name:lav_x_preferred":[
-        "Lubome\u017ea"
+    "name:lav_x_preferred": [
+      "Lubomeža"
     ],
-    "name:msa_x_preferred":[
-        "Lubomierz"
+    "name:msa_x_preferred": [
+      "Lubomierz"
     ],
-    "name:nld_x_preferred":[
-        "Lubomierz"
+    "name:nld_x_preferred": [
+      "Lubomierz"
     ],
-    "name:pol_x_preferred":[
-        "Lubomierz"
+    "name:pol_x_preferred": [
+      "Lubomierz"
     ],
-    "name:por_x_preferred":[
-        "Lubomierz"
+    "name:por_x_preferred": [
+      "Lubomierz"
     ],
-    "name:ron_x_preferred":[
-        "Lubomierz"
+    "name:ron_x_preferred": [
+      "Lubomierz"
     ],
-    "name:rus_x_preferred":[
-        "\u041b\u044e\u0431\u043e\u043c\u0435\u0436"
+    "name:rus_x_preferred": [
+      "Любомеж"
     ],
-    "name:slk_x_preferred":[
-        "Lubomierz"
+    "name:slk_x_preferred": [
+      "Lubomierz"
     ],
-    "name:srp_x_preferred":[
-        "\u041b\u0443\u0431\u043e\u043c\u0458\u0435\u0436"
+    "name:srp_x_preferred": [
+      "Лубомјеж"
     ],
-    "name:swe_x_preferred":[
-        "Lubomierz"
+    "name:swe_x_preferred": [
+      "Lubomierz"
     ],
-    "name:tha_x_preferred":[
-        "\u0e25\u0e39\u0e1a\u0e2d\u0e21\u0e35\u0e41\u0e22\u0e0a"
+    "name:tha_x_preferred": [
+      "ลูบอมีแยช"
     ],
-    "name:ukr_x_preferred":[
-        "\u041b\u044e\u0431\u043e\u043c\u0435\u0436"
+    "name:ukr_x_preferred": [
+      "Любомеж"
     ],
-    "name:vie_x_preferred":[
-        "Lubomierz"
+    "name:vie_x_preferred": [
+      "Lubomierz"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3092865,
-    "qs_pg:gn_pop":130,
-    "qs_pg:name":"Lubomierz",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":301695,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":505533,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477752441,
-        85633723,
-        102079847
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3092865,
+    "qs_pg:gn_pop": 130,
+    "qs_pg:name": "Lubomierz",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 301695,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 505533,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3092865,
-        "gp:id":505533,
-        "qs_pg:id":301695
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477752441,
+      85633723,
+      102079847
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3092865,
+      "gp:id": 505533,
+      "pl-gugik:jpt_kod_je": "302006_5.0013",
+      "qs_pg:id": 301695
     },
-    "wof:country":"PL",
-    "wof:created":1497300134,
-    "wof:geomhash":"b523e50c56510163c3200beb60383ca9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079847,
-            "localadmin_id":1477752441,
-            "locality_id":1126008645,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497300134,
+    "wof:geomhash": "74148e3f5d1539eee07718bf12d0da00",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079847,
+        "localadmin_id": 1477752441,
+        "locality_id": 1126008645,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126008645,
-    "wof:lastmodified":1570039406,
-    "wof:name":"Lubomierz",
-    "wof:parent_id":1477752441,
-    "wof:placetype":"locality",
-    "wof:population":130,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126008645,
+    "wof:lastmodified": 1675943695,
+    "wof:name": "Lubomierz",
+    "wof:parent_id": 1477752441,
+    "wof:placetype": "locality",
+    "wof:population": 130,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    17.7697,
-    51.83981,
-    17.7697,
-    51.83981
-],
-  "geometry": {"coordinates":[17.7697,51.83981],"type":"Point"}
+    17.758936883004452,
+    51.83145372101729,
+    17.775601648995675,
+    51.84660566101131
+  ],
+  "geometry": {"coordinates":[[[17.758937,51.841452],[17.759003,51.841634],[17.7591,51.8419],[17.75922,51.842227],[17.75931,51.842559],[17.759412,51.842926],[17.759443,51.843113],[17.759489,51.843303],[17.759555,51.843482],[17.75958,51.843603],[17.75963,51.843892],[17.759638,51.843936],[17.759647,51.844],[17.759669,51.84416],[17.759674,51.844187],[17.759724,51.844479],[17.759775,51.844789],[17.759827,51.845104],[17.759876,51.845352],[17.759916,51.845551],[17.759956,51.845751],[17.760001,51.846135],[17.76006,51.84648],[17.760071,51.846543],[17.767054,51.846573],[17.767151,51.846574],[17.774702,51.846606],[17.774709,51.84652],[17.775013,51.845829],[17.775154,51.845471],[17.775168,51.845415],[17.77526,51.845196],[17.775463,51.844557],[17.775527,51.844342],[17.775552,51.844256],[17.775595,51.843956],[17.775602,51.843666],[17.775559,51.843359],[17.775209,51.842574],[17.775159,51.842436],[17.775136,51.84232],[17.775137,51.842206],[17.77525,51.84179],[17.775358,51.841394],[17.775476,51.841018],[17.775499,51.840835],[17.775371,51.840621],[17.775157,51.840264],[17.774957,51.839895],[17.774739,51.839509],[17.774696,51.839448],[17.774518,51.839189],[17.774383,51.838961],[17.774408,51.838647],[17.774411,51.837639],[17.774461,51.837434],[17.774787,51.83671],[17.774973,51.836298],[17.775282,51.835414],[17.775322,51.834993],[17.775336,51.834842],[17.775356,51.834387],[17.775325,51.834056],[17.775305,51.833845],[17.775259,51.833414],[17.775053,51.833018],[17.775035,51.832984],[17.774994,51.832942],[17.774962,51.832869],[17.774919,51.832773],[17.774804,51.832403],[17.774753,51.832237],[17.774696,51.831985],[17.774575,51.831454],[17.774465,51.831509],[17.773991,51.831746],[17.773605,51.831937],[17.773259,51.83211],[17.772281,51.832599],[17.772078,51.832713],[17.769831,51.833827],[17.76978,51.833853],[17.769623,51.833942],[17.768701,51.834395],[17.766196,51.835661],[17.764256,51.836638],[17.764174,51.836698],[17.763524,51.837386],[17.76333,51.837601],[17.762967,51.838004],[17.762752,51.838242],[17.762667,51.838333],[17.76262,51.838362],[17.762557,51.8384],[17.762143,51.838547],[17.76198,51.838598],[17.761921,51.838616],[17.760612,51.839024],[17.760668,51.839475],[17.760763,51.840241],[17.760756,51.840284],[17.760796,51.840598],[17.760813,51.840782],[17.760821,51.840849],[17.760855,51.840985],[17.76086,51.84102],[17.758937,51.841452]]],"type":"Polygon"}
 }

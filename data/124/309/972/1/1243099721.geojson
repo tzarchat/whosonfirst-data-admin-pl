@@ -2,119 +2,123 @@
   "id": 1243099721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.4061,52.04001,16.4061,52.04001",
-    "geom:latitude":52.04001,
-    "geom:longitude":16.4061,
-    "gn:admin1_code":"86.0",
-    "gn:admin2_code":"3029.0",
-    "gn:admin3_code":"302901.0",
-    "gn:asciiname":"Borek",
-    "gn:country_code":"PL",
-    "gn:dem":70,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3102923,
-    "gn:latitude":52.04001,
-    "gn:longitude":16.4061,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Borek",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"16.3861,52.02001,16.4261,52.06001",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Borek"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0002613540460332141,
+    "geom:area_square_m": 1995300.883263708,
+    "geom:bbox": "16.3854623609979,52.03642130201203,16.418350210988113,52.04912992301319",
+    "geom:latitude": 16.401464364313203,
+    "geom:longitude": 52.042268570285124,
+    "gn:admin1_code": "86.0",
+    "gn:admin2_code": "3029.0",
+    "gn:admin3_code": "302901.0",
+    "gn:asciiname": "Borek",
+    "gn:country_code": "PL",
+    "gn:dem": 70,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3102923,
+    "gn:latitude": 52.04001,
+    "gn:longitude": 16.4061,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Borek",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "16.3861,52.02001,16.4261,52.06001",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:ceb_x_preferred": [
+      "Borek"
     ],
-    "name:ces_x_preferred":[
-        "Borek"
+    "name:ces_x_preferred": [
+      "Borek"
     ],
-    "name:deu_x_preferred":[
-        "Borek"
+    "name:deu_x_preferred": [
+      "Borek"
     ],
-    "name:epo_x_preferred":[
-        "Borek"
+    "name:epo_x_preferred": [
+      "Borek"
     ],
-    "name:fra_x_preferred":[
-        "Borek"
+    "name:fra_x_preferred": [
+      "Borek"
     ],
-    "name:ita_x_preferred":[
-        "Borek"
+    "name:ita_x_preferred": [
+      "Borek"
     ],
-    "name:lit_x_preferred":[
-        "Borekas"
+    "name:lit_x_preferred": [
+      "Borekas"
     ],
-    "name:nld_x_preferred":[
-        "Borek"
+    "name:nld_x_preferred": [
+      "Borek"
     ],
-    "name:pol_x_preferred":[
-        "Borek"
+    "name:pol_x_preferred": [
+      "Borek"
     ],
-    "name:por_x_preferred":[
-        "Borek"
+    "name:por_x_preferred": [
+      "Borek"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u043e\u0440\u0435\u043a"
+    "name:rus_x_preferred": [
+      "Борек"
     ],
-    "name:slk_x_preferred":[
-        "Borek"
+    "name:slk_x_preferred": [
+      "Borek"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u043e\u0440\u0435\u043a"
+    "name:srp_x_preferred": [
+      "Борек"
     ],
-    "name:swe_x_preferred":[
-        "Borek"
+    "name:swe_x_preferred": [
+      "Borek"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u043e\u0440\u0435\u043a"
+    "name:ukr_x_preferred": [
+      "Борек"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477752459,
-        85633723,
-        102079867
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3102923
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477752459,
+      85633723,
+      102079867
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3102923,
+      "pl-gugik:jpt_kod_je": "302901_2.0004"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"e2084ad947699fcf7b8e9b2bd01782e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102079867,
-            "localadmin_id":1477752459,
-            "locality_id":1243099721,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "a1ced63b2dfdbd147ce2ee99a2674d1a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102079867,
+        "localadmin_id": 1477752459,
+        "locality_id": 1243099721,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1243099721,
-    "wof:lastmodified":1570040846,
-    "wof:name":"Borek",
-    "wof:parent_id":1477752459,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243099721,
+    "wof:lastmodified": 1675943694,
+    "wof:name": "Borek",
+    "wof:parent_id": 1477752459,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.4061,
-    52.04001,
-    16.4061,
-    52.04001
-],
-  "geometry": {"coordinates":[16.4061,52.04001],"type":"Point"}
+    16.3854623609979,
+    52.03642130201203,
+    16.418350210988113,
+    52.04912992301319
+  ],
+  "geometry": {"coordinates":[[[16.385462,52.038327],[16.385559,52.038513],[16.386118,52.039583],[16.386131,52.03961],[16.386607,52.040528],[16.386937,52.041162],[16.387408,52.0421],[16.387549,52.042383],[16.38905,52.04344],[16.389126,52.043494],[16.390607,52.044548],[16.390648,52.044577],[16.390984,52.044815],[16.391272,52.045019],[16.391957,52.045504],[16.392625,52.045977],[16.393017,52.046256],[16.393283,52.046446],[16.393312,52.046466],[16.393614,52.046682],[16.39513,52.047765],[16.395505,52.047579],[16.395799,52.047433],[16.396021,52.047497],[16.396318,52.047583],[16.396639,52.047676],[16.397264,52.047856],[16.397319,52.047872],[16.397951,52.048054],[16.398038,52.048079],[16.398621,52.048262],[16.398742,52.0483],[16.399612,52.048572],[16.400434,52.04883],[16.400492,52.048848],[16.400526,52.048858],[16.4013,52.049101],[16.401393,52.04913],[16.401439,52.049111],[16.402469,52.048684],[16.402825,52.048537],[16.404264,52.048163],[16.404985,52.047975],[16.405225,52.047913],[16.405375,52.04788],[16.40601,52.047739],[16.406646,52.047598],[16.40741,52.047429],[16.40797,52.047305],[16.410431,52.046517],[16.410548,52.046458],[16.412932,52.04525],[16.413449,52.044988],[16.413488,52.044968],[16.414369,52.044509],[16.414412,52.044487],[16.414465,52.044459],[16.414943,52.044211],[16.415486,52.04391],[16.41579,52.043735],[16.416099,52.043556],[16.41683,52.04313],[16.41835,52.042183],[16.418324,52.042064],[16.41784,52.039843],[16.417778,52.039638],[16.417774,52.039624],[16.417966,52.039631],[16.417915,52.039569],[16.417847,52.039566],[16.416983,52.03953],[16.41324,52.039375],[16.412992,52.039365],[16.41133,52.039303],[16.410557,52.039275],[16.409425,52.039233],[16.40824,52.038817],[16.407262,52.038488],[16.406355,52.03817],[16.405699,52.037938],[16.405555,52.037891],[16.403927,52.037321],[16.402538,52.036858],[16.401583,52.036489],[16.401373,52.03648],[16.401106,52.036469],[16.400939,52.036462],[16.399864,52.036472],[16.39983,52.036471],[16.399807,52.036471],[16.398801,52.036421],[16.397255,52.036642],[16.395224,52.03696],[16.39397,52.037156],[16.393884,52.03717],[16.393865,52.037173],[16.389886,52.03776],[16.386362,52.038308],[16.386324,52.038425],[16.385462,52.038327]]],"type":"Polygon"}
 }

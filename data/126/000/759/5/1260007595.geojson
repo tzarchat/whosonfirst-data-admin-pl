@@ -2,143 +2,147 @@
   "id": 1260007595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.12813,53.58496,18.12813,53.58496",
-    "geom:latitude":53.58496,
-    "geom:longitude":18.12813,
-    "gn:admin1_code":"73.0",
-    "gn:admin2_code":"416.0",
-    "gn:admin3_code":"41601.0",
-    "gn:asciiname":"Zielonka",
-    "gn:country_code":"PL",
-    "gn:dem":117,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":3080159,
-    "gn:latitude":53.58496,
-    "gn:longitude":18.12813,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Zielonka",
-    "gn:population":0,
-    "gn:timezone":"Europe/Warsaw",
-    "iso:country":"PL",
-    "lbl:bbox":"18.10813,53.56496,18.14813,53.60496",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:azb_x_preferred":[
-        "\u0698\u0644\u0648\u0646\u06a9\u0627"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.00034504104563218204,
+    "geom:area_square_m": 2543506.4234917643,
+    "geom:bbox": "18.103606526004302,53.57257515901958,18.142718543996512,53.58723333002221",
+    "geom:latitude": 18.120969024691924,
+    "geom:longitude": 53.5803426999385,
+    "gn:admin1_code": "73.0",
+    "gn:admin2_code": "416.0",
+    "gn:admin3_code": "41601.0",
+    "gn:asciiname": "Zielonka",
+    "gn:country_code": "PL",
+    "gn:dem": 117,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 3080159,
+    "gn:latitude": 53.58496,
+    "gn:longitude": 18.12813,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Zielonka",
+    "gn:population": 0,
+    "gn:timezone": "Europe/Warsaw",
+    "iso:country": "PL",
+    "lbl:bbox": "18.10813,53.56496,18.14813,53.60496",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12,
+    "name:azb_x_preferred": [
+      "ژلونکا"
     ],
-    "name:bul_x_preferred":[
-        "\u0416\u0435\u043b\u044c\u043e\u043d\u043a\u0430"
+    "name:bul_x_preferred": [
+      "Жельонка"
     ],
-    "name:cat_x_preferred":[
-        "Zielonka"
+    "name:cat_x_preferred": [
+      "Zielonka"
     ],
-    "name:deu_x_preferred":[
-        "Zielonka"
+    "name:deu_x_preferred": [
+      "Zielonka"
     ],
-    "name:epo_x_preferred":[
-        "Zielonka"
+    "name:epo_x_preferred": [
+      "Zielonka"
     ],
-    "name:fas_x_preferred":[
-        "\u0698\u0644\u0648\u0646\u06a9\u0627"
+    "name:fas_x_preferred": [
+      "ژلونکا"
     ],
-    "name:fra_x_preferred":[
-        "Zielonka"
+    "name:fra_x_preferred": [
+      "Zielonka"
     ],
-    "name:ita_x_preferred":[
-        "Zielonka"
+    "name:ita_x_preferred": [
+      "Zielonka"
     ],
-    "name:jav_x_preferred":[
-        "Zielonka"
+    "name:jav_x_preferred": [
+      "Zielonka"
     ],
-    "name:lav_x_preferred":[
-        "Zelonka"
+    "name:lav_x_preferred": [
+      "Zelonka"
     ],
-    "name:msa_x_preferred":[
-        "Zielonka"
+    "name:msa_x_preferred": [
+      "Zielonka"
     ],
-    "name:nld_x_preferred":[
-        "Zielonka"
+    "name:nld_x_preferred": [
+      "Zielonka"
     ],
-    "name:pol_x_preferred":[
-        "Zielonka"
+    "name:pol_x_preferred": [
+      "Zielonka"
     ],
-    "name:por_x_preferred":[
-        "Zielonka"
+    "name:por_x_preferred": [
+      "Zielonka"
     ],
-    "name:ron_x_preferred":[
-        "Zielonka"
+    "name:ron_x_preferred": [
+      "Zielonka"
     ],
-    "name:rus_x_preferred":[
-        "\u0417\u0435\u043b\u0451\u043d\u043a\u0430"
+    "name:rus_x_preferred": [
+      "Зелёнка"
     ],
-    "name:slk_x_preferred":[
-        "Zielonka"
+    "name:slk_x_preferred": [
+      "Zielonka"
     ],
-    "name:spa_x_preferred":[
-        "Zielonka"
+    "name:spa_x_preferred": [
+      "Zielonka"
     ],
-    "name:srp_x_preferred":[
-        "\u0417\u0458\u0435\u043b\u043e\u043d\u043a\u0430"
+    "name:srp_x_preferred": [
+      "Зјелонка"
     ],
-    "name:ukr_x_preferred":[
-        "\u0417\u0435\u043b\u044c\u043e\u043d\u043a\u0430"
+    "name:ukr_x_preferred": [
+      "Зельонка"
     ],
-    "name:vie_x_preferred":[
-        "Zielonka"
+    "name:vie_x_preferred": [
+      "Zielonka"
     ],
-    "name:war_x_preferred":[
-        "Zielonka"
+    "name:war_x_preferred": [
+      "Zielonka"
     ],
-    "name:zho_x_preferred":[
-        "\u5091\u9686\u5361"
+    "name:zho_x_preferred": [
+      "傑隆卡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85687319,
-        102191581,
-        1125371001,
-        85633723,
-        102080141
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "geonames"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3080159
+    "wof:belongsto": [
+      85687319,
+      102191581,
+      1125371001,
+      85633723,
+      102080141
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3080159,
+      "pl-gugik:jpt_kod_je": "041601_2.0016"
     },
-    "wof:country":"PL",
-    "wof:geomhash":"eed5f4dbe8d7736c1a69acf4ff59cc14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080141,
-            "localadmin_id":1125371001,
-            "locality_id":1260007595,
-            "region_id":85687319
-        }
+    "wof:country": "PL",
+    "wof:geomhash": "928b30af0056758ca06d493d9a35999f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080141,
+        "localadmin_id": 1125371001,
+        "locality_id": 1260007595,
+        "region_id": 85687319
+      }
     ],
-    "wof:id":1260007595,
-    "wof:lastmodified":1570024827,
-    "wof:name":"Zielonka",
-    "wof:parent_id":1125371001,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260007595,
+    "wof:lastmodified": 1675943696,
+    "wof:name": "Zielonka",
+    "wof:parent_id": 1125371001,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    18.12813,
-    53.58496,
-    18.12813,
-    53.58496
-],
-  "geometry": {"coordinates":[18.12813,53.58496],"type":"Point"}
+    18.103606526004302,
+    53.57257515901958,
+    18.142718543996512,
+    53.58723333002221
+  ],
+  "geometry": {"coordinates":[[[18.103607,53.58477],[18.103646,53.585276],[18.103656,53.585329],[18.103706,53.585858],[18.103699,53.586748],[18.103698,53.58678],[18.105099,53.586583],[18.106855,53.586314],[18.107953,53.586172],[18.108033,53.586162],[18.108459,53.586092],[18.109085,53.586016],[18.109925,53.585886],[18.111272,53.585708],[18.112469,53.585529],[18.112937,53.585459],[18.114425,53.58525],[18.115852,53.585039],[18.116605,53.584928],[18.117267,53.584831],[18.117352,53.584815],[18.118779,53.584598],[18.119613,53.584475],[18.121005,53.584271],[18.121796,53.584155],[18.122837,53.585074],[18.122924,53.585156],[18.123022,53.585234],[18.123048,53.585257],[18.124181,53.586188],[18.124279,53.58627],[18.125014,53.586847],[18.125511,53.587233],[18.127664,53.586549],[18.128458,53.586295],[18.12876,53.586198],[18.129015,53.58611],[18.130006,53.585798],[18.13189,53.585085],[18.131944,53.585065],[18.131967,53.585055],[18.132124,53.584997],[18.133119,53.58462],[18.133798,53.584165],[18.135108,53.583277],[18.135152,53.583244],[18.136502,53.582323],[18.137666,53.581548],[18.13773,53.581507],[18.138292,53.581117],[18.139243,53.580473],[18.139373,53.580371],[18.139445,53.580328],[18.139723,53.580142],[18.140243,53.579794],[18.141673,53.578829],[18.142719,53.578025],[18.14196,53.577441],[18.141454,53.577122],[18.140601,53.5767],[18.140057,53.576483],[18.139973,53.576452],[18.139747,53.576368],[18.138688,53.57638],[18.137629,53.576392],[18.136377,53.576222],[18.136121,53.576188],[18.135552,53.576111],[18.135147,53.576056],[18.135111,53.57557],[18.134147,53.575362],[18.133566,53.575237],[18.133062,53.57523],[18.132513,53.575221],[18.131788,53.57521],[18.131477,53.575208],[18.130464,53.57526],[18.129061,53.575196],[18.128992,53.575201],[18.128874,53.57521],[18.128722,53.575221],[18.128407,53.575239],[18.12799,53.575263],[18.127747,53.575277],[18.127123,53.575459],[18.126736,53.575589],[18.126196,53.57571],[18.125953,53.575777],[18.125316,53.575953],[18.124696,53.576124],[18.123592,53.575928],[18.123064,53.575843],[18.12286,53.575888],[18.122757,53.575903],[18.121963,53.57612],[18.120924,53.575993],[18.12071,53.575968],[18.119151,53.575899],[18.117173,53.575492],[18.116125,53.575273],[18.115587,53.575163],[18.114582,53.575274],[18.113057,53.575329],[18.112454,53.575325],[18.112293,53.575332],[18.111566,53.574809],[18.111177,53.574546],[18.110711,53.574213],[18.110654,53.574182],[18.109532,53.573378],[18.109408,53.57329],[18.108965,53.572945],[18.108865,53.572882],[18.108375,53.572575],[18.107813,53.573499],[18.107202,53.574465],[18.106969,53.574834],[18.106363,53.576103],[18.106309,53.576211],[18.105992,53.576842],[18.10544,53.577944],[18.104903,53.57916],[18.104824,53.579234],[18.104521,53.579867],[18.104096,53.580745],[18.103886,53.581219],[18.103869,53.581459],[18.103796,53.582377],[18.103736,53.582407],[18.103786,53.58243],[18.103732,53.582929],[18.103731,53.58294],[18.103607,53.58477]]],"type":"Polygon"}
 }

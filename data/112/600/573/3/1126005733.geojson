@@ -2,112 +2,116 @@
   "id": 1126005733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"16.85904,53.14301,16.85904,53.14301",
-    "geom:latitude":53.14301,
-    "geom:longitude":16.85904,
-    "gn:country":"PL",
-    "gn:fcode":"PPL",
-    "gn:population":139,
-    "iso:country":"PL",
-    "lbl:bbox":"16.83904,53.12301,16.87904,53.16301",
-    "lbl:latitude":53.14301,
-    "lbl:longitude":16.85904,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:ceb_x_preferred":[
-        "Jeziorki"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0011413593711904289,
+    "geom:area_square_m": 8498845.171932204,
+    "geom:bbox": "16.834708896993785,53.1276273280168,16.880746012990713,53.17123221101466",
+    "geom:latitude": 16.85783078635671,
+    "geom:longitude": 53.14691251755806,
+    "gn:country": "PL",
+    "gn:fcode": "PPL",
+    "gn:population": 139,
+    "iso:country": "PL",
+    "lbl:bbox": "16.83904,53.12301,16.87904,53.16301",
+    "lbl:latitude": 53.14301,
+    "lbl:longitude": 16.85904,
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 13,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 11,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred": [
+      "Jeziorki"
     ],
-    "name:deu_x_preferred":[
-        "Jeziorki"
+    "name:deu_x_preferred": [
+      "Jeziorki"
     ],
-    "name:fra_x_preferred":[
-        "Jeziorki"
+    "name:fra_x_preferred": [
+      "Jeziorki"
     ],
-    "name:lit_x_preferred":[
-        "Jeziorkai"
+    "name:lit_x_preferred": [
+      "Jeziorkai"
     ],
-    "name:pol_x_preferred":[
-        "Jeziorki"
+    "name:pol_x_preferred": [
+      "Jeziorki"
     ],
-    "name:ukr_x_preferred":[
-        "\u0404\u0437\u044c\u043e\u0440\u043a\u0456"
+    "name:ukr_x_preferred": [
+      "Єзьоркі"
     ],
-    "qs_pg:aaroncc":"PL",
-    "qs_pg:gn_country":"PL",
-    "qs_pg:gn_fcode":"PPL",
-    "qs_pg:gn_id":3097170,
-    "qs_pg:gn_pop":139,
-    "qs_pg:name":"Jeziorki",
-    "qs_pg:name_adm0":"Polska",
-    "qs_pg:name_adm1":"Wielkopolskie",
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":2,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":1,
-    "qs_pg:qs_id":1010896,
-    "qs_pg:qs_pg_placetype":"locality",
-    "qs_pg:qs_pg_placetype_gp":"Town",
-    "qs_pg:woe_adm0":23424923,
-    "qs_pg:woe_id":497581,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "src:population":"geonames",
-    "woe:adm0_id":23424923,
-    "woe:name_adm0":"Polska",
-    "woe:name_adm1":"Wielkopolskie",
-    "woe:placetype":"Town",
-    "wof:belongsto":[
-        85687323,
-        102191581,
-        1477751217,
-        85633723,
-        102080065
+    "qs_pg:aaroncc": "PL",
+    "qs_pg:gn_country": "PL",
+    "qs_pg:gn_fcode": "PPL",
+    "qs_pg:gn_id": 3097170,
+    "qs_pg:gn_pop": 139,
+    "qs_pg:name": "Jeziorki",
+    "qs_pg:name_adm0": "Polska",
+    "qs_pg:name_adm1": "Wielkopolskie",
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 2,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 1,
+    "qs_pg:qs_id": 1010896,
+    "qs_pg:qs_pg_placetype": "locality",
+    "qs_pg:qs_pg_placetype_gp": "Town",
+    "qs_pg:woe_adm0": 23424923,
+    "qs_pg:woe_id": 497581,
+    "src:geom": "pl-gugik",
+    "src:geom_alt": [
+      "qs_pg"
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":3097170,
-        "gp:id":497581,
-        "qs_pg:id":1010896
+    "src:lbl_centroid": "qs_pg",
+    "src:population": "geonames",
+    "woe:adm0_id": 23424923,
+    "woe:name_adm0": "Polska",
+    "woe:name_adm1": "Wielkopolskie",
+    "woe:placetype": "Town",
+    "wof:belongsto": [
+      85687323,
+      102191581,
+      1477751217,
+      85633723,
+      102080065
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 3097170,
+      "gp:id": 497581,
+      "pl-gugik:jpt_kod_je": "301903_5.0004",
+      "qs_pg:id": 1010896
     },
-    "wof:country":"PL",
-    "wof:created":1497299935,
-    "wof:geomhash":"c423276dc7b6e67cd17281e4b310730d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633723,
-            "county_id":102080065,
-            "localadmin_id":1477751217,
-            "locality_id":1126005733,
-            "region_id":85687323
-        }
+    "wof:country": "PL",
+    "wof:created": 1497299935,
+    "wof:geomhash": "8aa6626073b8de6ee45d4331e57e1221",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633723,
+        "county_id": 102080065,
+        "localadmin_id": 1477751217,
+        "locality_id": 1126005733,
+        "region_id": 85687323
+      }
     ],
-    "wof:id":1126005733,
-    "wof:lastmodified":1570039133,
-    "wof:name":"Jeziorki",
-    "wof:parent_id":1477751217,
-    "wof:placetype":"locality",
-    "wof:population":139,
-    "wof:population_rank":1,
-    "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1126005733,
+    "wof:lastmodified": 1675943691,
+    "wof:name": "Jeziorki",
+    "wof:parent_id": 1477751217,
+    "wof:placetype": "locality",
+    "wof:population": 139,
+    "wof:population_rank": 1,
+    "wof:repo": "whosonfirst-data-admin-pl",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    16.85904,
-    53.14301,
-    16.85904,
-    53.14301
-],
-  "geometry": {"coordinates":[16.85904,53.14301],"type":"Point"}
+    16.834708896993785,
+    53.1276273280168,
+    16.880746012990713,
+    53.17123221101466
+  ],
+  "geometry": {"coordinates":[[[16.834709,53.131212],[16.834893,53.131573],[16.835905,53.133554],[16.836538,53.134795],[16.838007,53.137659],[16.838056,53.137754],[16.838345,53.138323],[16.838829,53.139273],[16.840068,53.141675],[16.841352,53.144196],[16.841446,53.144379],[16.841763,53.145042],[16.842554,53.146652],[16.842676,53.146895],[16.843056,53.147656],[16.843603,53.148749],[16.844115,53.149764],[16.844307,53.150148],[16.844346,53.150859],[16.844373,53.150925],[16.844461,53.151136],[16.844833,53.151984],[16.844942,53.152221],[16.845803,53.154098],[16.845943,53.154403],[16.84655,53.155717],[16.847097,53.156908],[16.847222,53.157182],[16.84784,53.158532],[16.848508,53.159997],[16.84944,53.161943],[16.849715,53.162528],[16.850196,53.163563],[16.850965,53.165204],[16.851738,53.166845],[16.852211,53.167843],[16.852515,53.168484],[16.852925,53.169343],[16.85403,53.169517],[16.855081,53.169683],[16.856848,53.169962],[16.859577,53.170386],[16.860954,53.1706],[16.863066,53.170941],[16.864873,53.171221],[16.864943,53.171232],[16.865816,53.16914],[16.866331,53.16785],[16.867005,53.166257],[16.867642,53.164738],[16.867645,53.164732],[16.867957,53.163988],[16.868708,53.162225],[16.869635,53.160051],[16.870448,53.158186],[16.870461,53.158156],[16.87069,53.157566],[16.870783,53.157205],[16.870787,53.157046],[16.870705,53.156984],[16.871071,53.156674],[16.871218,53.156284],[16.872168,53.153937],[16.872594,53.152829],[16.872852,53.152155],[16.872993,53.152147],[16.8743,53.152115],[16.875138,53.152507],[16.876861,53.151305],[16.878434,53.152066],[16.879003,53.152477],[16.879045,53.152382],[16.879055,53.152358],[16.879057,53.152353],[16.880746,53.148443],[16.880393,53.148048],[16.88006,53.147602],[16.879287,53.146955],[16.878963,53.146753],[16.878394,53.146397],[16.877793,53.146045],[16.87644,53.145253],[16.875412,53.144631],[16.875287,53.144542],[16.874781,53.144182],[16.874609,53.144065],[16.874448,53.143964],[16.873489,53.143378],[16.872406,53.14244],[16.87118,53.141334],[16.870822,53.141195],[16.869467,53.139204],[16.869063,53.138609],[16.869116,53.138372],[16.869315,53.137485],[16.869498,53.137315],[16.869836,53.137],[16.870033,53.136816],[16.871516,53.136111],[16.872905,53.135544],[16.872814,53.135411],[16.872259,53.13461],[16.871593,53.134098],[16.873186,53.13332],[16.872135,53.132321],[16.871405,53.131436],[16.869811,53.131316],[16.869359,53.131193],[16.868897,53.131067],[16.868634,53.129907],[16.86808,53.128113],[16.867957,53.127627],[16.862413,53.128219],[16.856949,53.128826],[16.851427,53.129412],[16.84598,53.129989],[16.840487,53.130584],[16.834709,53.131212]]],"type":"Polygon"}
 }
